@@ -1,0 +1,101 @@
+name: Daily clinical digest
+on:
+  schedule:
+    - cron: '17 23 * * *' # 08:17 next day, Asia/Seoul
+  workflow_dispatch:
+    inputs:
+      collect_only:
+        description: 'Only collect metadata (no OpenAI charge)'
+        type: boolean
+        default: false
+      max_ai_papers:
+        description: 'Daily AI paper limit for this run (blank uses repository setting)'
+        type: string
+        default: ''
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: clinical-digest-publish
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    outputs:
+      update_outcome: ${{ steps.update.outcome }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python -m unittest discover -s tests -v
+      - run: node --test tests/frontend.test.mjs
+      - name: Collect and analyze new papers
+        id: update
+        continue-on-error: true
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
+          MAX_AI_PAPERS: ${{ inputs.max_ai_papers || vars.MAX_AI_PAPERS || '12' }}
+          MAX_INPUT_CHARS: ${{ vars.MAX_INPUT_CHARS || '120000' }}
+          MAX_OUTPUT_TOKENS: ${{ vars.MAX_OUTPUT_TOKENS || '4800' }}
+          USE_FULL_TEXT: ${{ vars.USE_FULL_TEXT || 'true' }}
+          COLLECT_ONLY: ${{ inputs.collect_only }}
+        shell: bash
+        run: |
+          if [ "$COLLECT_ONLY" = "true" ]; then
+            python -m digest.pipeline --collect-only
+          else
+            python -m digest.pipeline
+          fi
+      - name: Persist checkpoints even after partial API failure
+        if: always() && steps.update.outcome != 'skipped'
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/state.json data/papers.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update veterinary clinical digest'
+            git push
+          fi
+      - name: Build validated static site
+        run: python -m digest.build
+      - name: Run summary
+        if: always()
+        run: python -m digest.report
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: collection-health
+          path: data/last_run.json
+          if-no-files-found: ignore
+          retention-days: 14
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy refreshed digest
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Report unsuccessful collection or missing configuration
+        if: needs.update.outputs.update_outcome == 'failure'
+        run: |
+          echo 'Collection/analysis requires attention. Existing valid papers were preserved; see update logs.'
+          exit 1

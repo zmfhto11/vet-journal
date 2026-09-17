@@ -1,0 +1,62 @@
+name: Install automation source
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: clinical-digest-publish
+  cancel-in-progress: false
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Restore reviewed source bundle
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          archive=Path('automation-source.zip')
+          if archive.exists():
+              root=Path.cwd().resolve()
+              with ZipFile(archive) as z:
+                  for info in z.infolist():
+                      dest=(root/info.filename).resolve()
+                      if not dest.is_relative_to(root) or info.filename.startswith(('.github/','.git/')):
+                          raise ValueError('Unexpected archive path')
+                  z.extractall(root)
+          PY
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - run: node --test tests/frontend.test.mjs
+      - run: python -m digest.build
+      - name: Save source and retain data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add config digest web tests docs README.md requirements.txt .gitignore .env.example data/state.json
+          if git ls-files --error-unmatch automation-source.zip >/dev/null 2>&1; then
+            git rm automation-source.zip
+          fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'Install reviewed collection and analysis source'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4
+        id: deployment
