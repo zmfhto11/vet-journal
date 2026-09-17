@@ -1,1 +1,26 @@
-{"version":1,"mode":"live","papers":[],"health":{"status":"setup_required"},"last_successful_collection":null}
+{
+  "version": 1,
+  "generated_at": "2026-09-17T05:57:53.405738+00:00",
+  "last_successful_collection": "2026-09-17T05:56:58.259449Z",
+  "mode": "live",
+  "papers": [],
+  "health": {
+    "status": "ok",
+    "sources": {
+      "pubmed": {
+        "status": "ok",
+        "received": 556
+      },
+      "europe_pmc": {
+        "status": "ok",
+        "received": 897
+      }
+    },
+    "started_at": "2026-09-17T05:56:58.259490+00:00",
+    "since": "2026-08-03",
+    "processed": 0,
+    "failed": 0,
+    "deferred": 0,
+    "finished_at": "2026-09-17T05:57:53.347026+00:00"
+  }
+}
