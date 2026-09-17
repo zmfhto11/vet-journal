@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T05:57:53.405738+00:00",
-  "last_successful_collection": "2026-09-17T05:56:58.259449Z",
+  "generated_at": "2026-09-17T06:03:24.181130+00:00",
+  "last_successful_collection": "2026-09-17T06:02:09.376755Z",
   "mode": "live",
   "papers": [],
   "health": {
-    "status": "ok",
+    "status": "partial",
     "sources": {
       "pubmed": {
         "status": "ok",
@@ -16,11 +16,11 @@
         "received": 897
       }
     },
-    "started_at": "2026-09-17T05:56:58.259490+00:00",
+    "started_at": "2026-09-17T06:02:09.376796+00:00",
     "since": "2026-08-03",
     "processed": 0,
-    "failed": 0,
-    "deferred": 0,
-    "finished_at": "2026-09-17T05:57:53.347026+00:00"
+    "failed": 2,
+    "deferred": 898,
+    "finished_at": "2026-09-17T06:03:24.133864+00:00"
   }
 }
