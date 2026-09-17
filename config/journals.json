@@ -1,0 +1,12 @@
+{
+  "journals": [
+    {"id":"vetsurg","name":"Veterinary Surgery","short":"Veterinary Surgery","issns":["0161-3499","1532-950X"],"aliases":["Vet Surg"],"enabled":true,"feeds":[]},
+    {"id":"vcot","name":"Veterinary and Comparative Orthopaedics and Traumatology","short":"VCOT","issns":["0932-0814","1439-0345"],"aliases":["Vet Comp Orthop Traumatol"],"enabled":true,"feeds":[]},
+    {"id":"jsap","name":"Journal of Small Animal Practice","short":"JSAP","issns":["0022-4510","1748-5827"],"aliases":["J Small Anim Pract"],"enabled":true,"feeds":[]},
+    {"id":"javma","name":"Journal of the American Veterinary Medical Association","short":"JAVMA","issns":["0003-1488","1943-569X"],"aliases":["J Am Vet Med Assoc"],"enabled":true,"feeds":[]},
+    {"id":"jvim","name":"Journal of Veterinary Internal Medicine","short":"JVIM","issns":["0891-6640","1939-1676"],"aliases":["J Vet Intern Med"],"enabled":true,"feeds":[]},
+    {"id":"vco","name":"Veterinary and Comparative Oncology","short":"Veterinary & Comparative Oncology","issns":["1476-5810","1476-5829"],"aliases":["Vet Comp Oncol"],"enabled":true,"feeds":[]},
+    {"id":"jvc","name":"Journal of Veterinary Cardiology","short":"Journal of Veterinary Cardiology","issns":["1760-2734"],"aliases":["J Vet Cardiol"],"enabled":false,"feeds":[]},
+    {"id":"jvecc","name":"Journal of Veterinary Emergency and Critical Care","short":"JVECC","issns":["1479-3261","1476-4431"],"aliases":["J Vet Emerg Crit Care (San Antonio)"],"enabled":false,"feeds":[]}
+  ]
+}

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="개와 고양이의 외과·내과·종양학 최신 임상 논문을 빠르게 읽는 개인용 Veterinary Clinical Journal Digest.">
+  <title>Vet Journal — Clinical Digest</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='9' fill='%231d4275'/%3E%3Cpath d='M9 11l11 20 11-20h-6l-5 11-5-11z' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+<a class="skip" href="#papers">논문 목록으로 건너뛰기</a>
+<header class="masthead"><div class="mast-inner">
+  <a class="brand" href="./" aria-label="Vet Journal 홈"><span class="brand-mark">V<span>J</span></span><span>Vet Journal<small>CLINICAL DIGEST</small></span></a>
+  <div class="edition"><span>SMALL ANIMAL MEDICINE</span><time id="today"></time></div>
+</div></header>
+<div class="page">
+  <section class="intro" aria-label="소개"><div><p class="eyebrow">YOUR DAILY CLINICAL READING</p><h1>진료를 위한, 오늘의 논문.</h1><p class="intro-copy">개와 고양이의 외과 · 내과 · 종양학 연구를 한눈에.</p></div><div class="update-block"><span class="update-label">수집 상태</span><strong id="updated">데이터 확인 중</strong><span>매일 08:17 KST 예약</span></div></section>
+  <nav class="specialties" aria-label="분야"><button data-category="all" class="active" aria-pressed="true">Latest <span id="count-all">0</span></button><button data-category="surgery" aria-pressed="false">Surgery</button><button data-category="internal_medicine" aria-pressed="false">Internal Medicine</button><button data-category="oncology" aria-pressed="false">Oncology</button><button data-category="recommended" aria-pressed="false"><span class="star">☆</span> Recommended</button></nav>
+  <aside class="notice" id="notice" hidden></aside>
+  <div class="workspace">
+    <aside class="filters" aria-label="논문 필터">
+      <div class="filter-heading"><h2>Refine your reading</h2><button class="mobile-filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="filters-form">필터 열기 ＋</button><button class="text-button" id="reset">초기화</button></div>
+      <form id="filters-form">
+        <fieldset><legend>Species</legend><label class="check"><input type="checkbox" name="species" value="dog"><span>Dog</span><span class="species-label">개</span></label><label class="check"><input type="checkbox" name="species" value="cat"><span>Cat</span><span class="species-label">고양이</span></label></fieldset>
+        <label class="field-label" for="journal">Journal</label><select id="journal" name="journal"><option value="">모든 저널</option></select>
+        <label class="field-label" for="design">Study design</label><select id="design" name="design"><option value="">모든 연구 유형</option><option value="randomized_controlled_trial">Randomized controlled trial</option><option value="prospective">Prospective</option><option value="retrospective">Retrospective</option><option value="systematic_review">Systematic review / Meta-analysis</option><option value="case_series">Case series</option><option value="case_report">Case report</option><option value="other">Other</option></select>
+        <fieldset class="evidence-filters"><legend>Evidence source</legend><label class="check"><input type="checkbox" name="evidence" value="full_text"><span>Full-text reviewed</span></label><label class="check"><input type="checkbox" name="evidence" value="abstract"><span>Abstract-based</span></label></fieldset>
+      </form>
+      <div class="reading-note"><span class="note-rule"></span><h3>Read with context</h3><p>연구 결과와 AI의 임상적 해석을 구분합니다. 진료 적용 전 연구 설계와 원문을 확인하세요.</p><div><span class="tiny-star">☆</span> 추천 이유는 별을 눌러 확인할 수 있습니다.</div></div>
+    </aside>
+    <main>
+      <label class="search-box" for="search"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" aria-label="논문 검색" placeholder="논문, 질환, 키워드 검색 — TPLO, lymphoma, CKD…" autocomplete="off"><span class="search-hint">SEARCH</span></label>
+      <section id="picks-section" class="picks" aria-labelledby="picks-title"><div class="section-heading"><h2 id="picks-title"><span class="star">✧</span> Today's Picks</h2><span id="picks-caption">오늘 발견한 추천 논문</span></div><div id="picks-content" class="picks-grid"><p class="empty-inline">논문을 불러오고 있습니다.</p></div></section>
+      <section aria-labelledby="list-title" id="papers"><div class="section-heading list-heading"><div><h2 id="list-title">Latest papers</h2><span id="result-count" role="status" aria-live="polite"></span></div><span class="sort-label">발행일 최신순 ↓</span></div><p class="reading-status" id="reading-status" role="status" aria-live="polite"></p><div id="paper-list" aria-busy="true"><div class="loading">논문 데이터를 불러오는 중…</div></div><button id="load-more" class="load-more" hidden>논문 더 보기</button></section>
+    </main>
+  </div>
+  <footer><span>Vet Journal <span class="footer-dot">/</span> Veterinary Clinical Journal Digest</span><span>PubMed · Europe PMC <span class="footer-dot">/</span> Asia/Seoul</span></footer>
+</div>
+</body></html>
