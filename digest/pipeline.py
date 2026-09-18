@@ -11,7 +11,7 @@ from zoneinfo import ZoneInfo
 from .analyze import Analyzer, BudgetExceeded
 from .models import utcnow
 from .sources import HTTP,APIRequestError,Journals,collect_pubmed,collect_europe,collect_feed,refresh_metadata,full_text,resolve_pmcid
-from .store import Store,atomic_json
+from .store import Store,atomic_json,clearly_lab_only
 
 log=logging.getLogger(__name__)
 KST=ZoneInfo('Asia/Seoul')
@@ -45,8 +45,8 @@ def process_records(store,analyzer,http,journals,collect_only=False):
         store.state.ai_budget_used=0
     analyzer.calls=store.state.ai_budget_used
     # Reserve alternating retry opportunities; recent new papers should not wait behind a backfill.
-    pending=sorted([r for r in store.state.records if r.status=='pending'],key=publication_order,reverse=True)
-    failed=sorted([r for r in store.state.records if r.status=='failed'],key=lambda r:r.last_attempt_at or r.discovered_at)
+    pending=sorted([r for r in store.state.records if r.status=='pending' and not clearly_lab_only(r.metadata)],key=publication_order,reverse=True)
+    failed=sorted([r for r in store.state.records if r.status=='failed' and not clearly_lab_only(r.metadata)],key=lambda r:r.last_attempt_at or r.discovered_at)
     queue=[]
     while pending or failed:
         queue.extend(pending[:3]); del pending[:3]

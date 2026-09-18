@@ -29,6 +29,11 @@ def fallback(m):
     title = re.sub(r'[^\w]','',m.title.casefold())
     return 'title:'+hashlib.sha256((m.journal_id+'|'+title).encode()).hexdigest()[:24]
 
+def clearly_lab_only(m):
+    title=m.title.lower()
+    return (bool(re.search(r'\b(cell[\s-]+lines?|in vitro)\b',title))
+            and not bool(re.search(r'\b(in vivo|patients?|cohort|clinical (?:cases|outcomes|trial))\b',title)))
+
 def merge_metadata(old,new):
     # Prefer PubMed metadata but keep richer abstracts and separate online/print dates.
     values = old.model_dump()
@@ -91,7 +96,7 @@ class Store:
     def export(self,path='data/papers.json',health=None):
         papers=[]
         for r in self.state.records:
-            if r.status!='processed' or r.analysis is None or r.analysis.clinical_relevance=='exclude':
+            if r.status!='processed' or r.analysis is None or r.analysis.clinical_relevance=='exclude' or clearly_lab_only(r.metadata):
                 continue
             meta=r.metadata.model_dump(mode='json',exclude={'abstract','source_id'})
             papers.append({**meta,**r.analysis.model_dump(mode='json'),'id':r.id,'discovered_at':str(r.discovered_at),'evidence_source':r.evidence_source,'evidence_url':r.evidence_url,'summary_generated_at':str(r.summary_generated_at),'analysis_model':r.model})
