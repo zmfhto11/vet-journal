@@ -88,7 +88,8 @@ class ReliabilityTests(unittest.TestCase):
             store=Store(Path(d)/'state.json')
             for v in values:
                 if v['doi'] in bydoi: store.upsert(Metadata.model_validate(v))
-            counts=process_records(store,ReferenceAnalyzer(),None,Journals())
+            with patch('digest.pipeline.refresh_metadata',side_effect=lambda http,m,journals:m):
+                counts=process_records(store,ReferenceAnalyzer(),None,Journals())
             self.assertEqual(counts['processed'],7)
             store.export(Path(d)/'papers.json')
             output=json.loads((Path(d)/'papers.json').read_text(encoding='utf-8'))
