@@ -117,7 +117,7 @@ class Analyzer:
         if self.calls>=self.max_calls:
             raise BudgetExceeded('Daily AI article limit reached')
         self.calls+=1
-        payload={'model':self.model,'store':False,'max_output_tokens':int(os.getenv('MAX_OUTPUT_TOKENS','4800')),'input':[{'role':'system','content':SYSTEM},{'role':'user','content':json.dumps({'title':metadata.title,'evidence_source':evidence_source,'evidence':evidence},ensure_ascii=False)}],'text':{'format':{'type':'json_schema','name':'veterinary_analysis','strict':True,'schema':strict_schema()}}}
+        payload={'model':self.model,'store':False,'max_output_tokens':int(os.getenv('MAX_OUTPUT_TOKENS','4800')),'input':[{'role':'system','content':SYSTEM},{'role':'user','content':json.dumps({'title':metadata.title,'evidence_source':evidence_source,'evidence':evidence},ensure_ascii=False)+'\n\nFinal check: Copy each evidence_quote as a contiguous passage from the evidence. Every numeric value in the overview or clinical takeaway must also appear in a displayed key result, study method, or sample size. Add the source-supported result or remove the number from that prose. Never invent a result to satisfy this check.'}],'text':{'format':{'type':'json_schema','name':'veterinary_analysis','strict':True,'schema':strict_schema()}}}
         # No transport retry for billed calls; an uncertain result is retried on a later run.
         result=self.http.json('https://api.openai.com/v1/responses',body=json.dumps(payload).encode(),headers={'Authorization':'Bearer '+os.environ['OPENAI_API_KEY'],'Content-Type':'application/json'},attempts=1)
         if result.get('status')!='completed':
