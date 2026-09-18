@@ -139,7 +139,14 @@ def process_records(store,analyzer,http,journals,collect_only=False):
         except Exception as exc:
             r.status='failed'
             # Exceptions may include request details; never persist raw exception strings.
-            reason=str(exc) if isinstance(exc,ValueError) and str(exc) in ('missing_abstract','evidence_too_long','journal_unverified') else type(exc).__name__
+            safe_validation_errors = {
+                'missing_abstract', 'evidence_too_long', 'journal_unverified',
+                'Finding quotation is not in evidence', 'Unsupported numeric finding',
+                'Unsupported sample size', 'Unsupported number in summary prose',
+                'Summary number missing from displayed findings',
+                'AI response incomplete', 'AI response refused or missing structured content',
+            }
+            reason=str(exc) if isinstance(exc,ValueError) and str(exc) in safe_validation_errors else type(exc).__name__
             r.last_error=reason
             counts['failed']+=1
             log.warning('stage=analyze id=%s status=failed error=%s',r.id,reason)
