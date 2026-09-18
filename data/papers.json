@@ -1,11 +1,81 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T08:17:04.584481+00:00",
-  "last_successful_collection": "2026-09-18T08:16:16.793555Z",
+  "generated_at": "2026-09-18T08:25:56.733284+00:00",
+  "last_successful_collection": "2026-09-18T08:24:54.857910Z",
   "mode": "live",
-  "papers": [],
+  "papers": [
+    {
+      "title": "Comparative Phenotypic and Molecular Characterisation of Feline Oral Squamous Cell Carcinoma Cell Lines Reveals Marked Biological Heterogeneity.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-09-13",
+      "online_publication_date": "2026-09-13",
+      "publication_date_raw": "2026-Sep-13",
+      "doi": "10.1111/vco.70115",
+      "pmid": "42732994",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70115",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42732994/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 고양이 구강 편평세포암(FOSCC) 세포주들의 생물학적 이질성을 분자 및 표현형적으로 특성화하였다. 이는 고양이 임상 환자에서 종양의 이질성 및 약물 반응성 이해에 간접적인 도움을 줄 수 있으나, 직접적인 환자 임상시험이나 치료 결과 데이터는 포함하지 않아 임상 적용에 제한이 있다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "Feline oral squamous cell carcinoma (FOSCC)",
+      "study_design": "other",
+      "sample_size": 4,
+      "sample_size_quote": "Four FOSCC cell lines were evaluated",
+      "objective": "FOSCC 세포주 4종을 확립 및 특성화하여 종양 이질성과 침습성 차이를 비교 분석하는 것",
+      "study_methods": "고양이 구강 편평세포암 종양에서 유래한 4개의 세포주를 대상으로, 상피세포 특성, 성장속도, 집락 형성 능력, 이동 능력, 약물 감수성을 평가하였다. 상피세포 마커 발현 및 표현형 변이, 미세 형태학적 특성 및 기능적 이동 능력 시험, 표적 및 세포독성 약물에 대한 반응을 비교 분석함으로써 세포주 간의 생물학적 다양성을 조사하였다.",
+      "one_sentence_summary": "본 연구는 고양이 구강 편평세포암에서 유래한 4개의 세포주를 대상으로 상피세포 마커 표현, 성장률, 집락 형성 능력, 이동 능력, 및 약물 감수성을 비교하였다. 모든 세포주는 상피세포 특성을 유지하였으나, cytokeratin-19와 vimentin 발현 차이로 인한 표현형 이질성과 부분적인 상피-중간엽 가소성이 확인되었다. 세포주별로 증식 속도, 배수시간, 집락 형성 능력, 미세 돌기 활동 및 이동 능력에 차이가 있었으며, 약물 감수성도 상이하여 세포주 특이적 내성 및 반응성을 시사하였다. 이러한 결과는 FOSCC 내 종양 기원의 차이가 기능적 특성에 영향을 미침을 나타내며, 다양한 세포주 모델 사용의 중요성을 부각시킨다.",
+      "key_results": [
+        {
+          "result": "네 개의 FOSCC 세포주 모두 상피세포의 특성을 유지했으나, cytokeratin-19와 vimentin의 발현 차이로 인해 표현형적 이질성과 부분적인 상피-중간엽 가소성이 관찰되었다.",
+          "evidence_quote": "All cell lines retained epithelial characteristics, with consistent expression of epithelial markers; however, variation in cytokeratin-19 and vimentin suggested phenotypic heterogeneity and partial epithelial-mesenchymal plasticity."
+        },
+        {
+          "result": "각 세포주는 증식률과 배수시간, 집락 형성 능력에서 차이를 보였다.",
+          "evidence_quote": "The cell lines demonstrated distinct proliferation rates, doubling times, and clonogenic capacities."
+        },
+        {
+          "result": "세포주들은 형태학적으로 주변부의 미세 돌기 활동 정도가 다양하였다.",
+          "evidence_quote": "Morphologically, these cells displayed varying degrees of peripheral filopodial activity."
+        },
+        {
+          "result": "혈청 포함 및 혈청 무첨가 조건 모두에서 세포주의 이동 능력이 크게 달랐다.",
+          "evidence_quote": "Functional assays further revealed substantial migratory capacity under both serum-supplemented and serum-free conditions, with differences across cell lines."
+        },
+        {
+          "result": "표적 및 세포독성 약제에 대한 감수성은 세포주마다 이질적인 반응을 나타내었다.",
+          "evidence_quote": "Chemosensitivity profiling showed heterogeneous responses to targeted and cytotoxic agents, highlighting cell line-specific differences in drug susceptibility and potential intrinsic drug responsiveness."
+        }
+      ],
+      "authors_conclusion": "FOSCC 세포주들은 각각 뚜렷한 생물학적 특성을 갖고 있으며, 관찰된 이질성은 종양 출처가 기능적 행동에 영향을 준다는 점을 보여준다. 또한 다양한 잘 특성화된 세포주 모델을 사용하는 것이 병변 다양성을 더 잘 대표하는 데 중요함을 강조한다.",
+      "clinical_takeaway": "본 연구는 고양이 구강 편평세포암의 분자 및 표현형적 이질성을 명확히 보여준다. 임상적으로 이는 동일 질병 내에서도 종양의 성장속도, 침습성, 약물 반응성이 다를 수 있음을 시사한다. 따라서 환자 맞춤형 진단 및 치료 전략 수립에 있어 종양 특성에 대한 세밀한 평가가 필요함을 뒷받침한다. 다만, 본 연구는 세포주를 이용한 실험실 연구로 직접적인 임상 결과나 치료법 제안에는 한계가 있으므로 임상 적용 전에 추가 연구가 필요하다.",
+      "limitations": [
+        "요약문만 제공되어 전체 본문에 기재된 세부 방법, 통계 분석, 임상 데이터가 부족하다.",
+        "세포주 모델 연구로, 직접적인 임상 환자 치료 결과를 반영하지 않는다.",
+        "표본 크기가 4개 세포주로 제한적이어서 전체 FOSCC 종양의 이질성을 완전히 대표하지 못할 수 있다.",
+        "후향적 연구 성격이나 무작위 대조군 비교가 아니므로 인과관계 확인에 제한이 있다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70115",
+      "discovered_at": "2026-09-16 01:13:31.967749+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42732994/",
+      "summary_generated_at": "2026-09-18 08:25:55.884049+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    }
+  ],
   "health": {
-    "status": "partial",
+    "status": "ok",
     "sources": {
       "pubmed": {
         "status": "ok",
@@ -16,11 +86,11 @@
         "received": 602
       }
     },
-    "started_at": "2026-09-18T08:16:16.793621+00:00",
+    "started_at": "2026-09-18T08:24:54.857960+00:00",
     "since": "2026-08-04",
-    "processed": 0,
-    "failed": 1,
+    "processed": 1,
+    "failed": 0,
     "deferred": 905,
-    "finished_at": "2026-09-18T08:17:04.527416+00:00"
+    "finished_at": "2026-09-18T08:25:56.671139+00:00"
   }
 }
