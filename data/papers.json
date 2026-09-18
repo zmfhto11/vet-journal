@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T23:21:47.349923+00:00",
-  "last_successful_collection": "2026-09-17T06:02:09.376755Z",
+  "generated_at": "2026-09-18T01:47:25.925330+00:00",
+  "last_successful_collection": "2026-09-18T01:46:57.713245Z",
   "mode": "live",
   "papers": [],
   "health": {
-    "status": "partial",
+    "status": "setup_required",
     "sources": {
       "pubmed": {
-        "status": "failed",
-        "received": 0,
-        "error": "ValueError"
+        "status": "ok",
+        "received": 558
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 899
+        "received": 602
       }
     },
-    "started_at": "2026-09-17T23:21:10.335830+00:00",
-    "since": "2026-08-03",
+    "started_at": "2026-09-18T01:46:57.713298+00:00",
+    "since": "2026-08-04",
     "processed": 0,
-    "failed": 12,
-    "deferred": 889,
-    "finished_at": "2026-09-17T23:21:47.291851+00:00"
+    "failed": 1,
+    "deferred": 902,
+    "api_error": "openai_http_401_invalid_api_key",
+    "finished_at": "2026-09-18T01:47:25.857391+00:00"
   }
 }
