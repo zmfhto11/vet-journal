@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T07:50:24.569892+00:00",
-  "last_successful_collection": "2026-09-18T07:49:43.381501Z",
+  "generated_at": "2026-09-18T08:04:51.905862+00:00",
+  "last_successful_collection": "2026-09-18T08:04:11.768108Z",
   "mode": "live",
   "papers": [],
   "health": {
@@ -13,14 +13,14 @@
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 605
+        "received": 602
       }
     },
-    "started_at": "2026-09-18T07:49:43.381555+00:00",
+    "started_at": "2026-09-18T08:04:11.768161+00:00",
     "since": "2026-08-04",
     "processed": 0,
     "failed": 1,
     "deferred": 905,
-    "finished_at": "2026-09-18T07:50:24.508370+00:00"
+    "finished_at": "2026-09-18T08:04:51.848325+00:00"
   }
 }
