@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T08:04:51.905862+00:00",
-  "last_successful_collection": "2026-09-18T08:04:11.768108Z",
+  "generated_at": "2026-09-18T08:17:04.584481+00:00",
+  "last_successful_collection": "2026-09-18T08:16:16.793555Z",
   "mode": "live",
   "papers": [],
   "health": {
@@ -16,11 +16,11 @@
         "received": 602
       }
     },
-    "started_at": "2026-09-18T08:04:11.768161+00:00",
+    "started_at": "2026-09-18T08:16:16.793621+00:00",
     "since": "2026-08-04",
     "processed": 0,
     "failed": 1,
     "deferred": 905,
-    "finished_at": "2026-09-18T08:04:51.848325+00:00"
+    "finished_at": "2026-09-18T08:17:04.527416+00:00"
   }
 }
