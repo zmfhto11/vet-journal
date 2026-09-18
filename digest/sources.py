@@ -18,6 +18,17 @@ log = logging.getLogger(__name__)
 NCBI = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/'
 EPMC = 'https://www.ebi.ac.uk/europepmc/webservices/rest/'
 
+class APIRequestError(RuntimeError):
+    """Only allowlisted diagnostics, never a response message or request headers."""
+    def __init__(self, status, code=None):
+        allowed = {'insufficient_quota','invalid_api_key','model_not_found',
+                   'account_deactivated','rate_limit_exceeded','invalid_json_schema',
+                   'invalid_request_error','billing_hard_limit_reached'}
+        self.status = int(status)
+        self.code = code if isinstance(code,str) and code in allowed else 'unknown'
+        self.safe_reason = f'openai_http_{self.status}_{self.code}'
+        super().__init__(self.safe_reason)
+
 class HTTP:
     def __init__(self):
         self.last_ncbi = 0.0
@@ -40,6 +51,13 @@ class HTTP:
                         raise ValueError('Source response too large')
                     return raw
             except urllib.error.HTTPError as exc:
+                if host == 'api.openai.com':
+                    try:
+                        error = json.loads(exc.read(16384)).get('error', {})
+                        code = error.get('code') or error.get('type')
+                    except (ValueError,AttributeError,TypeError,OSError):
+                        code = None
+                    raise APIRequestError(exc.code, code) from None
                 if exc.code not in (408,429,500,502,503,504) or attempt == attempts - 1:
                     raise RuntimeError(f'HTTP {exc.code} at {host}') from None
             except (urllib.error.URLError, TimeoutError, OSError):
@@ -95,6 +113,11 @@ class Journals:
     def match(self, *names):
         return next((self.lookup[self.key(n)] for n in names if self.key(n) in self.lookup), None)
 
+    def match_source(self, names, issns):
+        # An erroneous ISSN must not override a supplied, unrelated journal title.
+        named = [n for n in names if n and n.strip()]
+        return self.match(*named) if named else self.match(*issns)
+
     def pubmed_query(self):
         return '(' + ' OR '.join(f'"{j["issns"][0]}"[ISSN]' for j in self.items) + ')'
 
@@ -120,7 +143,7 @@ def parse_pubmed(raw, journals):
             article = item.find('./MedlineCitation/Article')
             if article is None:
                 continue
-            j = journals.match(article.findtext('./Journal/Title'),article.findtext('./Journal/ISOAbbreviation'),article.findtext('./Journal/ISSN'))
+            j = journals.match_source([article.findtext('./Journal/Title'),article.findtext('./Journal/ISOAbbreviation')], [article.findtext('./Journal/ISSN')])
             if not j:
                 continue
             ids = {n.attrib.get('IdType'):n.text for n in item.findall('./PubmedData/ArticleIdList/ArticleId')}
@@ -145,7 +168,7 @@ def parse_europe(payload, journals):
         try:
             info = item.get('journalInfo',{})
             journal = info.get('journal',{})
-            j = journals.match(journal.get('title'),journal.get('medlineAbbreviation'),journal.get('issn'),journal.get('essn'),item.get('journalTitle'))
+            j = journals.match_source([journal.get('title'),journal.get('medlineAbbreviation'),item.get('journalTitle')], [journal.get('issn'),journal.get('essn')])
             if not j:
                 continue
             doi = maybe_doi(item.get('doi'))

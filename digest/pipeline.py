@@ -4,16 +4,36 @@ import argparse
 import hashlib
 import logging
 import os
+import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from .analyze import Analyzer, BudgetExceeded
 from .models import utcnow
-from .sources import HTTP,Journals,collect_pubmed,collect_europe,collect_feed,refresh_metadata,full_text,resolve_pmcid
+from .sources import HTTP,APIRequestError,Journals,collect_pubmed,collect_europe,collect_feed,refresh_metadata,full_text,resolve_pmcid
 from .store import Store,atomic_json
 
 log=logging.getLogger(__name__)
 KST=ZoneInfo('Asia/Seoul')
+
+def publication_order(record):
+    m=record.metadata
+    known=m.online_publication_date or m.publication_date
+    if known:
+        return known.isoformat()
+    raw=m.publication_date_raw or ''
+    year=re.match(r'^(\d{4})',raw)
+    # This is only a queue key; never manufacture an exact publication date.
+    if year:
+        month=re.search(r'^\d{4}[- ](\d{1,2}|[A-Za-z]{3})',raw)
+        part=month.group(1) if month else ''
+        if part.isdigit():
+            number=int(part)
+        else:
+            names=['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
+            number=names.index(part.lower())+1 if part.lower() in names else 0
+        return f'{year.group(1)}-{number:02d}-00'
+    return '0000-00-00'
 
 def process_records(store,analyzer,http,journals,collect_only=False):
     counts={'processed':0,'failed':0,'deferred':0}
@@ -25,13 +45,13 @@ def process_records(store,analyzer,http,journals,collect_only=False):
         store.state.ai_budget_used=0
     analyzer.calls=store.state.ai_budget_used
     # Reserve alternating retry opportunities; recent new papers should not wait behind a backfill.
-    pending=sorted([r for r in store.state.records if r.status=='pending'],key=lambda r:(r.metadata.online_publication_date or r.metadata.publication_date or r.discovered_at.date()),reverse=True)
+    pending=sorted([r for r in store.state.records if r.status=='pending'],key=publication_order,reverse=True)
     failed=sorted([r for r in store.state.records if r.status=='failed'],key=lambda r:r.last_attempt_at or r.discovered_at)
     queue=[]
     while pending or failed:
         queue.extend(pending[:3]); del pending[:3]
         if failed: queue.append(failed.pop(0))
-    for r in queue:
+    for index,r in enumerate(queue):
         if r.status=='processed' or r not in store.state.records:
             continue
         if r.last_attempt_at and r.last_attempt_at.astimezone(KST).date()==today:
@@ -43,6 +63,16 @@ def process_records(store,analyzer,http,journals,collect_only=False):
         r.last_attempt_at=datetime.now(timezone.utc)
         r.attempts+=1
         try:
+            # Revalidate legacy Europe PMC records against the corrected journal
+            # matcher before spending money; old checkpoints lost the source title.
+            if r.metadata.source=='europe_pmc':
+                refreshed=refresh_metadata(http,r.metadata,journals)
+                if not refreshed:
+                    raise ValueError('journal_unverified')
+                r=store.upsert(refreshed)
+                if r.status=='processed':
+                    store.save()
+                    continue
             if not r.metadata.abstract:
                 try:
                     refreshed=refresh_metadata(http,r.metadata,journals)
@@ -97,10 +127,19 @@ def process_records(store,analyzer,http,journals,collect_only=False):
             r.attempts-=1
             counts['deferred']+=1
             break
+        except APIRequestError as exc:
+            r.status='failed'
+            r.last_error=exc.safe_reason
+            counts['failed']+=1
+            counts['api_error']=exc.safe_reason
+            counts['deferred']+=len(queue)-index-1
+            log.error('stage=analyze status=blocked error=%s remaining_requests_stopped=true',exc.safe_reason)
+            store.save()
+            break
         except Exception as exc:
             r.status='failed'
             # Exceptions may include request details; never persist raw exception strings.
-            reason=str(exc) if isinstance(exc,ValueError) and str(exc) in ('missing_abstract','evidence_too_long') else type(exc).__name__
+            reason=str(exc) if isinstance(exc,ValueError) and str(exc) in ('missing_abstract','evidence_too_long','journal_unverified') else type(exc).__name__
             r.last_error=reason
             counts['failed']+=1
             log.warning('stage=analyze id=%s status=failed error=%s',r.id,reason)
@@ -158,6 +197,8 @@ def run(data_dir='data',collect_only=False,days=None):
         analyzer=Analyzer(http,max(0,int(os.getenv('MAX_AI_PAPERS','12'))))
         counts=process_records(store,analyzer,http,journals,collect_only)
     health.update(counts)
+    if counts.get('api_error'):
+        health['status']='setup_required'
     if counts['failed'] and health['status']=='ok':
         health['status']='partial'
     health['finished_at']=utcnow()
