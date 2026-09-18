@@ -1,27 +1,238 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T08:30:54.504493+00:00",
-  "last_successful_collection": "2026-09-18T08:24:54.857910Z",
+  "generated_at": "2026-09-18T23:26:53.355766+00:00",
+  "last_successful_collection": "2026-09-18T23:23:59.530631Z",
   "mode": "live",
-  "papers": [],
+  "papers": [
+    {
+      "title": "Skeletal modifications after transpelvic urethrostomy as treatment for urethral stricture in a three-month-old cat.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-09-09",
+      "online_publication_date": "2026-09-09",
+      "publication_date_raw": "2026-Sep-09",
+      "doi": "10.1111/vsu.70154",
+      "pmid": "42717639",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70154",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42717639/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 3개월령의 미성숙 고양이에서 발생한 골반 내 요도 파열 및 협착에 대해 transpelvic urethrostomy(TPU)를 시행한 후 골반 변형과 장기적 기능 예후를 직접적으로 다룬 증례 보고이므로, 소유 환자인 고양이 임상에 직접적으로 관련있다.",
+      "primary_category": "surgery",
+      "tags": [
+        "soft_tissue_surgery",
+        "orthopedics"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "transpelvic urethrostomy 후 골반 변형 및 기능 예후",
+      "study_design": "case_report",
+      "sample_size": 1,
+      "sample_size_quote": "One 3-month-old male domestic short-haired cat",
+      "objective": "3개월령 고양이에서 반복적 요도 카테터 삽입 후 발생한 골반 내 요도 파열과 협착에 대해 TPU 시술 후 양측 좌골 결절의 외측 변위 발생 및 장기적 임상적 결과를 기술함.",
+      "study_methods": "3개월령 고양이에서 반복적 요도 카테터 삽입에 의한 골반 내 요도 파열 후 보존적 치료 및 회음부 요도 개구술 실패 사례에서 구제적 수술로 TPU를 시행함. 수술 후 3년간 신체검사, 방사선촬영, CT촬영, 정형외과 평가 및 주인 작성 기능 설문지를 통해 경과를 관찰함.",
+      "one_sentence_summary": "한 마리 3개월령 수컷 고양이에서 반복적 요도 카테터 삽입에 의한 골반 내 요도 파열에 대해 TPU를 시행하였다. 12시간 내 자발적 배뇨를 회복하고 이후 요도 폐쇄 없이 대소변 조절이 유지되었다. 2개월 차 방사선 촬영에서 좌골 결절의 양측 외측 변위와 골반 폭 증가가 관찰되었고, 3년 후 CT에서는 골반과 고관절의 골형태 변화가 지속되었으나 FMPI 2/72, ADS 0.75/16으로 근골격계 통증과 기능적 장애는 경미하였다.",
+      "key_results": [
+        {
+          "result": "수술 12시간 내 자발적 배뇨 회복 및 요도 기능 유지",
+          "evidence_quote": "The cat regained voluntary urination within 12 h postoperatively and remained continent."
+        },
+        {
+          "result": "2개월 차 방사선검사에서 좌골 결절 양측 외측 변위 및 골반 폭 측정치 증가(이리악 날개 46.2 mm, 좌골 결절 55.7 mm, 골반 길이 79.6 mm)",
+          "evidence_quote": "Follow-up radiographs at 2 months revealed bilateral lateral displacement of the ischial tuberosities, with pelvic width measuring 46.2 mm at the iliac wings and 55.7 mm at the ischial tuberosities, compared with a pelvic length of 79.6 mm."
+        },
+        {
+          "result": "3년 후 CT에서 고관절 배측 경사각 16.9°-18.1°, 전상자세각 45° 관찰",
+          "evidence_quote": "At 3 years, CT measurements showed dorsal acetabular rim angles of 16.9°-18.1° and an acetabular angle of 45°."
+        },
+        {
+          "result": "장기간 기능 평가에서 근골격계 통증 최소화(FMPI 2/72), 기능 장애 경미(ADS 0.75/16), 운동 기능 보존됨",
+          "evidence_quote": "Functional assessment demonstrated minimal musculoskeletal pain (feline musculoskeletal pain index [FMPI] = 2/72) and negligible disability (average disability score [ADS] = 0.75/16), with preserved locomotor function."
+        }
+      ],
+      "authors_conclusion": "TPU는 골격 미성숙 고양이에서 골반 내 요도 파열 치료에 실현 가능하고 효과적인 수술적 선택지이다. 골반의 형태학적 변화는 발생할 수 있으나, 본 증례에서는 기능적 손상과 연관되지 않아 선택된 소아 고양이에서 구제적 절차로서 TPU의 가능성을 시사한다.",
+      "clinical_takeaway": "3개월령 미성숙 고양이에서 반복적 요도 카테터로 인한 골반 내 요도 파열과 협착에 대해 TPU를 시행하면, 수술 후 골반 골격의 변형이 발생할 수 있으나 장기적으로 통증과 기능장애 없이 배뇨가 가능함을 본 증례가 보여준다. 이는 유사한 미성숙 환자의 구제술로서 TPU 고려 시, 골반 형태 변화에 따른 기능상 문제 가능성을 반드시 평가하되, 큰 기능적 손상이 없을 수도 있음을 시사한다. 그러나 단일 증례임을 감안할 때 모든 경우에 일반화하기 어려우며 후속 연구가 필요하다.",
+      "limitations": [
+        "단일 증례 보고로 일반화 제한적임",
+        "후향적 기술 및 무조절 증례",
+        "장기 추적은 있으나 기능 장애에 대한 객관적 대규모 평가 부족",
+        "초록 기반 정보만 제공됨"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vsu.70154",
+      "discovered_at": "2026-09-16 01:13:31.967749+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42717639/",
+      "summary_generated_at": "2026-09-18 23:24:52.400363+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Intraoperative cholangiography during open cholecystectomy in 73 dogs with benign gallbladder disease.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-09-09",
+      "online_publication_date": "2026-09-09",
+      "publication_date_raw": "2026-Sep-09",
+      "doi": "10.1111/vsu.70157",
+      "pmid": "42717636",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70157",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42717636/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 담낭염 또는 양성 담낭질환으로 오픈 담낭절제술을 받은 반려견 73마리를 대상으로 하여 수술 중 내시경 담관조영술(IOC)의 적용과 단기 임상 결과를 조사함으로써 임상 의미가 직접적임.",
+      "primary_category": "surgery",
+      "tags": [
+        "internal_medicine",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "benign gallbladder disease with common bile duct obstruction",
+      "study_design": "retrospective",
+      "sample_size": 73,
+      "sample_size_quote": "A total of 73 client-owned dogs.",
+      "objective": "오픈 담낭절제술 중 내시경 담관조영술(IOC)의 유용성을 평가하고, 수술 전 총담관(CBD) 폐색이 의심되는 증례를 포함하여 단기적인 임상 결과를 기술하고자 함.",
+      "study_methods": "2014년부터 2022년까지 73마리의 반려견 의무기록을 후향적으로 검토하였다. 모든 개는 오픈 담낭절제술, 생리식염수를 이용한 담관 세척(BDF), 그리고 subtractive fluoroscopy 기반의 IOC를 시행받았다. 담관조영 영상에서 총담관 완전 폐색(십이지장으로 조영제가 통과하지 않는 상태), 부분 폐색(잔류 이물 질환에 의한 충만 결손), 및 간관 내 충만 결손 여부를 평가하였다. 수술 전후 14일까지의 사망률과 퇴원 후 3개월간의 임상 추적 결과를 기록하였다.",
+      "one_sentence_summary": "73마리의 반려견을 대상으로 오픈 담낭절제술과 함께 내시경 담관조영술(IOC)을 시행하고, 총담관 폐색 여부와 담관 내 잔류 이물 질환 유무를 평가하였다. 총 72마리에서 IOC 평가가 가능했으며, 9마리(12.5%)는 총담관 완전 폐색, 15마리(20.8%)는 부분 폐색 소견을 보였다. 시술 관련 부작용으로 조영제 관련 쇼크가 1예 발생하였고, 수술 전 황달 증상이 있었던 44마리 중 5마리가 수술 후 14일 이내 사망하였다(11.4%). 퇴원 후 3개월간의 추적 관찰에서는 추가 사망이 없었다.",
+      "key_results": [
+        {
+          "result": "내시경 담관조영술은 73마리 중 72마리에서 평가 가능했으며, 1마리는 카테터 천공으로 평가가 불가했다.",
+          "evidence_quote": "IOC was evaluable in 72 of 73 dogs; assessment was precluded by catheter perforation in one dog."
+        },
+        {
+          "result": "총담관 완전 폐색은 12.5% (9/72)에서 확인되었다.",
+          "evidence_quote": "Complete CBD obstruction was identified in 12.5% (9/72)."
+        },
+        {
+          "result": "부분 폐색은 20.8% (15/72)에서 나타났으며, 이 중 4마리는 조영제 주입 시 간헐적 폐색이 발생했다.",
+          "evidence_quote": "Partial obstruction with retained debris occurred in 20.8% (15/72); debris migrated to transiently obstruct the distal CBD during contrast injection in four of 15."
+        },
+        {
+          "result": "간관 내 충만 결손은 10.6% (7/66)에서 관찰되었다.",
+          "evidence_quote": "Among the 66 dogs in which IOC opacified the right and left hepatic ducts, seven (10.6%) had filling defects in the hepatic ducts."
+        },
+        {
+          "result": "조영제 관련 의심 쇼크는 1예 있었으나 치료 후 호전되었다.",
+          "evidence_quote": "One dog developed suspected contrast-associated shock that resolved with treatment."
+        },
+        {
+          "result": "전 군집 기준 perioperative mortality는 6.8% (5/73)였으며, 황달 없는 군에서는 0%, 황달 있는 군에서는 11.4% (5/44)였다.",
+          "evidence_quote": "Perioperative mortality was 6.8% (5/73) in the total cohort; 0% (0/29) in dogs without jaundice, and 11.4% (5/44) in dogs with jaundice."
+        },
+        {
+          "result": "퇴원 후 3개월 동안 61마리 추적 관찰 중 사망은 발생하지 않았다.",
+          "evidence_quote": "Among 61 dogs with follow-up, no deaths occurred within 3 months."
+        }
+      ],
+      "authors_conclusion": "오픈 담낭절제술 중 내시경 담관조영술은 잔류 이물 및 기타 담도 이상을 자주 발견할 수 있었으며, 전통적 담관 세척술에 도움을 주는 유용한 보조법으로 평가된다. 특히 수술 전 총담관 폐색이 의심될 때 임상 결과 개선에 기여할 수 있다.",
+      "clinical_takeaway": "수술 중 내시경 담관조영술(IOC)은 반려견의 오픈 담낭절제술 시 총담관 및 간관 내 잔류 이물이나 폐색 여부를 정확히 진단하는 데에 유용하다. 이 방법은 담관 세척술과 병행하여 술 후 담관 내 문제로 인한 합병증 위험을 줄이고, 특히 황달 등으로 전형적인 폐색이 의심되는 환자에서 수술 결과를 향상시킬 가능성이 있다. 다만, 본 연구는 후향적이며, 일부 시술 관련 합병증(예: 조영제 관련 쇼크) 가능성과 제한된 사망률 데이터 해석에 주의가 필요하다. 따라서 일선 임상에서는 IOC를 보조적 진단 도구로 고려할 수 있으나, 모든 담낭절제술에서 루틴하게 적용할지를 결정하기 위해서는 추가 연구가 필요하다.",
+      "limitations": [
+        "연구가 후향적이며, 무작위 대조군과의 비교가 이루어지지 않았다.",
+        "조영제 관련 부작용 및 세부 중재법에 관한 상세 기술이 부족하다.",
+        "단기(3개월) 추적 관찰만 포함되어 장기 임상 결과는 평가하지 못하였다.",
+        "초록만 제공되어 전체 본문에 기반한 추가 분석이 불가능하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 임상 현장에서 흔히 접하는 담낭 양성 질환 반려견을 대상으로 한 후향적 사례 분석으로, 오픈 담낭절제술 중 IOC의 실질적인 유용성과 안전성 데이터를 제공하여 수술 계획과 합병증 관리에 직접 적용 가능한 정보를 제공한다.",
+      "id": "doi:10.1111/vsu.70157",
+      "discovered_at": "2026-09-16 01:13:31.967749+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42717636/",
+      "summary_generated_at": "2026-09-18 23:25:08.135914+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Electrochemotherapy with interleukin-12 gene electrotransfer can turn local tumor ablation into a systemic antitumor response in veterinary patients.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-08",
+      "online_publication_date": "2026-09-08",
+      "publication_date_raw": "2026-Sep-08",
+      "doi": "10.2460/javma.26.06.0510",
+      "pmid": "42710541",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.06.0510",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42710541/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "The study describes a combined electrochemotherapy and IL-12 gene electrotransfer treatment applied directly to veterinary cancer patients (dogs), showing local control and systemic antitumor effects relevant for clinical oncology.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Electrochemotherapy combined with IL-12 gene electrotransfer for cancer in dogs",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "To evaluate the combined use of electrochemotherapy and IL-12 gene electrotransfer in naturally occurring tumors in dogs to achieve both local tumor control and systemic antitumor immune responses.",
+      "study_methods": "The approach combined electrochemotherapy (ECT), a local tumor ablation technique, with systemic immunomodulation via IL-12 gene electrotransfer, both using electroporation technology. This combined modality was applied to various tumor types in canine patients within veterinary oncology clinical settings. Clinical outcomes and immune responses were measured including local tumor control, distant tumor regression, survival, and peripheral blood CD8+ lymphocyte levels.",
+      "one_sentence_summary": "본 연구는 개 환자에서 다양한 종양 유형에 대해 전기화학요법(ECT)과 IL-12 유전자 전기전달을 결합한 치료법을 적용하여 우수한 국소 종양 억제 뿐만 아니라 전신 항종양 효과를 확인하였다. 치료 세션 후 말초혈액에서 CD8+ 세포의 일시적 증가가 관찰되었으며, 이와 임상적으로 연관된 원격 종양 후퇴와 림프절 전이 감소, 생존기간 연장이 보고되었다. 이는 수의 임상 종양학 분야에서 자연발생 종양을 대상으로 한 전신 면역 활성화의 가능성을 시사한다.",
+      "key_results": [
+        {
+          "result": "본 태크닉이 개에서 다양한 종양에 적용되어 우수한 국소 항종양 효과를 나타냈다.",
+          "evidence_quote": "In veterinary medicine, this combined approach has been successfully applied across various tumor types in dogs, demonstrating excellent local antitumor control"
+        },
+        {
+          "result": "전신 효과로 원격 처리되지 않은 종양과 림프절 전이의 퇴행이 임상적으로 관찰되었다.",
+          "evidence_quote": "clinically associated with prolonged survival, regression of distant untreated tumors and lymph node metastases"
+        },
+        {
+          "result": "종양의 침습성 성장 감소가 보고되었다.",
+          "evidence_quote": "reduced invasive tumor growth"
+        },
+        {
+          "result": "각 치료 세션 후 말초혈액에서 순환하는 CD8+ 세포가 일시적으로 증가하였다.",
+          "evidence_quote": "flow cytometry analysis of peripheral blood demonstrating transient increases in circulating CD8+ cells following each therapeutic session"
+        },
+        {
+          "result": "ECT 단독은 국소 종양 조절에 뛰어나나 미처리 혹은 전이성 질환 조절에는 한계가 있다.",
+          "evidence_quote": "Current evidence indicates that ECT achieves excellent local ablative control of treated tumors; however, its principal limitation is that ECT does not reliably control untreated or metastatic disease."
+        }
+      ],
+      "authors_conclusion": "본 연구는 개의 자연 발생 종양에서 전기화학요법과 IL-12 유전자 전기전달의 병합 요법이 우수한 국소 조절과 함께 잠재적인 전신 면역 반응을 유도할 수 있음을 제시한다. 그러나 적합한 환자 선별을 위한 생체표지자 탐색 등 추가 연구가 필요하다.",
+      "clinical_takeaway": "이 연구는 개에서 전기화학요법(ECT) 단독의 국소 조절 한계를 보완하고 전신적 항종양 면역반응을 유도할 수 있는 IL-12 유전자 전기전달과의 병합요법 가능성을 보여준다. 치료 후 CD8+ 세포 증가 및 원격 종양 퇴행이 관찰되어 면역매개 효과가 시사된다. 따라서, 항암 면역반응 증진을 위해 자연 발생 종양 환자에 대한 전기기반 병합 치료가 고려될 수 있으나, 적합 대상 환자 선정을 위한 추가 연구와 생체표지자 동반이 필수적이다. 기존 ECT 단독 치료를 보완하려는 수의 임상 종양학에 참고할 만하다.",
+      "limitations": [
+        "초록에 근거한 보고로 전임상 설계, 무작위 배정, 대조군 유무, 정확한 샘플 수 등이 명시되지 않아 연구의 정밀 평가가 어렵다.",
+        "생체표지자 후보 탐색과 적합 환자 선별에 관한 추가 연구 필요성을 저자들이 지적하였다.",
+        "결과들은 다양한 종양 유형에 걸쳐 있으나 개별 종양별 효과 분석은 제공되지 않았다.",
+        "임상 결과가 주로 관찰 연구 수준이므로 인과관계 확정에 한계가 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "개에서 자연 발생 종양에 대한 직접 임상 적용 사례이며, 기존 ECT 치료 한계를 보완하는 병합 면역치료법의 가능성을 제시하여 수의 임상에서 활용 가치가 높다.",
+      "id": "doi:10.2460/javma.26.06.0510",
+      "discovered_at": "2026-09-16 01:13:31.968749+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42710541/",
+      "summary_generated_at": "2026-09-18 23:26:33.858399+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    }
+  ],
   "health": {
     "status": "partial",
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 561
+        "received": 562
       },
       "europe_pmc": {
-        "status": "failed",
-        "received": 0,
-        "error": "RuntimeError"
+        "status": "ok",
+        "received": 608
       }
     },
-    "started_at": "2026-09-18T08:30:26.794009+00:00",
+    "started_at": "2026-09-18T23:23:59.530718+00:00",
     "since": "2026-08-04",
-    "processed": 0,
-    "failed": 1,
-    "deferred": 899,
-    "finished_at": "2026-09-18T08:30:54.433246+00:00"
+    "processed": 3,
+    "failed": 21,
+    "deferred": 877,
+    "finished_at": "2026-09-18T23:26:53.296010+00:00"
   }
 }
