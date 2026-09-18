@@ -23,7 +23,9 @@ class APIRequestError(RuntimeError):
     def __init__(self, status, code=None):
         allowed = {'insufficient_quota','invalid_api_key','model_not_found',
                    'account_deactivated','rate_limit_exceeded','invalid_json_schema',
-                   'invalid_request_error','billing_hard_limit_reached'}
+                                      'invalid_request_error','billing_hard_limit_reached',
+                   'credit_balance_exhausted','organization_usage_limit_exceeded',
+                   'organization_spend_limit_exceeded','project_spend_limit_exceeded'}
         self.status = int(status)
         self.code = code if isinstance(code,str) and code in allowed else 'unknown'
         self.safe_reason = f'openai_http_{self.status}_{self.code}'
