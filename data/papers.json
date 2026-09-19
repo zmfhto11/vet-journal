@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T23:26:53.355766+00:00",
-  "last_successful_collection": "2026-09-18T23:23:59.530631Z",
+  "generated_at": "2026-09-19T23:24:50.599475+00:00",
+  "last_successful_collection": "2026-09-19T23:22:07.652281Z",
   "mode": "live",
   "papers": [
     {
@@ -214,6 +214,63 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42710541/",
       "summary_generated_at": "2026-09-18 23:26:33.858399+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Feline Mammary Carcinomas: Clinical Perspectives on Diagnosis, Staging, Treatment and Prognosis.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-09-07",
+      "online_publication_date": "2026-09-07",
+      "publication_date_raw": "2026-Sep-07",
+      "doi": "10.1111/vco.70109",
+      "pmid": "42706634",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70109",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42706634/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 논문은 고양이 유선암에 대한 임상적 지식과 진단, 병기 설정, 치료 및 예후 평가에 관한 종설 논문으로 임상적 이해도를 높이지만, 구체적인 연구 데이터나 통계 결과를 제공하지 않아 직접적인 임상 적용보다는 개념적 이해에 도움을 줌.",
+      "primary_category": "oncology",
+      "tags": [
+        "oncology"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "Feline Mammary Carcinomas",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "고양이 유선암의 진단, 병기 설정, 치료 및 예후 평가에 관한 최신 임상 지식 요약 및 향후 연구 방향 제시.",
+      "study_methods": "고양이 유선암에 관한 역학, 위험 요인, 진단 과정, 병기 설정, 치료 방법, 예후 평가에 대한 기존 문헌과 임상 지식을 종합적으로 검토하여 요약함.",
+      "one_sentence_summary": "고양이 유선암은 높은 악성 가능성과 조기 전이, 다양한 임상병리적 행동양식을 보여 치료와 예후 평가에 어려움이 있다. 이 논문은 고양이 유선암에 관한 역학, 위험 요인, 진단, 병기 결정, 치료, 예후 평가의 현재 임상 지식을 요약하며, 합의된 진단기준과 병리기록의 표준화가 필요함을 강조한다. 향후 다기관 전향적 연구를 통해 근거 기반의 위험도 적응 치료 경로 개발이 요구되고 있음을 제시한다.",
+      "key_results": [
+        {
+          "result": "고양이 유선암은 높은 악성 잠재력, 조기 전파, 임상병리 행동의 상당한 이질성을 보인다.",
+          "evidence_quote": "Feline mammary carcinomas remain a major therapeutic and prognostic challenge in veterinary oncology because they combine high malignant potential, early dissemination, and substantial heterogeneity in clinicopathologic behaviour."
+        },
+        {
+          "result": "고양이 유선암 관련 역학, 위험인자, 진단, 병기 설정, 치료, 예후 평가에 대해 현재 임상 지식이 요약되었다.",
+          "evidence_quote": "This review summarizes current clinical knowledge on epidemiology, risk factors, diagnostic work-up, staging, treatment, and prognostic assessment of feline mammary carcinomas, highlighting areas of consensus and persistent controversies."
+        },
+        {
+          "result": "임상적 진보를 위해 다기관 전향적 연구 및 병리 보고의 표준화가 필요하다.",
+          "evidence_quote": "Progress in care will require prospective, multicentre studies built on harmonized staging and pathology reporting, enabling risk-adapted treatment pathways that are both evidence-based and clinically actionable."
+        }
+      ],
+      "authors_conclusion": "고양이 유선암은 임상적 치료와 예후 평가에 중요한 도전 과제로, 증거 기반임상 적용을 위해서는 다기관 전향적 연구와 표준화된 병기 및 병리 보고가 필수적이다.",
+      "clinical_takeaway": "본 종설 논문은 고양이 유선암이 높은 악성도와 조기 전이로 인해 예후 및 치료에서 어려움이 있음을 알린다. 따라서 임상수의사는 위험 요인과 병기 평가에 신중을 기할 필요가 있으며, 표준화된 진단 및 병리보고 체계 도입이 중요하다. 현재까지는 명확한 치료 프로토콜 보다는 개별 환자에 맞춘 증거 기반의 접근법 개발이 요구되는 시점으로 판단된다. 향후 다기관 연구 결과를 통해 임상 적용 가능한 위험도 기반 치료 전략이 정립될 것으로 기대된다.",
+      "limitations": [
+        "abstract only"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70109",
+      "discovered_at": "2026-09-16 01:13:31.969749+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42706634/",
+      "summary_generated_at": "2026-09-19 23:23:14.290696+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -221,18 +278,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 562
+        "received": 610
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 608
+        "received": 610
       }
     },
-    "started_at": "2026-09-18T23:23:59.530718+00:00",
-    "since": "2026-08-04",
-    "processed": 3,
-    "failed": 21,
-    "deferred": 877,
-    "finished_at": "2026-09-18T23:26:53.296010+00:00"
+    "started_at": "2026-09-19T23:22:07.652326+00:00",
+    "since": "2026-08-05",
+    "processed": 1,
+    "failed": 18,
+    "deferred": 929,
+    "finished_at": "2026-09-19T23:24:50.535801+00:00"
   }
 }
