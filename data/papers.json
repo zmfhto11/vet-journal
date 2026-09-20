@@ -1,9 +1,211 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T23:24:50.599475+00:00",
-  "last_successful_collection": "2026-09-19T23:22:07.652281Z",
+  "generated_at": "2026-09-20T23:31:23.178758+00:00",
+  "last_successful_collection": "2026-09-20T23:23:25.740669Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Assessment of the long-term outcomes of compartmental excision for treatment of infiltrative lipomas.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-09-17",
+      "online_publication_date": "2026-09-17",
+      "publication_date_raw": "2026-Sep-17",
+      "doi": "10.1111/jsap.70200",
+      "pmid": "42751987",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70200",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42751987/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 개의 침습성 지방종 치료에 대한 수술적 방법(구획 절제술 vs 감량술) 결과를 직접 평가하여 임상적 치료 결정에 중요한 증거를 제공한다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "infiltrative lipoma treatment",
+      "study_design": "retrospective",
+      "sample_size": 29,
+      "sample_size_quote": "Twenty-nine client-owned dogs were surgically treated for infiltrative lipoma",
+      "objective": "침습성 지방종에 대해 구획적 절제술과 감량술 후 장기 재발률 포함 수술 후 결과를 평가하여 비교한다.",
+      "study_methods": "29마리의 임상 반려견을 대상으로 수술 전 조직병리학 또는 영상검사로 진단된 침습성 지방종을 구획 절제술 또는 감량술로 치료하였다. 임상기록을 검토하여 신상정보, 병력, 신체검사, 영상 및 임상 병리 결과, 재발 시기 및 수술 후 결과를 평가했다. 재발률 비교와 수술 후 합병증 여부를 분석하였다.",
+      "one_sentence_summary": "29마리의 침습성 지방종 진단을 받은 반려견을 대상으로 구획 절제술 또는 감량술 적용 후 장기 추적하였다. 재발은 감량술군에서 13마리 중 9마리(69.2%)에서 발생한 반면, 구획 절제술군 9마리 중 1마리(11%), 근치적 절제 1마리에서는 발생하지 않았다. 구획 절제술은 감량술과 비교 시 재발 가능성을 유의하게 줄였다(OR 18.0; 95% CI 1.65-196.31). 구획 절제술은 사지 기능 영향 없이 안전하게 시행되었으며 주로 삼출액 관련 합병증이 보고되었다.",
+      "key_results": [
+        {
+          "result": "침습성 지방종의 재발률은 감량술에서 9/13 (69.2%), 구획 절제술에서 1/9 (11%), 근치적 절제에서 0/1이었다.",
+          "evidence_quote": "Recurrence was reported in 9/13 (69.2%) debulking, 1/9 (11%) compartmental and 0/1 radical excision"
+        },
+        {
+          "result": "구획 절제술 시행 시 재발 가능성이 감량술에 비해 유의하게 낮았다(OR 18.0; 95% CI 1.65 to 196.31).",
+          "evidence_quote": "recurrence was significantly less likely with pre-planned compartmental excision compared to debulking (OR 18.0; 95% CI 1.65 to 196.31)"
+        },
+        {
+          "result": "감량술 후 재발까지의 중앙 시간은 342일(범위 187~995일)이었다.",
+          "evidence_quote": "Median time to representation for recurrence following debulk was 342 days (range 187 to 995)"
+        },
+        {
+          "result": "구획 절제술 후 사지 기능에는 주관적으로 영향이 보고되지 않았다.",
+          "evidence_quote": "Subjectively, no effect on limb function was reported secondary to compartmental excision"
+        },
+        {
+          "result": "전체 25마리 중 12마리에서 합병증이 있었으며, 주로 삼출액(9마리)에 의한 합병증이었다.",
+          "evidence_quote": "Overall complications were seen in 12 of 25 dogs, predominantly seroma (n = 9)"
+        }
+      ],
+      "authors_conclusion": "침습성 지방종에 대해 구획 절제술은 감량술에 비해 재발률이 낮았으며 이전 보고와 비교해도 유의한 차이를 보였다. 근육 절제와 관련된 기능 저하는 관찰되지 않았으며 구획 절제술은 치료 시 고려할 만한 방법이다.",
+      "clinical_takeaway": "침습성 지방종 치료에서 구획 절제술은 감량술에 비해 재발 위험을 현저히 낮춰 장기적으로 더 안정적인 수술 결과를 기대할 수 있다. 또한 주관적으로 사지 기능 손상 없이 안전하게 시행 가능하여 기능적 부담이 적다. 다만 주요 합병증으로 삼출액 발생이 관찰되므로 수술 후 이에 대한 모니터링과 관리가 필요하다. 본 연구는 후향적 소규모이므로 결과를 보완할 대규모 전향적 연구가 필요하다. 따라서 현재 임상에서는 침습성 지방종 환자에서 재발률 감소와 기능 보존을 위해 구획 절제술을 우선 고려하되, 개별 환자 상황과 수술 위험도를 같이 평가해야 한다.",
+      "limitations": [
+        "후향적 연구 설계로 인한 편향 가능성",
+        "소규모 샘플 크기(29마리)로 일반화 제한",
+        "합병증 및 기능 평가가 주관적 보고에 의존함",
+        "초록만 제공되어 상세한 방법론 및 후속처리 정보 부족"
+      ],
+      "recommended": true,
+      "recommendation_reason": "침습성 지방종의 재발률 감소를 위해 구획 절제술이 감량술 대비 명확한 우위를 증명하며, 수술 후 사지 기능 보존이 확인되어 즉시 임상 적용 가능하므로 권장한다.",
+      "id": "doi:10.1111/jsap.70200",
+      "discovered_at": "2026-09-18 01:46:59.571788+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42751987/",
+      "summary_generated_at": "2026-09-20 23:30:13.036688+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Age-dependent expression and heritability of owner-reported dermatological symptoms in Labrador retrievers: Implications for breeding strategies.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-09-17",
+      "online_publication_date": "2026-09-17",
+      "publication_date_raw": "2026-Sep-17",
+      "doi": "10.1111/jsap.70198",
+      "pmid": "42751990",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70198",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42751990/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "The study involves a clinical population of client-owned Labrador retrievers and evaluates owner-reported dermatological symptoms relevant for breeding decisions, directly relating to veterinary clinical practice regarding hereditary dermatologic conditions.",
+      "primary_category": "other",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "heritability of dermatological symptoms in Labrador retrievers",
+      "study_design": "other",
+      "sample_size": 223,
+      "sample_size_quote": "Survey data were collected between June 2024 and October 2025 from 223 Labrador retrievers",
+      "objective": "To assess if a brief, owner-based online survey can capture relevant dermatological signs and if these phenotypes support breeding decisions in a decentralized assistance-dog breeding population.",
+      "study_methods": "A concise online survey collected owner-reported frequency of otitis externa, general itch, paw biting, skin redness, and bald spots in 223 Labrador retrievers aged 11 months to 8 years (median 2.1 years). Symptoms were coded into ordinal scores, summed as a total symptom score, and analyzed overall and by age group (<3 years and ≥3 years) to estimate heritability and association with confirmed canine atopic dermatitis.",
+      "one_sentence_summary": "223 Labrador retrievers (median age 2.1 years) were evaluated using an online owner survey reporting otitis externa, itch, paw biting, skin redness, and bald spots. Overall, 38% had non-zero dermatological symptom scores, with confirmed canine atopic dermatitis associated with a 9.3-fold higher symptom score. Heritability of symptoms was 0.52 overall, but varied markedly with age: 0.05 in dogs under 3 years and 0.81 in dogs 3 years or older. Increasing parental symptom scores predicted higher offspring symptom expression, supporting genetic influence especially in older dogs.",
+      "key_results": [
+        {
+          "result": "38% of dogs had a non-zero total symptom score.",
+          "evidence_quote": "Overall, 38% of dogs had a non-zero total symptom score."
+        },
+        {
+          "result": "Confirmed canine atopic dermatitis was associated with markedly higher symptom scores (rate ratio = 9.3, 95% CI = 7.2 to 11.9).",
+          "evidence_quote": "Confirmed canine atopic dermatitis was associated with markedly higher scores (rate ratio = 9.3, 95% CI = 7.2 to 11.9)."
+        },
+        {
+          "result": "Each one-point increase in combined parental symptom score corresponded to a 9% higher expected offspring score (rate ratio = 1.09, 95% CI = 1.06 to 1.12).",
+          "evidence_quote": "Each one-point increase in combined parental score corresponded to approximately 9% higher expected offspring score (rate ratio = 1.09, 95% CI = 1.06 to 1.12)."
+        },
+        {
+          "result": "Overall heritability of summed dermatological symptoms was 0.52 (95% highest posterior density 0.24 to 0.75).",
+          "evidence_quote": "Overall heritability was 0.52 (95% highest posterior density 0.24 to 0.75"
+        },
+        {
+          "result": "Heritability varied by age: 0.05 in dogs younger than 3 years and 0.81 in dogs aged 3 years or older.",
+          "evidence_quote": "with substantial age-related variation: h2 = 0.05 in dogs under 3 years and h2 = 0.81 in dogs aged 3 years or older."
+        }
+      ],
+      "authors_conclusion": "A brief owner-based survey can effectively quantify dermatological phenotypes linked to confirmed disease and familial risk. Symptom heritability is low in younger dogs, possibly due to incomplete phenotype expression or environmental factors, but is high in older dogs, suggesting that later-life phenotyping better reflects genetic predisposition and improves selection in decentralised breeding programs.",
+      "clinical_takeaway": "이 연구는 견주가 보고하는 간단한 피부 증상 설문만으로 라브라도 리트리버의 피부질환 표현형을 반영할 수 있음을 보여주었다. 특히 3세 이상의 개에서 피부증상의 유전력이 매우 높아(heritiability=0.81) 후속 세대로의 유전적 영향력이 뚜렷하다. 반면 3세 미만에서는 유전력이 낮아(0.05) 환경적 요인 또는 미완성 표현형이 개입할 수 있음을 시사한다. 따라서 피부질환 번식 선발 시에는 성견 시점의 증상 기록이 보다 신뢰할 만하며, 젊은 개에서의 증상은 번식 결정 근거로 삼을 때 주의가 필요하다. 이 결과는 분산된 번식 프로그램에서 후천적으로 수집하는 표준화된 주인 설문이 임상적 및 유전적 피부질환 선별에 활용될 가능성을 알려준다.",
+      "limitations": [
+        "Evidence derived only from an owner-reported online survey without clinical examination confirmation except for known diagnoses.",
+        "Heritability estimates are based on observational data, subject to environmental influences and phenotypic incompleteness in younger dogs.",
+        "Sample is limited to a specific assistance dog breeding population in Belgium, potentially limiting broader applicability.",
+        "Only abstract evidence available, restricting detailed methodological and statistical appraisal."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 임상적 피부증상의 간단 조사로 유전적 영향력을 입증하고 있어, 피부질환 번식 선발에 실질적 근거를 제공한다. 후속 연구와 실천에 도움이 되는 구체적 증거가 있어 직접 임상적용 가능성이 높다.",
+      "id": "doi:10.1111/jsap.70198",
+      "discovered_at": "2026-09-18 01:46:59.562887+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42751990/",
+      "summary_generated_at": "2026-09-20 23:26:44.886396+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Technical note: Combined approach for total mandibulectomy.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-09-15",
+      "online_publication_date": "2026-09-15",
+      "publication_date_raw": "2026-Sep-15",
+      "doi": "10.1111/vsu.70151",
+      "pmid": "42744608",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70151",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42744608/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "임상 증례에서 안전하고 효과적으로 전악골절제술에 적용되어 턱관절 접근성을 높이고 수술 중 관절 해체 및 외과적 절제에 유리함을 보임.",
+      "primary_category": "surgery",
+      "tags": [
+        "soft_tissue_surgery",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "total mandibulectomy technique",
+      "study_design": "case_report",
+      "sample_size": 1,
+      "sample_size_quote": "one clinical case (2.5-year-old castrated male Australian Shepherd)",
+      "objective": "새로운 측면 및 복측 접근을 결합한 전악골절제술(CATM) 기법을 기술하고 임상 적용 가능성을 평가한다.",
+      "study_methods": "개 시체 한 마리(27 kg, 잡종)에서 시술법을 평가하고 임상증례(2.5세 중성화 수컷 호주 셰퍼드)에서 좌측 악골 연조직 육종 환자에게 CATM 기법을 적용하였다. 측면 접근으로 측두하악관절의 관절두절제술을 수행하고 복측 전중앙 접근법으로 좌측 전악골절제술을 시행하였다.",
+      "one_sentence_summary": "잡종견 시체와 2.5세 중성화 수컷 호주 셰퍼드 한 마리를 대상으로 CATM 기법을 평가하였다. 좌측 악골 연조직 육종 환자에게 측면 접근을 통한 관절두절제술과 복측 접근을 통한 전악골절제술을 결합한 CATM 수술을 성공적으로 시행하였다. 수술 중 합병증 없었으며, 측면 절개를 연장하여 임상 증례에서 국소 림프절 절제술도 가능하였다. 수술 후 2개월간 기능 유지 및 재발 없이 양호한 경과를 보였다.",
+      "key_results": [
+        {
+          "result": "CATM은 시체 및 임상 사례 모두에서 성공적으로 시행되어 수술 중 합병증이 없었다.",
+          "evidence_quote": "CATM was successfully performed in both the cadaveric model and clinical case without intraoperative complications."
+        },
+        {
+          "result": "측면 절개를 뒤쪽으로 연장하여 임상 사례에서 지역 림프절 절제술이 가능하였다.",
+          "evidence_quote": "Extending the lateral condylectomy incision caudally allowed for regional lymphadenectomy in the clinical case."
+        },
+        {
+          "result": "우측 악골의 내측 이동으로 인한 구개 접촉 외상이 발생했으나, 크라운 높이 감소 및 활력 맹출 치료로 성공적으로 관리되었다.",
+          "evidence_quote": "Medial drift of the right mandible resulted in palatal contact trauma that was successfully managed with crown height reduction and vital pulpotomy."
+        },
+        {
+          "result": "수술 후 2개월 동안 기능적 유지 및 종양 재발이나 기타 부작용 없이 양호한 임상적 결과를 보였다.",
+          "evidence_quote": "At two months postoperatively, the dog maintained good clinical function without tumor recurrence or additional adverse effects."
+        }
+      ],
+      "authors_conclusion": "CATM은 턱관절에 대한 노출을 증가시켜 관절 분리 및 관절두절제술을 용이하게 하는 실현 가능한 기법이다.",
+      "clinical_takeaway": "본 연구는 악골 전체 절제술을 위해 새로운 결합 접근법인 CATM 기법을 개발하고 이를 임상견에서 성공적으로 적용함을 보여준다. 이 기법은 턱관절 해부학적 접근성을 크게 향상시켜 연조직 종양 수술 시 관절 분리와 관절두절제술을 보다 안전하고 효과적으로 수행할 수 있음을 시사한다. 다만, 수술 후 악골 변위로 인한 구강 내 외상을 예방하거나 조기 치료하는 주의가 필요하며, 장기적인 추적 연구가 부족해 일반화에는 신중함이 요구된다.",
+      "limitations": [
+        "본 연구는 단일 임상 사례와 시체 연구에 근거한 기술 보고로, 표본 크기가 매우 제한적이다.",
+        "후향적 기술 보고로 무작위 대조 연구가 아니며 장기 추적 및 비교 대조군이 존재하지 않는다.",
+        "초록만 제공되어 상세한 방법론 및 잠재적 합병증 보고가 부족하다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vsu.70151",
+      "discovered_at": "2026-09-17 05:57:03.687056+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42744608/",
+      "summary_generated_at": "2026-09-20 23:25:30.999052+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Skeletal modifications after transpelvic urethrostomy as treatment for urethral stricture in a three-month-old cat.",
       "journal": "Veterinary Surgery",
@@ -271,6 +473,83 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42706634/",
       "summary_generated_at": "2026-09-19 23:23:14.290696+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Clinical findings and outcomes of juvenile-onset chronic kidney disease of unknown aetiology in dogs: a retrospective study of 36 cases (2010-2023).",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-09-02",
+      "online_publication_date": "2026-09-02",
+      "publication_date_raw": "2026-Sep-02",
+      "doi": "10.1111/jsap.70187",
+      "pmid": "42687370",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70187",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 3세 미만의 반려견에서 원인 불명의 만성 신질환(juvenile-onset chronic kidney disease, CKD)의 임상 양상과 예후를 후향적으로 분석하여 직접적인 임상적 정보를 제공한다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "nephrology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "juvenile-onset chronic kidney disease in dogs",
+      "study_design": "retrospective",
+      "sample_size": 36,
+      "sample_size_quote": "This retrospective study included 36 client-owned dogs under 3 years of age with chronic kidney disease.",
+      "objective": "반려견의 원인 불명의 어린 나이 만성 신질환의 임상 소견과 예후를 기술한다.",
+      "study_methods": "후향적 연구로, 3세 미만 만성 신질환 진단 반려견 36마리의 신호 인자 및 임상병리 소견을 기술하였다. 28마리를 대상으로 CKD 진행 및 사망까지의 경과를 장기 추적 분석했으며, 혈청 크레아티닌 농도가 25% 이상 증가한 경우를 CKD 진행으로 정의해 Cox 비례 위험 모델로 위험을 평가했다.",
+      "one_sentence_summary": "본 연구는 3세 미만 반려견 36마리를 대상으로 원인 불명 어린이 만성 신질환의 임상 및 예후를 후향적으로 분석하였다. 이 중 28마리의 장기 추적에서 CKD 진행 위험과 생존기간을 평가하였으며, 저자들은 혈청 총칼슘 농도가 CKD 진행 위험 인자로 작용함을 발견했다. CKD 3기 개체는 모두 4기로 진행하였으며, 중앙 생존기간은 1461일이었다.",
+      "key_results": [
+        {
+          "result": "가장 흔한 품종은 래브라도 리트리버와 셰틀랜드 쉽독으로 각각 5마리였다.",
+          "evidence_quote": "The most common breeds were Labrador retrievers and Shetland sheepdogs (n = 5, respectively)."
+        },
+        {
+          "result": "CKD 단계별 분포는 1기 7마리, 2기 17마리, 3기 8마리, 4기 4마리였다.",
+          "evidence_quote": "Seven dogs were classified as chronic kidney disease stage 1, 17 as stage 2, eight as stage 3 and four as stage 4"
+        },
+        {
+          "result": "단백뇨(urine protein:creatinine ratio ≥ 0.5) 유병률은 35%였다.",
+          "evidence_quote": "The prevalence of proteinuria (urine protein:creatinine ratio ≥ 0.5) was 35%."
+        },
+        {
+          "result": "어떤 개도 간접 수축기 혈압이 160 mmHg 이상인 경우는 없었다.",
+          "evidence_quote": "None of the dogs had an indirect systolic blood pressure ≥ 160 mmHg."
+        },
+        {
+          "result": "발현 시 혈청 총칼슘 농도는 CKD 진행 위험과 양의 상관관계가 있었고, 위험비는 2.24였다.",
+          "evidence_quote": "Serum total calcium concentration at presentation was positively associated with the risk for chronic kidney disease progression (hazard ratio, 2.24; 95% confidence interval, 1.11 to 4.53; P = .03)."
+        },
+        {
+          "result": "CKD 3기인 모든 개체는 4기로 진행하였다.",
+          "evidence_quote": "All dogs with chronic kidney disease stage 3 experienced progression to stage 4."
+        },
+        {
+          "result": "전체 중앙 생존기간은 1461일이었다.",
+          "evidence_quote": "Overall, the median survival time (95% confidence interval) was 1461 days (530 to 2620 days)."
+        }
+      ],
+      "authors_conclusion": "어린 나이에 발병한 반려견의 원인 불명의 만성 신질환은 여러 품종에서 진단되었고, 고혈압 유병률은 이전 연구보다 낮았다. 혈청 총칼슘 농도가 질환 진행 위험과 연관되어 있으며, 본 연구는 해당 질환의 특성과 예후에 대한 유용한 정보를 제공한다.",
+      "clinical_takeaway": "3세 미만 반려견에서 원인 불명 만성 신질환은 다양한 품종에서 관찰되며, 기존 연구보다 고혈압 유병률은 낮았다. 혈청 총칼슘 농도가 상승할수록 CKD 진행 위험이 유의하게 증가하는 점은 조기 위험 인자 평가에 참고할 수 있다. 특히 CKD 3기인 경우 모두 4기로 진행하는 경과를 보이므로 적절한 모니터링과 조기 치료 전략이 중요할 수 있다. 그러나 후향적 연구라는 한계와 제한된 샘플 크기를 고려해 본 연구 결과를 해석해야 할 것이다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인과관계 해석에 제한이 있다.",
+        "표본 크기가 적고 특정 품종에 편중되어 결과 일반화에 제한이 있을 수 있다.",
+        "고혈압 유병률이 낮게 보고된 이유에 대해 명확한 설명이 부족하다.",
+        "전체 논문이 아닌 초록만 제공되어 상세한 데이터 및 방법론 확인이 어렵다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "실제 임상에서 3세 미만 반려견의 CKD 진행 위험 평가 및 예후 예측에 직접적이며 구체적인 데이터를 제공하므로 유용하다.",
+      "id": "doi:10.1111/jsap.70187",
+      "discovered_at": "2026-09-16 01:13:31.974748+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
+      "summary_generated_at": "2026-09-20 23:28:01.670256+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -278,18 +557,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 610
+        "received": 618
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 610
+        "received": 664
       }
     },
-    "started_at": "2026-09-19T23:22:07.652326+00:00",
-    "since": "2026-08-05",
-    "processed": 1,
-    "failed": 18,
-    "deferred": 929,
-    "finished_at": "2026-09-19T23:24:50.535801+00:00"
+    "started_at": "2026-09-20T23:23:25.740725+00:00",
+    "since": "2026-08-06",
+    "processed": 4,
+    "failed": 15,
+    "deferred": 936,
+    "finished_at": "2026-09-20T23:31:22.306514+00:00"
   }
 }
