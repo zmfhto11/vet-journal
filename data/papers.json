@@ -1,9 +1,70 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T23:31:23.178758+00:00",
+  "generated_at": "2026-09-21T23:27:58.659271+00:00",
   "last_successful_collection": "2026-09-20T23:23:25.740669Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Quantification of Caudal Osteointegration Surface Exposure after Uncemented Total Hip Replacement Stem Implantation: Effect of Stem Size and Implantation Depth.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-09-17",
+      "online_publication_date": "2026-09-17",
+      "publication_date_raw": "2026-Sep-17",
+      "doi": "10.1055/a-2956-1103",
+      "pmid": "42753810",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2956-1103",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42753810/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 개 대퇴골 모형을 대상으로 하는 인체 비임상 실험(in vitro) 연구로, 직접적인 임상 적용보다는 보조적 기초 연구에 해당하며 임상적 결과에 대한 직접 증빙은 제공하지 않음.",
+      "primary_category": "surgery",
+      "tags": [
+        "orthopedics",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "uncemented total hip replacement in dogs",
+      "study_design": "other",
+      "sample_size": 10,
+      "sample_size_quote": "Using 10 canine femoral model specimens",
+      "objective": "개에서 무시멘트 고정 형식의 Biomedtrix Biological Fixation (BFX) 골간대체 대퇴골 줄기 삽입 후 노출되는 후방 골유합 표면 면적을 정량화하고, 줄기 크기 및 삽입 깊이가 이 표면 노출에 미치는 영향을 평가하며, 골간 준비 및 줄기 노출 동안 후방 대퇴골 결손 변화를 측정한다.",
+      "study_methods": "본 연구는 10개의 개 대퇴골 모형을 대상으로 하며, 각 골에 대해 작게 맞춘(undersized), 적절한 크기(appropriately sized), 크게 맞춘(oversized) 비시멘트 BFX 줄기를 3D프린팅 가이드를 이용해 세 가지 수준의 점진적 원위 이식을 하여 삽입하였다. 이후 사진을 통해다공성 표면 노출 정도와 후방 골 결손을 모든 줄기 크기 및 삽입 깊이에 대해 측정하였다.",
+      "one_sentence_summary": "10개의 개 대퇴골 모형에서 언더사이즈, 적절한 크기, 오버사이즈 BFX 줄기를 3D프린팅 가이드로 점진적으로 원위 삽입하며 후방 다공성 표면 노출 및 후방 골 결손을 측정했다. 적절한 크기와 정렬의 줄기에서 약 34.8%의 후방 다공성 표면이 노출되었으며, 원위 삽입 시 모든 줄기 크기에서 다공성 표면 노출이 유의하게 감소했다. 또한, 줄기 크기 및 삽입 깊이가 증가함에 따라 후방 대퇴골 골 결손의 크기와 원위 이동이 증가하였다.",
+      "key_results": [
+        {
+          "result": "적절한 크기, 정렬 및 원위 삽입된 줄기에서는 후방 다공성 표면의 34.8%가 노출되어 있었다.",
+          "evidence_quote": "In correctly sized, aligned, and distalized stems, 34.8% of the caudal porous surface remains exposed."
+        },
+        {
+          "result": "줄기 원위 삽입은 모든 줄기 크기에서 후방 표면 노출을 유의하게 감소시킨다.",
+          "evidence_quote": "Stem distalization significantly decreases caudal surface exposure for all stem sizes"
+        },
+        {
+          "result": "줄기 원위 삽입은 모든 줄기 크기에서 후방 대퇴골 골 결손의 범위를 증가시킨다.",
+          "evidence_quote": "and increases the extent of the caudal femoral bone defect for all stem sizes."
+        }
+      ],
+      "authors_conclusion": "BFX 줄기의 완전하고 원형적인 근위부 피복은 불가능하며, 줄기를 적절히 원위 삽입하여 노출된 후방 골유합 표면을 줄이면서도 고관절의 생체역학적 기능을 유지해야 한다. 대퇴골 골간 준비에 의해 발생하는 후방 골 결손은 줄기 크기 및 삽입 깊이가 증가할수록 점차 원위로 넓어지고 이동한다.",
+      "clinical_takeaway": "개를 대상으로 한 비시멘트 무릎 고관절 치환술에서 BFX 줄기의 후방 다공성 표면은 삽입 후 상당 부분이 노출되는 것이 불가피함을 보여준다. 줄기를 적절하게 원위 삽입하면 후방 다공성 표면의 노출을 줄일 수 있으나, 동시에 대퇴골 후방 골 결손이 커지고 더 원위쪽으로 이동하는 점을 고려해야 한다. 이러한 결과는 저자들이 제안한 수술 중 대퇴골 후방 접근법 시 시야에서 보이지 않는 골 결손과 골유합 표면 노출을 이해하는 데 도움이 되며, 이를 통해 수술 시 적절한 줄기 크기 선택과 삽입 깊이 조절이 중요함을 시사한다. 그러나 본 연구는 in vitro로 실제 임상 환경과 차이가 있으므로 임상적용 시 제한점이 존재한다.",
+      "limitations": [
+        "본 연구는 in vitro 연구로 실제 생체 내 골유합 및 골 재생 반응을 반영하지 못한다.",
+        "모형 골을 이용한 실험으로, 실제 개 환자의 생리학적 변이 및 임상적 합병증 평가가 불가능하다.",
+        "임상 결과 및 장기 추적 관찰이 포함되어 있지 않다.",
+        "발표된 자료가 초록만으로, 상세 통계 및 방법론 정보가 제한적이다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1055/a-2956-1103",
+      "discovered_at": "2026-09-18 07:49:44.977693+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42753810/",
+      "summary_generated_at": "2026-09-21 23:27:57.725545+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Assessment of the long-term outcomes of compartmental excision for treatment of infiltrative lipomas.",
       "journal": "Journal of Small Animal Practice",
@@ -557,18 +618,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 618
+        "received": 621
       },
       "europe_pmc": {
-        "status": "ok",
-        "received": 664
+        "status": "failed",
+        "received": 200,
+        "error": "KeyError"
       }
     },
-    "started_at": "2026-09-20T23:23:25.740725+00:00",
-    "since": "2026-08-06",
-    "processed": 4,
-    "failed": 15,
-    "deferred": 936,
-    "finished_at": "2026-09-20T23:31:22.306514+00:00"
+    "started_at": "2026-09-21T23:24:32.537434+00:00",
+    "since": "2026-08-07",
+    "processed": 1,
+    "failed": 11,
+    "deferred": 946,
+    "finished_at": "2026-09-21T23:27:58.596273+00:00"
   }
 }
