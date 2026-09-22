@@ -1,9 +1,166 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T23:27:58.659271+00:00",
+  "generated_at": "2026-09-22T23:26:19.556735+00:00",
   "last_successful_collection": "2026-09-20T23:23:25.740669Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-09-22",
+      "online_publication_date": "2026-09-22",
+      "publication_date_raw": "2026-Sep-22",
+      "doi": "10.1111/vsu.70143",
+      "pmid": "42770669",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70143",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42770669/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "두 마리의 임상 개에서 우간엽 간세포암종과 하대정맥(CVC) 침범이 확인된 경우, 단계적 대정맥 폐쇄술을 이용한 우간엽 절제술이 성공적으로 시행되어 완전 절제 및 장기 생존이 확인되었음.",
+      "primary_category": "surgery",
+      "tags": [
+        "internal_medicine",
+        "surgery",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "right divisional hepatocellular carcinoma involving caudal vena cava",
+      "study_design": "case_series",
+      "sample_size": 2,
+      "sample_size_quote": "Two client-owned, 11-year-old neutered male dogs (Siberian Husky and Shih Tzu)",
+      "objective": "우간엽에 발생하여 하대정맥을 침범한 간세포암종 환자에서 단계적 사전 대정맥 폐쇄술을 시행한 후 우측 간엽절제술을 시행하여 수술 가능성과 생존기간을 평가함.",
+      "study_methods": "2마리의 11세 중성화 수컷 개에게 CT를 통해 우간엽 종괴와 하대정맥 침범 여부를 확인했다. 하대정맥 선행 폐쇄를 위한 수술 전 말초혈관에 수압 조절기를 삽입 후, 79일과 44일 간 외래에서 점진적으로 폐쇄를 시행하며 사파누스 정맥압, 신장 기능, 하지 부종을 모니터링하였다. 완전 폐쇄와 혈관 측부순환 형성은 CT로 확인 후 우엽 간절제술과 대정맥 절제를 시행하였다.",
+      "one_sentence_summary": "11세 수컷 시베리안 허스키와 시츄 두 마리의 개에서 우엽에 위치한 대정맥을 침범한 간세포암종이 진단되었다. 단계적 수압 조절기를 이용한 사전 대정맥 폐쇄를 각각 79일과 44일에 걸쳐 시행하여 측부순환로가 형성된 것을 CT로 확인한 후, 대정맥 일부 절제 동반한 우측 간엽 절제술을 시행했다. 두 증례 모두 육안적 완전 절제가 이루어졌고, 조직검사상 완전 절제가 확인되었으며, 수술 후 합병증은 일시적 창상 삼출 및 복수로 경미하였다. 추적 관찰에서 352일과 2467일까지 각각 생존하며 재발 및 전이 증상은 발견되지 않았다.",
+      "key_results": [
+        {
+          "result": "두 마리 모두 우간엽 간세포암종의 육안상 완전 절제가 이루어졌다.",
+          "evidence_quote": "Macroscopically complete resection was achieved in both dogs."
+        },
+        {
+          "result": "조직검사를 통해 두 마리에서 완전한 간세포암종 절제가 확인되었다.",
+          "evidence_quote": "Complete HCC resection was confirmed histopathologically."
+        },
+        {
+          "result": "Dog 1에서 일시적 창상 삼출, dog 2에서 일시적 복수가 수술 후 합병증으로 관찰되었다.",
+          "evidence_quote": "Morbidity was limited to transient wound exudation in dog 1 and transient ascites in dog 2."
+        },
+        {
+          "result": "Dog 1에서 추적 관찰 동안 재발 및 전이 소견이 발견되지 않았다.",
+          "evidence_quote": "No recurrence or metastasis was identified in dog 1 during follow-up."
+        },
+        {
+          "result": "Dog 2에서도 재발이나 전이 의심 임상 증상이 보고되지 않았다.",
+          "evidence_quote": "In dog 2, no clinical signs suggestive of recurrence or metastasis were reported."
+        },
+        {
+          "result": "수술 후 생존 기간은 각각 352일과 2467일이었다.",
+          "evidence_quote": "Survival after hepatectomy was 352 and 2467 days."
+        }
+      ],
+      "authors_conclusion": "단계적 사전 대정맥 폐쇄술은 우측 간엽 간세포암종에서 대정맥이 침범된 경우 혈관측부순환을 형성시키고, 대정맥 절제를 포함한 우엽 간절제술 시행을 가능하게 할 수 있음을 시사한다.",
+      "clinical_takeaway": "하대정맥 침범이 있는 우측 간엽 간세포암종 개에서, 수술 전 대정맥을 점진적으로 폐쇄하여 혈관 측부순환을 유도하는 전략이 효과적으로 대정맥 절제술 동반 우간엽 절제를 가능하게 했다. 이는 침범된 대정맥을 포함한 광범위 절제가 필요한 환자에서 안정적인 혈류 확보 및 수술 안전성 향상에 기여할 수 있음을 의미한다. 다만 본 연구는 2례의 사례 보고이며, 장기간 합병증 및 예후 평가를 위한 추가 연구가 필요하다.",
+      "limitations": [
+        "사례 수가 2마리에 불과한 소규모 증례 보고이다.",
+        "무작위 대조군 없이 후향적으로 관찰한 연구이다.",
+        "장기 추적 관찰 중 이상 징후가 없는지에 대한 구체적 임상 평가 방법이 불명확하다.",
+        "초록만 제공되어 세부 수술 기법, 환자 선정 기준 및 추적 방법에 관한 정보가 제한적이다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "침범된 대정맥을 포함하는 우측 간엽 간세포암종에서 수술적 절제 전 단계적 폐쇄법이 실제 임상에서 성공적 수술과 완전 절제를 유도한 실증적 사례로, 수술 계획 수립에 유용할 수 있음.",
+      "id": "doi:10.1111/vsu.70143",
+      "discovered_at": "2026-09-22 23:22:59.349831+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42770669/",
+      "summary_generated_at": "2026-09-22 23:23:32.354723+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Surgical debulking and electrochemotherapy, including a tetrapolar single-needle electrode, are associated with clinical benefit in dogs with intranasal tumors.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-17",
+      "online_publication_date": "2026-09-17",
+      "publication_date_raw": "2026-Sep-17",
+      "doi": "10.2460/javma.26.05.0387",
+      "pmid": "42753794",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.05.0387",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42753794/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 개의 비강내 종양에 대한 외과적 종양 절제술과 다전극을 이용한 전기화학요법(ECT)의 임상 결과를 다루며, 실제 임상 환자인 반려견을 대상으로 하는 직접적인 임상 연구이기 때문이다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Intranasal tumors in dogs",
+      "study_design": "retrospective",
+      "sample_size": 12,
+      "sample_size_quote": "12 dogs were included",
+      "objective": "개의 비강내 종양에서 수술적 종양 절제와 다전극을 포함한 전기화학요법의 실행 가능성과 예비 임상 결과 평가",
+      "study_methods": "2017년부터 2024년까지 수의 종양 전문 센터에서 비강내 종양을 가진 반려견 12마리를 후향적으로 조사하였다. 대상은 최소 1회 수술적 절제술과 수술 중 다전극 방식을 사용한 블레오마이신 기반 전기화학요법을 시행받았으며, 최소 2개월 이상의 추적 관찰이 이루어진 개체였다. 임상 반응, 영상학적 진행, 재치료 비율, 무진행 생존기간, 전반 생존기간 및 부작용이 평가되었다.",
+      "one_sentence_summary": "본 연구는 2017년부터 2024년까지 비강내 종양을 가진 12마리의 반려견을 후향적으로 분석하였다. 모든 개에서 임상 반응이 관찰되었고, 75%에서 완전 임상 반응, 25%에서 부분 반응이 확인되었다. 83%가 고도 국소 병기였으며, 중간 무진행 기간은 492일, 중간 생존 기간은 694일이었다. 치료 관련 부작용은 흔했으나 대부분 경증에서 중등도였으며, 수술과 ECT 병합치료는 임상적 유익과 실행 가능성을 시사하였다.",
+      "key_results": [
+        {
+          "result": "임상 반응이 모든 개에서 관찰되었으며, 완전 임상 반응은 75%, 부분 임상 반응은 25%였다.",
+          "evidence_quote": "Clinical response was observed in all dogs, including complete clinical response in 75% and partial clinical response in 25%."
+        },
+        {
+          "result": "국소 병기 T3에서 T4가 83%로 고도 진행 국소 질환이 많았다.",
+          "evidence_quote": "most had advanced local disease (83% stages T3 to T4)."
+        },
+        {
+          "result": "컴퓨터단층촬영상 5마리 개체에서 국소 진행이 관찰되었다.",
+          "evidence_quote": "Local progression was documented by CT in 5 dogs (42%)."
+        },
+        {
+          "result": "지속적인 임상 증상 또는 종양 진행으로 67%의 개에서 재수술 또는 재치료가 시행되었다.",
+          "evidence_quote": "Repeat procedures were performed in 67% of dogs because of persistent clinical signs or tumor progression."
+        },
+        {
+          "result": "중간 무진행 생존 기간은 492일이었다.",
+          "evidence_quote": "The median progression-free interval was 492 days"
+        },
+        {
+          "result": "중간 생존 기간은 694일이었다.",
+          "evidence_quote": "the median survival time was 694 days."
+        },
+        {
+          "result": "치료 관련 부작용은 흔하게 발생하였으나 대부분 경증에서 중등도로 국한되었으며, 부분 상처 열개(50%), 딱지 형성(42%), 감염(25%), 구강비강루(25%)가 보고되었다.",
+          "evidence_quote": "Treatment-related adverse events were frequent but predominantly mild to moderate, including partial wound dehiscence (50%), crust formation (42%), infection (25%), and oronasal fistula (25%)."
+        },
+        {
+          "result": "시술과 관련된 사망은 보고되지 않았다.",
+          "evidence_quote": "No procedure-related deaths occurred."
+        }
+      ],
+      "authors_conclusion": "수술적 종양 절제와 다전극 방식을 포함한 ECT의 병합 치료는 비강내 종양이 있는 개에서 실행 가능하며 임상적 혜택과 연관되어 있음이 확인되었다. 방사선 치료가 불가능한 경우 대안으로서 이 방법의 전향적 연구가 필요하다.",
+      "clinical_takeaway": "본 연구는 국소 진행된 비강내 종양이 있는 반려견에서 수술적 종양 절제와 전기화학요법(ECT) 병합 요법이 안정적으로 시행 가능하고 임상 반응을 유도하며 장기간 무진행 생존 및 생존 연장을 기대할 수 있음을 보여준다. 특히, 방사선 치료가 어려운 상황에서 적용 가능한 치료 옵션임을 시사한다. 다만 부작용 발생률이 비교적 높으나 대부분 경등도에 그쳐 관리 가능하며, 일부 개에서는 재치료가 필요함을 고려해야 한다. 후향적 단일 센터 소규모 연구이므로 결과 해석에 주의가 필요하며, 향후 전향적 연구를 통한 검증이 요구된다.",
+      "limitations": [
+        "후향적 연구 설계",
+        "소규모 대상자 수(12마리 개)",
+        "단일 기관 연구",
+        "추적 기간 최소 2개월로 제한적임",
+        "초록 정보 한정"
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 임상 증례를 바탕으로 한 연구이며, 실제 임상에서 방사선 치료가 제한적인 비강내 종양 개의 치료에 새로운 치료 방법으로서 가능성을 제시하기 때문에 추천함.",
+      "id": "doi:10.2460/javma.26.05.0387",
+      "discovered_at": "2026-09-18 07:49:44.989495+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42753794/",
+      "summary_generated_at": "2026-09-22 23:24:03.958619+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Quantification of Caudal Osteointegration Surface Exposure after Uncemented Total Hip Replacement Stem Implantation: Effect of Stem Size and Implantation Depth.",
       "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
@@ -611,6 +768,78 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
       "summary_generated_at": "2026-09-20 23:28:01.670256+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Combination of Hypofractionated Radiation Therapy and Gilvetmab for the Treatment of Cutaneous or Subcutaneous Mast Cell Tumours in Dogs.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-09-01",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1111/vco.70110",
+      "pmid": "42680555",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70110",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42680555/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 개의 피부 및 피하 조직에 발생한 비만세포종 치료에 직접 적용된 임상 연구로, 방사선 치료와 Gilvetmab 병용요법의 효과와 부작용을 평가하였다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "cutaneous or subcutaneous mast cell tumours in dogs",
+      "study_design": "prospective",
+      "sample_size": 18,
+      "sample_size_quote": "Eighteen dogs with mast cell tumours (MCTs) were prospectively treated",
+      "objective": "개의 피부 또는 피하 비만세포종 치료에서 저분할 방사선 치료와 Gilvetmab 병용요법의 효과와 안전성을 평가하였다.",
+      "study_methods": "18마리의 비만세포종이 있는 개들을 대상으로 두 가지 치료법을 병용하여 전향적으로 연구하였다. 24Gy의 방사선 치료를 0, 7, 21일에 진행하였고, Gilvetmab은 방사선 치료 두 번째 시점인 7일차부터 2주 간격으로 최대 10회 투여하였다. 종양 반응률, 무진행 생존 기간, 부작용 등이 관찰되었다.",
+      "one_sentence_summary": "18마리의 비만세포종 개를 대상으로 24Gy 저분할 방사선 치료와 Gilvetmab 병용요법을 실시하였다. 종양 반응률은 완전 반응 6%, 부분 반응 44%, 안정병변 50%로 총 객관적 반응률은 50%였으며, 중위 무진행 기간은 116일이었다. 림프절 전이 유무에 따라 무진행 기간과 총 생존 기간에 유의한 차이가 있었으나, 전반적으로 치료는 지속적인 종양 통제에는 미흡하였고, 심각한 부작용도 보고되었다.",
+      "key_results": [
+        {
+          "result": "객관적 반응률(ORR)은 50%로, 완전 반응 1마리(6%), 부분 반응 8마리(44%), 안정 병변 9마리(50%)였다.",
+          "evidence_quote": "Best tumour response was complete in one (6%), partial in eight (44%) and stable disease in nine dogs (50%) for an ORR of 50%."
+        },
+        {
+          "result": "중위 무진행 기간(PFI)은 116일이었다.",
+          "evidence_quote": "Thirteen dogs (72%) developed progressive disease with a median progression free interval (PFI) of 116 days after the first fraction of RT."
+        },
+        {
+          "result": "림프절 전이 여부에 따라 중위 무진행 기간은 64일과 292일, 중위 총 생존 기간은 103일과 587일로 유의한 차이가 있었다(p=0.02, 0.005).",
+          "evidence_quote": "There was a significant difference in PFI and MST for dogs with and without lymph node metastasis with a median PFI of 64 versus 292 days and MST of 103 versus 587 days (p = 0.02 and 0.005, respectively)."
+        },
+        {
+          "result": "Gilvetmab 관련 부작용은 7마리 개 중 9건으로, 주로 주입 반응, 대사 변화, 위장관 증상 및 췌장염이었다.",
+          "evidence_quote": "Nine adverse events (AEs) attributed to gilvetmab were recorded in seven dogs (39%) consisting of infusion reactions in four, metabolic changes in three and gastrointestinal signs and pancreatitis in one each."
+        },
+        {
+          "result": "방사선 치료에 의한 부작용은 대부분 경증(grade 1)으로 7마리 개에서 나타났다.",
+          "evidence_quote": "Radiation AEs were limited to Grade 1 for both acute and late effects in seven dogs (39%)."
+        },
+        {
+          "result": "전체 개중 5마리(28%)가 3등급 이상의 심각한 부작용을 경험하였다.",
+          "evidence_quote": "Overall, five dogs (28%) experienced Grade 3 AEs."
+        }
+      ],
+      "authors_conclusion": "이 병용요법은 개의 비만세포종에 대해 지속적인 종양 통제 효과를 제공하지 못했으며, 부작용 발생률도 높아 추가 평가가 필요하다.",
+      "clinical_takeaway": "이 연구는 피부 및 피하 비만세포종이 있는 개에서 저분할 방사선 치료와 Gilvetmab 병용요법의 임상 효과와 안전성을 평가하였다. 병용요법은 50%의 객관적 반응률과 중위 무진행 기간 116일을 보였으나, 림프절 전이 유무에 따라 예후가 크게 달랐다. 심각한 부작용도 28%에서 보고되어 주의가 필요하다. 따라서 이 치료법은 현재로서는 지속적인 종양 통제에 한계가 있고, 부작용 위험으로 인해 신중한 검토 및 추가 연구가 요구된다. 본 연구 결과는 비만세포종 개 환자에서 본 병용요법의 제한점을 이해하고, 개별 환자 상황에 따라 치료 옵션을 고민하는 데 참고가 될 수 있다.",
+      "limitations": [
+        "연구는 단일 군 전향적 설계로 통제군이 없어 병용요법의 순수 효과 분리 어려움",
+        "샘플 크기가 18마리로 제한적임",
+        "전체 논문이 아닌 초록 정보만 제공되어 상세한 부작용 및 장기 추적 데이터 부족"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70110",
+      "discovered_at": "2026-09-16 01:13:36.176335+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42680555/",
+      "summary_generated_at": "2026-09-22 23:25:57.414392+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -618,19 +847,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 621
+        "received": 631
       },
       "europe_pmc": {
         "status": "failed",
-        "received": 200,
+        "received": 612,
         "error": "KeyError"
       }
     },
-    "started_at": "2026-09-21T23:24:32.537434+00:00",
-    "since": "2026-08-07",
-    "processed": 1,
-    "failed": 11,
-    "deferred": 946,
-    "finished_at": "2026-09-21T23:27:58.596273+00:00"
+    "started_at": "2026-09-22T23:22:57.913207+00:00",
+    "since": "2026-08-08",
+    "processed": 3,
+    "failed": 18,
+    "deferred": 949,
+    "finished_at": "2026-09-22T23:26:19.489042+00:00"
   }
 }
