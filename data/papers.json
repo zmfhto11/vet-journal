@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T23:26:19.556735+00:00",
-  "last_successful_collection": "2026-09-20T23:23:25.740669Z",
+  "generated_at": "2026-09-23T23:25:03.284040+00:00",
+  "last_successful_collection": "2026-09-23T23:21:38.526625Z",
   "mode": "live",
   "papers": [
     {
@@ -770,6 +770,126 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Association of submaximal exercise test variables with diagnosis of asthma in a mixed-breed cohort of leisure horses.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag227",
+      "pmid": "42770277",
+      "pmcid": "PMC13594658",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag227",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42770277/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "직접적인 임상 연구로, 혼합 품종 여가마 26두에서 아형별 천식 진단과 하위 최대 운동 검사(SET) 변수와의 연관성을 평가하여 말의 호흡기 건강 진단에 직접적임.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "respiratory"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "equine asthma diagnosis with submaximal exercise test",
+      "study_design": "case_series",
+      "sample_size": 26,
+      "sample_size_quote": "Twenty-six privately owned mixed-breed leisure horses of a clinical cohort.",
+      "objective": "하위 최대 운동 검사(SET)를 이용하여 건강 말과 경증, 중등도, 중증 천식 아형을 구분하는데 도움을 주는지 평가.",
+      "study_methods": "임상 코호트에 등록된 26두의 혼합 품종 여가마를 대상으로 후향적 단면 연구. SET는 심전도, 동맥혈 가스, 젖산, 호흡수(RR), 심박수(HR)를 측정하였으며, 휴식 시(T0) 및 트로트 두 차례(T1, T2), 갤럽 두 차례(T3, T4), 이후 트로트 3분(T5), 갤럽(T6) 시점에서 샘플과 생체신호 채취. RR과 HR 회복 평가. 서열모형을 이용해 천식 진단에 대한 예측 변수 평가.",
+      "one_sentence_summary": "26두의 여가마를 대상으로 SET를 시행하여 휴식 시 동맥산소분압(pO2)이 진단과 가장 강한 연관을 보였고(T0, τ = -.513, P < .001), 휴식 후 3분 갤럽(T6) 시점에서 모든 건강 및 경증 천식마는 저산소증을 나타냈다. 그러나 중등도 및 중증 천식마 일부는 T6에서 T0보다 pO2가 증가했다. HR과 RR의 회복 길이는 진단과 유의한 연관을 보이지 않았으며 광범위한 집단 내 변동성을 나타냈다. 결론적으로, SET는 말 천식 진단 및 호흡기 건강 평가에 적합한 도구가 아니었다.",
+      "key_results": [
+        {
+          "result": "T0 시점 동맥산소분압(pO2)이 진단과 가장 강한 음의 상관관계를 보였다 (τ = -.513, LRT = 18.1, adj. P < .001).",
+          "evidence_quote": "Arterial partial pressure of oxygen (pO2) at T0 had the strongest association with diagnosis (τ = -.513, LRT = 18.1, adj. P < .001)."
+        },
+        {
+          "result": "모든 건강 말과 경증 천식마는 T6 시점에서 저산소증이 관찰되었다.",
+          "evidence_quote": "Hypoxemia at T6 was evident in all healthy and miEA horses."
+        },
+        {
+          "result": "중등도 및 중증 천식마 일부는 T6 시점에서 T0 보다 pO2가 증가하였다.",
+          "evidence_quote": "some horses with modEA and sEA presented with increased pO2 at T6 compared to T0."
+        },
+        {
+          "result": "RR과 HR 회복 시간은 천식 진단과 유의미한 연관성을 보이지 않았다 (RR τ = .112, LRT = .805, adj. P = .493; HR τ = .174, LRT = 1.528, adj. P = .287) 및 집단 내 변동성이 컸다.",
+          "evidence_quote": "Recovery lengths had no significant association with diagnosis (RR τ = .112, LRT = .805, adj. P = .493; HR τ = .174, LRT = 1.528, adj. P = .287) and demonstrated wide intra-group variation."
+        }
+      ],
+      "authors_conclusion": "본 연구에서 SET는 말 천식을 진단하거나 호흡기 건강 및 질병 평가에 적합한 결과를 제공하지 못하였다.",
+      "clinical_takeaway": "혼합 품종 여가마 대상 연구에서 SET 변수는 천식 진단에 제한적인 유용성을 보였다. 특히 저산소증 유무 및 pO2 변화는 초기 진단과 연관성이 있으나, 심박수와 호흡수 회복 지표는 진단과 관련성이 없었다. 따라서 SET 단독으로 말 천식의 임상적 평가나 진단 도구로 사용하기에는 부족하며, 다른 진단법과 함께 종합적으로 고려해야 한다. 이는 말의 호흡기 문제 평가 시 SET 결과 해석을 신중히 해야 하고, 과도한 의존을 피해야 함을 시사한다. 연구 대상은 여가용 혼합 품종 말로, 경증부터 중증까지 천식 환자를 포함하므로 이 연구 결과는 비슷한 임상 상황에서만 일반화할 수 있다.",
+      "limitations": [
+        "연구가 소규모의 임상 코호트를 대상으로 수행되었고 표본 수가 제한적임.",
+        "설문 기반 진단 및 BALF 세포학에 의한 천식 분류로 진단 기준의 객관성 제한 가능성 있음.",
+        "후향적 횡단면 연구 디자인으로 인과관계 확인이 어려움.",
+        "SET 프로토콜이 단일 기관에서만 수행되어 다른 환경에 일반화 어려움.",
+        "전체 결과가 초록에 국한되어 있어 세부 데이터 및 통계 정보 부족."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1093/jvimsj/aalag227",
+      "discovered_at": "2026-09-22 23:22:59.384845+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42770277/",
+      "summary_generated_at": "2026-09-23 23:24:12.971280+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag214",
+      "pmid": "42765737",
+      "pmcid": "PMC13591482",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag214",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42765737/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "This document provides a bibliographic correction regarding the efficacy of eltrombopag in cats but contains no new clinical data or trial results relevant to clinical decision-making.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "cat",
+        "dog"
+      ],
+      "disease_or_topic": "immune thrombocytopenia treatment",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": null,
+      "study_methods": null,
+      "one_sentence_summary": "이 문서는 면역성 혈소판감소증 치료에 대한 ACVIM 합의 선언문에서 고양이의 eltrombopag 효능에 대한 인용 오류를 정정하는 내용이다. 저자들은 고양이에서 eltrombopag가 효과적일 가능성이 낮다는 주장의 적절한 출처가 2004년 학회 초록임을 인정하고, 이를 바로잡았다. 그러나 본 자료에는 임상 시험이나 환자 대상 연구 결과 등이 포함되어 있지 않다.",
+      "key_results": [
+        {
+          "result": "Eltrombopag is unlikely to be effective in cats according to an earlier conference abstract from 2004.",
+          "evidence_quote": "We concur that the appropriate citation for our statement that eltrombopag is unlikely to be effective in cats should have been the conference abstract from 2004"
+        }
+      ],
+      "authors_conclusion": "Eltrombopag is unlikely to be effective in cats; the appropriate reference for this statement is a 2004 conference abstract.",
+      "clinical_takeaway": "이 문서는 고양이 면역성 혈소판감소증 치료에서 eltrombopag의 효과가 낮을 가능성이 있다는 기존 견해에 대한 인용 오류를 정정한 것으로, 직접적인 임상 데이터나 치료법 비교 결과를 제공하지 않는다. 따라서 고양이 환자에 대한 eltrombopag 사용을 검토할 때는 추가적인 임상 연구 결과가 필요함을 인지해야 하며, 현 시점에서는 이 약제의 유효성을 확실히 확립하기 어렵다. 본 자료는 주로 문헌 출처 적합성에 관한 내용이므로 임상 적용에 대해 신중을 기할 필요가 있다.",
+      "limitations": [
+        "본 자료는 임상 연구가 아닌 회신 편지 형식이며, 임상적 효과나 안전성 데이터를 포함하지 않는다.",
+        "인용된 효과 부재 주장의 근거가 2004년 학회 초록에 한정되어 있어 최신 임상 근거는 부재하다.",
+        "샘플 크기, 환자 특성, 연구 디자인 등이 명시되어 있지 않다.",
+        "전체 논문이 아닌 일부분만 제공되어 상세한 맥락 파악이 어렵다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1093/jvimsj/aalag214",
+      "discovered_at": "2026-09-21 23:24:34.274545+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13591482",
+      "summary_generated_at": "2026-09-23 23:23:39.405898+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Combination of Hypofractionated Radiation Therapy and Gilvetmab for the Treatment of Cutaneous or Subcutaneous Mast Cell Tumours in Dogs.",
       "journal": "Veterinary and Comparative Oncology",
       "journal_id": "vco",
@@ -847,19 +967,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 631
+        "received": 632
       },
       "europe_pmc": {
-        "status": "failed",
-        "received": 612,
-        "error": "KeyError"
+        "status": "ok",
+        "received": 676
       }
     },
-    "started_at": "2026-09-22T23:22:57.913207+00:00",
-    "since": "2026-08-08",
-    "processed": 3,
-    "failed": 18,
-    "deferred": 949,
-    "finished_at": "2026-09-22T23:26:19.489042+00:00"
+    "started_at": "2026-09-23T23:21:38.526666+00:00",
+    "since": "2026-08-09",
+    "processed": 2,
+    "failed": 16,
+    "deferred": 954,
+    "finished_at": "2026-09-23T23:25:03.223356+00:00"
   }
 }
