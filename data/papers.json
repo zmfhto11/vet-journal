@@ -1,9 +1,64 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T23:25:03.284040+00:00",
-  "last_successful_collection": "2026-09-23T23:21:38.526625Z",
+  "generated_at": "2026-09-24T23:26:47.703180+00:00",
+  "last_successful_collection": "2026-09-24T23:23:50.174578Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Gene electrotransfer for DNA immunotherapy in veterinary oncology: Technical Tutorial Video.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-23",
+      "online_publication_date": "2026-09-23",
+      "publication_date_raw": "2026-Sep-23",
+      "doi": "10.2460/javma.26.05.0428",
+      "pmid": "42777771",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.05.0428",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42777771/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 증거는 수의학 종양학에서 DNA 면역요법 전달을 위한 유전자 전기전달 기술 사용 방법을 시각적으로 시연하며, 실제 임상적 효능이나 환자 예후 데이터는 제공하지 않습니다. 따라서 임상적 적용 가능성은 확인되나 직접적 치료 결과 연구는 아닙니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "gene electrotransfer technique for DNA immunotherapy in veterinary oncology",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "수의학 종양학에서 플라스미드 DNA 면역요법 투여를 위한 유전자 전기전달(GET) 기술 시연.",
+      "study_methods": "영상은 개 및 고양이 암 환자에서 전신마취 하 근육내(IM) 플라스미드 주입, 전극 위치 설정, 전기천공 펄스 전달 및 시술 전후 환자 평가를 포함한 GET 절차의 환자 준비와 진행 과정을 단계별로 설명하며, 필요한 장비와 절차 흐름, 기술적 고려사항을 리뷰함.",
+      "one_sentence_summary": "본 기술 튜토리얼 비디오는 개와 고양이 암 환자에서 DNA 면역요법을 전달하기 위한 유전자 전기전달(GET) 절차를 시각적으로 시연했다. 내용은 근육내 플라스미드 주입, 전극 배치, 전기 펄스 전달 및 전신마취 하 환자 모니터링을 포함하며, 필요한 장비와 절차 순서를 소개한다. 이 비디오는 수의종양학에서 종양 관련 항원 및 면역조절 인자를 표적으로 하는 DNA 면역요법 전달에 GET 활용이 증가하는 추세임을 감안할 때 실용적인 기술 개요를 제공한다.",
+      "key_results": [
+        {
+          "result": "GET 절차는 전신마취 하에 시행되며 환자 준비, 플라스미드 주입, 전기 펄스 전달, 환자 모니터링의 일반적인 절차 흐름을 보여준다.",
+          "evidence_quote": "The video illustrates the general workflow for delivery of plasmid DNA immunotherapy using IM GET under general anesthesia, including patient preparation, plasmid administration, pulse delivery, and patient monitoring."
+        }
+      ],
+      "authors_conclusion": "GET 기술은 수의학 종양학에서 종양연관 항원 및 면역조절 분자를 표적으로 하는 DNA 면역요법 전달을 위해 점점 더 많이 사용되고 있으며, 이 튜토리얼은 해당 기술의 실무적 개요를 제공한다.",
+      "clinical_takeaway": "본 영상은 수의학 종양 환자(개 및 고양이)의 DNA 기반 면역요법 투여를 위한 유전자 전기전달(GET) 절차를 단계별로 시연하여, 관련 장비와 환자 준비 및 시술 과정을 명확히 보여준다. 이는 실무 수의사들이 GET 기술 적용 시 기본 절차 이해 및 준비에 도움을 줄 수 있다. 다만, 임상적 치료 효과나 환자 예후에 관한 직접적 근거를 제공하지 않으므로, 임상 결정 시 추가적인 효능 연구 필요성을 인식해야 한다. 또한 전신마취 및 전기천공 기술 특성을 감안하여 적절한 모니터링과 안전 조치가 요구됨을 유념해야 한다.",
+      "limitations": [
+        "본 연구는 영상 튜토리얼로, 임상 결과나 치료 효과에 대한 데이터가 제공되지 않았다.",
+        "시술 후 장기적 결과나 부작용에 관한 정보가 없으며, 임상 적용에 대한 직접적 근거는 부족하다.",
+        "단일 영상 자료로만 근거가 제한되어 있으며, 다수 환자를 대상으로 한 임상시험 데이터가 부재하다.",
+        "전문가 평가나 비교 연구 없이 시술 방법만 기술하였다.",
+        "초록만 제공되어 전체 연구 상세 내용 분석이 불가하다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.05.0428",
+      "discovered_at": "2026-09-24 23:23:52.004235+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42777771/",
+      "summary_generated_at": "2026-09-24 23:24:49.633062+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
       "journal": "Veterinary Surgery",
@@ -967,18 +1022,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 632
+        "received": 646
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 676
+        "received": 669
       }
     },
-    "started_at": "2026-09-23T23:21:38.526666+00:00",
-    "since": "2026-08-09",
-    "processed": 2,
-    "failed": 16,
-    "deferred": 954,
-    "finished_at": "2026-09-23T23:25:03.223356+00:00"
+    "started_at": "2026-09-24T23:23:50.174665+00:00",
+    "since": "2026-08-10",
+    "processed": 1,
+    "failed": 22,
+    "deferred": 965,
+    "finished_at": "2026-09-24T23:26:47.634145+00:00"
   }
 }
