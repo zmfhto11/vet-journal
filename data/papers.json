@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T23:26:47.703180+00:00",
-  "last_successful_collection": "2026-09-24T23:23:50.174578Z",
+  "generated_at": "2026-09-25T23:26:40.978901+00:00",
+  "last_successful_collection": "2026-09-25T23:23:27.214121Z",
   "mode": "live",
   "papers": [
     {
@@ -477,6 +477,67 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42744608/",
       "summary_generated_at": "2026-09-20 23:25:30.999052+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "BRAFV595E mutation detected across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-09",
+      "online_publication_date": "2026-09-09",
+      "publication_date_raw": "2026-Sep-09",
+      "doi": "10.2460/javma.26.06.0508",
+      "pmid": "42716084",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.06.0508",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42716084/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 스코티시 테리어와 같이 요로 상피세포암 발생 고위험군 견종을 대상으로 BRAF 돌연변이와 질병 스펙트럼을 연계하여 임상에서의 조기 진단과 스크리닝 근거를 제공하므로, 개 임상 진단 및 예방 분야에 직접적 관련성이 있다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "oncology",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine urothelial carcinoma and BRAF mutation",
+      "study_design": "prospective",
+      "sample_size": 120,
+      "sample_size_quote": "Scottish Terriers ≥ 6 years old with no outward evidence of urinary disease (n = 120) were screened for UC",
+      "objective": "BRAF BRAFV595E 돌연변이의 존재를 비신생성 요로상피에서부터 침습성 요로상피암(UC)에 이르기까지 다양한 단계에서 탐지하여 이를 기반으로 향후 암 예방 연구의 기초를 마련한다.",
+      "study_methods": "6세 이상 스코티시 테리어 120마리를 대상으로 요로 상피세포암(UC) 선별검사 시행. 검사방법은 소변 검사, 요로 초음파, 이후 방광경 생검 및 가능한 경우 부검까지 포함. BRAFV595E 돌연변이는 소변 침전물에서 드롭렛 디지털 PCR로, 방광 조직에서는 면역조직화학법으로 검출. 초기 결과는 2022년에 발표됐으며, 이번에는 확대된 추적관찰 결과가 포함됨.",
+      "one_sentence_summary": "스코티시 테리어 120두를 대상으로 진행한 전향적 연구에서, 41두에서 사진과 생검으로 요로상피암(UC)이 확인되었다(31두 고등급 UC, 6두 저등급 UC, 1두 제자리암종, 3두 이형성증에서 고등급 UC로 진행). BRAFV595E 돌연변이는 고등급 UC 환자 26두 중 23두의 소변에서, 저등급 UC 5두 중 4두, 이형성 3두 중 2두, 그리고 UC 미발견군 66두 중 12두에서 발견되었다. 면역조직화학법에서도 UC 및 비신생성 요로 상피에서 돌연변이가 확인되어 BRAF 돌연변이가 요로상피암 전 단계부터 나타날 수 있음을 시사한다.",
+      "key_results": [
+        {
+          "result": "생검으로 확인된 41두의 UC 중 31두는 고등급, 6두는 저등급, 1두는 제자리암종, 3두는 고등급 UC로 진행된 이형성증이었다.",
+          "evidence_quote": "biopsy-confirmed UC was found in 41 dogs including 31 high-grade UC, 6 low-grade UC, 1 carcinoma in situ, and 3 dysplasias that progressed to high-grade UC."
+        },
+        {
+          "result": "고등급 UC 26두 중 23두, 저등급 UC 5두 중 4두, 이형성증 3두 중 2두, UC 미검출군 66두 중 12두의 소변에서 BRAFV595E 돌연변이가 검출되었다.",
+          "evidence_quote": "The BRAFV595E mutation was found in the urine of 23 of 26 dogs with high-grade UC, 4 of 5 dogs with low-grade UC, 2 of 3 dogs with dysplasia, and 12 of 66 dogs with no UC detected over a median of 14 months of follow-up"
+        },
+        {
+          "result": "BRAFV595E 돌연변이는 면역조직화학에서 UC뿐만 아니라 비신생성 요로 상피에서도 검출되었다.",
+          "evidence_quote": "The BRAFV595E mutation was detected in UC and non-neoplastic urothelium by immunohistochemistry."
+        }
+      ],
+      "authors_conclusion": "BRAF V595E 돌연변이는 개의 요로상피암 및 비신생성 요로 상피 단계 모두에서 존재하며, 이는 향후 암 예방 연구에 중요한 기초자료가 될 것이다.",
+      "clinical_takeaway": "본 연구는 스코티시 테리어를 포함한 고위험 견종에서 요로상피암 발생 초기 단계부터 BRAF 돌연변이가 존재함을 입증했다. 따라서 이들 견종에서 정기적인 요로암 선별검사가 필요하며, 소변 내 돌연변이 검사와 영상 및 조직 검사를 병행하는 것이 권장된다. BRAF 돌연변이가 암 진행과 관계된 중요한 선행생체지표임을 시사하나, 추적관찰 기간과 대상 견종에 제한이 있으므로 다른 견종과 장기 추적연구 필요성이 남아 있다.",
+      "limitations": [
+        "초기 결과는 2022년에 발표된 바 있으며, 이번 연구는 확장된 추적 관찰 결과를 포함하지만 여전히 스코티시 테리어 단일 견종군에 국한된다.",
+        "연구 대상 120두 중 일부만이 생검 및 부검으로 확진되어 전체 대조군에 대한 확실한 진단 확립에 한계가 있다.",
+        "BRAF 돌연변이 검출과 임상적 발현 간 인과관계가 명확히 증명되지는 않았다.",
+        "초록만 제공되어 상세한 연구 설계와 진행 과정이 제한적으로 기술되었다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "개 임상에서 고위험 견종의 요로상피암 조기 진단과 예방을 위한 구체적이고 직접적인 분자 진단법 증거를 제공하므로 임상검진 체계 개선에 도움된다.",
+      "id": "doi:10.2460/javma.26.06.0508",
+      "discovered_at": "2026-09-16 01:13:31.968749+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42716084/",
+      "summary_generated_at": "2026-09-25 23:26:10.296387+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1022,18 +1083,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 646
+        "received": 688
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 669
+        "received": 672
       }
     },
-    "started_at": "2026-09-24T23:23:50.174665+00:00",
-    "since": "2026-08-10",
+    "started_at": "2026-09-25T23:23:27.214175+00:00",
+    "since": "2026-08-11",
     "processed": 1,
-    "failed": 22,
-    "deferred": 965,
-    "finished_at": "2026-09-24T23:26:47.634145+00:00"
+    "failed": 15,
+    "deferred": 1013,
+    "finished_at": "2026-09-25T23:26:40.906960+00:00"
   }
 }
