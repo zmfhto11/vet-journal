@@ -1,9 +1,83 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T23:26:40.978901+00:00",
-  "last_successful_collection": "2026-09-25T23:23:27.214121Z",
+  "generated_at": "2026-09-26T23:26:37.834817+00:00",
+  "last_successful_collection": "2026-09-26T23:23:49.663469Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Dedicated Tibial Tuberosity Fixation Plates Provide Comparable Stiffness to Pin and Figure-of-eight Wire Constructs in Ex Vivo Stabilization of Laterally Transposed Tibial Crests.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-09-25",
+      "online_publication_date": "2026-09-25",
+      "publication_date_raw": "2026-Sep-25",
+      "doi": "10.1055/a-2956-0699",
+      "pmid": "42790529",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2956-0699",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42790529/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 다수의 대형견 사체 경골을 대상으로 다양한 경골 결절 고정술 방법의 기계적 안정성 비교를 통해 임상에서 수술 시 적합한 고정 방법 선택에 직접적 도움을 제공한다.",
+      "primary_category": "surgery",
+      "tags": [
+        "orthopedics",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "tibial tuberosity transposition stabilization in dogs",
+      "study_design": "other",
+      "sample_size": 16,
+      "sample_size_quote": "Sixteen cadaveric tibiae from eight large-breed dogs were assigned to one of four groups.",
+      "objective": "좌측 또는 우측 경골 결절 전위 후 적절한 고정 방법 선정을 위해 ex vivo에서 네 가지 고정 방법의 기계적 특성을 비교하였다.",
+      "study_methods": "본 연구는 8마리 대형 견의 사체에서 총 16개의 경골을 무작위로 4개 그룹에 배정하였다. 각 그룹은 경골 결절 고정법(두 개의 평행 핀(PP), 헤드리스 압축 나사(HCS), 핀 두 개와 피겨 에잇 와이어 결합(TPF8W), 신속 탈구 플레이트 시스템(RLPS))에 따라 분류되었다. 경골 능선 골절 후 4mm 외측으로 이동시킨 뒤 지정된 고정법으로 고정하였다. 고정체는 슬개건에 힘을 가해 파괴 시점까지 하중을 측정하였고 강성, 항복 및 최대 하중, 변위, 파괴 시 하중 및 실패 양상을 기록하였다.",
+      "one_sentence_summary": "본 연구는 8마리의 대형견에서 확보한 16개의 사체 경골을 사용하여 네 가지 경골 결절 고정술(PP, HCS, TPF8W, RLPS)의 ex vivo 기계적 안정성을 비교하였다. TPF8W와 RLPS 고정술은 각각 중간 강성 84.2 MPa 및 72.8 MPa, 항복 하중 778.3 N 및 644.6 N, 파괴 하중 786.0 N 및 691.2 N으로 유의한 차이가 없었으며, PP(61.7 MPa, 558.4 N, 미기재)와 HCS(47.6 MPa, 422.3 N, 미기재) 고정보다 유의하게 우수하였다. 실패 양상은 PP에서 핀 굽힘(4/4), HCS에서 나사산 파괴(4/4), TPF8W에서 슬개건 파열(4/4), RLPS는 슬개건 파열(2/4) 또는 경골 골절(2/4)이 관찰되었다.",
+      "key_results": [
+        {
+          "result": "TPF8W와 RLPS 방법 사이에 강성(84.2 vs. 72.8 MPa), 항복 하중(778.3 vs. 644.6 N), 파괴 하중(786.0 vs. 691.2 N)에서 유의한 차이가 없었다.",
+          "evidence_quote": "There were no significant differences between the TPF8W and RLPS constructs in median stiffness (84.2 vs. 72.8 MPa), load to yield (778.3 vs. 644.6 N), or load to failure (786.0 vs. 691.2 N), respectively."
+        },
+        {
+          "result": "PP와 HCS 고정법은 유의하게 낮은 강성(61.7 및 47.6 MPa)과 낮은 하중에서 파괴되었다(558.4 및 422.3 N).",
+          "evidence_quote": "Constructs stabilized with PP and HCS were significantly less stiff (with median of 61.7 and 47.6 MPa, respectively) and failed at lower loads (with median of 558.4 and 422.3 N, respectively)."
+        },
+        {
+          "result": "PP 고정법은 모든 샘플에서 핀 굽힘으로 실패하였다(4/4).",
+          "evidence_quote": "Failure modes differed among groups: pin bending occurred in all PP constructs (4/4)"
+        },
+        {
+          "result": "HCS 고정법은 모든 샘플에서 나사산 파괴로 실패하였다(4/4).",
+          "evidence_quote": "screw stripping in all HCS constructs (4/4)"
+        },
+        {
+          "result": "TPF8W 고정법은 모든 샘플에서 슬개건 파열로 실패하였다(4/4).",
+          "evidence_quote": "patellar ligament rupture in all TPF8W constructs (4/4)"
+        },
+        {
+          "result": "RLPS 고정법은 슬개건 파열(2/4) 또는 경골 골절(2/4)로 실패하였다.",
+          "evidence_quote": "RPLS constructs failed by either patellar ligament rupture (2/4) or tibial fracture (2/4)."
+        }
+      ],
+      "authors_conclusion": "TPF8W와 RLPS 고정법은 경골 결절 전위 시 작용하는 힘에 대해 유사한 기계적 저항을 제공하며, 원위 경골 결절을 고정하지 않는 PP와 HCS보다 우수하다.",
+      "clinical_takeaway": "본 연구는 대형견의 경골 결절을 외측으로 이동시킨 후 고정하는 네 가지 방법 중 TPF8W와 RLPS 방법이 기계적 강도 및 하중 저항성이 가장 우수함을 보여준다. 특히, distal tibial crest를 고정하는 방법이 더 안정적임을 시사해 수술 시 이 부위의 고정 고려가 필요하다. 반면, PP와 HCS 방법은 낮은 강성 및 하중 저항력과 핀 굽힘 또는 나사산 파괴 실패가 반복되어 임상 적용 시 주의가 요구된다. 본 연구는 사체를 이용한 실험적 결과이므로 실제 살아있는 환자에서 조직 반응이나 장기적 결합력에 대한 추가 연구가 필요하다.",
+      "limitations": [
+        "사체 경골을 대상으로 한 ex vivo 연구로 실제 임상 환경과 조직 반응, 장기적 고정력 변화를 반영하지 못함.",
+        "표본 수가 제한적이며 단기 기계적 특성만 평가함.",
+        "다양한 품종 또는 소형견에 대한 적용 가능성은 불명확함.",
+        "풀 텍스트 미제공으로 세부 수술기법 및 부작용 평가 부족.",
+        "견종, 나이, 골밀도 등 변인 통제가 명확하지 않음."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 대형견 경골 결절 고정 연구로, 다른 방법 대비 우수한 고정법을 밝혀 임상 수술 전략에 실질적 근거를 제공하여 추천함.",
+      "id": "doi:10.1055/a-2956-0699",
+      "discovered_at": "2026-09-26 23:23:52.274306+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42790529/",
+      "summary_generated_at": "2026-09-26 23:25:03.483695+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Gene electrotransfer for DNA immunotherapy in veterinary oncology: Technical Tutorial Video.",
       "journal": "Journal of the American Veterinary Medical Association",
@@ -1083,18 +1157,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 688
+        "received": 686
       },
       "europe_pmc": {
         "status": "ok",
         "received": 672
       }
     },
-    "started_at": "2026-09-25T23:23:27.214175+00:00",
-    "since": "2026-08-11",
+    "started_at": "2026-09-26T23:23:49.663520+00:00",
+    "since": "2026-08-12",
     "processed": 1,
-    "failed": 15,
-    "deferred": 1013,
-    "finished_at": "2026-09-25T23:26:40.906960+00:00"
+    "failed": 11,
+    "deferred": 1019,
+    "finished_at": "2026-09-26T23:26:37.766575+00:00"
   }
 }
