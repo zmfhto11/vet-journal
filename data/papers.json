@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T23:27:03.149424+00:00",
-  "last_successful_collection": "2026-09-27T23:24:16.700108Z",
+  "generated_at": "2026-09-28T23:32:36.083761+00:00",
+  "last_successful_collection": "2026-09-28T23:25:33.238185Z",
   "mode": "live",
   "papers": [
     {
@@ -1013,6 +1013,75 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Current knowledge of intermittent photic stimulation for electroencephalography in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag217",
+      "pmid": "42803610",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag217",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42803610/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 논문은 간헐적 광 자극법(intermittent photic stimulation, IPS)의 개에서의 표준화 및 적용 가능성을 고찰하는 리뷰 논문으로, 직접적인 임상 연구 결과 없이 기존 문헌들을 종합하여 방법론과 프로토콜의 불일치 문제를 지적하고 이를 개선하기 위한 권고안을 제시함. 따라서 임상 현장 적용을 위한 직접적 근거보다는 간접적 지식 제공에 해당함.",
+      "primary_category": "other",
+      "tags": [
+        "internal_medicine",
+        "neurology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "intermittent photic stimulation for electroencephalography in dogs",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "간헐적 광 자극법(IPS)의 개 EEG 진단에서의 활용 실태와 연구 간 이질성 평가, IPS 프로토콜 표준화를 위한 실용적 지침 제시",
+      "study_methods": "출판된 수의 임상 연 구들을 종합하여 개의 간헐적 광 자극법을 다루었으며, 자극 디자인, 각성 상태, 전극 배열 등의 변수 간 차이를 분석하고 인간을 대상으로 한 기존 방법론과 비교하며 수의 임상에 적용 가능한 표준화 방안을 제안함. 프로토콜 간 빈도 범위, 빛 세기, 눈 상태 조절, 깜박임 지속 시간, 각성 상태, 램프 거리 등 변동성이 큼을 확인하고 이에 따른 진단 민감도의 영향도 논의함.",
+      "one_sentence_summary": "본 리뷰는 간헐적 광 자극법(IPS)을 이용한 개의 뇌파검사(EEG) 연구들을 분석하여, IPS가 개의 특정 간질 증후군에서 일반화된 스파이크-웨이브 및 다중스파이크-웨이브 방전을 유발할 수 있으나 프로토콜이 빈도, 빛 강도, 눈 상태, 각성 상태 등에서 매우 다양함을 확인하였다. 특히 각성 상태에서 검사가 이루어질 때 진단 민감도가 높으며, 진정 또는 전신 마취 중에는 광 자극 반응이 저하됨이 보고되었다. 또한, 전극 배열의 부족과 비일관성으로 공간적 해석과 연구 간 비교에 어려움이 존재함을 밝혔다. 인간 EEG 검사 방법을 참고하여 개의 IPS 표준화 및 EEG 진단 민감도 향상을 위한 가이드라인을 제시하였다.",
+      "key_results": [
+        {
+          "result": "광 자극이 개의 특정 간질 증후군에서 일반화된 스파이크-웨이브 및 다중스파이크-웨이브 방전을 유발함",
+          "evidence_quote": "Published veterinary studies demonstrate that photic stimulation can provoke generalized spike-wave and polyspike-wave discharges in selected epilepsy syndromes of dogs, particularly during awake recordings."
+        },
+        {
+          "result": "검사 중 각성 상태가 진단에 중요한 변수이며, 진정 또는 전신 마취 시 광 자극 반응이 저하됨",
+          "evidence_quote": "Sedation and general anesthesia appear to attenuate retinal and thalamocortical responsiveness, decreasing the likelihood of eliciting photoparoxysmal responses."
+        },
+        {
+          "result": "프로토콜 간 빈도 범위, 빛 세기, 눈 상태 조절, 깜박임 지속 시간, 각성 상태, 램프 거리 등의 요소에서 상당한 이질성 존재",
+          "evidence_quote": "However, protocols vary substantially in frequency range, light intensity, eye state control, flash duration, vigilance state, and lamp distance."
+        },
+        {
+          "result": "전극 배열이 일관성이 없고 부족하여 공간적 해석 및 연구 간 비교가 어려움",
+          "evidence_quote": "sparse and inconsistent electrode arrays limit spatial interpretation of photic responses and hinder cross-study comparisons"
+        },
+        {
+          "result": "인간 EEG에서의 확립된 방법론과 수의 임상 데이터를 근거로 표준화된 각성 상태 검사, 자극 매개변수 정의, 공간 샘플링 개선 권고안 제시",
+          "evidence_quote": "Drawing on established methodology used in humans and emerging veterinary data, this review outlines practical recommendations for standardized awake testing, defined stimulus parameters, and improved spatial sampling."
+        }
+      ],
+      "authors_conclusion": "본 리뷰는 개 EEG에서 간헐적 광 자극법의 임상적 활용을 위한 프로토콜 표준화의 필요성을 강조하며, 표준화된 검사법이 진단 민감도를 높이고 개에서의 광민감성 간질 증후군 탐지 및 인간과의 비교 연구를 촉진할 수 있음을 제안한다.",
+      "clinical_takeaway": "간헐적 광 자극법은 개 EEG 상 특정 간질 증후군 진단에 유용할 수 있으나, 현재 프로토콜의 다양성으로 인해 실제 임상 적용과 해석에 어려움이 크다. 특히 진정 또는 마취 상태에서는 광 자극 반응이 감소하므로 반드시 각성 상태에서 검사를 시행하는 것이 중요하다. 전극 배열의 표준화와 빛 자극 조건의 일관된 조절을 통해 진단 정확도를 높이고, 인간 간질 연구와의 비교 가능성도 향상될 수 있다. 다만 본 연구는 기존 문헌을 종합한 리뷰로 직접적인 대규모 임상 시험 근거가 부족하므로, 임상 적용에는 주의를 기울여야 한다.",
+      "limitations": [
+        "수의 임상 연구가 제한적이고 이질적이며 표본 크기와 설계가 다양하여 강력한 일반화 어려움",
+        "대부분의 근거가 간접 자료 및 리뷰 논문에 기반하여 직접적 임상 연구 부재",
+        "단일 프로토콜이나 표준화된 임상 연구 부재로 실제 검사법과 결과 간 비교 제약",
+        "전체 논문이 아닌 초록만 제공되어 상세한 방법론과 통계적 분석 정보 부족"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1093/jvimsj/aalag217",
+      "discovered_at": "2026-09-28 23:25:35.022818+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42803610/",
+      "summary_generated_at": "2026-09-28 23:29:59.526606+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Association of submaximal exercise test variables with diagnosis of asthma in a mixed-breed cohort of leisure horses.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -1203,6 +1272,263 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42680555/",
       "summary_generated_at": "2026-09-22 23:25:57.414392+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Carbapenem-resistant Enterobacterales in companion animals are an emerging One Health threat.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-19",
+      "online_publication_date": "2026-08-19",
+      "publication_date_raw": "2026-Aug-19",
+      "doi": "10.2460/javma.26.06.0512",
+      "pmid": "42617659",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.06.0512",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617659/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "연구는 반려동물에서 나타나는 Carbapenem 내성 Enterobacterales(CRE)의 증가 추세와 관련 지식을 제공하나, 직접적인 임상 연구 결과나 치료 효과 데이터는 포함하지 않으며 역학과 감염 예방 중심의 개요임.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "infectious_disease",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "Carbapenem-resistant Enterobacterales",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "반려동물 내 Carbapenem 내성 Enterobacterales의 역학, 내성 기전, 진단, 치료 및 감염 예방 관행에 관한 종합적 개요 제공",
+      "study_methods": "미국 내 반려동물에서의 CRE 검출 동향과 발병 사례 및 CRE 교환 기록을 종합하였으며, CRE에 관한 지식 격차를 정리해 현황 파악 및 대응의 필요성을 강조함. 특정 연구군이나 경우 수는 명시하지 않음.",
+      "one_sentence_summary": "미국에서 탄탄한 임상 표집은 부족하나 반려견과 반려묘에서 CRE 검출이 최근 증가하고 있음을 보고하였다. CRE는 사람과 동물, 환경 사이에서 다방향으로 전파되며, 동물병원 내 발병 사례를 통해 동물 의료 환경에서 CRE가 전염 및 환경 내 잔존할 수 있음을 시사한다. 탄약제는 반려동물에 공식 승인된 약제가 아니나 비승인 방식으로 간헐 처방되며, CRE 관련 주요 지식 격차로는 실제 발생률, 내성 기전, 집락 형성 역학, 인수 위험 인자 등이 있다. 한 건강(One Health) 전략 하에 감시 및 대응이 요구됨을 강조하였다.",
+      "key_results": [
+        {
+          "result": "미국에서 반려동물내 CRE 검출이 최근 증가하였다.",
+          "evidence_quote": "In the US, CRE detections in companion animals have recently increased."
+        },
+        {
+          "result": "반려동물 내 CRE 유병률은 낮은 것으로 추정되나, 동물병원 내 발병 사례가 보고되어 CRE가 의료 환경 내에서 전염 및 잔존할 수 있음을 보여준다.",
+          "evidence_quote": "While prevalence of CRE in US companion animals is estimated to be low, outbreaks in veterinary hospitals demonstrate that CRE can be transmitted within animal healthcare settings, persist in the environment, and cause operational disruption."
+        },
+        {
+          "result": "반려동물과 사람 간에 CRE 교환이 기록되어 있다.",
+          "evidence_quote": "Exchange of CRE between companion animals and people has been documented."
+        },
+        {
+          "result": "CRE와 관련된 지식 격차로는 정확한 유병률 추정, 내성 메커니즘 이해 부족, 집락화 역학 관련 제한된 데이터, 인수 위험 인자에 대한 정보 부족 등이 있다.",
+          "evidence_quote": "There are several important knowledge gaps about CRE in companion animals, including (1) uncertainties in true prevalence due to infrequent testing and underreporting; (2) lack of understanding of carbapenem resistance mechanisms because of inconsistent access to testing; (3) limited data on colonization dynamics; and (4) lack of information characterizing risk factors for acquisition."
+        }
+      ],
+      "authors_conclusion": "CRE는 반려동물에서 점차 출현하고 있으며, 환경 내 잔존과 의료 환경 내 전염 가능성 때문에 지속 관찰 및 감시, 감염 예방 관리 조치의 필요성이 대두된다. 이러한 맥락에서, CRE에 대한 종합적 이해와 One Health 관점의 대응 전략 마련이 필수적이다.",
+      "clinical_takeaway": "반려견과 반려묘에서 Carbapenem 내성 Enterobacterales(CRE)의 감염과 보균이 최근 늘어나고 있다는 점은, 임상 수의사에게 CRE 감시 및 감염 관리에 대한 경각심을 요구한다. 특히 CRE는 동물병원 환경에서 전염 및 잔존할 수 있어, 병원 내 감염 예방 조치 강화가 중요하다. 또한 사람-동물 간 CRE 교환 가능성은 공중보건 차원의 One Health 접근 필요성을 시사한다. 하지만 반려동물 내 CRE 유병률과 내성 기전에 대한 이해가 부족하고, 진단 검사가 일관되지 않아 정확한 진단과 치료 가이드라인 마련에 한계가 있다. 따라서 CRE 관련 추가 연구와 함께 감염 관리 체계 구축이 요구된다.",
+      "limitations": [
+        "초록만 제공되어 상세 연구 설계, 대상군 및 수집된 데이터에 대한 정보가 부족함",
+        "직접적인 반려동물 임상 시험이나 치료 효과에 대한 정보가 포함되어 있지 않음",
+        "유병률 및 역학 데이터가 추정치 혹은 보고 사례에 기반하여 정확성에 한계가 있음",
+        "내성 기전과 감염 동태 등 주요 부분에 대한 과학적 증거가 부족함"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.06.0512",
+      "discovered_at": "2026-09-17 05:57:05.938789+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42617659/",
+      "summary_generated_at": "2026-09-28 23:30:08.207827+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Preclinical Cyclic Testing of Adjunctive Fixation of the Humeral Epicondyle in a Lateral Condylar Fracture Model: Ex Vivo Comparison of a Locking Plate versus a Light-curable Composite.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-08-17",
+      "online_publication_date": "2026-08-17",
+      "publication_date_raw": "2026-Aug-17",
+      "doi": "10.1055/a-2926-9519",
+      "pmid": "42608000",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2926-9519",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42608000/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 개의 견관절 외측 상과 골절 모델에서 전형적인 고정술과 새로운 광경화 복합 재료(AdhFix)를 비교하는 생체역학적 평가로, 임상적으로 사용 가능한 보조 고정 방법에 대한 직접적 근거를 제공한다.",
+      "primary_category": "surgery",
+      "tags": [
+        "orthopedics",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "humeral lateral condylar fractures fixation",
+      "study_design": "retrospective",
+      "sample_size": null,
+      "sample_size_quote": "Paired canine cadaver humeri were used to simulate lateral condylar humeral fractures.",
+      "objective": "광경화 복합체(AdhFix)와 표준 락킹 플레이트를 외측 상과 골절 모델에서 보조 고정력 및 기계적 성능 면에서 비교하는 것.",
+      "study_methods": "개의 시체 양측 견관절에서 외측 상과 골절을 시뮬레이션함. 모든 골절부는 4.5 mm 코르티컬 스크류로 횡상과 나사 결합 고정. 한쪽 뼈에는 2.7 mm 코르티컬 스크류를 내장한 광경화 복합체 보조고정, 반대쪽 뼈에는 2.7 mm 락킹 플레이트 보조고정 적용. 시편들은 20에서 130 N 사이의 축 압축 부하를 95,000회 반복하였으며 이동량과 동적 강성 비교. 마지막으로 실패점까지 단조 인장 시험 진행.",
+      "one_sentence_summary": "개의 시체 견관절 외측 상과 골절 모델에서 광경화 복합체(AdhFix)와 2.7 mm 락킹 플레이트를 보조 고정재로서 비교하였다. 4.5 mm 코르티컬 스크류로 횡상 결합 후 95,000회 20-130 N 축 압축 반복 부하를 가했고, 두 그룹 모두 기계적 파괴 없이 동적 강성과 변위에서 통계적으로 유의한 차이를 보이지 않았다. 단조 인장 시험에서의 항복점도 차이가 없었다. 이 결과는 AdhFix가 임상적 보조 고정 수단으로 사용 가능함을 시사한다.",
+      "key_results": [
+        {
+          "result": "사이클릭 테스트 중 양쪽 그룹 모두 기계적 파괴가 없었다.",
+          "evidence_quote": "There was no mechanical failure in either group during cyclic testing."
+        },
+        {
+          "result": "두 그룹 간 동적 강성, 변위, 그리고 단조 인장 시험 항복점에서 통계적으로 유의한 차이가 관찰되지 않았다.",
+          "evidence_quote": "There were no statistically significant differences between groups in construct dynamic stiffness, displacement, or yield point in terminal monotonic testing."
+        }
+      ],
+      "authors_conclusion": "사이클릭 테스트 결과는 광경화 복합체(AdhFix)를 상완골 외측 상과 골절의 보조 고정으로 사용할 수 있음을 지지한다.",
+      "clinical_takeaway": "개의 외측 상과 골절 치료에 있어 전통적 락킹 플레이트 대신 또는 보조 고정으로 사용할 수 있는 광경화 복합체(AdhFix)의 기계적 안정성이 유사함을 보여준다. 95,000회의 반복 압축 부하에도 파괴가 없었고 동적 강성 및 변위 면에서 차이가 없으므로, 임상에서 보조 고정 수단으로 고려할 수 있다. 다만 본 연구는 cadaveric 모델에서의 전임상 실험이므로 실제 임상 환경에서의 생체 반응과 장기적 내구성은 추가 연구가 필요하다.",
+      "limitations": [
+        "전임상 생체역학적 cadaveric 연구로 실제 생체 환경과 치료 후 임상적 결과를 반영하지 못함",
+        "표본 크기 및 임상적 변수가 제한적임",
+        "광경화 복합체의 장기 생체적합성 및 내구성은 평가되지 않음",
+        "abstract만 제공되어 상세 방법과 통계 분석 내용 부족"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1055/a-2926-9519",
+      "discovered_at": "2026-09-17 05:57:05.948286+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42608000/",
+      "summary_generated_at": "2026-09-28 23:31:20.909705+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Immunohistochemical Characterisation of Mismatch Repair Proteins in Feline Cancers: A Pilot Study Using Validated Cross-Reactive Antibodies.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-08-16",
+      "online_publication_date": "2026-08-16",
+      "publication_date_raw": "2026-Aug-16",
+      "doi": "10.1111/vco.70105",
+      "pmid": "42604724",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70105",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42604724/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "The study uses a pilot retrospective immunohistochemical analysis of feline tumor samples but does not link MMR protein expression directly to clinical outcomes or treatments in cats. The evidence is relevant for understanding feline cancer biology but lacks clinical intervention or prognosis correlation, limiting direct clinical application at this stage.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "Mismatch Repair Protein Expression in Feline Cancers",
+      "study_design": "retrospective",
+      "sample_size": 83,
+      "sample_size_quote": "we conducted a pilot screening to assess MMR protein expression in 83 feline tumours",
+      "objective": "To establish a validated immunohistochemistry approach for assessing mismatch repair (MMR) proteins in feline tumors and to preliminarily characterize MMR protein expression across various feline cancer types.",
+      "study_methods": "The study validated cross-reactive anti-human antibodies against MLH1, MSH2, and MSH6 using CRISPR/Cas9-engineered feline tumor cell lines lacking each target gene to confirm specificity. Using these antibodies, immunohistochemistry was performed on 83 archived feline tumor samples across multiple tumor types to assess MMR protein expression patterns. The approach aimed to map preliminary MMR protein expression in feline cancers as a pilot investigation.",
+      "one_sentence_summary": "본 연구는 CRISPR/Cas9를 이용해 특정 MMR 유전자를 결손시킨 고양이 종양 세포주를 통해 인간용 항체의 교차 반응성을 검증한 후, 83마리의 고양이 종양 조직에서 면역조직화학적으로 MLH1, MSH2, MSH6 단백질 발현을 평가하였다. 멜라노마 6건 중 6건(100%), 골육종 15건 중 14건(93%)에서 MLH1 발현이 소실되는 등 여러 종양 유형에서 MMR 단백질 발현 감소가 관찰되었다. 이 연구는 고양이 종양에서 MMR 단백질 평가를 위한 분석적으로 검증된 기초 틀을 제공하며, MMR 장애가 고양이 암에서 예상보다 널리 분포할 수 있음을 시사한다.",
+      "key_results": [
+        {
+          "result": "멜라노마 6건 중 6건(100%)에서 MLH1 발현이 완전히 소실되었다.",
+          "evidence_quote": "Notably, MLH1 expression was lost in all melanoma cases (6/6, 100%)"
+        },
+        {
+          "result": "골육종 15건 중 14건(93%)에서 MLH1 발현 소실이 관찰되었다.",
+          "evidence_quote": "and in most osteosarcomas (14/15, 93%)"
+        },
+        {
+          "result": "고양이 83개의 종양 샘플에서 MLH1, MSH2, MSH6 발현에 다양한 감소 또는 소실이 관찰되었다.",
+          "evidence_quote": "we conducted a pilot screening to assess MMR protein expression in 83 feline tumours and observed variable reductions or losses of MLH1, MSH2 and MSH6 across several tumour types"
+        },
+        {
+          "result": "교차 반응성 항체의 특이성은 CRISPR/Cas9로 편집된 고양이 종양 세포주를 이용해 검증되었다.",
+          "evidence_quote": "confirming the cross-reactivity of anti-human MLH1, MSH2 and MSH6 antibodies using CRISPR/Cas9-engineered feline tumour cell lines lacking each target gene"
+        }
+      ],
+      "authors_conclusion": "본 연구는 고양이 암에서 MMR 단백질 평가를 위한 첫 분석적 검증 절차를 확립하였으며, MMR 단백질 발현 이상의 분포가 이전보다 널리 퍼져 있을 가능성을 시사한다. 임상 표본 수가 제한적이지만, 본 파일럿 연구는 고양이 MMR 단백질 발현의 기초 지도를 제공한다. 생물학적 의미를 명확히 하기 위해 미세위성 불안정성 검사, 메틸화 분석, 유전체 프로파일링을 포함한 대규모 검증 연구가 필요하다.",
+      "clinical_takeaway": "이 연구는 고양이 종양에서 DNA 불일치 수리(MMR) 단백질의 발현 이상이 멜라노마와 골육종을 포함한 여러 암에서 관찰된다는 것을 보여준다. 특히 멜라노마 100%, 골육종 93%에서 MLH1 발현이 소실된 점은 MMR 시스템이 고양이 암 발생과 진행에 중요한 역할을 할 가능성을 시사한다. 다만 표본 크기가 제한적이고 임상 관련성 또는 예후 영향은 평가되지 않아, 현재로서는 진단적 바이오마커로 사용하거나 치료 방침 변경에 바로 적용하기 어렵다. 후속 연구에서 MMR 이상과 임상 특성, 예후 예측 또는 치료 반응 간 관계를 규명해야 한다.",
+      "limitations": [
+        "임상 표본 수가 83건으로 소규모이며, 종양별 표본 수도 제한적이다.",
+        "MMR 단백질 발현 이상과 임상 결과 또는 치료 반응 간 연관성은 평가하지 않았다.",
+        "본 연구는 파일럿 성격의 회고적 조직 기반 분석으로, 전향적 임상 평가가 필요하다.",
+        "면역조직화학 검사 결과만으로는 MMR 기능 이상 여부를 완전하게 판단할 수 없으며, 미세위성 불안정성 검사 등 유전자 수준 검사가 보완되어야 한다.",
+        "초록만 제공되어 전체 텍스트 내 추가 세부 방법 및 결과 분석을 확인할 수 없다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70105",
+      "discovered_at": "2026-09-17 05:57:05.950815+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42604724/",
+      "summary_generated_at": "2026-09-28 23:31:50.378663+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Variations on the rostral labial pivot flap for reconstruction of maxillary lip defects in four dogs.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-08-15",
+      "online_publication_date": "2026-08-15",
+      "publication_date_raw": "2026-Aug-15",
+      "doi": "10.1111/vsu.70148",
+      "pmid": "42603145",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70148",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 개에서 전두입술 및 코 주변부 결손 재건을 위한 rostral labial pivot flap 변형 기법의 적응증, 수술 방법 및 결과를 직접 보고하였다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "maxillary lip and paranasal defect reconstruction",
+      "study_design": "case_series",
+      "sample_size": 4,
+      "sample_size_quote": "Four dogs with rostral lip/paranasal defect underwent rostral labial pivot flap.",
+      "objective": "전두입술 및 주위 코 점막 결손을 동반한 종양 절제 후 출현한 결손부를 rostral labial pivot flap 및 그 변형술을 통해 재건하고 그 임상 결과를 기술한다.",
+      "study_methods": "네 마리의 개에서 종양 절제 후 전두입술 및 코 주변부 결손을 rostral labial pivot flap 및 mucosal island flap, nasal rotation flap을 포함한 변형 기법으로 재건하였다. 의무기록을 후향적으로 검토하여 수술 기법과 결과, 합병증 및 기능적, 미용적 결과를 평가하였다.",
+      "one_sentence_summary": "네 마리의 개에서 rostral labial pivot flap 및 변형 기법을 적용하여 전두입술과 코 주변부 결손을 재건하였다. mucosal island flap을 이용한 코 점막 재건 및 nasal rotation flap을 통한 입술 높이 조절로 좋은 결과를 얻었으며, 두 마리에서 경미한 합병증(구강-비강 누공, 경도의 콧구멍 협착)이 발생했으나 임상 증상은 없었다. 모든 개는 추적 관찰 시 정상 기능과 삶의 질을 유지하였다.",
+      "key_results": [
+        {
+          "result": "로스트랄 래비얼 피벗 플랩과 변형술이 전두입술 및 코 주변부 결손 재건에 허용 가능한 결과를 제공하였다.",
+          "evidence_quote": "The rostral labial pivot flap and its variants provided acceptable outcomes in four dogs for reconstruction of rostral lip and paranasal defects."
+        },
+        {
+          "result": "점막 섬 플랩을 포함시켜 코 점막 재건에 효과적이었다.",
+          "evidence_quote": "Incorporation of a mucosal island flap was effective for nasal mucosal reconstruction"
+        },
+        {
+          "result": "콧구멍 회전 피판을 사용하여 입술 높이 차이를 조절하고 긴장을 완화하여 좋은 결과를 얻었다.",
+          "evidence_quote": "use of a nasal rotation flap to reduce tension and address lip height discrepancy resulted in acceptable outcomes."
+        },
+        {
+          "result": "두 마리의 개에서 경미한 합병증이 있었으나 임상적 증상은 없었다.",
+          "evidence_quote": "Two dogs experienced minor complications, including an oronasal fistula and mild narial stenosis, neither of which was associated with clinical signs."
+        },
+        {
+          "result": "추적 관찰 시 모든 개가 정상 기능과 삶의 질을 유지하였다.",
+          "evidence_quote": "All dogs were considered to have normal function and quality of life at follow-up."
+        }
+      ],
+      "authors_conclusion": "Rostral labial pivot flap은 개에서 전두입술 및 코 주변부 결손 재건에 합리적이고 적응성 있는 옵션이 될 수 있으며, 본 증례군에서는 미용적·기능적 결과가 양호하고 이환율이 낮았다. 그러나 성공률과 합병증에 대한 이해를 높이기 위해 추가 증례가 필요하다.",
+      "clinical_takeaway": "본 연구는 rostral labial pivot flap 및 그 변형술이 개에서 전두입술 및 코 주변부의 복잡한 결손 재건에 있어 기능적 및 미용적으로 허용 가능한 결과를 제시함을 보여준다. 특히 mucosal island flap과 nasal rotation flap의 적절한 적용은 점막 재건과 입술 높이 조절에 유용해 일부 두경부 결손 환자에서 수술 후 합병증 위험을 낮출 수 있다. 다만, 소수 증례를 대상으로 후향적으로 진행된 연구로서 성공률과 합병증 양상에 대한 일반화에는 제한점이 있으며, 임상적 적용 시 추가 연구 결과 참조가 필요하다.",
+      "limitations": [
+        "증례 수가 4건으로 매우 제한적이다.",
+        "후향적 증례 보고로 무작위 대조 연구가 아니다.",
+        "단편적 임상 정보만 제공하는 초록 기반 자료이다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vsu.70148",
+      "discovered_at": "2026-09-17 05:57:05.953232+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
+      "summary_generated_at": "2026-09-28 23:32:04.655228+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -1210,18 +1536,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 687
+        "received": 435
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 672
+        "received": 736
       }
     },
-    "started_at": "2026-09-27T23:24:16.700140+00:00",
-    "since": "2026-08-13",
-    "processed": 1,
-    "failed": 16,
-    "deferred": 1017,
-    "finished_at": "2026-09-27T23:27:03.078294+00:00"
+    "started_at": "2026-09-28T23:25:33.238237+00:00",
+    "since": "2026-08-14",
+    "processed": 5,
+    "failed": 13,
+    "deferred": 1024,
+    "finished_at": "2026-09-28T23:32:36.011243+00:00"
   }
 }
