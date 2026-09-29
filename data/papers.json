@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T23:32:36.083761+00:00",
-  "last_successful_collection": "2026-09-28T23:25:33.238185Z",
+  "generated_at": "2026-09-29T23:28:03.093124+00:00",
+  "last_successful_collection": "2026-09-29T23:24:42.595109Z",
   "mode": "live",
   "papers": [
     {
@@ -1021,7 +1021,7 @@
       "publication_date_raw": "2026-Sep-01",
       "doi": "10.1093/jvimsj/aalag217",
       "pmid": "42803610",
-      "pmcid": null,
+      "pmcid": "PMC13617574",
       "publisher_url": "https://doi.org/10.1093/jvimsj/aalag217",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42803610/",
       "source": "pubmed",
@@ -1529,6 +1529,206 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
       "summary_generated_at": "2026-09-28 23:32:04.655228+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Abnormal modified Insall-Salvati index values are associated with increased odds of medial meniscal tears in dogs with cranial cruciate ligament tears.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-12",
+      "online_publication_date": "2026-08-12",
+      "publication_date_raw": "2026-Aug-12",
+      "doi": "10.2460/javma.26.03.0166",
+      "pmid": "42590798",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.03.0166",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42590798/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 전방 십자인대 파열이 있는 개를 대상으로 하여 인상-살바티 지수의 이상과 내측 반월상 연골 파열의 연관성을 평가하였으므로, 임상에서 전방 십자인대 손상 및 반월상 연골 손상을 가진 개 진료에 직접 적용 가능하다.",
+      "primary_category": "surgery",
+      "tags": [
+        "orthopedics",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "cranial cruciate ligament tears and associated medial meniscal tears in dogs",
+      "study_design": "retrospective",
+      "sample_size": 229,
+      "sample_size_quote": "The study included 229 stifles.",
+      "objective": "전방 십자인대 파열이 있는 개에서 수정된 인상-살바티 (IS) 지수로 측정한 슬개골 높이와 내측 반월상 연골 파열 간의 연관성을 평가한다.",
+      "study_methods": "CCLT를 치료받은 개들의 의무기록을 후향적으로 검토하였다. 수정된 IS 지수를 사용하여 중외측 방사선 영상에서 수술 전 슬개골 높이를 측정하였다. 내측 반월상 연골 파열 여부는 크라니오메디알 슬개 소관절 미니 관절경 검사로 확인하였다. 교란 변수를 통제한 통계 분석을 통해 비정상적인 IS 지수가 내측 반월상 연골 손상과 연관이 있는지 평가하였다.",
+      "one_sentence_summary": "전방 십자인대 파열(CrCLT)이 있는 개 229개 슬관절을 대상으로 한 후향적 연구에서, 슬개골 높이를 측정하는 수정된 인상-살바티 지수(IS index)가 비정상인 경우(12.6%, 29/229) 내측 반월상 연골 파열이 44.8%(13/29) 발생했고, 정상 IS 지수인 경우(87.4%, 200/229)는 24.5%(49/200)에서 파열이 나타났다. 비정상 IS 지수를 가진 개는 정상 군에 비해 내측 반월상 연골 파열 발생 위험이 3배 증가하였다(95% 신뢰구간 1.2~7.3). 완전 파열과 부분 파열의 분포는 두 그룹 간 차이가 없었다.",
+      "key_results": [
+        {
+          "result": "수정된 IS 지수의 비정상값은 12.6% (29/229)였고, 이 중 44.8% (13/29)가 내측 반월상 연골 파열을 동반했다.",
+          "evidence_quote": "Abnormal modified IS index values were found in 12.6% (29 of 229) of stifles, of which 44.8% (13 of 29) had a concurrent medial meniscal tear."
+        },
+        {
+          "result": "정상 IS 지수 그룹(87.4%, 200/229)에서는 24.5% (49/200)의 슬관절에서 내측 반월상 연골 파열이 있었다.",
+          "evidence_quote": "Among the dogs with a normal modified IS index (87.4% [200 of 229]), only 24.5% (49 of 200) had a concurrent medial meniscal tear."
+        },
+        {
+          "result": "비정상 IS 지수를 가진 개들은 정상 지수를 가진 개에 비해 내측 반월상 연골 파열의 오즈가 3배였다(95% 신뢰구간 1.2~7.3).",
+          "evidence_quote": "Dogs with an abnormal IS index had 3 times the odds of a medial meniscal tear (95% CI, 1.2 to 7.3) compared to those with a normal index."
+        },
+        {
+          "result": "완전 또는 부분 전방 십자인대 파열의 분포는 정상 IS 지수 그룹과 비정상 IS 지수 그룹 사이에 통계적으로 유의한 차이가 없었다.",
+          "evidence_quote": "There was no statistically significant difference in the distribution between complete and partial CCLT between the normal IS index and abnormal IS index groups."
+        }
+      ],
+      "authors_conclusion": "수정된 인상-살바티 지수로 측정한 비정상적인 슬개골 높이는 전방 십자인대 파열이 있는 개에서 이차적인 내측 반월상 연골 파열의 위험 증가와 유의하게 연관되어 있다.",
+      "clinical_takeaway": "전방 십자인대 이상이 의심되는 개에서 수술 전 방사선 사진을 통해 수정된 IS 지수를 측정하면 내측 반월상 연골 파열 위험이 높은 동물을 선별할 수 있다. 이는 수술 계획 수립과 보호자 상담에 도움을 주며, 반월상 연골 손상 여부에 따른 추가 치료 방침 결정에 참고할 수 있다. 다만, 연구가 후향적이며 비정상 IS 지수 자체가 모든 파열 위험을 설명하지 못하므로, 이 지수만으로 절대적인 진단이나 예후 예측 도구로 사용하기에는 한계가 있다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인과관계 확립에 제한이 있다.",
+        "수술 전 측정을 위한 방사선 영상의 위치와 해석에 일부 가변성이 있을 수 있다.",
+        "연구는 단일 기관의 의료 기록에 근거하여 일반화에 제한이 있을 수 있다.",
+        "논문 정보가 초록 수준에 한정되어 전체 연구 방법과 통계 분석 세부사항 파악에 한계가 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "이 연구는 임상에서 전방 십자인대 파열 환자 개들의 내측 반월상 연골 손상 위험 평가에 직접적으로 적용 가능한 객관적이고 실용적인 지표를 제시하며, 표본 크기도 229개 슬관절로 비교적 크고 유의한 통계결과를 제공한다.",
+      "id": "doi:10.2460/javma.26.03.0166",
+      "discovered_at": "2026-09-17 05:57:05.982149+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42590798/",
+      "summary_generated_at": "2026-09-29 23:27:21.240375+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Single-site ventral distal paravertebral block is an effective method of anesthetizing the bovine paralumbar fossa.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-12",
+      "online_publication_date": "2026-08-12",
+      "publication_date_raw": "2026-Aug-12",
+      "doi": "10.2460/javma.26.04.0317",
+      "pmid": "42590801",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.04.0317",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42590801/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 소(bovine)를 대상으로 한 마취 방법 평가로, 개나 고양이 임상에서는 직접적 적용 가능성이 낮아 임상적 관련성이 간접적임.",
+      "primary_category": "other",
+      "tags": [
+        "anesthesia",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "regional anesthesia techniques in bovine paralumbar fossa",
+      "study_design": "prospective",
+      "sample_size": 8,
+      "sample_size_quote": "8 healthy 5-month-old Holstein steers received SS-VDP block",
+      "objective": "To evaluate the efficacy of a single-site ventral distal paravertebral (SS-VDP) block at vertebrae L1 or L2 for regional anesthesia of the bovine paralumbar fossa and characterize subsequent thoracolumbar spinal nerve staining.",
+      "study_methods": "8 healthy 5-month-old Holstein steers were enrolled in a blinded, randomized crossover design. Each animal received SS-VDP block at vertebrae L1 or L2 on each side using 6 mg/kg of 2% lidocaine with 1 mg methylene blue dye. Anesthesia was assessed along the traditional paralumbar fossa incision site. Following administration, calves were euthanized for an unrelated study and dissected to evaluate dye spread in thoracolumbar spinal nerves. Block success and nerve staining patterns were statistically analyzed with contingency tables and Fisher exact tests.",
+      "one_sentence_summary": "8마리의 5개월령 홀스타인 수송아지를 대상으로 무작위 교차설계로 척추 L1 또는 L2 부위에 단일 부위 복측 원위척추 차단(SS-VDP block)을 시행하여 소 측복부 부위 마취 유효성을 평가하였다. 전체 차단 성공률은 75%였으며, L1과 L2 모두에서 T13, L1, L2 신경 염료 침투가 관찰되었고, L1 접근 시 T13 신경 염료 침투가 더 일관되었다. 본 기법은 다중 주사가 필요한 기존 방법의 대안으로서 마취 효율 및 시술자 안전성을 높일 수 있음을 시사한다.",
+      "key_results": [
+        {
+          "result": "SS-VDP injection at either vertebra L1 or L2 produced successful anesthesia of the paralumbar fossa with overall block success of 75%.",
+          "evidence_quote": "SS-VDP injection at either location (vertebrae L1 or L2) produced successful anesthesia of the paralumbar fossa with an overall block success of 75%."
+        },
+        {
+          "result": "Both injection points consistently stained spinal nerves T13, L1, and L2.",
+          "evidence_quote": "Both approaches consistently stained spinal nerves T13, L1, and L2"
+        },
+        {
+          "result": "The L1 approach resulted in more consistent staining of spinal nerve T13 than the L2 approach.",
+          "evidence_quote": "an L1 approach resulted in more consistent staining of T13 compared to L2."
+        }
+      ],
+      "authors_conclusion": "SS-VDP block at vertebrae L1 or L2 provided effective regional anesthesia of the bovine paralumbar fossa and represents a variant of quadratus lumborum fascial plane block, offering a potentially more efficient and safer alternative to traditional multi-injection approaches.",
+      "clinical_takeaway": "이 연구는 소의 측복부 마취를 위한 단일 부위 복측 원위척추 차단(SS-VDP block)이 75%의 성공률로 효과적임을 보여준다. 기존 여러 번 주사가 필요한 기법 대비 SS-VDP는 수행 시간이 단축되고 시술자의 안전성이 향상될 수 있음을 시사한다. 그러나 본 연구는 건강한 5개월령 송아지를 대상으로 하였으며 개나 고양이 같은 반려동물 대상 임상자료가 없어 직접적인 임상 적용에는 한계가 있다. 향후 반려동물에 대한 유사 연구가 필요하다.",
+      "limitations": [
+        "연구 대상이 소(5개월령 홀스타인 송아지)로, 반려견과 반려묘에 직접적 적용 가능성 제한.",
+        "소량의 표본 크기(8마리)로 통계적 일반화 어려움.",
+        "비교군 없이 단일 기법의 마취 성공률만 평가함.",
+        "사체 해부를 통한 염료 확산 평가로 생체 동적 마취 지속시간 및 효과 미평가.",
+        "초록만 제공되어 상세한 연구방법과 통계 분석 제한적 기술."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.04.0317",
+      "discovered_at": "2026-09-17 05:57:05.979336+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42590801/",
+      "summary_generated_at": "2026-09-29 23:26:58.969852+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Integrating One Health and veterinary professionals into emergency management enhances wildlife welfare during disasters.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-12",
+      "online_publication_date": "2026-08-12",
+      "publication_date_raw": "2026-Aug-12",
+      "doi": "10.2460/javma.26.06.0454",
+      "pmid": "42590805",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.06.0454",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42590805/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 재난 상황에서 야생동물 복지를 증진시키기 위한 재난 관리 과정에 수의사 전문가와 One Health 접근법을 통합하는 방안을 제안하나, 직접적인 임상 연구나 임상 결과를 제공하지 않아 임상 실제 적용에 간접적인 참고가 된다.",
+      "primary_category": "other",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "재난 상황에서 야생동물 복지와 수의사의 역할",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "재난 관리에서 야생동물 복지를 강화하기 위해 One Health 접근법과 수의 전문가의 역할을 통합하는 방안을 개념적으로 제시한다.",
+      "study_methods": "재난 관리 주기(완화 및 계획, 대비, 대응, 복구)의 각 단계에 수의 전문가의 역할과 One Health 시각으로 야생동물 복지 통합 방안을 설명하는 개념적 논의이다.",
+      "one_sentence_summary": "기후변화로 인한 재난이 증가하면서 야생동물의 피해가 심각하지만 이들의 복지는 재난관리에서 충분히 반영되지 않고 있다. 본 논문은 수의 전문가들이 동물복지와 집단 건강에 관한 전문지식과 One Health 이해를 기반으로 재난관리에서 야생동물 복지를 통합하는 주요 역할을 수행할 수 있음을 제안한다. 특히 수의사들이 재난 현장 지휘시스템에 공식적인 자격을 갖춘 구성원으로 포함되어 기술 자문뿐 아니라 실제 작전에 투입될 때 더욱 효과적으로 야생동물 복지를 지원할 수 있음을 강조한다.",
+      "key_results": [
+        {
+          "result": "야생동물은 기후변화 주도 재난에 매우 취약하지만, 재난 관리에서 야생동물 복지는 여전히 충분히 고려되지 않고 있다.",
+          "evidence_quote": "Climate change-driven disasters are increasing in frequency and severity, and wild animals are among the most vulnerable yet least considered victims."
+        },
+        {
+          "result": "수의 전문가들은 동물복지와 집단 건강, One Health 접근법을 이해하여 재난 시대 야생동물 복지를 담당할 적임자이다.",
+          "evidence_quote": "Veterinary professionals are well placed to address this gap through their expertise in animal welfare and population health and their understanding of the One Health approach."
+        },
+        {
+          "result": "재난 지휘시스템(Incident Command System)에 수의사를 공식적인 자격과 배치 가능한 인원으로 포함하면 야생동물 복지에 크게 기여할 수 있다.",
+          "evidence_quote": "Veterinary professionals can provide significantly increased benefit to animal welfare if they are embedded within Incident Command System structures, not only as technical advisors but as credentialed and deployable members of the Incident Management Teams."
+        },
+        {
+          "result": "One Health 관점을 활용하여 재난관리의 모든 단계(완화, 대비, 대응, 복구)에서 야생동물 복지를 통합하는 방법을 제안한다.",
+          "evidence_quote": "Using a One Health lens, we outline how veterinary professionals can help successfully integrate wildlife welfare into all phases of the disaster management cycle: mitigation and planning, preparedness, response, and recovery."
+        },
+        {
+          "result": "관련 문헌에서 야생동물 복지를 재난관리 전 과정에 통합하는 데 존재하는 지식 격차와 체계적 장애물을 다룬 동반 연구가 있다.",
+          "evidence_quote": "The companion Currents in One Health by Cerda et al, AJVR, July 2026, addresses the knowledge gaps and systemic barriers currently undermining integration of wildlife welfare across the disaster management cycle."
+        }
+      ],
+      "authors_conclusion": "수의 전문가들을 재난 대응팀의 정식 구성원으로 포함하고 One Health 관점을 통해 재난관리 전 단계에서 야생동물 복지를 통합하는 것은 야생동물 피해를 줄이고 복지를 증진하는 중요한 전략이다.",
+      "clinical_takeaway": "기후변화로 인한 재난이 야생동물에 심각한 영향을 미치고 있으나 이러한 피해는 재난관리에서 간과되는 경향이 있다. 본 논문은 재난 관리 과정에 수의사들이 능동적으로 참여하고 One Health 접근법을 적용할 때 야생동물 복지 향상에 중요한 진전이 가능함을 시사한다. 그러나 이 연구는 임상 실험이나 실증적 자료 없이 개념적 제안에 머무르므로, 임상 현장에서 실제 효과를 평가하기 위한 후속 연구가 필요하다. 따라서 현재 임상에서 수의사의 재난관리 참여 증가에 대한 근거로 활용하되, 구체적 실행방안과 효과 검증이 보완되어야 할 것이다.",
+      "limitations": [
+        "추상적 개념 논의에 그쳐 구체적 임상 적용 사례나 수치적 효과 평가 부족",
+        "후속 실증 연구 부재로 인해 제안의 실효성 검증이 필요함",
+        "재난 상황과 야생동물 복지 관련 직접 임상 데이터를 포함하지 않음",
+        "수의사의 재난관리 내 역할과 영향에 대한 체계적 연구가 미흡함",
+        "본 연구는 주로 이론적 프레임워크 제시에 집중하였음",
+        "초록만 제공되어 상세 방법과 결과 데이터 미확인"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.06.0454",
+      "discovered_at": "2026-09-17 05:57:05.976807+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42590805/",
+      "summary_generated_at": "2026-09-29 23:26:50.057917+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -1536,18 +1736,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 435
+        "received": 423
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 736
+        "received": 536
       }
     },
-    "started_at": "2026-09-28T23:25:33.238237+00:00",
-    "since": "2026-08-14",
-    "processed": 5,
-    "failed": 13,
-    "deferred": 1024,
-    "finished_at": "2026-09-28T23:32:36.011243+00:00"
+    "started_at": "2026-09-29T23:24:42.595157+00:00",
+    "since": "2026-08-15",
+    "processed": 3,
+    "failed": 15,
+    "deferred": 1020,
+    "finished_at": "2026-09-29T23:28:03.021383+00:00"
   }
 }
