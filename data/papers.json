@@ -1,9 +1,73 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T23:28:03.093124+00:00",
-  "last_successful_collection": "2026-09-29T23:24:42.595109Z",
+  "generated_at": "2026-09-30T23:27:43.398246+00:00",
+  "last_successful_collection": "2026-09-30T23:25:07.763304Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Veterinary point-of-care ultrasound probe orientation and location for detection of pleural effusion in canine cadavers: a pilot study.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-09-30",
+      "online_publication_date": "2026-09-30",
+      "publication_date_raw": "2026-Sep-30",
+      "doi": "10.1111/jsap.70196",
+      "pmid": "42813598",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70196",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42813598/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 개 부검체에서 흉막 삼출액 탐지를 목적으로 수행된 임상 적용이 직접적인 초음파 프로브 위치 및 방향성 평가 연구임.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "emergency_critical_care",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "pleural effusion detection",
+      "study_design": "prospective",
+      "sample_size": 12,
+      "sample_size_quote": "Twelve intubated canine cadavers with scant to large volume pleural effusion were scanned",
+      "objective": "개 부검체에서 다른 프로브 위치 및 방향이 흉막 삼출액 탐지에 미치는 영향을 평가하기 위함.",
+      "study_methods": "본 연구는 기관내삽관 된 12마리 개 부검체를 대상으로, 흉부 복와위에서 양압 환기 상태로 두 가지 무작위화된 초음파 검사법(수정된 TFAST와 수정된 Calgary PLUS for pleural fluid technique)을 사용하여 양측 흉부에 대한 흉막 삼출액 탐지율을 비교하였다. 12명의 검사자가 포함되었으며, 흉막 삼출액은 미량에서 중-대량으로 구분하여 McNemar 검정으로 탐지율을 통계 분석하였다.",
+      "one_sentence_summary": "본 연구에서는 기관내삽관되어 양압 환기 시행 중인 12마리의 개 부검체를 대상으로 두 가지 점진단 초음파 검사법의 흉막 삼출액 탐지율을 비교하였다. 전체 흉막 삼출액 탐지율은 수정된 Calgary PLUS 기법이 89.1%로, 수정된 TFAST(60.9%)보다 유의하게 높았다. 특히 미량-경미한 흉막 삼출액 탐지에서 Calgary PLUS 기법이 84.4% 대 37.5%로 차이가 컸으며, 중-대량 흉막 삼출액에서는 두 기법 간 차이가 없었다(93.8% vs 84.4%).",
+      "key_results": [
+        {
+          "result": "수정된 Calgary PLUS 기법은 전체 흉막 삼출액 탐지율이 89.1%로, 수정된 TFAST의 60.9%보다 유의하게 높았다.",
+          "evidence_quote": "Overall detection of pleural effusion was significantly higher using the modified Calgary PLUS for pleural fluid technique compared with the modified TFAST for pleural fluid technique (89.1% vs. 60.9%; P < .001)"
+        },
+        {
+          "result": "미량-경미 흉막 삼출액에서 수정된 Calgary PLUS 기법 탐지율은 84.4%로, 수정된 TFAST의 37.5%에 비해 유의하게 높았다.",
+          "evidence_quote": "There was a statistically significant increase in the detection of scant-to-mild effusion with the modified Calgary PLUS for pleural fluid technique (84.4% vs. 37.5%; P < .001)"
+        },
+        {
+          "result": "중-대량 흉막 삼출액에서는 두 기법 간 탐지율 차이가 통계적으로 유의하지 않았다 (93.8% vs. 84.4%; P = .25).",
+          "evidence_quote": "No significant difference was observed for moderate-to-large effusions (93.8% vs. 84.4%; P = .25)"
+        }
+      ],
+      "authors_conclusion": "초음파 프로브 위치와 방향성이 양압 환기 하 복와위 위치 개 부검체에서 흉막 삼출 탐지 능력에 영향을 미치며, 흉부 전복부에서 갈비뼈와 평행한 프로브 방향은 특히 소량의 삼출액 탐지에 유리하다.",
+      "clinical_takeaway": "개에서의 점진단 흉부 초음파 검사 시 갈비뼈와 평행한 방향으로 프로브를 흉부 전복부에 위치시키는 것이 미량에서 경미한 흉막 삼출액 탐지율을 크게 향상시킬 수 있음을 시사한다. 이는 응급 및 중환자 치료 상황에서 미미한 삼출액 탐지를 통해 더 정확한 진단과 치료 결정을 가능하게 할 수 있으나, 본 연구는 부검체 대상으로 양압 환기 및 복와위 상태에서 시행된 제한적인 실험 환경임을 유념해야 한다. 임상 적용 시 생체에서의 검증이 필요하며 중-대량 삼출액 탐지에는 두 기법 간 차이가 크지 않아 절대적 우위로 단정하기 어렵다.",
+      "limitations": [
+        "본 연구는 부검체에서 시행되어 살아있는 환자의 생리적 조건과 차이가 있음",
+        "양압 환기 및 복와위 상태로 제한적 환경에서 실험이 진행됨",
+        "소규모 표본(12마리 부검체)으로 일반화에 한계가 있음",
+        "임상적 결과와 직접 비교한 장기 추적 결과 부재",
+        "초음파 검사자들의 경험 및 숙련도 차이와 무작위화된 검사법의 순서 효과 미고려",
+        "초음파 프로토콜 자체가 수정된 형태로 표준화된 기법과 이질점 존재 가능성",
+        "초록 요약만 제공되어 전체 연구 방법 및 결과 해석에 한계가 있음"
+      ],
+      "recommended": true,
+      "recommendation_reason": "흉막 삼출 검출 시 초음파 프로브 위치 및 방향 선택의 임상적 중요성을 직접 다룬 최초 연구로, 응급 및 중환자 포함 임상 상황에서 적용 가능하며 특히 미량 삼출 검출에 유의한 진단적 이점 제시.",
+      "id": "doi:10.1111/jsap.70196",
+      "discovered_at": "2026-09-30 23:25:09.491943+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42813598/",
+      "summary_generated_at": "2026-09-30 23:25:43.493694+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Dedicated Tibial Tuberosity Fixation Plates Provide Comparable Stiffness to Pin and Figure-of-eight Wire Constructs in Ex Vivo Stabilization of Laterally Transposed Tibial Crests.",
       "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
@@ -936,6 +1000,76 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Outcome of Repairing Canine Proximal Tibial Apophyseal-Epiphyseal Salter-Harris Fractures with Apophyseal Pin and Tension-Band Wire as a Sole Fixation Method.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-09-06",
+      "online_publication_date": "2026-09-06",
+      "publication_date_raw": "2026-Sep-06",
+      "doi": "10.1055/a-2945-3836",
+      "pmid": "42702204",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2945-3836",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42702204/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 개의 근위 경골 골단-골단선형 살터-해리스 골절에 대한 직접적인 진단 및 치료 결과를 다루고 있으며, 임상에서 유용한 수술적 고정 방법의 결과를 보고하고 있음.",
+      "primary_category": "surgery",
+      "tags": [
+        "orthopedics",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Canine proximal tibial apophyseal-epiphyseal Salter-Harris fractures",
+      "study_design": "retrospective",
+      "sample_size": 35,
+      "sample_size_quote": "Thirty-six fractures in 35 dogs were included",
+      "objective": "근위 경골 골단-골단선형 살터-해리스 골절에서 단일 고정법인 골단 핀과 장력대 와이어(APTBW)를 이용한 수술 후 방사선학적 결과와 합병증 평가",
+      "study_methods": "골단 핀과 장력대 와이어(APTBW) 단독으로 치료받은 개들의 진료 기록과 방사선 사진을 후향적으로 검토하였다. 골절된 사지의 경골 평지각(TPA)과 내측 근위 경골 기계적 각도(mMPTA)를 수술 전, 수술 후 및 추적 검사 시점에서 동일한 측면의 대조 사지와 반복 측정 분산분석을 이용해 비교하였다. 유의한 분산분석 결과에 대해 본페로니 수정 쌍비교를 수행하였다.",
+      "one_sentence_summary": "35마리의 개에서 36개의 근위 경골 골단-골단선형 살터-해리스 골절을 단일 고정법인 골단 핀과 장력대 와이어(APTBW)를 사용해 수술 치료하였다. 골절부의 치유율은 94.4%로 높았고, 치유에 소요된 중앙값 기간은 4.1주였다. 수술 전 골절 사지의 경골 평지각은 대조 사지에 비해 평균 12.8도 높았지만(p < 0.001), 치유 시점에서는 유의미한 차이가 없었다(p = 0.735). 평균 내측 근위 경골 기계적 각도는 측정 시점별로 유의한 차이가 없었다. 3건의 중증 및 4건의 경증 합병증이 보고되었으며, 그중 2건은 고정구조 실패였다.",
+      "key_results": [
+        {
+          "result": "36개의 골절 중 34개(94.4%)가 중앙 4.1주 만에 골유합을 달성하였다.",
+          "evidence_quote": "Union was achieved in 34 of 36 (94.4%) fractures, at a median of 4.1 weeks."
+        },
+        {
+          "result": "골절 전 골절된 사지의 경골 평지각(TPA)은 대조 사지보다 평균 12.8도 높았으나(p < 0.001), 치유 시점에는 차이가 없었다(p = 0.735).",
+          "evidence_quote": "Mean TPA of fractured limbs was 12.8 degrees higher than contralateral limbs preoperatively (p < 0.001), but no statistically significant difference was detected at union (p = 0.735)."
+        },
+        {
+          "result": "내측 근위 경골 기계적 각도(mMPTA)는 측정 시점별 유의미한 차이가 없었다.",
+          "evidence_quote": "Mean mMPTA did not differ significantly across measurement conditions."
+        },
+        {
+          "result": "3건의 주요 합병증과 4건의 경미한 합병증이 있었으며, 2건은 치유 전 고정구조 실패였다.",
+          "evidence_quote": "Three major and four minor complications occurred, including two construct failures before union."
+        },
+        {
+          "result": "고정구조 실패는 Kirschner 와이어의 이동 1건과 골단 전위 1건에서 발생하였다.",
+          "evidence_quote": "Construct failures resulted from Kirschner wire migration (n = 1) and apophyseal shearing (n = 1)."
+        }
+      ],
+      "authors_conclusion": "골단 핀과 장력대 와이어(APTBW)를 단일 고정법으로 사용한 근위 경골 골단-골단선형 골절의 수복은 높은 골유합률과 정상적인 경골 평지각 및 내측 근위 경골 기계적 각도를 회복시켰다. 이 골절 유형에서는 상분절(골단부) 고정이 반드시 필요하지 않을 수 있다.",
+      "clinical_takeaway": "본 연구 결과는 어린 개의 근위 경골 골단-골단선형 살터-해리스 골절 치료 시, 골단 핀과 장력대 와이어를 단독 고정법으로 사용해도 높은 골유합률과 정상적인 골축 정렬을 회복할 수 있음을 시사한다. 따라서 이 골절에서는 추가적인 골단부 고정이 반드시 필요하지 않을 것으로 보인다. 다만, 일부 고정구조 실패 및 합병증 사례가 존재하므로 수술 후 정기적인 방사선 검사를 통한 고정구조 상태 확인이 권장된다. 본 연구는 후향적 사례 분석으로, 보다 강력한 근거를 위한 전향적 연구가 필요하다.",
+      "limitations": [
+        "후향적 연구 설계로 인과관계 확립에 한계가 있음",
+        "치료군에 대한 대조군 부재",
+        "합병증 및 결과 평가에 대한 객관적 표준화 부족",
+        "전체 임상 최신화와 다른 치료법과의 비교 정보 부족",
+        "초록 단독 제공으로 세부 데이터 확인 제한"
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 직접적인 임상 환자(소유견)를 대상으로 한 수술 치료 결과를 보고하며, 고정 방법 단독으로 우수한 골유합과 골축 정렬 회복을 보여 현재 임상 적용에 실질적 가이드라인을 제공하므로 추천함.",
+      "id": "doi:10.1055/a-2945-3836",
+      "discovered_at": "2026-09-16 01:13:31.971749+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42702204/",
+      "summary_generated_at": "2026-09-30 23:26:53.796556+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical findings and outcomes of juvenile-onset chronic kidney disease of unknown aetiology in dogs: a retrospective study of 36 cases (2010-2023).",
       "journal": "Journal of Small Animal Practice",
       "journal_id": "jsap",
@@ -1729,6 +1863,71 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42590805/",
       "summary_generated_at": "2026-09-29 23:26:50.057917+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Axial Compression Behaviour of Locking Plate Constructs in Different Fixation Functions in the Canine Femur.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-08-11",
+      "online_publication_date": "2026-08-11",
+      "publication_date_raw": "2026-Aug-11",
+      "doi": "10.1055/a-2924-7143",
+      "pmid": "42580765",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2924-7143",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42580765/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "연구는 개 대퇴골의 고정판 고정 방식별 축방향 압축 거동을 비교하여 정량적인 생체역학 데이터를 제공하나, 직접적인 임상 결과나 환자 치료 효과에 관한 임상 연구가 아니어서 임상적 활용에 간접적인 정보만 제공함.",
+      "primary_category": "surgery",
+      "tags": [
+        "orthopedics",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "locking plate fixation biomechanics in canine femur",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개 대퇴골에서 서로 다른 고정 기능을 가진 고정판 구조물들의 축방향 압축 거동, 즉 구조물 강성, 소성 변형 저항 및 골-임플란트 하중 분담을 비교하고자 함.",
+      "study_methods": "고정판이 적용된 대퇴골을 4개 군(정상 대퇴골, 압축 고정, 중화 고정, 브리지 고정)으로 배분하였다. 압축 및 중화 군은 골기둥을 복원하는 반면, 브리지 고정은 골간 결손부를 횡단하여 하중 분담을 제거하였다. 모든 시편에 대해 축방향 압축 시험을 시행하였고, 강성, 명백한 탄성 한계, 최대 파단 하중, 파단 양상을 기록하였다.",
+      "one_sentence_summary": "개 대퇴골 4군(정상, 압축, 중화, 브리지 고정) 각각에 대해 고정판을 이용해 축방향 압축 시험을 시행했다. 정상과 압축 고정군은 가장 높은 강성 값을 나타냈고 서로 유의미한 차이가 없었으며, 브리지 고정군의 강성 값은 정상, 압축, 중화 군보다 유의하게 낮았다. 최대 파단 하중과 탄성 한계 측면에서 정상 대퇴골이 중화 및 브리지 고정보다 우수했으며, 브리지 고정에서는 판의 굴곡이 주요 파단 모드였다. 이 연구는 고정 기능에 따라 고정판 구조물의 역학적 거동이 달라짐을 보여주었다.",
+      "key_results": [
+        {
+          "result": "정상 대퇴골과 압축 고정 구조물은 가장 높은 강성을 나타냈으며 서로 통계적으로 유의한 차이가 없었다.",
+          "evidence_quote": "Construct stiffness varied according to fixation function. Intact femora and compression constructs demonstrated the highest stiffness values and were not significantly different from each other."
+        },
+        {
+          "result": "브리지 고정 구조물은 정상, 압축, 중화 고정 구조물에 비해 유의하게 낮은 강성 값을 보였다.",
+          "evidence_quote": "Bridge constructs showed significantly lower stiffness values than intact, compression, and neutralization constructs."
+        },
+        {
+          "result": "정상 대퇴골은 중화 및 브리지 고정보다 명백한 탄성 한계와 최대 파단 하중이 더 높았다.",
+          "evidence_quote": "Intact femora also demonstrated higher apparent elastic limit and maximum load values than neutralization and bridge constructs."
+        },
+        {
+          "result": "브리지 고정 시에는 플레이트 굴곡이 주요 파단 모드로 나타났다.",
+          "evidence_quote": "Plate bending was the predominant failure mode, especially in bridge fixation."
+        }
+      ],
+      "authors_conclusion": "고정 기능은 고정판 구조물의 기계적 거동에 큰 영향을 미치며, 골기둥 복원은 하중 분담을 촉진하고 축방향 압축 시 구조물 강성을 증가시킨다. 반면 브리지 고정은 임플란트에 더 큰 기계적 부담을 주어 소성 변형에 취약하게 만든다.",
+      "clinical_takeaway": "개 대퇴골 고정 시 고정 방식에 따라 고정판의 기계적 내구성이 크게 달라진다. 골기둥을 복원하는 압축 또는 중화 고정은 강성이 높아 하중을 골과 임플란트가 함께 분담하는 반면, 골간 결손을 횡단하는 브리지 고정은 임플란트에만 하중이 집중되어 파손 위험이 증가한다. 따라서 임상에서는 골 결손 유무와 골기둥 복원 가능성을 고려해 고정 방식을 선택하고, 브리지 고정을 할 경우 임플란트의 과부하와 변형 가능성에 대한 모니터링이 필요하다. 다만 이 연구는 기계적 시험 연구로 임상 결과를 직접 반영하지 않는 점에 유의해야 한다.",
+      "limitations": [
+        "임상 환자군 대상 연구가 아니라 기계적 축방향 압축 시험만 수행된 생체역학 연구이다.",
+        "골-임플란트 하중 분담, 장기 임상 결과 및 다른 힘 작용 조건(굽힘, 비틀림 등)에 대한 정보가 제공되지 않았다.",
+        "샘플 크기와 구체적 개체수에 대한 정보가 제공되지 않았다.",
+        "초록만 제공되어 세부 연구 방법과 통계 분석 내용이 제한적이다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1055/a-2924-7143",
+      "discovered_at": "2026-09-17 05:57:06.010525+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42580765/",
+      "summary_generated_at": "2026-09-30 23:27:33.018008+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -1736,18 +1935,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 423
+        "received": 424
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 536
+        "received": 499
       }
     },
-    "started_at": "2026-09-29T23:24:42.595157+00:00",
-    "since": "2026-08-15",
+    "started_at": "2026-09-30T23:25:07.763344+00:00",
+    "since": "2026-08-16",
     "processed": 3,
-    "failed": 15,
-    "deferred": 1020,
-    "finished_at": "2026-09-29T23:28:03.021383+00:00"
+    "failed": 14,
+    "deferred": 1021,
+    "finished_at": "2026-09-30T23:27:43.337577+00:00"
   }
 }
