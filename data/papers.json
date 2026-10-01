@@ -1,9 +1,78 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T23:27:43.398246+00:00",
-  "last_successful_collection": "2026-09-30T23:25:07.763304Z",
+  "generated_at": "2026-10-01T23:27:32.783273+00:00",
+  "last_successful_collection": "2026-10-01T23:24:24.838370Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Is 28 days of doxycycline still justified for canine Lyme arthropathy? A call for a randomized controlled trial.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-30",
+      "online_publication_date": "2026-09-30",
+      "publication_date_raw": "2026-Sep-30",
+      "doi": "10.2460/javma.26.07.0602",
+      "pmid": "42815526",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.07.0602",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815526/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 개의 라임 관절염에 대한 독시사이클린 치료기간 단축을 제안하는 의견 글(Viewpoint)으로, 실제 임상 연구 데이터 없이 치료 기간 단축의 필요성과 무작위 대조시험 설계 제안을 중심으로 논의하고 있어 직접적인 임상 근거는 제공하지 않음.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "infectious_disease",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine Lyme arthropathy treatment duration",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개의 라임 관절염에 대한 독시사이클린 28일 치료 기간이 전통적인 관행에 기반한 것이며, 10일 단축 치료도 임상적으로 효과적인지 평가를 위한 무작위 대조시험의 필요성을 제안함.",
+      "study_methods": "특정 임상 연구 수행 내용은 없으며, 10일 치료와 28일 치료를 비교하는 전향적 평행군 무작위 대조시험 설계를 제안하는 의견 제시임.",
+      "one_sentence_summary": "개의 라임 관절염은 일반적으로 28일간 독시사이클린 치료를 받아왔으나 이는 역사적 근거에 기반한 것으로 명확한 임상 증거는 부족하다. 대부분의 개가 Borrelia burgdorferi에 노출되어도 임상 증상 없이 혈청전환만 일어나고, 임상 증상 발현 시 가장 흔한 표현형은 급성 혹은 재발성 변동성 다리 절름발임이다. 본 의견 글은 경증 라임 관절염 개에서 10일간 치료가 28일 치료와 동등할 임상적 균형 상태임을 제안하며, 이를 평가할 무작위 대조시험 설계를 개괄한다. 치료 기간 단축이 효과적이라면 불필요한 항생제 노출 감소와 내성 위험을 줄이는 점에서 중요하다.",
+      "key_results": [
+        {
+          "result": "개의 라임 관절염 치료 근거는 28일 독시사이클린 투여라는 역사적 관행에 기반하며 명확한 임상 시험 데이터가 없다.",
+          "evidence_quote": "Canine Lyme borreliosis is commonly treated with a 28-day course of doxycycline, a regimen based on historical precedent rather than evidence."
+        },
+        {
+          "result": "Borrelia burgdorferi에 노출된 개 중 대부분은 혈청전환에도 임상적으로 정상 상태를 유지한다.",
+          "evidence_quote": "Most dogs exposed to Borrelia burgdorferi remain clinically normal despite seroconversion;"
+        },
+        {
+          "result": "라임 질환이 임상적으로 발현된 개들은 주로 급성 또는 재발성으로 변동하는 다리 절름발임으로 나타난다.",
+          "evidence_quote": "of those that do develop clinical Lyme disease, the most common presentation is acute or recurrent shifting-leg lameness consistent with Lyme arthropathy."
+        },
+        {
+          "result": "경증 라임 관절염 개에서 10일 독시사이클린 요법의 임상적 효과 평가를 위한 무작위 대조시험 설계가 제안되고 있다.",
+          "evidence_quote": "This Viewpoint proposes there is clinical equipoise to evaluate shorter durations of 10 days of doxycycline in dogs with uncomplicated Lyme arthropathy and outlines a prospective parallel-group randomized controlled trial to reassess treatment duration."
+        },
+        {
+          "result": "치료 기간 단축이 항생제 노출과 내성 발생 위험을 줄일 수 있다는 점에서 항생제 관리 측면에서 중요하다.",
+          "evidence_quote": "Determining whether a shorter treatment course is clinically effective also has important implications for antimicrobial stewardship by minimizing unnecessary antimicrobial exposure and selection pressures for antimicrobial resistance."
+        }
+      ],
+      "authors_conclusion": "28일간 독시사이클린 투여가 통상적이나, 경증 라임 관절염 개에서는 10일간 치료도 효과적일 가능성이 있으며, 이를 평가할 무작위 대조시험이 필요하다고 결론지었다.",
+      "clinical_takeaway": "라임 병이 임상 증상을 유발하는 개 중 대부분은 다리 절름발임 형태가 주된 문제로 28일 독시사이클린 치료가 전통적으로 사용되어 왔으나, 명확한 임상 근거는 부족하다. 본 의견서는 10일 치료도 임상적으로 효과가 있을 수 있음을 시사하며, 단기간 치료가 가능하다면 불필요한 항생제 사용과 내성 증가 문제를 완화할 수 있어 중요한 임상적 함의를 가진다. 다만, 실제 무작위 대조시험 데이터가 없어 현재는 실험 설계 제안 단계임을 유념해야 하며, 임상에서 적용 전 보다 체계적 연구 결과가 필요하다.",
+      "limitations": [
+        "논문의 근거는 임상 연구가 아닌 의견 글(Viewpoint)이며, 실제 무작위 대조시험 데이터가 포함되어 있지 않음.",
+        "임상적 효과 평가를 위한 실험적 자료나 환자 수, 치료 결과 등이 보고되지 않음.",
+        "전향적 연구 설계 제안만 포함되어 있어 근거 수준이 낮음.",
+        "초록만 제공되어 전체 본문 내용 확인 불가."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.07.0602",
+      "discovered_at": "2026-10-01 23:24:26.404212+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42815526/",
+      "summary_generated_at": "2026-10-01 23:26:08.639219+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Veterinary point-of-care ultrasound probe orientation and location for detection of pleural effusion in canine cadavers: a pilot study.",
       "journal": "Journal of Small Animal Practice",
@@ -1928,6 +1997,152 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42580765/",
       "summary_generated_at": "2026-09-30 23:27:33.018008+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Fluvastatin Plus Dipyridamole Suppresses Canine Hemangiosarcoma Growth in Patient-Derived Xenograft Models Through Lactate Dehydrogenase-Associated Cholesterol/Lipid Metabolism.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-08-10",
+      "online_publication_date": "2026-08-10",
+      "publication_date_raw": "2026-Aug-10",
+      "doi": "10.1111/vco.70097",
+      "pmid": "42575716",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70097",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42575716/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "The study uses canine hemangiosarcoma patient-derived xenograft models and cell lines to explore mechanistic effects of LDH inhibition and combined drug treatment on tumor growth, relevant to canine oncology but not yet a clinical therapeutic trial.",
+      "primary_category": "oncology",
+      "tags": [
+        "oncology",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine hemangiosarcoma",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "To investigate the role of lactate dehydrogenase (LDH) and its inhibition in canine hemangiosarcoma (HSA) growth, and to evaluate combined cholesterol metabolism inhibition as a treatment strategy using cell lines and patient-derived xenograft (PDX) models.",
+      "study_methods": "LDH was inhibited by (R)-GNE-140 and sodium oxamate in two canine HSA cell lines (HU-HSA-2 and HU-HSA-3). HU-HSA-3 clones with LDHA or LDHB knockout were generated to examine effects on cholesterol/lipid metabolism genes and cell proliferation. mRNA sequencing identified pathways affected by LDH inhibition. Fluvastatin (cholesterol inhibitor) and dipyridamole were tested alone and combined on cell proliferation in vitro and tumor growth in two HSA PDX models.",
+      "one_sentence_summary": "본 연구는 두 가지 개 전유래 혈관육종 (HSA) 세포주와 환자 유래 이식편(PDX) 모델에서 LDH 저해제 (R)-GNE-140 및 sodium oxamate의 항종양 효과와 콜레스테롤 대사 억제제인 플루바스타틴과 디피리다몰의 단독 및 병합 치료 효과를 평가하였다. LDH 저해는 세포 증식을 억제하고 히스톤 락틸화 감소 및 콜레스테롤/지질 대사 유전자 발현 변화를 유발하였으며, 플루바스타틴 단독은 PDX 모델 내 종양 성장을 유의하게 억제하지 못했으나 플루바스타틴과 디피리다몰 병합 치료는 세포 증식과 종양 성장을 억제하였다. 이 연구는 개 HSA에서 LDH와 콜레스테롤 대사 사이의 맥락 의존적 연관성을 제시하고 병합 요법의 효능에 대한 추가 평가 근거를 제공한다.",
+      "key_results": [
+        {
+          "result": "(R)-GNE-140 and sodium oxamate suppressed proliferation and reduced global histone lactylation levels in both cell lines.",
+          "evidence_quote": "(R)-GNE-140 and sodium oxamate suppressed proliferation and reduced global histone lactylation levels in both cell lines."
+        },
+        {
+          "result": "mRNA-sequencing of (R)-GNE-140-treated HU-HSA-2 cells identified cholesterol/lipid metabolism-related gene sets among the top negatively enriched pathways.",
+          "evidence_quote": "mRNA-sequencing (mRNA-seq) of (R)-GNE-140-treated HU-HSA-2 cells identified cholesterol/lipid metabolism-related gene sets among the top negatively enriched pathways."
+        },
+        {
+          "result": "(R)-GNE-140 decreased cholesterol/lipid metabolism genes (SREBF2, SQLE, LDLR) in HU-HSA-2 but not in HU-HSA-3; sodium oxamate decreased these genes in HU-HSA-3 with limited effect in HU-HSA-2.",
+          "evidence_quote": "Representative cholesterol/lipid metabolism genes such as SREBF2, SQLE and LDLR responded differently depending on cell lines and inhibitors. (R)-GNE-140 decreased these genes in HU-HSA-2 but not HU-HSA-3, whereas sodium oxamate decreased them in HU-HSA-3 with limited effects in HU-HSA-2."
+        },
+        {
+          "result": "LDHA and LDHB knockout in HU-HSA-3 clones decreased SREBP2 expression and reduced the number of lipid droplets.",
+          "evidence_quote": "In HU-HSA-3, LDHA and LDHB knockout clones decreased SREBP2 expression and reduced the number of lipid droplets."
+        },
+        {
+          "result": "Fluvastatin inhibited HSA cell growth in vitro but did not significantly suppress tumour growth in two HSA PDX models.",
+          "evidence_quote": "Fluvastatin, a cholesterol metabolism inhibitor, inhibited HSA cell growth in vitro but did not significantly suppress tumour growth in two HSA patient-derived xenograft (PDX) models."
+        },
+        {
+          "result": "Combined fluvastatin and dipyridamole treatment inhibited proliferation in vitro and tumour growth in PDX models.",
+          "evidence_quote": "In contrast, combined fluvastatin and dipyridamole treatment inhibited proliferation in vitro and tumour growth in PDX models."
+        }
+      ],
+      "authors_conclusion": "These results suggest a context-dependent association between LDH and cholesterol/lipid metabolism in canine HSA cell lines and provide a rationale for further evaluation of combined cholesterol pathway inhibition.",
+      "clinical_takeaway": "개 혈관육종(HSA) 세포주와 PDX 모델에서 LDH 저해는 세포 증식 억제와 함께 콜레스테롤/지질 대사 유전자들의 발현 변화를 유발하고, 플루바스타틴 단독 치료는 동물 모델 내 종양 성장을 충분히 억제하지 못하였습니다. 그러나 플루바스타틴과 디피리다몰 병합 치료는 종양 성장 억제 효과를 보였으므로 개 HSA 치료에서 콜레스테롤 대사 경로를 표적으로 하는 병합 치료 가능성을 시사합니다. 다만, 이는 전임상 모델 연구로, 임상 적용을 위해서는 향후 충분한 임상시험이 필요합니다.",
+      "limitations": [
+        "연구는 세포주 및 PDX 모델에서 수행되었으며, 임상 환자 대상 시험은 포함하지 않음.",
+        "상세한 동물수 및 통계적 검증 데이터 미제공.",
+        "abstract-only evidence로 전임상 실험과 제한적 데이터만 보고됨."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70097",
+      "discovered_at": "2026-09-17 05:57:06.023642+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42575716/",
+      "summary_generated_at": "2026-10-01 23:26:37.329367+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Cycle length variation assists in differentiation of atrial, ventricular, and sinus arrhythmias in horses at rest.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-07",
+      "online_publication_date": "2026-08-07",
+      "publication_date_raw": "2026-Aug-07",
+      "doi": "10.2460/javma.26.04.0253",
+      "pmid": "42567191",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.04.0253",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42567191/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 말의 부정맥 유형(동성부정맥, 심방조기수축, 심실조기수축) 구분을 위한 실제 임상 ECG 데이터 분석을 바탕으로 하여, 말 환자의 심장 리듬 평가에 직접 적용 가능하다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "cardiology",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "horse arrhythmia classification using cycle length variation",
+      "study_design": "retrospective",
+      "sample_size": 30,
+      "sample_size_quote": "30 resting ECGs were reviewed: 10 each containing SA, APC, and VPC",
+      "objective": "말의 휴식 시 ECG에서 동성부정맥(SA), 심방조기수축(APC), 심실조기수축(VPC)의 RR 및 PP 간격 변화를 분석하여 부정맥 구분 기준 개선을 목표로 하였다.",
+      "study_methods": "30개의 말 휴식 중 ECG를 선정하여 각 10개씩 SA, APC, VPC가 포함된 그룹으로 나누었다. 각 부정맥별로 20개의 사건에서 10개의 연속 RR 및 PP 간격을 기록하고, 연속 간격 간 백분율 변동(%ΔSEQPP, %ΔSEQRR)과 기준 평균 간격 대비 변동(%ΔAVGPP, %ΔAVGRR)을 산출하였다. 2방향 ANOVA와 수신자 조작 특성(ROC)곡선을 사용하여 부정맥 간 변동 차이를 비교하였다.",
+      "one_sentence_summary": "30개의 말 휴식 중 ECG를 대상으로 SA, APC, VPC 각각 10개씩 포함된 그룹에서 RR과 PP 간격의 변동성을 분석하였다. PP 간격 변동(%ΔSEQPP)과 평균 대비 변동(%ΔAVGPP)이 APC와 SA를 구분하는 데 RR 간격 변동보다 우수하였고, 모든 변동 측정법이 SA와 APC, VPC를 구분하는 데 유의미한 차이를 나타냈다. 이 연구는 PP 간격 추가 분석을 통한 부정맥 분류 정확도 향상의 가능성을 제시하였으나 분류 편향이 한계점으로 언급되었다.",
+      "key_results": [
+        {
+          "result": "Cycle length variation differentiated SA from APCs and VPCs in degree of prematurity and return cycle length by use of both RR and PP intervals.",
+          "evidence_quote": "Cycle length variation differentiated SA from APCs and VPCs in the degree of prematurity and return cycle length by use of both RR and PP intervals."
+        },
+        {
+          "result": "The %ΔAVGRR, %ΔSEQPP, and %ΔAVGPP performed better than %ΔSEQRR for differentiating SA from APCs in degree of prematurity.",
+          "evidence_quote": "The %ΔAVGRR, %ΔSEQPP, and %ΔAVGPP performed better than %ΔSEQRR for differentiating SA from APCs in degree of prematurity"
+        },
+        {
+          "result": "Return cycle length was differentiated clearly with all 4 methods (%ΔAVGRR, %ΔSEQPP, %ΔAVGPP, %ΔSEQRR).",
+          "evidence_quote": "while return cycle length was differentiated clearly with all 4 methods."
+        },
+        {
+          "result": "Using %ΔSEQPP, the degree of prematurity and return cycle length of APCs differed from both SA and VPCs.",
+          "evidence_quote": "Using %ΔSEQPP, the degree of prematurity and return cycle length of APCs differed from both SA and VPCs."
+        },
+        {
+          "result": "Using %ΔAVGRR and %ΔAVGPP removed the influence of the degree of prematurity on return cycle length variation.",
+          "evidence_quote": "Using %ΔAVGRR and %ΔAVGPP removed the influence of the degree of prematurity on the return cycle length variation."
+        },
+        {
+          "result": "Variability of sinus cycle lengths (PP7 to 10) following VPCs and SA was noted.",
+          "evidence_quote": "Variability of the sinus cycle lengths (PP7 to 10) following VPCs and SA was noted."
+        }
+      ],
+      "authors_conclusion": "PP 간격을 포함한 사이클 길이 변동 분석은 특히 심방조기수축과 동성부정맥 간 구별 능력을 향상시키는 추가적 도구로 유용하며, 부정맥 분류에 있어 임상적 평가 보조에 기여할 수 있다. 다만 분류 편향이 한계로 작용하였다.",
+      "clinical_takeaway": "이 연구는 말 환자의 휴식 중 ECG에서 심박 주기(사이클 길이) 변동 분석 시 RR 간격뿐만 아니라 PP 간격 변동을 함께 평가하면 동성부정맥과 심방조기수축을 보다 정확히 감별할 수 있음을 보여준다. 이는 임상의가 부정맥을 구분하는 데 도움을 주어 더 적절한 진단과 치료 계획 수립에 기여할 수 있다. 하지만 본 연구는 후향적 데이터 분석이며 분류 편향 가능성이 있어 결과를 신중히 해석해야 하며, 다른 임상 상황이나 운동 중의 부정맥에서는 적용 범위가 제한될 수 있다.",
+      "limitations": [
+        "분류 편향이 있었음이 연구에서 명시됨.",
+        "후향적 연구 설계로 인과관계 확립에 한계가 있음.",
+        "휴식 중 ECG만 분석하여 운동 중 부정맥 구분에는 적용 불확실.",
+        "전향적 임상시험이나 대규모 표본 검증이 이루어지지 않음.",
+        "연구 대상은 말로, 다른 종(예: 개, 고양이) 적용 가능성은 불명."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.04.0253",
+      "discovered_at": "2026-09-17 05:57:06.041991+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42567191/",
+      "summary_generated_at": "2026-10-01 23:27:31.796870+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -1935,18 +2150,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 424
+        "received": 438
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 499
+        "received": 458
       }
     },
-    "started_at": "2026-09-30T23:25:07.763344+00:00",
-    "since": "2026-08-16",
+    "started_at": "2026-10-01T23:24:24.838425+00:00",
+    "since": "2026-08-17",
     "processed": 3,
-    "failed": 14,
-    "deferred": 1021,
-    "finished_at": "2026-09-30T23:27:43.337577+00:00"
+    "failed": 15,
+    "deferred": 1032,
+    "finished_at": "2026-10-01T23:27:32.711974+00:00"
   }
 }
