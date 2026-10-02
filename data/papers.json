@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T23:27:32.783273+00:00",
-  "last_successful_collection": "2026-10-01T23:24:24.838370Z",
+  "generated_at": "2026-10-02T23:27:22.504088+00:00",
+  "last_successful_collection": "2026-10-02T23:23:55.574128Z",
   "mode": "live",
   "papers": [
     {
@@ -1216,6 +1216,88 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Phenotypic characterization of presumptive propriospinal myoclonus in young dogs (2013-2025).",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag211",
+      "pmid": "42823068",
+      "pmcid": "PMC13630453",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag211",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42823068/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "This study directly investigates clinical presentation, diagnostics, treatment, and outcomes of presumptive propriospinal myoclonus in client-owned dogs, which is a relevant neurological disorder for veterinary internal medicine.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Presumptive propriospinal myoclonus in young dogs",
+      "study_design": "retrospective",
+      "sample_size": 27,
+      "sample_size_quote": "Twenty-seven dogs with presumptive PSM.",
+      "objective": "To describe the phenotype, diagnostic findings, treatment, and outcomes in presumptive propriospinal myoclonus in dogs.",
+      "study_methods": "This was a multicenter, retrospective study enrolling 27 client-owned dogs with myoclonus affecting limbs and trunk without head involvement. Cases were identified through online calls for suspected cases of PSM. Neurological examinations and advanced diagnostic imaging including MRI of spinal cord and brain were performed in subsets of these dogs. Treatment varied, with some dogs receiving no therapy, others treated with different antiseizure medications. Follow-up information was collected for 96% of dogs.",
+      "one_sentence_summary": "This retrospective multicenter study described 27 young dogs (median onset age 9 months) with presumptive propriospinal myoclonus characterized by extensor pelvic limb myoclonus during recumbency, frequently lateral (93%) or sternal (44%) postures, with normal neurological exams and mostly normal MRI findings. No treatment was given in 59% of cases with 56% showing spontaneous improvement; 41% received antiseizure drugs with 45% improving. The condition appears idiopathic and predominantly affects pelvic limbs in young dogs with generally preserved mentation and potential for spontaneous improvement.",
+      "key_results": [
+        {
+          "result": "Median age at onset was 9 months (range, 2-44 months).",
+          "evidence_quote": "Median age at onset was 9 months (range, 2-44 months)."
+        },
+        {
+          "result": "Propriospinal myoclonus involved pelvic limbs in all dogs, thoracic limbs in 14/27 (52%), and trunk in 9/27 (33%).",
+          "evidence_quote": "Propriospinal myoclonus involved pelvic limbs in all dogs, thoracic limbs in 14/27 (52%), and trunk in 9/27 (33%)."
+        },
+        {
+          "result": "Pelvic limb myoclonus was extensor in all dogs; thoracic limb involvement was extensor in 12/27 (44%) and flexor in 3/27 (11%) dogs.",
+          "evidence_quote": "Pelvic limb myoclonus was extensor in all dogs, whereas thoracic limb involvement was extensor in 12/27 (44%) and flexor in 3/27 (11%) dogs."
+        },
+        {
+          "result": "Episodes occurred mainly in non-weight-bearing posture, predominantly lateral (25/27; 93%) and sternal (12/27; 44%) recumbency.",
+          "evidence_quote": "Episodes were observed in a non-weight-bearing posture in all dogs, mainly lateral (25/27; 93%) and sternal (12/27; 44%) recumbency."
+        },
+        {
+          "result": "Neurological examination was normal in all dogs.",
+          "evidence_quote": "Neurological examination was normal in all dogs."
+        },
+        {
+          "result": "MRI of spinal cord was normal in 4/6 dogs and brain MRI was normal in 6/6 dogs; one dog had unrelated abnormalities.",
+          "evidence_quote": "Abnormalities were not detected on magnetic resonance imaging of the spinal cord (4/6) or brain (6/6) in 5/6 dogs; in the remaining dog, findings were unrelated to the presumptive PSM."
+        },
+        {
+          "result": "Sixteen dogs (59%) received no treatment; 9/16 (56%) showed spontaneous reduction in PSM frequency.",
+          "evidence_quote": "Sixteen dogs (59%) received no treatment, of which 9/16 (56%) showed spontaneous reduction in PSM frequency."
+        },
+        {
+          "result": "Eleven dogs (41%) received antiseizure medications; 5/11 (45%) improved.",
+          "evidence_quote": "Treatment with various antiseizure medications was started in 11/27 (41%) dogs, of which 5/11 (45%) improved."
+        }
+      ],
+      "authors_conclusion": "Presumptive propriospinal myoclonus primarily affects young dogs, is likely idiopathic, characterized by extensor myoclonus predominantly in pelvic limbs during recumbency, with preserved mentation and frequent spontaneous improvement.",
+      "clinical_takeaway": "이 연구는 주로 9개월령의 젊은 개에서 발생하는 의심되는 propriospinal myoclonus(PSM)의 임상 특징과 예후를 설명한다. 이 질환은 주로 고관절 및 뒷다리의 신전성 근간대경련을 특징으로 하며, 신경학적 검사와 MRI에서는 대부분 정상 소견을 보였다. 많은 개에서 치료 없이도 자발적인 증상 호전이 관찰되어, PSM이 대체로 양호한 예후를 가지며 특발성으로 추정됨을 시사한다. 그러나 치료군 일부에서 항경련제 사용 후 개선이 관찰되었으나, 무작위 대조 연구가 없어 치료 효과 판단에는 한계가 있다. 따라서 젊은 개에서 말초 또는 척추 신경계 이상 없이 재발성 신전성 근경련이 나타날 경우 PSM을 감별진단에 포함하고, 무증상 혹은 경미증상의 경우 관찰 후 자발적 호전 가능성에 대해 보호자에게 설명할 수 있다. 다만 MRI 등 정밀 검사를 통해 중추신경계 구조 이상을 배제하는 것이 필요하다.",
+      "limitations": [
+        "후향적 연구로 치료 중재와 추적 관찰이 비체계적으로 이루어짐.",
+        "대부분 사례에서 진단 확진을 위한 조직검사 등 확정적 진단법 부재.",
+        "MRI 검사가 제한된 개체에게만 시행되어 영상학적 이상 여부 확인 제한적.",
+        "진료 기관 다양성 및 증례 확보 방식이 편향 가능성 내포.",
+        "연구가 초록에 한정되어 전문 내용 및 통계 분석 세부 정보 부족."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적으로 임상에서 젊은 개의 원인불명 신전성 근간대경련 진단과 예후 판단에 중요한 정보를 제공하며, 진단적 접근과 치료 결정에 유용한 근거로서 가치가 있음.",
+      "id": "doi:10.1093/jvimsj/aalag211",
+      "discovered_at": "2026-10-02 23:23:59.072315+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42823068/",
+      "summary_generated_at": "2026-10-02 23:26:05.530662+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Current knowledge of intermittent photic stimulation for electroencephalography in dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -2143,6 +2225,209 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42567191/",
       "summary_generated_at": "2026-10-01 23:27:31.796870+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Canine Femoral Trochlear Dysplasia: A Retrospective Study Assessing the Dejour Signs.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-08-06",
+      "online_publication_date": "2026-08-06",
+      "publication_date_raw": "2026-Aug-06",
+      "doi": "10.1055/a-2924-7203",
+      "pmid": "42562008",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2924-7203",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42562008/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 슬개골 탈구가 있는 개에서 Dejour의 대퇴골 외측 방사선 징후를 평가하고, 정상 개와 비교하여 해당 징후의 진단적 가치를 직접적으로 다루며, 컴퓨터 단층촬영(CT) 영상이 방사선 사진을 대체할 수 있는지의 임상적 가능성을 제시하므로 직접적인 임상 관련성을 가진다.",
+      "primary_category": "surgery",
+      "tags": [
+        "orthopedics",
+        "surgery",
+        "minimally_invasive_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Canine Femoral Trochlear Dysplasia",
+      "study_design": "retrospective",
+      "sample_size": 40,
+      "sample_size_quote": "Forty femoral trochleae were divided into controls without PL (n = 15) and dogs with PL (n = 25).",
+      "objective": "Dejour의 대퇴골 활차 이형성증(lateral radiographic signs)의 정상 개와 슬개골 탈구(PL) 개에서의 판별 가능성과 CT lateral 재구성이 방사선 사진을 대체할 수 있는지 평가.",
+      "study_methods": "슬개골 탈구가 없는 15개 대퇴활차와 슬개골 탈구가 있는 25개 대퇴활차를 대상으로 후향적 연구가 수행됨. 중간외측 방향의 슬관절 방사선 사진과 CT lateral 재구성이 무작위로 배치되어 블라인드 평가자가 Dejour 징후(crossing, supratrochlear spur, double contour)를 판독함. 두 영상 모달리티 간의 일치도는 Cohen's kappa와 McNemar 검정(p<0.05)으로 평가됨.",
+      "one_sentence_summary": "슬개골 탈구 없는 15개 대퇴활차와 슬개골 탈구가 있는 25개 대퇴활차를 대상으로 Dejour 징후 여부를 중간외측 방사선 사진과 CT lateral 재구성에서 평가하였다. 정상군에서는 Dejour 징후가 거의 관찰되지 않은 반면(slpea군은 하나의 CT 경우 제외), 슬개골 탈구군에서는 방사선 사진에서 68%, CT에서 72%가 하나 이상의 Dejour 징후를 보여 진단적 가치를 입증하였다. 두 영상 기법 간에 높은 일치도(95-100%, κ 0.89-1.00)를 나타냈으며, 추가로 'dome' 징후가 24%의 슬개골 탈구 개체에서 관찰되어 중증 탈구와 연관성을 시사하였다. CT의 lateral 재구성은 방사선 사진을 대체할 수 있는 신뢰성 있는 방법임을 제안한다.",
+      "key_results": [
+        {
+          "result": "정상 대퇴활차에서는 두 영상법 모두에서 Dejour 징후가 거의 관찰되지 않았다 (CT에서 한 개 예외).",
+          "evidence_quote": "Dejour signs were absent from controls on both modalities except for one CT trochlea."
+        },
+        {
+          "result": "정상군에서 두 영상 모달리티 간 femoral trochlear dysplasia signs(하나 이상의 징후) 일치도는 93%로 높았다.",
+          "evidence_quote": "In controls, method agreement for femoral trochlear dysplasia signs (one or more signs) was high (observed agreement 93%)."
+        },
+        {
+          "result": "슬개골 탈구군에서는 방사선 사진에서 68%, CT에서 72%가 하나 이상의 Dejour 징후를 보였다.",
+          "evidence_quote": "In PL stifles, one or more Dejour signs were present in 68% on radiographs and 72% on CT."
+        },
+        {
+          "result": "슬개골 탈구군 방사선 사진에서 crossing 48%, supratrochlear spur 40%, double contour 28%; CT에서는 각각 48%, 44%, 28%의 빈도를 보였다.",
+          "evidence_quote": "On radiographs: crossing 48%, supratrochlear spur 40%, double contour 28%; and on CT: 48%, 44%, 28%, respectively."
+        },
+        {
+          "result": "슬개골 탈구군에서 Dejour 징후 조합이 36%에서 관찰되었다.",
+          "evidence_quote": "Sign combinations occurred in 36%."
+        },
+        {
+          "result": "방사선 사진과 CT 간 슬개골 탈구 개별 징후의 일치도는 관찰 일치도 95-100%, κ 0.89-1.00로 상당히 높았다.",
+          "evidence_quote": "Agreement between radiography and CT in PL stifles was substantial (observed agreement 95-100%; κ 0.89-1.00)."
+        },
+        {
+          "result": "추가 소견으로, convex trochlea를 시사하는 단일 투영선('dome' sign)이 슬개골 탈구 대퇴활차의 24%에서 관찰되었으며 주로 grade-4 PL에서 나타났다.",
+          "evidence_quote": "An ancillary finding - a single projection line consistent with a convex trochlea ('dome' sign) - was observed in 24% of PL trochleae both with radiography and CT, mostly grade-4 PL."
+        }
+      ],
+      "authors_conclusion": "Dejour femoral trochlear dysplasia 징후는 슬개골 탈구가 있는 개에서는 확인 가능하며 정상 개에서는 드물게 나타난다. CT lateral 재구성 영상은 이러한 징후들을 신뢰성 있게 보여주며 방사선 사진을 대체할 수 있다. Dejour 징후와 제안된 'dome' 징후의 인지는 슬개골 탈구 개의 수술 전 계획 및 수술적 결정에 도움을 줄 수 있다.",
+      "clinical_takeaway": "이 연구는 슬개골 탈구 진단을 위해 Dejour 기준의 대퇴활차 이형성 징후들을 확인할 수 있음을 보여준다. 방사선 사진과 CT lateral 재구성 모두에서 높은 일치도를 나타내어 CT가 방사선 사진을 효과적으로 대체할 수 있음을 시사한다. 특히 ‘dome’ 징후의 관찰은 중증 슬개골 탈구(주로 grade-4) 평가에 도움을 줄 수 있으며, 수술 계획 수립 시 중요한 영상 소견이 될 수 있다. 단, 샘플 크기 제한과 후향적 연구 설계로 인해 추가 규모가 큰 전향적 연구가 요구된다.",
+      "limitations": [
+        "후향적 연구로 인과관계 확인에 제한이 있음",
+        "전체 대상이 40개 대퇴활차로 상대적으로 작은 표본 크기",
+        "평가자가 한명이며, 영상 판독자 간 변이 평가가 포함되지 않음",
+        "초록만 제공되어 세부 연구 절차와 통계 분석 방법이 제한적으로 보고됨"
+      ],
+      "recommended": true,
+      "recommendation_reason": "슬개골 탈구 수술 전 영상 평가에서 Dejour 징후와 dome 징후를 적극적으로 활용할 근거를 제공하며, CT를 방사선 사진 대안으로 고려할 수 있어 임상적 실행 가능성과 진단 정확도 향상에 기여할 수 있으므로 권장함.",
+      "id": "doi:10.1055/a-2924-7203",
+      "discovered_at": "2026-09-17 05:57:06.049855+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42562008/",
+      "summary_generated_at": "2026-10-02 23:26:33.078125+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "High-dose oral pentobarbital can produce anesthesia in aggressive dogs prior to euthanasia.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-05",
+      "online_publication_date": "2026-08-05",
+      "publication_date_raw": "2026-Aug-05",
+      "doi": "10.2460/javma.26.04.0266",
+      "pmid": "42556400",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.04.0266",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42556400/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 공격성을 보이는 보호소 개를 대상으로 고용량 경구 펜토바르비탈을 사용한 무의식 유도 효과 및 안락사 전 진정제로서의 적용 가능성을 평가하였으며, 임상에서 행동 문제로 직접 조작이 어려운 개에게 적용할 수 있는 구체적 방법을 탐구함.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "emergency_critical_care"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Pentobarbital oral administration for anesthesia prior to euthanasia in aggressive dogs",
+      "study_design": "prospective",
+      "sample_size": 12,
+      "sample_size_quote": "12 dogs met the inclusion criteria.",
+      "objective": "To determine whether PO administration of pentobarbital sodium solution at 3 times the labeled IV dose induces unconsciousness or euthanasia in dogs exhibiting aggression scheduled for euthanasia in a shelter setting.",
+      "study_methods": "12 dogs in a shelter scheduled for euthanasia were enrolled between June 2024 and October 2025; dogs showed human and/or animal aggression. No breed, sex, or age restrictions were applied. Pentobarbital sodium solution was prepared in 1-mL gelatin capsules, placed in highly palatable foods, and offered to fasted dogs. Consumption was monitored. Unconsciousness onset and respiratory rates were observed for 120 minutes post ingestion. Additional euthanasia methods were used as needed to achieve death.",
+      "one_sentence_summary": "공격성을 보이는 12마리의 보호소 개를 대상으로 경구 펜토바르비탈 용해액을 3배 고용량(≥ 255 mg/kg)으로 캡슐에 담아 고보상 식품에 숨겨 급여하였다. 9마리가 섭취하였고 이 중 5마리가 평균 25분 내에 무의식을 보였다. 모든 개에서 120분 관찰 기간 내 사망하지 않아 추가 안락사 방법이 필요했다. 본 연구는 고용량 경구 펜토바르비탈이 완전한 안락사를 위해서는 불충분하지만, 행동으로 조작이 어려운 개에 대해 안락사 전 진정제로서 사용할 수 있음을 시사한다.",
+      "key_results": [
+        {
+          "result": "9마리가 펜토바르비탈이 포함된 식품을 먹었고 3마리는 거부하였다.",
+          "evidence_quote": "9 consumed the food and 3 refused."
+        },
+        {
+          "result": "섭취한 9마리 중 5마리가 최소 255 mg/kg 이상 투여되어 평균 25분 만에 무의식을 획득하였다.",
+          "evidence_quote": "Five of the 9 dogs that ate the food containing pentobarbital capsules (≥ 255 mg/kg) achieved unconsciousness within a mean time of 25 minutes."
+        },
+        {
+          "result": "관찰 기간인 120분 동안 모든 개는 호흡수가 느리지만 일정하게 유지되었다.",
+          "evidence_quote": "Respiratory rates remained slow but consistent during the observation period (120 minutes)."
+        },
+        {
+          "result": "모든 개에게 안락사를 완수하기 위해 추가적 안락사 방법이 필요하였다.",
+          "evidence_quote": "All 12 dogs required another euthanasia method to achieve death."
+        }
+      ],
+      "authors_conclusion": "경구 투여된 펜토바르비탈은 개에서 안락사를 신뢰성 있게 유도하지 못하며, 120분 관찰 후에도 사망에 이르지 않아 추가적인 안락사 방법이 필요하다. 하지만 ≥ 255 mg/kg 투여 시 안락사 전 무의식 유도로서는 효과적인 것으로 보인다.",
+      "clinical_takeaway": "행동이 공격적이라 직접 조작이 어렵거나 스트레스가 우려되는 보호소 내 개에 대해, 고용량 경구 펜토바르비탈(≥ 255 mg/kg)을 캡슐로 제공하여 무의식을 유도하는 것은 실용적인 진정 방법이다. 평균 25분 내 무의식이 유도되지만, 이 방법만으로는 사망에 이르지 않아 반드시 추가적인 안락사 절차가 동반되어야 한다. 따라서 이 방법은 안락사 전 진정제로서 제한적으로 활용할 수 있으나 완전한 대체법은 아니다. 무의식 유도 후에도 지속 관찰과 후속 조처가 필수임을 명확히 이해해야 한다.",
+      "limitations": [
+        "보호소 내 제한된 개체수(12마리)를 대상으로 한 단일 연구로 일반화에 제한이 있음",
+        "경구 투여 거부 개체(3마리)에 대한 추가적 고려 미흡",
+        "안락사 완성을 위해 다른 방법 사용이 필요하므로 경구 투여만으로 완전한 안락사를 평가할 수 없음",
+        "추가적 임상 결과 및 장기 관찰 결과 보고 미비",
+        "초록만 제공되어 전체 연구 디자인 세부사항과 통계처리 정보 부족"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.04.0266",
+      "discovered_at": "2026-09-17 05:57:06.070102+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42556400/",
+      "summary_generated_at": "2026-10-02 23:27:03.897849+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Ultrasonographic evaluation of the canine gracilis, semimembranosus, and semitendinosus muscles.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-05",
+      "online_publication_date": "2026-08-05",
+      "publication_date_raw": "2026-Aug-05",
+      "doi": "10.2460/javma.26.05.0362",
+      "pmid": "42556420",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.05.0362",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42556420/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 개에서 실제 임상에서 사용하는 초음파 기법을 설명하며, 정상 대퇴내전근군(그라실리스, 세미멤브라노서스, 세미텐디노서스 근육)의 해부학적 구조 및 초음파 소견을 제시한다. 이는 근섬유종 등 병변 진단에 직접 활용이 가능하므로, 임상적 관련성이 높다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine thigh muscle ultrasonographic anatomy and evaluation",
+      "study_design": "case_report",
+      "sample_size": 2,
+      "sample_size_quote": "2 clinically healthy client-owned German Shepherd Dogs were used for this tutorial",
+      "objective": "개에서 그라실리스, 세미멤브라노서스, 세미텐디노서스 근육의 초음파 평가를 위한 실용적 기법을 기술한다.",
+      "study_methods": "2마리의 임상적으로 건강한 독일 셰퍼드 견을 대상으로, 주인 동의 및 대학 위원회 승인하에 시행하였다. 개들은 피부를 털깎기 하고 진정시킨 뒤 등측위에서 양측 고관절 벌림 상태로 편안하게 고정하였다. 고주파 리니어 초음파 탐촉자를 사용해 단계별 스캔법을 시연하였다. 깊이, 초점, 게인, 시간-게인 보상을 조절하여 영상을 최적화하였고, 횡단면 및 종단면 모두에서 근육 기시부, 몸통, 부착부를 관찰하였다. 정상 해부학적 구조를 확인하여 일관된 평가가 가능하도록 하였다.",
+      "one_sentence_summary": "본 연구에서는 임상적으로 건강한 2마리의 독일 셰퍼드 견을 대상으로 고주파 리니어 초음파 탐촉자 사용법을 적용하여 그라실리스, 세미멤브라노서스, 세미텐디노서스 근육을 횡단면과 종단면에서 단계적으로 스캔하였다. 해당 근육들은 위치, 모양, 에코 특성 및 섬유 방향에 따라 명확하게 확인되었고, 표준화된 스캔 평면을 통해 근육 구조와 힘줄 부착부를 일관되게 시각화하는 것이 가능하였다. 이 연구는 개의 대퇴내전근 초음파 평가 방법을 상세히 설명하여 임상 진단에 도움을 준다.",
+      "key_results": [
+        {
+          "result": "초음파 검사를 통해 그라실리스, 세미멤브라노서스, 세미텐디노서스 근육을 위치, 모양, 에코강도 및 섬유 방향에 근거하여 명확하게 식별할 수 있었다.",
+          "evidence_quote": "Ultrasound allowed clear identification of the gracilis, semimembranosus, and semitendinosus muscles on the basis of location, shape, echogenicity, and fiber orientation."
+        },
+        {
+          "result": "그라실리스 근육은 횡단면에서 표재성의 납작한 내전근으로, 세미멤브라노서스는 더 깊게 위치하며 세미텐디노서스는 보다 후측에 둥근 윤곽으로 관찰되었다.",
+          "evidence_quote": "The gracilis was identified in a transverse plane as a superficial, flat adductor muscle, with the semimembranosus located deeper and the semitendinosus positioned more caudally with a rounded contour."
+        },
+        {
+          "result": "고정된 표준 스캔 평면을 통해 근육 구조와 힘줄 부착부를 일관되게 확인하였다.",
+          "evidence_quote": "Standardized scanning planes enabled consistent visualization of muscle architecture and tendon attachments."
+        }
+      ],
+      "authors_conclusion": "초음파는 개에서 그라실리스, 세미멤브라노서스, 세미텐디노서스 근육 평가에 가치 있고 접근 가능한 도구이며, 정상 해부학 및 스캔 기술에 익숙해지는 것이 섬유화 근병증 등 질환 진단과 조기 중재에 필수적이다.",
+      "clinical_takeaway": "이 연구는 개의 대퇴 내전근군 초음파 평가를 위한 표준화된 스캔 기법을 제시하여 임상에서 근육 손상이나 섬유화 근병증 진단에 도움을 준다. 정상 근육의 초음파 소견과 위치, 형태를 숙지함으로써 이상 소견을 정확히 구분할 수 있어 조기 진단 및 치료 계획 수립에 유용하다. 다만 연구 대상은 임상적으로 건강한 2마리의 개에 한정되어 결과의 일반화에는 제한이 있으므로 실제 근병증 환자에 적용한 추가 연구가 필요하다.",
+      "limitations": [
+        "소수의 건강한 개 표본(2마리)만을 대상으로 한 사례 보고 연구이다.",
+        "병적 변화가 있는 환자에서의 초음파 소견과 비교하지 않았다.",
+        "전체 텍스트가 아닌 초록만 제공되어 상세한 검토가 제한적이다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.05.0362",
+      "discovered_at": "2026-09-17 05:57:06.064064+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42556420/",
+      "summary_generated_at": "2026-10-02 23:26:44.606833+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -2150,18 +2435,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 438
+        "received": 449
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 458
+        "received": 468
       }
     },
-    "started_at": "2026-10-01T23:24:24.838425+00:00",
-    "since": "2026-08-17",
-    "processed": 3,
-    "failed": 15,
-    "deferred": 1032,
-    "finished_at": "2026-10-01T23:27:32.711974+00:00"
+    "started_at": "2026-10-02T23:23:55.574183+00:00",
+    "since": "2026-08-18",
+    "processed": 4,
+    "failed": 12,
+    "deferred": 1044,
+    "finished_at": "2026-10-02T23:27:22.427819+00:00"
   }
 }
