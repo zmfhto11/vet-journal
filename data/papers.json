@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T03:02:24.938830+00:00",
-  "last_successful_collection": "2026-10-04T03:00:14.914114Z",
+  "generated_at": "2026-10-04T23:27:27.968203+00:00",
+  "last_successful_collection": "2026-10-04T23:25:14.940333Z",
   "mode": "live",
   "papers": [
     {
@@ -2645,6 +2645,144 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42556420/",
       "summary_generated_at": "2026-10-02 23:26:44.606833+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Core decompression augmented with bone marrow aspirate concentrate for refractory distal sesamoid bone pathology in horses: A retrospective clinical study.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-08-01",
+      "online_publication_date": "2026-08-01",
+      "publication_date_raw": "2026-Aug-01",
+      "doi": "10.1111/vsu.70139",
+      "pmid": "42541767",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70139",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42541767/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 치료에 반응하지 않는 말의 원위 종자골 질환을 가진 임상 환자군을 대상으로 하여, 수술적 및 정형생물학적 치료법의 임상적 결과를 직접 보고함.",
+      "primary_category": "surgery",
+      "tags": [
+        "orthopedics",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "distal sesamoid bone pathology in horses",
+      "study_design": "retrospective",
+      "sample_size": 21,
+      "sample_size_quote": "A total of 21 client-owned Warmblood horses with DSB pathology unresponsive to conservative management.",
+      "objective": "보존적 치료에 반응하지 않는 중등도에서 중증의 원위 종자골 내 골수 병변을 가진 말에서 핵심감압술(core decompression)과 자가 골수 흡인 농축액(BMAC) 병용 시 단기 및 장기 임상 결과 평가.",
+      "study_methods": "21두의 Warmblood 말이 보존적 치료에 반응하지 않는 DSB 병변으로 선별됨. 수술 전 진단은 진통 국소요법과 MRI를 통해 병변 국소화와 확인이 이루어짐. 수술은 거리관절의 족저낭을 통한 관절경적 핵심감압술 후, 동종 골수농축액을 골내 주입하는 방식으로 진행됨. 추후 임상검진, 방사선 및 MRI 추적검사가 이루어짐. 9두는 6개월에서 최대 18개월까지 장기 추적 검사에 포함됨.",
+      "one_sentence_summary": "본 후향적 연구에서는 보존적 치료에 반응하지 않는 21두의 Warmblood 말에서 핵심감압술과 자가 골수 흡인 농축액 병용 치료를 시행하였다. 수술 중 중대한 합병증은 발생하지 않았으며, 9두에 대해 6개월 및 최대 18개월까지 임상 및 영상 추적 관찰을 시행하였다. 6개월 시점에 9두 중 6두(67%)가 보행 가능 상태로 훈련에 복귀하였고, MRI에서 병변 관련 신호 변화 감소가 확인되었다. 18개월 추적 시에도 6두가 보행 가능하였고 3두는 이전 또는 예정된 수행능력을 회복하였다.",
+      "key_results": [
+        {
+          "result": "21두의 말 모두에서 수술 중 및 수술 후 중대한 합병증이 없었다.",
+          "evidence_quote": "No major intraoperative or postoperative complications occurred in any of the 21 operated horses."
+        },
+        {
+          "result": "6개월 시점에 9두 중 6두(67%)가 보행 가능 상태로 복귀하였다.",
+          "evidence_quote": "At 6 months, six of nine horses (67%) were sound and returned to training."
+        },
+        {
+          "result": "MRI 후속 검사에서 단기 죽음 반전 회복(STIR) 신호 감소 및 T1 가중 신호 증가가 관찰되어 활발한 골 병변의 감소와 일치하였다.",
+          "evidence_quote": "MRI follow-up demonstrated reduced short tau inversion recovery (STIR) hyperintensity and increased T1-weighted signal within the DSB trabecular bone, consistent with a reduction in active trabecular bone pathology."
+        },
+        {
+          "result": "3두는 임상적으로 지속적인 절름발이와 변화 없는 MRI 소견을 보였다.",
+          "evidence_quote": "Three horses remained lame with unchanged MRI findings."
+        },
+        {
+          "result": "18개월 시점에 6두는 보행 가능하였고, 이 중 3두는 이전 또는 예정된 수행능력을 회복하였다.",
+          "evidence_quote": "At 18 months, six horses remained sound, and three returned to their previous or intended performance levels."
+        },
+        {
+          "result": "방사선 검사에서 3예에서 낭종 형태 병변의 재형성이 관찰되었다.",
+          "evidence_quote": "Radiographic remodeling of cyst-like lesions was evident in three cases."
+        }
+      ],
+      "authors_conclusion": "본 연구에 포함된 고도의 난치성 원위 종자골 내 골수 병변을 가진 말에서 핵심 감압술과 자가 골수 흡인 농축액 병용 치료는 안전하며, 기능 회복에 도움이 될 수 있음을 시사한다.",
+      "clinical_takeaway": "본 연구는 보존적 치료에 반응하지 않는 원위 종자골 병변을 가진 말 환자에게 핵심감압술과 자가 골수 농축액 주입을 병용한 치료가 안전하고 효과적일 수 있음을 보여준다. 6개월 및 18개월의 추적 관찰에서 상당수의 말이 보행을 회복하고 일부는 이전 수행능력까지 복귀하였다. 이 치료법은 난치성 원위 종자골 병변의 치료 옵션으로 고려될 수 있으나, 후향적이고 제한된 표본수 및 부족한 무작위 대조 연구의 한계가 있으므로 임상 적용 시 신중한 판단이 필요하다.",
+      "limitations": [
+        "후향적 연구 설계로 인과관계 분석의 제한이 있음.",
+        "장기 추적 대상이 9두로 비교적 적음.",
+        "대조군이나 무작위 대조 설계가 없어 치료 효과의 절대적 평가가 어려움.",
+        "초록 정보만으로 전체 연구 상세 내용 파악 제한."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상에서 보존적 치료에 반응하지 않는 원위 종자골 병변 말에게 핵심감압술과 자가 골수 농축액 주입을 병용하는 치료법은 안전하며 상당한 기능 회복 가능성을 보임. 이는 임상적으로 해결이 어려운 난치성 원위 종자골 병변 환자 치료에 새로운 대안으로 고려될 수 있기 때문.",
+      "id": "doi:10.1111/vsu.70139",
+      "discovered_at": "2026-09-17 05:57:33.754337+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42541767/",
+      "summary_generated_at": "2026-10-04 23:26:24.050835+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Is annual Dirofilaria immitis antigen testing at preventive renewal proportionate to the residual infection risk in documented-compliant dogs?",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-07-31",
+      "online_publication_date": "2026-07-31",
+      "publication_date_raw": "2026-Jul-31",
+      "doi": "10.2460/javma.26.04.0293",
+      "pmid": "42542127",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.04.0293",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42542127/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "연구는 개에서 심장사상충 항원 검사 및 예방제 처방의 적정성 평가에 관한 것으로, 임상적 컴플라이언스와 지역별 감염율을 고려한 위험 기반 검사 전략을 제안하지만 직접적인 임상 시험이나 환자 결과에 대한 증거는 제공하지 않습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "infectious_disease",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Dirofilaria immitis (Heartworm) antigen testing and preventive compliance",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "미국 심장사상충학회 가이드라인의 마크로사이클릭 락톤 예방제 처방시 항원 검사 의무화 정책의 적정성을 평가하기 위해 인구 기반 심장사상충 감염율과 사용자의 컴플라이언스 분포를 분석하였다.",
+      "study_methods": "본 연구는 미국 내 카운티별 Companion Animal Parasite Council의 심장사상충 감염률과 예방제 복용자의 컴플라이언스 차이를 대리 변수로 수치화하여 미국 각 주별 감염 위험과 컴플라이언스를 반영한 Number Needed to Screen(NNS) 값을 산출하였다. 이 방법은 인체 예방의학에서 개발된 NNS 개념을 수의학에 처음 적용한 것이다.",
+      "one_sentence_summary": "미국의 심장사상충 예방제 복용 개체군을 대상으로 카운티 별 감염률과 사용자 컴플라이언스 격차를 대리 변수로 사용하여 연간 항원 검사 필요성의 상대 위험도를 평가하였다. NNS 분석 결과, 미국 내 각 주별 검사 필요성이 약 25배까지 차이나는 것으로 나타났다. 이러한 지역별 감염률과 예방제 컴플라이언스 이력을 반영한 위험 기반 검사 전략의 추진이 향후 전향적 평가가 필요함을 제안한다.",
+      "key_results": [
+        {
+          "result": "Number Needed to Screen 값이 미국 내 주별로 약 25배까지 차이남",
+          "evidence_quote": "we derive geographically stratified Number Needed to Screen estimates varying approximately 25-fold across US states."
+        },
+        {
+          "result": "현행 미국 심장사상충학회 가이드라인은 컴플라이언스와 지역 감염률과 무관하게 예방제 처방 시 항원검사 미실시에 대해 '권장하지 않음'을 표명함",
+          "evidence_quote": "Current American Heartworm Society guidelines characterize prescribing macrocyclic lactone preventives in the absence of antigen testing as \"NOT RECOMMENDED,\" regardless of compliance history or geographic prevalence."
+        },
+        {
+          "result": "NNS 개념이 수의학 스크리닝 도구로 처음 적용되어 가이드라인 평가에 사용됨",
+          "evidence_quote": "Number Needed to Screen, an established human preventive medicine framework applied here as a novel veterinary screening tool, has not previously been used to evaluate this guideline."
+        },
+        {
+          "result": "지역별 감염률 및 사용자의 예방제 복용 이력을 기반으로 위험 기반 검사 접근법이 필요하며 전향적 연구가 권장됨",
+          "evidence_quote": "A risk-stratified approach calibrated to local prevalence and compliance history merits prospective evaluation."
+        }
+      ],
+      "authors_conclusion": "항원 검사 의무화에 대한 현재 가이드라인은 감염 위험과 예방제 복용 이력의 지역적 차이를 반영하지 못하므로, 지리적 특성과 컴플라이언스를 고려한 위험도 기반 검사 전략에 대한 전향적 평가가 필요하다고 결론지었다.",
+      "clinical_takeaway": "현재 미국 심장사상충 예방 가이드라인은 예방제 처방 시 연간 항원 검사 시행을 권장하지만, 이 연구에서 지역별 감염 위험과 예방제 복용 상태에 따라 검사 필요성이 최대 25배까지 차이가 있음을 확인했다. 따라서 개별 지역의 감염 유병률과 환자의 예방제 이력을 고려한 맞춤형 검사가 향후 더 효율적이고 합리적인 방법일 수 있다. 다만 이 연구는 통계적 모델링 및 간접 데이터에 기반하였으며 전향적 임상시험 결과가 없어, 실제 임상 적용 전 추가 연구가 필요하다. 본 결과를 현실 임상에 무리하게 적용하는 것은 위험하며, 지역 특성에 따른 감염 위험 평가와 개별 환자 관리가 중요하다.",
+      "limitations": [
+        "연구는 전향적 임상시험이 아닌 모델 기반 분석이며 관련 직접 환자 데이터가 부족하다.",
+        "항원 검사 시행과 예방제 복용 컴플라이언스 데이터가 대리 변수로 사용되어 실제 복용 이력에 차이가 있을 수 있다.",
+        "지역별 감염률 데이터는 Companion Animal Parasite Council 자료에 의존하므로 최신 현황과 차이가 있을 수 있다.",
+        "본 연구는 초록만 제공되어 전체 연구 세부 자료 검토가 불가하다. "
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.04.0293",
+      "discovered_at": "2026-09-17 05:57:37.709935+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42542127/",
+      "summary_generated_at": "2026-10-04 23:26:38.497523+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -2652,18 +2790,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 449
+        "received": 450
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 485
+        "received": 486
       }
     },
-    "started_at": "2026-10-04T03:00:14.914162+00:00",
+    "started_at": "2026-10-04T23:25:14.940388+00:00",
     "since": "2026-08-20",
-    "processed": 3,
-    "failed": 9,
-    "deferred": 1052,
-    "finished_at": "2026-10-04T03:02:24.861162+00:00"
+    "processed": 2,
+    "failed": 22,
+    "deferred": 1038,
+    "finished_at": "2026-10-04T23:27:27.887948+00:00"
   }
 }
