@@ -1,9 +1,74 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T23:27:43.072975+00:00",
-  "last_successful_collection": "2026-10-05T23:24:56.312554Z",
+  "generated_at": "2026-10-06T23:29:51.233289+00:00",
+  "last_successful_collection": "2026-10-06T23:26:59.338168Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Clinical outcomes were evaluated in 82 dogs with B-cell lymphoma treated with adoptive T-cell therapy following cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-10-05",
+      "online_publication_date": "2026-10-05",
+      "publication_date_raw": "2026-Oct-05",
+      "doi": "10.2460/javma.26.05.0419",
+      "pmid": "42833272",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.05.0419",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833272/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 82마리의 B세포 림프종에 걸린 개들을 대상으로 CHOP 화학요법 후에 수행된 T세포 치료(Adoptive T-cell Therapy, ACT)의 임상적 결과와 부작용을 보고하고 있어, 임상적 적용과 영향 평가에 직접적인 임상 가치를 가지기 때문이다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "B-cell lymphoma in dogs treated with adoptive T-cell therapy after CHOP chemotherapy",
+      "study_design": "retrospective",
+      "sample_size": 82,
+      "sample_size_quote": "82 dogs met inclusion criteria",
+      "objective": "B세포 림프종에 걸린 개들에게 CHOP 화학요법 후 ACT를 투여한 임상적 결과 및 부작용을 기술하고자 함.",
+      "study_methods": "2017년부터 2025년까지 B세포 림프종 진단을 받고 CHOP 화학요법 후 ACT를 시행한 82마리 개의 의무기록을 후향적으로 검토하였다. 전체 생존기간은 림프종 진단 시점부터 사망 또는 마지막 추적 관찰 시점까지로 정의하였고, ACT 이후 생존기간은 첫 ACT 투여부터 사망 또는 마지막 추적 시점까지였다. 다음 림프종 치료 시작 시점까지의 시간도 산출하였으며, Kaplan-Meier 분석으로 생존율을 추정하였다.",
+      "one_sentence_summary": "본 연구는 2017년부터 2025년 사이에 B세포 림프종 진단을 받은 82마리 개에서 CHOP 화학요법 후에 ACT를 적용한 후향적 연구이다. 전체 생존기간 중앙값은 660일(95% CI 539-781), ACT 이후 생존기간 중앙값은 368일(95% CI 261-474)였으며, 다음 항림프종 치료 개시까지 중앙시간은 317일(95% CI 284-350)으로 나타났다. ACT는 대부분 개에서 내약성이 좋았고, 부작용은 82마리 중 4마리(5%)에서 경증~중증 1건을 포함해 보고되었다.",
+      "key_results": [
+        {
+          "result": "전체 생존기간 중앙값은 660일 (95% 신뢰구간 539에서 781일)로 나타났다.",
+          "evidence_quote": "Median overall survival from diagnosis was 660 days (95% CI, 539 to 781 days)"
+        },
+        {
+          "result": "ACT 이후 생존기간 중앙값은 368일 (95% 신뢰구간 261에서 474일)이었다.",
+          "evidence_quote": "Median post-ACT survival was 368 days (95% CI, 261 to 474 days)"
+        },
+        {
+          "result": "다음 항림프종 치료 개시까지의 시간 중앙값은 317일 (95% 신뢰구간 284에서 350일)으로 확인되었다.",
+          "evidence_quote": "median time to next anti-lymphoma treatment was 317 days (95% CI, 284 to 350 days)"
+        },
+        {
+          "result": "82마리 중 4마리(5%)에서 부작용이 보고되었으며, 대다수는 1~2등급의 경증이었고 1건의 3등급 심각한 부작용이 있었다.",
+          "evidence_quote": "Adverse events occurred in 5% (4 of 82) of dogs; most were grade 1 or 2, with 1 grade 3 event reported"
+        }
+      ],
+      "authors_conclusion": "본 연구에서 CHOP 화학요법 후 ACT를 받은 B세포 림프종 개들의 임상 결과는 다양하였으며, ACT는 대부분의 환자에서 내약성이 좋아 안전하게 사용할 수 있음을 시사한다. 부작용은 소수 개체에서만 보고되었다.",
+      "clinical_takeaway": "B세포 림프종을 진단받고 CHOP 화학요법 후 ACT를 받은 개들의 생존률 및 부작용을 분석한 결과, ACT는 종양 치료 후에도 상대적으로 긴 생존기간과 견딜 수 있는 부작용 프로파일을 보였다. 이는 ACT가 B세포 림프종 치료에서 잠재적 이점이 있음을 시사하지만, 연구가 후향적이고 통제군이 없다는 점에서 아직 치료 프로토콜로 권고하기에는 증거가 불충분하다. 따라서 임상가는 ACT 적용 시 이 연구 결과를 참고하되, 향후 전향적 및 대조군 연구 결과를 기다리는 것이 바람직하다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인과관계 평가에 한계가 있다.",
+        "대조군이 없어 ACT의 효능을 명확히 비교할 수 없다.",
+        "부작용 평가가 제한적이며, 자세한 장기 추적 관찰 데이터가 부족하다.",
+        "초록만 제시되어 전체 상세한 연구 방법과 결과 분석이 제한적이다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.05.0419",
+      "discovered_at": "2026-10-06 23:27:00.747016+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42833272/",
+      "summary_generated_at": "2026-10-06 23:28:02.071878+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "A novel water additive increases voluntary water intake in healthy horses.",
       "journal": "Journal of the American Veterinary Medical Association",
@@ -1430,75 +1495,6 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
       "summary_generated_at": "2026-09-20 23:28:01.670256+00:00",
-      "analysis_model": "gpt-4.1-mini"
-    },
-    {
-      "title": "Periparturient changes in osteoimmunological markers and their association with hypocalcemia in dairy cows.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "journal_id": "jvim",
-      "publication_date": "2026-09-01",
-      "online_publication_date": null,
-      "publication_date_raw": "2026-Sep-01",
-      "doi": "10.1093/jvimsj/aalag244",
-      "pmid": "42831799",
-      "pmcid": null,
-      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag244",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42831799/",
-      "source": "pubmed",
-      "clinical_relevance": "direct",
-      "relevance_reason": "연구는 유제품을 생산하는 젖소의 주변출산기 동안 골면역학적 지표와 저칼슘혈증의 연관성을 분석하여 실질적인 임상용 바이오마커 발굴에 기여함.",
-      "primary_category": "internal_medicine",
-      "tags": [
-        "internal_medicine",
-        "infectious_disease"
-      ],
-      "species": [
-        "dog"
-      ],
-      "disease_or_topic": "periparturient hypocalcemia in dairy cows",
-      "study_design": "prospective",
-      "sample_size": 66,
-      "sample_size_quote": "Sixty-six Fleckvieh, Holstein-Friesian, and New Zealand Friesian dairy cows and heifers from a research herd.",
-      "objective": "주변출산기 동안 젖소의 골면역학적 지표 변화를 평가하고, 산차 및 저칼슘혈증과의 연관성을 규명하여, 저칼슘혈증 예측 가능성을 평가한다.",
-      "study_methods": "혈액 샘플은 출산 21, 14, 7, 0일과 출산 당일 및 출산 후 0, 1, 3, 7, 14일에 채취했다. 총 칼슘, 알칼리성 인산분해효소(AP), type I 콜라겐 C-말단 교차결합 텔로펩타이드(CTX-I), 오스테오칼신(OC), RANK, RANKL, OPG 농도를 측정했다. 출산 후 혈청 칼슘 농도에 따라 정상칼슘군, 아임상 저칼슘군, 심한 저칼슘군으로 분류했다. ROC 분석으로 예측 성능을 평가했다.",
-      "one_sentence_summary": "66마리의 젖소를 대상으로 출산 전후 21일부터 14일까지 혈액 샘플을 채취하여 CTX-I, AP, OC, RANK, RANKL, OPG 등 골면역학적 지표를 측정하고, 혈청 칼슘 농도와 비교했다. CTX-I가 다산우와 정상칼슘군에서 높았고, AP는 정상칼슘군에서 초기 수유기 동안 증가했으며, OC, RANKL, OPG는 칼슘 상태와 일관된 연관성을 보이지 않았다. CTX-I는 출산 전 저칼슘혈증 예측에 높은 정확도(AUC 0.75-0.90)를 보였으며, AP는 중간, RANK는 제한적 예측력을 나타냈다.",
-      "key_results": [
-        {
-          "result": "CTX-I 농도가 초산우와 정상칼슘군에서 심한 저칼슘군보다 높았다.",
-          "evidence_quote": "The CTX-I concentrations were higher in primiparous and normocalcemic cows compared with low-calcium cows."
-        },
-        {
-          "result": "알칼리성 인산분해효소(AP) 활성은 초기 수유기 동안 정상칼슘군에서 증가했다.",
-          "evidence_quote": "Activity of AP was increased in normocalcemic cows during early lactation."
-        },
-        {
-          "result": "오스테오칼신(OC), RANKL, OPG는 칼슘 상태와 일관된 연관성을 보이지 않았다.",
-          "evidence_quote": "OC, RANKL, and OPG showed no consistent association with calcium status."
-        },
-        {
-          "result": "CTX-I 농도는 출산 전 저칼슘혈증 예측에 대해 높은 예측 가치를 보였다(AUC 0.75-0.90).",
-          "evidence_quote": "Concentration of CTX-I demonstrated high predictive value for hypocalcemia before calving (AUC, 0.75-0.90"
-        },
-        {
-          "result": "알칼리성 인산분해효소(AP)는 중간 정도의 예측 가치를, RANK는 제한적인 예측 가치를 보였다.",
-          "evidence_quote": "whereas AP showed moderate and RANK limited predictive value."
-        }
-      ],
-      "authors_conclusion": "골 흡수 마커, 특히 CTX-I는 주변출산기 칼슘 항상성과 연관되며, 저칼슘혈증 위험이 출현하기 전에 위험 동물 선별에 도움을 줄 수 있다.",
-      "clinical_takeaway": "이 연구는 젖소의 주변출산기 동안 골흡수 표지자인 CTX-I 수치가 저칼슘혈증 위험과 밀접한 연관이 있음을 보여준다. 출산 전 혈액 검사로 CTX-I를 측정하면 저칼슘혈증 발병 전 고위험군을 선별할 수 있으며, 이를 통해 조기 개입과 예방적 관리가 가능하다. 하지만 OC, RANKL, OPG는 유용한 지표가 아니며, AP는 예측력이 제한적이므로 CTX-I가 가장 유용한 생체표지자임을 인지해야 한다. 본 결과는 젖소의 골대사와 칼슘 균형을 종합적으로 이해하고, 저칼슘혈증 관리를 위해 특정 바이오마커 활용 가능성을 시사한다. 단, 본 연구는 연구농장 내 코호트로 실제 임상 현장과는 차이가 있을 수 있어, 다양한 농장 조건에서 추가 검증이 필요하다.",
-      "limitations": [
-        "연구는 단일 연구농장에서 수행되어 일반화에 제한이 있을 수 있다.",
-        "혈청 마커의 변화를 관찰하는 전향적 관찰 연구로 인과관계 증명에는 한계가 있다.",
-        "오직 혈청 마커와 칼슘 농도만 평가하여 기타 대사 및 영양 상태와의 복합적 영향은 분석하지 않았다.",
-        "전체 결과는 초록만 제공되어 상세한 방법 및 결과 해석에 제약이 있다."
-      ],
-      "recommended": false,
-      "recommendation_reason": null,
-      "id": "doi:10.1093/jvimsj/aalag244",
-      "discovered_at": "2026-10-05 23:24:57.629554+00:00",
-      "evidence_source": "abstract",
-      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42831799/",
-      "summary_generated_at": "2026-10-05 23:25:43.670641+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -3002,6 +2998,149 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42486153/",
       "summary_generated_at": "2026-10-05 23:27:13.904590+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Enhancing EGFR Inhibition: Monensin and Erlotinib Synergize to Eliminate Cancer Stem Cells in Canine Mammary Tumours.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": null,
+      "online_publication_date": "2026-07-15",
+      "publication_date_raw": "2026-Sep",
+      "doi": "10.1111/vco.70085",
+      "pmid": "42454670",
+      "pmcid": "PMC13456595",
+      "publisher_url": "https://doi.org/10.1111/vco.70085",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42454670/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "This study investigates a combined drug effect on canine mammary tumour cell lines and an animal model, but it is preclinical research using established cell lines and mouse xenograft models rather than clinical trials on client-owned dogs. Therefore, the clinical relevance to direct patient care is indirect and hypothesis-generating rather than immediately applicable.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine mammary tumours and cancer stem cells",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "To investigate the synergistic inhibitory effects of monensin and erlotinib combination on cancer stem cells derived from canine mammary tumours, assessing proliferation, invasion, mammosphere formation, and signaling pathways in vitro and validating efficacy in an orthotopic xenograft mouse model.",
+      "study_methods": "The study used the CMT-U27 canine mammary tumour cell line and isolated cancer stem cell spheres (CMT-U27S) via serum-free culture. The proportion of CSCs with CD44+/CD24- phenotype was identified by flow cytometry. Cell viability was measured by CCK-8 assay. Cell invasion and mammosphere formation assays evaluated functional changes. An orthotopic tumour model was created by implanting CMT-U27S cells into nude mice to validate in vivo antitumor effects. EGFR pathway proteins were evaluated by immunofluorescence and immunohistochemistry. Tumour volume and lung metastases were assessed in the animal model.",
+      "one_sentence_summary": "본 연구에서는 개의 유선암 세포주 CMT-U27에서 유래한 암 줄기 세포(CSC)의 생존, 침습 및 구형체 형성을 단니스틴(MON)과 에를로티닙(ERL)의 병용 처리하여 평가하였다. 두 약물의 병용은 EGFR 경로의 중요한 단백질(p-EGFR, PI3K, p-AKT) 발현을 유의하게 감소시키며 CSC 기능을 현저히 억제하였다. 마우스 이식종 모델에서 병용 치료군은 다른 군에 비해 종양 부피가 유의하게 감소하였고(p < 0.05), 폐 전이는 병용군에서만 관찰되지 않았다. CD44+/CD24- CSC 비율 및 줄기세포 표지자와 증식/세포사멸 단백질의 발현 또한 병용군에서 현저히 감소하였다.",
+      "key_results": [
+        {
+          "result": "MON-ERL 병용이 CSC 생존율을 시너지 효과로 억제하였다.",
+          "evidence_quote": "MON and ERL combination synergistically inhibited CSCs viability"
+        },
+        {
+          "result": "병용 처리군에서 CSC의 침습 능력과 구형체 형성 능력이 유의하게 감소하였다.",
+          "evidence_quote": "significantly suppress their invasion and mammosphere formation abilities"
+        },
+        {
+          "result": "EGFR 신호전달 경로의 주요 단백질(p-EGFR, PI3K, p-AKT) 발현이 병용 처리 후 크게 감소하였다.",
+          "evidence_quote": "The expression of key proteins of the EGFR pathway-p-EGFR, PI3K, and p-AKT was significantly reduced"
+        },
+        {
+          "result": "이식 종양 마우스 모델에서 병용 치료군의 종양 부피가 다른 모든 그룹에 비해 유의하게 감소하였다(p < 0.05).",
+          "evidence_quote": "tumour volumes in the combination treatment group were markedly reduced compared to those in all other groups (p < 0.05)"
+        },
+        {
+          "result": "폐 전이는 병용 치료군에서만 관찰되지 않았다.",
+          "evidence_quote": "no lung metastases were observed only in the combination group"
+        },
+        {
+          "result": "병용 치료군에서는 CSC 표지자인 CD44+/CD24- 세포 비율이 현저히 감소하였고 줄기세포 표지자 및 증식/세포사멸 단백질 발현이 억제되었다.",
+          "evidence_quote": "a marked reduction of CD44+/CD24- cells in the combination group, along with suppressed expression of stem cell markers and proliferation/apoptosis proteins"
+        }
+      ],
+      "authors_conclusion": "MON과 ERL의 병용 치료는 EGFR/PI3K 경로를 시너지적으로 억제하여 CMT에서 유래한 CSC의 증식, 자기 재생 및 전이 능력을 효과적으로 저해하였으며, 이는 유선암 치료를 위한 유망한 항암 전략임을 시사한다.",
+      "clinical_takeaway": "이 연구는 개 유선암에서 암 줄기 세포를 표적으로 하는 MON과 ERL 병용 치료가 세포 생존, 침습, 구형체 형성을 억제하여 종양 성장과 전이를 효과적으로 방지할 가능성을 제시한다. 특히 EGFR 경로 억제를 통한 시너지 효과가 관찰되어, 기존 EGFR 억제제 단독 치료의 한계를 극복할 잠재적 치료법임을 시사한다. 다만, 본 연구가 세포주와 생쥐 이식 모델에 국한된 전임상 연구임을 고려하면, 실제 임상 개체에 대한 안전성과 유효성 검증을 위한 임상시험이 필요하다. 따라서 현재 단계에서는 실험 조건에만 적용 가능하며 임상 적용 시 주의가 필요하다.",
+      "limitations": [
+        "전임상 연구로서, 인간 임상시험과 마찬가지로 실제 개 환자에서의 효능과 안전성을 입증하지 못함.",
+        "세포주 및 생쥐 모델 특성상 인간 및 개의 자연 발생 유선암과 차이가 있을 수 있음.",
+        "병용 치료의 장기적 부작용 및 독성에 대한 평가는 이루어지지 않음.",
+        "전임상 결과를 임상에 바로 적용하기 위한 추가 대규모 연구가 필요함.",
+        "초록 형태의 증거로 전체 논문의 세부 실험 조건 및 통계 방법, 피험자 수 등이 충분히 제공되지 않음"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70085",
+      "discovered_at": "2026-09-17 05:57:10.244602+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42454670/",
+      "summary_generated_at": "2026-10-06 23:29:06.749313+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Periparturient changes in osteoimmunological markers and their association with hypocalcemia in dairy cows.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-01-01",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag244",
+      "pmid": "42831799",
+      "pmcid": "PMC13636724",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag244",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42831799/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "연구는 유제품을 생산하는 젖소의 주변출산기 동안 골면역학적 지표와 저칼슘혈증의 연관성을 분석하여 실질적인 임상용 바이오마커 발굴에 기여함.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "periparturient hypocalcemia in dairy cows",
+      "study_design": "prospective",
+      "sample_size": 66,
+      "sample_size_quote": "Sixty-six Fleckvieh, Holstein-Friesian, and New Zealand Friesian dairy cows and heifers from a research herd.",
+      "objective": "주변출산기 동안 젖소의 골면역학적 지표 변화를 평가하고, 산차 및 저칼슘혈증과의 연관성을 규명하여, 저칼슘혈증 예측 가능성을 평가한다.",
+      "study_methods": "혈액 샘플은 출산 21, 14, 7, 0일과 출산 당일 및 출산 후 0, 1, 3, 7, 14일에 채취했다. 총 칼슘, 알칼리성 인산분해효소(AP), type I 콜라겐 C-말단 교차결합 텔로펩타이드(CTX-I), 오스테오칼신(OC), RANK, RANKL, OPG 농도를 측정했다. 출산 후 혈청 칼슘 농도에 따라 정상칼슘군, 아임상 저칼슘군, 심한 저칼슘군으로 분류했다. ROC 분석으로 예측 성능을 평가했다.",
+      "one_sentence_summary": "66마리의 젖소를 대상으로 출산 전후 21일부터 14일까지 혈액 샘플을 채취하여 CTX-I, AP, OC, RANK, RANKL, OPG 등 골면역학적 지표를 측정하고, 혈청 칼슘 농도와 비교했다. CTX-I가 다산우와 정상칼슘군에서 높았고, AP는 정상칼슘군에서 초기 수유기 동안 증가했으며, OC, RANKL, OPG는 칼슘 상태와 일관된 연관성을 보이지 않았다. CTX-I는 출산 전 저칼슘혈증 예측에 높은 정확도(AUC 0.75-0.90)를 보였으며, AP는 중간, RANK는 제한적 예측력을 나타냈다.",
+      "key_results": [
+        {
+          "result": "CTX-I 농도가 초산우와 정상칼슘군에서 심한 저칼슘군보다 높았다.",
+          "evidence_quote": "The CTX-I concentrations were higher in primiparous and normocalcemic cows compared with low-calcium cows."
+        },
+        {
+          "result": "알칼리성 인산분해효소(AP) 활성은 초기 수유기 동안 정상칼슘군에서 증가했다.",
+          "evidence_quote": "Activity of AP was increased in normocalcemic cows during early lactation."
+        },
+        {
+          "result": "오스테오칼신(OC), RANKL, OPG는 칼슘 상태와 일관된 연관성을 보이지 않았다.",
+          "evidence_quote": "OC, RANKL, and OPG showed no consistent association with calcium status."
+        },
+        {
+          "result": "CTX-I 농도는 출산 전 저칼슘혈증 예측에 대해 높은 예측 가치를 보였다(AUC 0.75-0.90).",
+          "evidence_quote": "Concentration of CTX-I demonstrated high predictive value for hypocalcemia before calving (AUC, 0.75-0.90"
+        },
+        {
+          "result": "알칼리성 인산분해효소(AP)는 중간 정도의 예측 가치를, RANK는 제한적인 예측 가치를 보였다.",
+          "evidence_quote": "whereas AP showed moderate and RANK limited predictive value."
+        }
+      ],
+      "authors_conclusion": "골 흡수 마커, 특히 CTX-I는 주변출산기 칼슘 항상성과 연관되며, 저칼슘혈증 위험이 출현하기 전에 위험 동물 선별에 도움을 줄 수 있다.",
+      "clinical_takeaway": "이 연구는 젖소의 주변출산기 동안 골흡수 표지자인 CTX-I 수치가 저칼슘혈증 위험과 밀접한 연관이 있음을 보여준다. 출산 전 혈액 검사로 CTX-I를 측정하면 저칼슘혈증 발병 전 고위험군을 선별할 수 있으며, 이를 통해 조기 개입과 예방적 관리가 가능하다. 하지만 OC, RANKL, OPG는 유용한 지표가 아니며, AP는 예측력이 제한적이므로 CTX-I가 가장 유용한 생체표지자임을 인지해야 한다. 본 결과는 젖소의 골대사와 칼슘 균형을 종합적으로 이해하고, 저칼슘혈증 관리를 위해 특정 바이오마커 활용 가능성을 시사한다. 단, 본 연구는 연구농장 내 코호트로 실제 임상 현장과는 차이가 있을 수 있어, 다양한 농장 조건에서 추가 검증이 필요하다.",
+      "limitations": [
+        "연구는 단일 연구농장에서 수행되어 일반화에 제한이 있을 수 있다.",
+        "혈청 마커의 변화를 관찰하는 전향적 관찰 연구로 인과관계 증명에는 한계가 있다.",
+        "오직 혈청 마커와 칼슘 농도만 평가하여 기타 대사 및 영양 상태와의 복합적 영향은 분석하지 않았다.",
+        "전체 결과는 초록만 제공되어 상세한 방법 및 결과 해석에 제약이 있다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1093/jvimsj/aalag244",
+      "discovered_at": "2026-10-05 23:24:57.629554+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42831799/",
+      "summary_generated_at": "2026-10-05 23:25:43.670641+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -3009,18 +3148,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 464
+        "received": 462
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 487
+        "received": 482
       }
     },
-    "started_at": "2026-10-05T23:24:56.312620+00:00",
-    "since": "2026-08-21",
-    "processed": 3,
-    "failed": 21,
-    "deferred": 1054,
-    "finished_at": "2026-10-05T23:27:42.996401+00:00"
+    "started_at": "2026-10-06T23:26:59.338234+00:00",
+    "since": "2026-08-22",
+    "processed": 2,
+    "failed": 19,
+    "deferred": 1058,
+    "finished_at": "2026-10-06T23:29:51.137542+00:00"
   }
 }
