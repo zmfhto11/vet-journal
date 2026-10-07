@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T23:29:51.233289+00:00",
-  "last_successful_collection": "2026-10-06T23:26:59.338168Z",
+  "generated_at": "2026-10-07T23:27:43.767611+00:00",
+  "last_successful_collection": "2026-10-07T23:25:01.005379Z",
   "mode": "live",
   "papers": [
     {
@@ -546,6 +546,78 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42777771/",
       "summary_generated_at": "2026-09-24 23:24:49.633062+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "The role of fenestration in acute canine thoracolumbar intervertebral disc extrusion: Part 2-The biological and biomechanical effects of fenestration.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-09-22",
+      "online_publication_date": "2026-09-22",
+      "publication_date_raw": "2026-Sep-22",
+      "doi": "10.1111/vsu.70160",
+      "pmid": "42770651",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70160",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42770651/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "논문은 실험적 모델과 제한된 견 임상 데이터를 기반으로 한 추론적 생물학적 및 생체역학적 효과를 다루고 있어 임상 적용 가능성은 있으나 직접적인 임상 치료 성과 연구는 아니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "orthopedics"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "acute canine thoracolumbar intervertebral disc extrusion and fenestration effects",
+      "study_design": "systematic_review",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "임상견 문헌과 실험 모델(토끼) 데이터를 종합하여 급성 흉요추 추간판 탈출증에서 예방적 천공(fenestration)이 추간판 및 척추의 생물학적·생체역학적 영향 평가",
+      "study_methods": "임상견 연구와 토끼를 이용한 인체 내 및 외 모델을 포함하는 데이터들을 종합 분석하여 천공이 척추 및 추간판에 미치는 생물학적 재생반응과 척추의 기계적 안정성 변화를 평가하였다.",
+      "one_sentence_summary": "급성 견학 흉요추 추간판 탈출증 예방을 위한 천공법의 효과를 실험용 토끼 모델과 제한된 견 임상문헌을 통해 종합 평가하였다. 생물학적으로는 천공이 빠른 고리 섬유화, 종판 경화, 궁극적 강직(ankylosis)을 유도함을 밝혔으며, 생체역학적으로는 초기에는 불안정성과 이완을 초래하나 시간이 지남에 따라 조직 치유가 진행되며 세그먼트 강직과 운동 범위 감소로 이어짐을 보였다. 견 임상에서 직접 입증되지는 않았으나, 이 과정은 인접 비천공 추간판에 기계적 스트레스가 이전되는 변화를 초래할 것으로 추정되어 예방적 이익과 장기적인 생물학적 비용 간의 균형 고려가 필요하다.",
+      "key_results": [
+        {
+          "result": "천공은 빠른 고리 섬유화, 종판 경화, 그리고 궁극적 강직(ankylosis)으로 대표되는 강력한 재생 반응을 유도한다.",
+          "evidence_quote": "fenestration initiates a robust reparative response characterized by rapid annular fibrosis, endplate sclerosis, and eventual ankylosis rather than a return to normal disc architecture."
+        },
+        {
+          "result": "외부 실험(ex vivo) 연구에서는 천공이 급성 부위 불안정화와 이완을 초래한다.",
+          "evidence_quote": "while ex vivo studies demonstrate that fenestration causes acute segmental destabilization and laxity,"
+        },
+        {
+          "result": "체내(in vivo) 모델에서는 치유 과정이 불안정성을 극복하여 심각한 세그먼트 강직과 운동 범위의 유의한 감소를 일으킨다.",
+          "evidence_quote": "in vivo models reveal that the biological healing process overrides this, resulting in profound segmental stiffness and significantly reduced range of motion over time."
+        },
+        {
+          "result": "이러한 천공으로 인해 발생하는 강직은 척추 하중 동역학을 변화시켜, 기계적 스트레스를 비천공 인접 추간판으로 이전시킬 가능성이 있다.",
+          "evidence_quote": "fenestration-induced ankylosis may alter spinal loading dynamics, potentially transferring mechanical stress to adjacent, non-fenestrated discs."
+        },
+        {
+          "result": "견의 임상 흉요추 IVDE 집단에서 천공의 직접적인 영향은 아직 입증되지 않았다.",
+          "evidence_quote": "Although not yet directly demonstrated in clinical canine thoracolumbar IVDE populations,"
+        },
+        {
+          "result": "천공으로 인한 생물학적·생체역학적 영향을 고려하여 최적의 천공 범위를 결정하기 위한 추가 연구가 필요하다.",
+          "evidence_quote": "more research is needed to determine the optimal extent of fenestration to minimize these deleterious sequelae."
+        }
+      ],
+      "authors_conclusion": "실험 모델과 제한적 견 임상 문헌에서 천공은 급격한 섬유화, 골화, 강직을 유발하며 초기 불안정성을 생체 치유가 극복하지만 세그먼트 운동 범위 감소 및 인접 추간판의 기계적 부담 증가가 예상된다. 이는 천공의 예방적 이점과 장기적인 생체학적 비용 간 상충 관계를 시사하며, 천공 범위 최적화를 위한 추가 연구가 필요하다.",
+      "clinical_takeaway": "급성 흉요추 추간판 탈출증에서 예방적 천공은 초기에는 척추 부위 불안정성을 초래하나, 시간이 지남에 따라 조직 치유로 인해 강직이 발생하여 척추 운동 범위를 감소시키고 인접 추간판에 부하를 증가시킬 가능성이 있다. 이로 인해 천공은 재발 예방에 유리할 수 있으나 장기적으로는 다른 디스크 손상의 위험을 높일 수 있으므로 신중한 수술 범위 선정과 장기 추적 관찰이 중요하다. 현재 임상견에서 이러한 효과가 직접 입증되지 않아, 수술 시 환자의 상태와 위험을 종합적으로 고려한 의사결정이 필요하며, 추가 연구를 통한 근거 강화가 요구된다.",
+      "limitations": [
+        "초록만 제공되어 세부 연구 방법과 통계 수치 부재",
+        "견 임상 연구는 제한적이며 일부 결과는 다른 종(토끼) 실험 모델에서 유래",
+        "직접적인 임상 결과보다 이론적 추론과 실험 모델에 의존함"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vsu.70160",
+      "discovered_at": "2026-09-22 23:22:59.361665+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42770651/",
+      "summary_generated_at": "2026-10-07 23:27:42.597331+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2035,7 +2107,7 @@
       "journal_id": "vetsurg",
       "publication_date": "2026-08-15",
       "online_publication_date": "2026-08-15",
-      "publication_date_raw": "2026-Aug-15",
+      "publication_date_raw": "2026-Oct",
       "doi": "10.1111/vsu.70148",
       "pmid": "42603145",
       "pmcid": null,
@@ -2717,7 +2789,7 @@
       "journal_id": "vetsurg",
       "publication_date": "2026-08-01",
       "online_publication_date": "2026-08-01",
-      "publication_date_raw": "2026-Aug-01",
+      "publication_date_raw": "2026-Oct",
       "doi": "10.1111/vsu.70139",
       "pmid": "42541767",
       "pmcid": null,
@@ -3148,18 +3220,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 462
+        "received": 477
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 482
+        "received": 469
       }
     },
-    "started_at": "2026-10-06T23:26:59.338234+00:00",
-    "since": "2026-08-22",
-    "processed": 2,
-    "failed": 19,
-    "deferred": 1058,
-    "finished_at": "2026-10-06T23:29:51.137542+00:00"
+    "started_at": "2026-10-07T23:25:01.005425+00:00",
+    "since": "2026-08-23",
+    "processed": 1,
+    "failed": 11,
+    "deferred": 1076,
+    "finished_at": "2026-10-07T23:27:43.695392+00:00"
   }
 }
