@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T23:30:45.962864+00:00",
-  "last_successful_collection": "2026-10-08T23:27:47.371281Z",
+  "generated_at": "2026-10-09T23:29:59.610783+00:00",
+  "last_successful_collection": "2026-10-09T23:27:07.285806Z",
   "mode": "live",
   "papers": [
     {
@@ -3366,18 +3366,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 471
+        "received": 473
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 461
+        "received": 435
       }
     },
-    "started_at": "2026-10-08T23:27:47.371328+00:00",
-    "since": "2026-08-24",
-    "processed": 2,
-    "failed": 17,
-    "deferred": 1070,
-    "finished_at": "2026-10-08T23:30:45.887201+00:00"
+    "started_at": "2026-10-09T23:27:07.285859+00:00",
+    "since": "2026-08-25",
+    "processed": 0,
+    "failed": 14,
+    "deferred": 1076,
+    "finished_at": "2026-10-09T23:29:59.528938+00:00"
   }
 }
