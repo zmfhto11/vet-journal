@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T23:28:28.944255+00:00",
-  "last_successful_collection": "2026-10-10T23:25:51.706599Z",
+  "generated_at": "2026-10-11T23:29:58.434532+00:00",
+  "last_successful_collection": "2026-10-11T23:27:05.731027Z",
   "mode": "live",
   "papers": [
     {
@@ -1636,6 +1636,78 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
       "summary_generated_at": "2026-09-20 23:28:01.670256+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Validation of a point-of-care assay for simultaneous quantification of equine adrenocorticotropic hormone and corticotropin-like intermediate peptide.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag253",
+      "pmid": "42858361",
+      "pmcid": "PMC13653562",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag253",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858361/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "말의 뇌하수체 측중엽 기능장애(PPID) 진단과 관련해 현장 진단용 면역검사법과 기존 표준검사 간의 성능 비교를 연구하여 임상 진단에 직접 활용 가능하기 때문임.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "pituitary pars intermedia dysfunction (PPID) diagnosis in horses",
+      "study_design": "prospective",
+      "sample_size": 28,
+      "sample_size_quote": "Twenty-eight university-owned horses (13 PPID, 15 non-PPID)",
+      "objective": "기존 케밀루미네선스 면역측정법과 새롭게 개발된 현장 진단용 면역측정법(동시 ACTH 및 CLIP 측정)의 성능을 계절 및 TRH 자극 후 측정을 포함하여 비교 평가함.",
+      "study_methods": "28두의 대학 소유 말(13두 PPID, 15두 비PPID)을 대상으로 1년간 모든 계절에 휴지기 혈장 ACTH 및 CLIP 농도를 새 POC 면역측정법과 기존 iACTH 면역측정법으로 모두 측정하였다. 또한 TRH 자극검사 후 혈장 호르몬 농도를 측정하였다. POC 측정법의 바이어스는 스피어만 상관분석 및 Bland-Altman 평면도법으로 평가하고, 정밀도 및 직선성도 함께 분석하였다.",
+      "one_sentence_summary": "본 연구는 PPID 유무에 따라 28두의 대학 소유 말을 대상으로 1년간 전 계절 및 TRH 자극 후 혈장 ACTH 및 CLIP 농도를 새로 개발된 현장 진단용 면역측정법과 기존 표준 케밀루미네선스 면역측정법으로 비교하였다. 두 방법 간 ACTH 측정치는 전체 및 PPID 말에서 강한 상관관계를 보였으며(r≥0.94, PPID군 r=0.93), 바이어스는 가을에 가장 컸고 혈중 ACTH가 90 pg/mL 이상인 샘플에서 두드러졌다(87.8 ± 116.4 pg/mL). 또한 POC 면역측정법의 진동계수는 intra-assay 8.47%, inter-assay 14.1%로 측정법의 정밀도가 양호했고, 직선성 분석도 R2=0.991로 우수하였다.",
+      "key_results": [
+        {
+          "result": "POC-ACTH/CLIP assay와 참조 iACTH assay의 휴지기 및 TRH 자극 후 ACTH 농도는 전체에서 좋은 상관관계(r ≥ 0.94; P < .001)를 나타냄",
+          "evidence_quote": "For resting and TRH-stimulated ACTH concentrations, the POC-ACTH/CLIP assay and the reference method had good agreement overall (r ≥ 0.94; P < .001)"
+        },
+        {
+          "result": "PPID 환축 내에서도 두 검사법 간 ACTH 농도 상관관계가 높음(r = 0.93, P < .001)",
+          "evidence_quote": "and in PPID animals (r = 0.93, P < .001)"
+        },
+        {
+          "result": "가을철 샘플에서 POC 검사법의 바이어스가 커서 33.6-35.6 ± 89.5-96 pg/mL 수준임",
+          "evidence_quote": "Bias was greater in autumn (33.6-35.6 ± 89.5-96 pg/mL)"
+        },
+        {
+          "result": "ACTH 농도가 90 pg/mL 이상인 샘플에서 바이어스가 87.8 ± 116.4 pg/mL로 크게 증가함",
+          "evidence_quote": "and in samples with ACTH concentrations ≥ 90 pg/mL (87.8 ± 116.4 pg/mL)"
+        },
+        {
+          "result": "POC-ACTH/CLIP assay의 intra-assay 변동계수는 8.47%, inter-assay 변동계수는 14.1%임",
+          "evidence_quote": "Intra- and inter-assay coefficients of variation for the POC-ACTH/CLIP assay were 8.47% and 14.1%, respectively"
+        },
+        {
+          "result": "POC-ACTH/CLIP assay의 직선성은 매우 양호하여 R2=0.991임",
+          "evidence_quote": "assay linearity was excellent (R2 = 0.991)"
+        }
+      ],
+      "authors_conclusion": "POC-ACTH/CLIP assay는 현장 조건에서 허용 가능한 성능을 보이며, 기존의 iACTH 검사진단법과 전반적으로 좋은 일치도를 나타낸다. 다만 고농도 호르몬 샘플에서는 바이어스가 더 크다.",
+      "clinical_takeaway": "이 연구는 말의 PPID 진단에 사용하는 혈장 ACTH 농도를 현장에서 동시에 CLIP까지 측정할 수 있는 새로운 검사법이 기존 표준 검사와 전반적으로 좋은 상관관계를 보인다는 점을 보여준다. 특히 전체 및 PPID 환축에서의 높은 상관성과 현장 적용 가능성은 임상 진단에 이점을 가져올 수 있으나, 가을철과 고농도 ACTH 샘플에서는 검사 편차가 크므로 결과 해석 시 주의가 필요하다. 따라서 이 방법은 PPID 의심 증례 현장 검진 보조 도구로 활용 가능하나, 임상 의사결정 시 계절과 농도에 따른 한계를 고려해야 한다.",
+      "limitations": [
+        "추후 연구에서 더 큰 말 표본과 다양한 임상 상황에서의 검증 필요",
+        "참고 검사법 자체가 CLIP과 교차반응 하는 특성이 있어 결과 해석에 영향 가능성",
+        "1년간 연구였으나 특정 계절별 표본 수 불균형 가능성",
+        "초록만 제공되어 세부 실험 조건 및 통계 처리 제한적 기술"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1093/jvimsj/aalag253",
+      "discovered_at": "2026-10-11 23:27:07.380736+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42858361/",
+      "summary_generated_at": "2026-10-11 23:27:58.804353+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -3366,18 +3438,18 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 480
+        "received": 474
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 435
+        "received": 430
       }
     },
-    "started_at": "2026-10-10T23:25:51.706650+00:00",
-    "since": "2026-08-26",
-    "processed": 0,
-    "failed": 17,
-    "deferred": 1082,
-    "finished_at": "2026-10-10T23:28:28.860860+00:00"
+    "started_at": "2026-10-11T23:27:05.731086+00:00",
+    "since": "2026-08-27",
+    "processed": 2,
+    "failed": 13,
+    "deferred": 1089,
+    "finished_at": "2026-10-11T23:29:58.366277+00:00"
   }
 }
