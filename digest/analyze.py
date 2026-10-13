@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import difflib
 import json
 import os
 import re
@@ -64,24 +65,66 @@ def exact_source_quote(source, quote):
     start = comparable_source.find(comparable_quote)
     return source[positions[start]:positions[start+len(comparable_quote)-1]+1] if start >= 0 else None
 
-def validate_grounding(analysis,evidence):
+def best_source_quote(source,quote,required_text=''):
+    """Return a literal source sentence for a substantially matching quotation."""
+    exact=exact_source_quote(source,quote)
+    if exact is not None:
+        return exact
+    source=normalized(source);quote=normalized(quote)
+    sentences=[part.strip() for part in re.split(r'(?<=[.!?])\s+(?=[A-Z0-9\[])',source) if part.strip()]
+    candidates=sentences+[sentences[i]+' '+sentences[i+1] for i in range(len(sentences)-1)]
+    qwords=set(re.findall(r'[a-z0-9]+',quote.casefold()))
+    required_numbers=numeric_tokens(quote+' '+required_text)
+    best=None
+    for candidate in candidates:
+        if not required_numbers <= numeric_tokens(candidate):
+            continue
+        cwords=set(re.findall(r'[a-z0-9]+',candidate.casefold()))
+        overlap=len(qwords & cwords)
+        coverage=overlap/max(1,len(qwords))
+        sequence=difflib.SequenceMatcher(None,quote.casefold(),candidate.casefold()).ratio()
+        score=max(coverage,sequence)
+        if overlap >= 4 and coverage >= .72 and (best is None or score > best[0]):
+            best=(score,candidate)
+    return best[1] if best else None
+
+def parse_analysis(text):
+    """Apply safe enum cleanup before Pydantic validates a model response."""
+    data=json.loads(text)
+    if isinstance(data,dict) and isinstance(data.get('tags'),list):
+        data['tags']=list(dict.fromkeys(tag for tag in data['tags'] if tag in TAGS))
+        primary=data.get('primary_category')
+        if not data['tags'] and primary in TAGS:
+            data['tags']=[primary]
+    return Analysis.model_validate(data)
+
+def validate_grounding(analysis,evidence,displayed_context=''):
     source=normalized(evidence)
+    grounded=[]
+    numeric_failure=False
     for finding in analysis.key_results:
-        exact=exact_source_quote(source,finding.evidence_quote)
-        if exact is None:
-            raise ValueError('Finding quotation is not in evidence')
-        finding.evidence_quote=exact
-        if not numbers_supported(finding.result,finding.evidence_quote):
-            raise ValueError('Unsupported numeric finding')
+        exact=best_source_quote(source,finding.evidence_quote,finding.result)
+        if exact is not None and numbers_supported(finding.result,exact):
+            finding.evidence_quote=exact
+            grounded.append(finding)
+        elif exact is not None:
+            numeric_failure=True
+    if analysis.key_results and not grounded:
+        raise ValueError('Unsupported numeric finding' if numeric_failure else 'Finding quotation is not in evidence')
+    analysis.key_results=grounded
     if analysis.sample_size is not None:
-        quote=exact_source_quote(source,analysis.sample_size_quote or '')
-        if quote is None or not sample_supported(analysis.sample_size,quote):
+        if not sample_supported(analysis.sample_size,source):
             raise ValueError('Unsupported sample size')
-        analysis.sample_size_quote=quote
+        quote=best_source_quote(source,analysis.sample_size_quote or '',str(analysis.sample_size))
+        if quote is not None and sample_supported(analysis.sample_size,quote):
+            analysis.sample_size_quote=quote
+        else:
+            analysis.sample_size=None
+            analysis.sample_size_quote=None
     prose=' '.join([analysis.one_sentence_summary,analysis.clinical_takeaway,analysis.objective or '',analysis.study_methods or '',analysis.authors_conclusion or '',analysis.recommendation_reason or '',*analysis.limitations])
     if not numbers_supported(prose,source):
         raise ValueError('Unsupported number in summary prose')
-    displayed=' '.join(f.result for f in analysis.key_results)+' '+(analysis.study_methods or '')+' '+(str(analysis.sample_size) if analysis.sample_size is not None else '')
+    displayed=' '.join(f.result+' '+f.evidence_quote for f in analysis.key_results)+' '+(analysis.study_methods or '')+' '+(str(analysis.sample_size) if analysis.sample_size is not None else '')+' '+displayed_context
     # A number present somewhere in the source is insufficient: the user must also
     # be able to find that numerical finding in the displayed results, study methods or cohort n.
     if not numeric_tokens(analysis.one_sentence_summary+' '+analysis.clinical_takeaway) <= numeric_tokens(displayed):
@@ -102,6 +145,7 @@ def strict_schema():
             for child in value:
                 walk(child)
     walk(schema)
+    schema['properties']['tags']['items']={'type':'string','enum':sorted(TAGS)}
     return schema
 
 class Analyzer:
@@ -125,5 +169,6 @@ class Analyzer:
         texts=[c['text'] for item in result.get('output',[]) if item.get('type')=='message' for c in item.get('content',[]) if c.get('type')=='output_text']
         if len(texts)!=1:
             raise ValueError('AI response refused or missing structured content')
-        parsed=validate_grounding(Analysis.model_validate_json(texts[0]),evidence)
+        parsed=parse_analysis(texts[0])
+        parsed=validate_grounding(parsed,metadata.title+'\n'+evidence,metadata.title)
         return parsed,result.get('usage',{})

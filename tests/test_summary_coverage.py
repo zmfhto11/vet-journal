@@ -4,7 +4,7 @@ These protect curated references; they do not certify a live model's semantics.
 import json
 import unittest
 from pathlib import Path
-from digest.analyze import validate_grounding
+from digest.analyze import best_source_quote,parse_analysis,strict_schema,validate_grounding
 from tests.test_digest import analysis,ABSTRACT
 
 class SummaryCoverageTests(unittest.TestCase):
@@ -65,5 +65,33 @@ class SummaryCoverageTests(unittest.TestCase):
     def test_summary_cannot_use_a_source_number_omitted_from_displayed_results(self):
         with self.assertRaisesRegex(ValueError,'missing from displayed findings'):
             validate_grounding(analysis(one_sentence_summary='Follow-up lasted 90 days.'),ABSTRACT+' Follow-up lasted 90 days.')
+
+    def test_title_is_valid_visible_support_for_cohort_number(self):
+        value=analysis(sample_size=103,sample_size_quote='103 cases',
+            one_sentence_summary='103 cases were reviewed.',clinical_takeaway='Retrospective evidence.',
+            key_results=[])
+        validate_grounding(value,'Clinical outcomes in cats and dogs: 103 cases\nNo other numbers.',
+            'Clinical outcomes in cats and dogs: 103 cases')
+        self.assertEqual(value.sample_size,103)
+
+    def test_minor_quote_drift_is_repaired_to_literal_source(self):
+        source='RESULTS: Of 22 cats, 14 improved after treatment, while 8 did not improve.'
+        repaired=best_source_quote(source,'Of 22 cats 14 improved after treatment; 8 did not improve.','14 of 22 cats improved.')
+        self.assertEqual(repaired,source)
+
+    def test_unsupported_finding_is_dropped_when_another_is_grounded(self):
+        value=analysis(key_results=[
+            {'result':'Improvement occurred in 60 dogs.','evidence_quote':'Improvement occurred in 60 dogs.'},
+            {'result':'99 dogs relapsed.','evidence_quote':'A fabricated quotation about 99 dogs.'},
+        ])
+        validate_grounding(value,ABSTRACT)
+        self.assertEqual(len(value.key_results),1)
+
+    def test_unknown_tags_are_removed_and_schema_enumerates_tags(self):
+        raw=analysis().model_dump()
+        raw['tags']=['orthopedics','invented_tag']
+        parsed=parse_analysis(json.dumps(raw))
+        self.assertEqual(parsed.tags,['orthopedics'])
+        self.assertIn('enum',strict_schema()['properties']['tags']['items'])
 
 if __name__=='__main__':unittest.main()

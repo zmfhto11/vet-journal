@@ -31,7 +31,7 @@ def fallback(m):
 
 TARGET_SPECIES = re.compile(r'\b(dogs?|canine|cats?|feline)\b', re.I)
 OTHER_SPECIES = re.compile(
-    r'\b(horses?|equine|cattle|bovine|calves?|cows?|dairy cows?|porcine|swine|pigs?|'
+    r'\b(horses?|equine|foals?|cattle|bovine|calves?|cows?|dairy cows?|porcine|swine|pigs?|'
     r'ovine|sheep|goats?|caprine|avian|poultry|chickens?|turkeys?|rabbits?|'
     r'mice|mouse|rats?|zebrafish|wildlife|humans?)\b',
     re.I,

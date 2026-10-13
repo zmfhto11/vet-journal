@@ -134,6 +134,7 @@ class DigestTests(unittest.TestCase):
     def test_out_of_scope_papers_are_not_analyzed_or_published(self):
         titles=[
             'A novel water additive increases voluntary water intake in healthy horses',
+            'Vasopressin stimulation testing in hospitalized foals',
             'Veterinary ultrasound training using canine cadavers',
             'Preclinical cyclic testing of a canine fracture model ex vivo',
             'Patient-derived xenograft models of feline mammary carcinoma',
