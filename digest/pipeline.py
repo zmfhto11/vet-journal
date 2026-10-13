@@ -8,10 +8,11 @@ import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from pydantic import ValidationError
 from .analyze import Analyzer, BudgetExceeded
 from .models import utcnow
 from .sources import HTTP,APIRequestError,Journals,collect_pubmed,collect_europe,collect_feed,refresh_metadata,full_text,resolve_pmcid
-from .store import Store,atomic_json,clearly_lab_only
+from .store import Store,atomic_json,clearly_out_of_scope
 
 log=logging.getLogger(__name__)
 KST=ZoneInfo('Asia/Seoul')
@@ -45,8 +46,8 @@ def process_records(store,analyzer,http,journals,collect_only=False):
         store.state.ai_budget_used=0
     analyzer.calls=store.state.ai_budget_used
     # Reserve alternating retry opportunities; recent new papers should not wait behind a backfill.
-    pending=sorted([r for r in store.state.records if r.status=='pending' and not clearly_lab_only(r.metadata)],key=publication_order,reverse=True)
-    failed=sorted([r for r in store.state.records if r.status=='failed' and not clearly_lab_only(r.metadata)],key=lambda r:r.last_attempt_at or r.discovered_at)
+    pending=sorted([r for r in store.state.records if r.status=='pending' and not clearly_out_of_scope(r.metadata)],key=publication_order,reverse=True)
+    failed=sorted([r for r in store.state.records if r.status=='failed' and not clearly_out_of_scope(r.metadata)],key=lambda r:r.last_attempt_at or r.discovered_at)
     queue=[]
     while pending or failed:
         queue.extend(pending[:3]); del pending[:3]
@@ -146,7 +147,15 @@ def process_records(store,analyzer,http,journals,collect_only=False):
                 'Summary number missing from displayed findings',
                 'AI response incomplete', 'AI response refused or missing structured content',
             }
-            reason=str(exc) if isinstance(exc,ValueError) and str(exc) in safe_validation_errors else type(exc).__name__
+            if isinstance(exc,ValidationError):
+                fields=[]
+                for error in exc.errors(include_input=False)[:4]:
+                    field='_'.join(str(part) for part in error.get('loc',()) if isinstance(part,(str,int)))[:60]
+                    kind=str(error.get('type','unknown'))[:40]
+                    fields.append(f'{field}:{kind}')
+                reason='schema_'+','.join(fields)
+            else:
+                reason=str(exc) if isinstance(exc,ValueError) and str(exc) in safe_validation_errors else type(exc).__name__
             r.last_error=reason
             counts['failed']+=1
             log.warning('stage=analyze id=%s status=failed error=%s',r.id,reason)

@@ -7,7 +7,7 @@ from unittest.mock import patch
 from pydantic import ValidationError
 from digest.models import Analysis,Metadata,Record,normalize_doi
 from digest.sources import Journals,parse_pubmed,parse_europe,exact_date,HTTP
-from digest.store import Store
+from digest.store import Store,clearly_out_of_scope
 from digest.analyze import Analyzer,validate_grounding,strict_schema
 from digest.pipeline import process_records
 
@@ -131,6 +131,36 @@ class DigestTests(unittest.TestCase):
         r.evidence_source='abstract'; r.summary_generated_at=datetime.now(timezone.utc)
         dest=Path(self.tmp.name)/'papers.json'; self.store.export(dest)
         self.assertEqual(json.loads(dest.read_text())['papers'],[])
+    def test_out_of_scope_papers_are_not_analyzed_or_published(self):
+        titles=[
+            'A novel water additive increases voluntary water intake in healthy horses',
+            'Veterinary ultrasound training using canine cadavers',
+            'Preclinical cyclic testing of a canine fracture model ex vivo',
+            'Patient-derived xenograft models of feline mammary carcinoma',
+            'Is 28 days enough? A call for a randomized trial',
+            'Response to: New approaches in canine surgery',
+        ]
+        for title in titles:
+            with self.subTest(title=title):
+                self.assertTrue(clearly_out_of_scope(meta().model_copy(update={'title':title})))
+        r=self.store.upsert(meta().model_copy(update={'title':titles[0]}))
+        analyzer=FakeAnalyzer()
+        process_records(self.store,analyzer,None,Journals())
+        self.assertEqual(analyzer.calls,0)
+        r.status='processed';r.analysis=analysis();r.evidence_source='abstract';r.summary_generated_at=datetime.now(timezone.utc)
+        dest=Path(self.tmp.name)/'papers.json';self.store.export(dest)
+        self.assertEqual(json.loads(dest.read_text())['papers'],[])
+    def test_out_of_scope_guard_keeps_clinical_and_rejects_bench_abstracts(self):
+        clinical=meta().model_copy(update={'title':'In vitro findings and clinical outcomes in a canine patient cohort'})
+        self.assertFalse(clearly_out_of_scope(clinical))
+        cases=[
+            'STUDY DESIGN: This is an in vitro, original research. Using 10 canine femoral model specimens.',
+            'The experiment utilised CMT cell line CMT-U27 and HBC cell line MDA-MB-231.',
+            'All specimens underwent axial compression testing until failure.',
+        ]
+        for abstract in cases:
+            with self.subTest(abstract=abstract):
+                self.assertTrue(clearly_out_of_scope(meta().model_copy(update={'abstract':abstract})))
     def test_schema_all_fields_required(self):
         schema=strict_schema()
         self.assertEqual(set(schema['required']),set(schema['properties']))

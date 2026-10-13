@@ -29,10 +29,53 @@ def fallback(m):
     title = re.sub(r'[^\w]','',m.title.casefold())
     return 'title:'+hashlib.sha256((m.journal_id+'|'+title).encode()).hexdigest()[:24]
 
+TARGET_SPECIES = re.compile(r'\b(dogs?|canine|cats?|feline)\b', re.I)
+OTHER_SPECIES = re.compile(
+    r'\b(horses?|equine|cattle|bovine|calves?|cows?|dairy cows?|porcine|swine|pigs?|'
+    r'ovine|sheep|goats?|caprine|avian|poultry|chickens?|turkeys?|rabbits?|'
+    r'mice|mouse|rats?|zebrafish|wildlife|humans?)\b',
+    re.I,
+)
+NONCLINICAL = re.compile(
+    r'\b(cell[\s-]+lines?|in vitro|ex vivo|cadavers?|xenografts?|preclinical|'
+    r'technical tutorial video)\b',
+    re.I,
+)
+CLINICAL_CONTEXT = re.compile(
+    r'\b(in vivo|client[\s-]+owned|patients?(?![\s-]+derived)|cohort|clinical (?:cases|outcomes|trial))\b',
+    re.I,
+)
+EDITORIAL_ONLY = re.compile(r'(?:\ba call for\b|\bresponse to:|\bcommentary\b|\beditorial\b)', re.I)
+CLEARLY_EXPERIMENTAL_ABSTRACT = re.compile(
+    r'(?:\bstudy design:\s*(?:this is )?an? in vitro\b|'
+    r'\bexperiment utili[sz]ed\b.{0,160}\bcell lines?\b|'
+    r'\busing \d+ canine femoral model specimens\b|'
+    r'\ball specimens underwent axial compression testing until failure\b)',
+    re.I | re.S,
+)
+
+
+def clearly_out_of_scope(m):
+    """Conservative title/abstract guard before AI use and public export."""
+    title=m.title
+    abstract=m.abstract or ''
+    target=bool(TARGET_SPECIES.search(title))
+    if OTHER_SPECIES.search(title) and not target:
+        return True
+    if not target and OTHER_SPECIES.search(abstract) and not TARGET_SPECIES.search(abstract):
+        return True
+    if EDITORIAL_ONLY.search(title):
+        return True
+    if NONCLINICAL.search(title) and not (target and CLINICAL_CONTEXT.search(title)):
+        return True
+    if CLEARLY_EXPERIMENTAL_ABSTRACT.search(abstract):
+        return True
+    return False
+
+
 def clearly_lab_only(m):
-    title=m.title.lower()
-    return (bool(re.search(r'\b(cell[\s-]+lines?|in vitro)\b',title))
-            and not bool(re.search(r'\b(in vivo|patients?|cohort|clinical (?:cases|outcomes|trial))\b',title)))
+    # Backward-compatible name for older imports.
+    return clearly_out_of_scope(m)
 
 def merge_metadata(old,new):
     # Prefer PubMed metadata but keep richer abstracts and separate online/print dates.
@@ -96,7 +139,7 @@ class Store:
     def export(self,path='data/papers.json',health=None):
         papers=[]
         for r in self.state.records:
-            if r.status!='processed' or r.analysis is None or r.analysis.clinical_relevance=='exclude' or clearly_lab_only(r.metadata):
+            if r.status!='processed' or r.analysis is None or r.analysis.clinical_relevance=='exclude' or clearly_out_of_scope(r.metadata):
                 continue
             meta=r.metadata.model_dump(mode='json',exclude={'abstract','source_id'})
             papers.append({**meta,**r.analysis.model_dump(mode='json'),'id':r.id,'discovered_at':str(r.discovered_at),'evidence_source':r.evidence_source,'evidence_url':r.evidence_url,'summary_generated_at':str(r.summary_generated_at),'analysis_model':r.model})
