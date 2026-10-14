@@ -16,6 +16,7 @@ from .store import Store,atomic_json,clearly_out_of_scope
 
 log=logging.getLogger(__name__)
 KST=ZoneInfo('Asia/Seoul')
+CURRENT_ANALYSIS_VERSION=2
 
 def publication_order(record):
     m=record.metadata
@@ -37,7 +38,7 @@ def publication_order(record):
     return '0000-00-00'
 
 def process_records(store,analyzer,http,journals,collect_only=False):
-    counts={'processed':0,'failed':0,'deferred':0}
+    counts={'processed':0,'refreshed':0,'failed':0,'deferred':0}
     if collect_only:
         return counts
     today=datetime.now(KST).date()
@@ -45,15 +46,26 @@ def process_records(store,analyzer,http,journals,collect_only=False):
         store.state.ai_budget_date=today
         store.state.ai_budget_used=0
     analyzer.calls=store.state.ai_budget_used
-    # Reserve alternating retry opportunities; recent new papers should not wait behind a backfill.
+    # Use the same daily budget for new work and gradual quality refreshes. Two
+    # refreshes per cycle update legacy prose without starving new papers.
+    refresh=sorted([
+        r for r in store.state.records
+        if r.status=='processed'
+        and r.analysis_version<CURRENT_ANALYSIS_VERSION
+        and not clearly_out_of_scope(r.metadata)
+    ],key=publication_order,reverse=True)
     pending=sorted([r for r in store.state.records if r.status=='pending' and not clearly_out_of_scope(r.metadata)],key=publication_order,reverse=True)
     failed=sorted([r for r in store.state.records if r.status=='failed' and not clearly_out_of_scope(r.metadata)],key=lambda r:r.last_attempt_at or r.discovered_at)
     queue=[]
-    while pending or failed:
-        queue.extend(pending[:3]); del pending[:3]
+    while refresh or pending or failed:
+        queue.extend(refresh[:2]); del refresh[:2]
+        if pending: queue.append(pending.pop(0))
         if failed: queue.append(failed.pop(0))
     for index,r in enumerate(queue):
-        if r.status=='processed' or r not in store.state.records:
+        if r not in store.state.records:
+            continue
+        refreshing=r.status=='processed' and r.analysis_version<CURRENT_ANALYSIS_VERSION
+        if r.status=='processed' and not refreshing:
             continue
         if r.last_attempt_at and r.last_attempt_at.astimezone(KST).date()==today:
             counts['deferred']+=1
@@ -71,7 +83,8 @@ def process_records(store,analyzer,http,journals,collect_only=False):
                 if not refreshed:
                     raise ValueError('journal_unverified')
                 r=store.upsert(refreshed)
-                if r.status=='processed':
+                refreshing=r.status=='processed' and r.analysis_version<CURRENT_ANALYSIS_VERSION
+                if r.status=='processed' and not refreshing:
                     store.save()
                     continue
             if not r.metadata.abstract:
@@ -84,7 +97,8 @@ def process_records(store,analyzer,http,journals,collect_only=False):
                     refreshed=None
                 if refreshed:
                     r=store.upsert(refreshed)
-                    if r.status=='processed':
+                    refreshing=r.status=='processed' and r.analysis_version<CURRENT_ANALYSIS_VERSION
+                    if r.status=='processed' and not refreshing:
                         store.save()
                         continue
             evidence=r.metadata.abstract
@@ -119,17 +133,19 @@ def process_records(store,analyzer,http,journals,collect_only=False):
             r.model=analyzer.model
             r.input_tokens=usage.get('input_tokens',0)
             r.output_tokens=usage.get('output_tokens',0)
+            r.analysis_version=CURRENT_ANALYSIS_VERSION
             r.status='processed'
             r.last_error=None
-            counts['processed']+=1
-            log.info('stage=analyze id=%s status=processed recommended=%s',r.id,analysis.recommended)
+            counts['refreshed' if refreshing else 'processed']+=1
+            log.info('stage=analyze id=%s status=%s recommended=%s',r.id,'refreshed' if refreshing else 'processed',analysis.recommended)
         except BudgetExceeded:
             r.last_attempt_at=None
             r.attempts-=1
             counts['deferred']+=1
             break
         except APIRequestError as exc:
-            r.status='failed'
+            if not refreshing:
+                r.status='failed'
             r.last_error=exc.safe_reason
             counts['failed']+=1
             counts['api_error']=exc.safe_reason
@@ -138,13 +154,15 @@ def process_records(store,analyzer,http,journals,collect_only=False):
             store.save()
             break
         except Exception as exc:
-            r.status='failed'
+            if not refreshing:
+                r.status='failed'
             # Exceptions may include request details; never persist raw exception strings.
             safe_validation_errors = {
                 'missing_abstract', 'evidence_too_long', 'journal_unverified',
                 'Finding quotation is not in evidence', 'Unsupported numeric finding',
                 'Unsupported sample size', 'Unsupported number in summary prose',
                 'Summary number missing from displayed findings',
+                'Korean prose requirement',
                 'AI response incomplete', 'AI response refused or missing structured content',
             }
             if isinstance(exc,ValidationError):
@@ -208,7 +226,7 @@ def run(data_dir='data',collect_only=False,days=None):
     if not collect_only and not os.getenv('OPENAI_API_KEY'):
         log.error('stage=configuration missing=OPENAI_API_KEY analysis_skipped=true')
         health['status']='setup_required'
-        counts={'processed':0,'failed':0,'deferred':sum(r.status!='processed' for r in store.state.records)}
+        counts={'processed':0,'refreshed':0,'failed':0,'deferred':sum(r.status!='processed' for r in store.state.records)}
     else:
         analyzer=Analyzer(http,max(0,int(os.getenv('MAX_AI_PAPERS','12'))))
         counts=process_records(store,analyzer,http,journals,collect_only)
@@ -221,7 +239,7 @@ def run(data_dir='data',collect_only=False,days=None):
     store.save()
     store.export(directory/'papers.json',health)
     atomic_json(directory/'last_run.json',health)
-    log.info('stage=complete status=%s records=%s processed=%s failed=%s',health['status'],len(store.state.records),counts['processed'],counts['failed'])
+    log.info('stage=complete status=%s records=%s processed=%s refreshed=%s failed=%s',health['status'],len(store.state.records),counts['processed'],counts['refreshed'],counts['failed'])
     return health
 
 def main():

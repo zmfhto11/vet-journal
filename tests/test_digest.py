@@ -174,7 +174,13 @@ class DigestTests(unittest.TestCase):
         # Contract tests, NOT evidence of real model accuracy. tests.live_ai does that separately.
         cases=[('TPLO outcome study','surgery',['orthopedics']),('canine chronic enteropathy treatment','internal_medicine',['gastroenterology']),('mast cell tumor surgical margin','surgery',['oncology']),('lymphoma chemotherapy outcome','internal_medicine',['oncology']),('splenic hemangiosarcoma surgery and adjuvant chemotherapy','surgery',['oncology'])]
         for title,category,tags in cases:
-            expected=analysis(primary_category=category,tags=tags)
+            expected=analysis(primary_category=category,tags=tags,
+                relevance_reason='개 환자에 직접 적용되는 임상 연구입니다.',
+                objective='치료 후 임상 outcome을 평가했습니다.',
+                one_sentence_summary='전향적 연구에서 치료 후 임상적 개선을 보고했습니다.',
+                key_results=[{'result':'60마리에서 임상적 개선이 확인됐습니다.','evidence_quote':'Improvement occurred in 60 dogs.'}],
+                clinical_takeaway='대조군이 없어 comparative efficacy를 확정할 수는 없습니다.',
+                limitations=['대조군이 없는 연구입니다.'])
             class FakeHTTP:
                 def json(self,url,**kwargs):
                     body=json.loads(kwargs['body'])

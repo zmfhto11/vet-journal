@@ -7,7 +7,7 @@ from unittest.mock import patch
 from digest.models import Metadata,Analysis
 from digest.sources import Journals,HTTP,full_text
 from digest.store import Store
-from digest.pipeline import process_records,run
+from digest.pipeline import CURRENT_ANALYSIS_VERSION,process_records,run
 from digest.analyze import Analyzer,validate_grounding
 from tests.test_digest import meta,analysis,FakeAnalyzer
 
@@ -65,7 +65,7 @@ class ReliabilityTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             s=Store(Path(d)/'state.json')
             done=s.upsert(meta().model_copy(update={'pmid':None,'title':'Published title'}))
-            done.status='processed';done.analysis=analysis();done.evidence_source='abstract';done.summary_generated_at=datetime.now(timezone.utc)
+            done.status='processed';done.analysis=analysis();done.evidence_source='abstract';done.summary_generated_at=datetime.now(timezone.utc);done.analysis_version=CURRENT_ANALYSIS_VERSION
             pending=s.upsert(meta().model_copy(update={'doi':None,'title':'Early title','abstract':None}))
             pending.status='failed'
             a=FakeAnalyzer()
@@ -74,6 +74,32 @@ class ReliabilityTests(unittest.TestCase):
             self.assertEqual(a.calls,0)
             self.assertEqual(len(s.state.records),1)
             self.assertEqual(s.state.records[0].status,'processed')
+
+    def test_legacy_processed_paper_is_refreshed(self):
+        with tempfile.TemporaryDirectory() as d:
+            s=Store(Path(d)/'state.json');r=s.upsert(meta())
+            r.status='processed';r.analysis=analysis();r.evidence_source='abstract';r.summary_generated_at=datetime.now(timezone.utc)
+            old_generated_at=r.summary_generated_at
+            a=FakeAnalyzer()
+            counts=process_records(s,a,None,Journals())
+            self.assertEqual(a.calls,1)
+            self.assertEqual(counts['refreshed'],1)
+            self.assertEqual(r.analysis_version,CURRENT_ANALYSIS_VERSION)
+            self.assertGreater(r.summary_generated_at,old_generated_at)
+
+    def test_failed_refresh_preserves_published_summary(self):
+        with tempfile.TemporaryDirectory() as d:
+            s=Store(Path(d)/'state.json');r=s.upsert(meta())
+            original=analysis(one_sentence_summary='기존에 공개된 임상 요약입니다.')
+            r.status='processed';r.analysis=original;r.evidence_source='abstract';r.summary_generated_at=datetime.now(timezone.utc)
+            a=FakeAnalyzer()
+            a.analyze=lambda *args: (_ for _ in ()).throw(ValueError('Korean prose requirement'))
+            counts=process_records(s,a,None,Journals())
+            self.assertEqual(counts['failed'],1)
+            self.assertEqual(r.status,'processed')
+            self.assertEqual(r.analysis,original)
+            self.assertEqual(r.analysis_version,0)
+            self.assertEqual(r.last_error,'Korean prose requirement')
 
     def test_actual_reference_fixture_through_processing(self):
         values=json.loads(Path('tests/fixtures/real-papers.json').read_text(encoding='utf-8'))

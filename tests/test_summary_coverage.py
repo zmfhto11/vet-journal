@@ -4,7 +4,7 @@ These protect curated references; they do not certify a live model's semantics.
 import json
 import unittest
 from pathlib import Path
-from digest.analyze import best_source_quote,parse_analysis,strict_schema,validate_grounding
+from digest.analyze import best_source_quote,parse_analysis,strict_schema,validate_grounding,validate_korean_style
 from tests.test_digest import analysis,ABSTRACT
 
 class SummaryCoverageTests(unittest.TestCase):
@@ -93,5 +93,19 @@ class SummaryCoverageTests(unittest.TestCase):
         parsed=parse_analysis(json.dumps(raw))
         self.assertEqual(parsed.tags,['orthopedics'])
         self.assertIn('enum',strict_schema()['properties']['tags']['items'])
+
+    def test_english_only_narrative_is_rejected_but_english_terms_in_korean_are_allowed(self):
+        mixed=analysis(
+            relevance_reason='개 환자에 직접 적용되는 임상 연구입니다.',
+            objective='infiltrative lipoma 환자에서 compartmental excision 후 outcome을 평가했습니다.',
+            study_methods='client-owned dog를 대상으로 후향적으로 분석했습니다.',
+            one_sentence_summary='치료 후 임상 결과를 구체적으로 보고한 연구입니다.',
+            key_results=[{'result':'60마리에서 임상적 개선이 확인됐습니다.','evidence_quote':'Improvement occurred in 60 dogs.'}],
+            clinical_takeaway='대조군이 없어 comparative efficacy를 확정할 수는 없습니다.',
+            limitations=['대조군이 없는 연구입니다.'],
+        )
+        with self.assertRaisesRegex(ValueError,'Korean prose requirement'):
+            validate_korean_style(mixed.model_copy(update={'objective':'Evaluate outcomes after compartmental excision.'}))
+        self.assertIs(validate_korean_style(mixed),mixed)
 
 if __name__=='__main__':unittest.main()
