@@ -1,9 +1,74 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T23:38:30.365977+00:00",
-  "last_successful_collection": "2026-10-14T23:35:53.713000Z",
+  "generated_at": "2026-10-15T23:38:05.454225+00:00",
+  "last_successful_collection": "2026-10-15T23:35:40.533879Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "A New Application of 64CuCl2 PET/CT: Imaging of Cats With Mammary Carcinoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-10-15",
+      "online_publication_date": "2026-10-15",
+      "publication_date_raw": "2026-Oct-15",
+      "doi": "10.1111/vco.70125",
+      "pmid": "42876319",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70125",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42876319/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 자연 발생한 feline mammary carcinoma(FMC)가 대상이었으며, 64CuCl2 PET/CT 영상기법의 적용 가능성 및 임상적 유용성을 평가하였습니다. 그러나 연구 대상이 소수(8마리 고양이, 그중 7마리 종양보유)이고 탐색적 연구이며 모든 영상 결과가 세포학 또는 조직병리학적으로 확인되지 않아 직접적인 진단 또는 치료 권고로 이어지기에는 제한적입니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "feline mammary carcinoma",
+      "study_design": "other",
+      "sample_size": 8,
+      "sample_size_quote": "Eight cats (seven tumour-bearing, one healthy control)",
+      "objective": "64CuCl2 PET/CT 영상기법을 이용하여 자연 발생 FMC 환자에서 영상기법의 가능성과 임상적 유용성을 평가하고, 종양 검출 및 병기 설정에의 기여도를 탐색하였다.",
+      "study_methods": "8마리 고양이(FMC 종양 보유 7마리, 건강 대조 1마리)를 대상으로 하여 64CuCl2를 정맥 주사한 후 전신 PET/CT 촬영을 시행하였다. SUV(specific uptake values)를 이용한 반정량 분석과 종양-근육 비율 계산을 통해 병변의 가시성을 평가했다. 또한 전신 구리 대사의 지표인 혈청 ceruloplasmin 농도를 측정하였다.",
+      "one_sentence_summary": "자연 발생 feline mammary carcinoma를 가진 7마리 환자 고양이와 1마리 건강 대조군을 대상으로 64CuCl2 PET/CT를 시행하였으며, 모든 원발 종양이 뚜렷한 64Cu 섭취를 보여 종양과 정상조직을 명확히 구분할 수 있었다. 영상촬영은 신체검사에서 완전히 드러나지 않는 국소 침습 및 전이성 병변을 추가로 확인할 수 있었으며, 혈청 ceruloplasmin 농도는 섭취량과 관련이 없었다. 이 탐색적 연구 결과는 64CuCl2 PET/CT가 FMC 영상진단에 가능성을 제공함을 시사한다.",
+      "key_results": [
+        {
+          "result": "모든 원발 종양에서 64Cu가 뚜렷하게 집적되어 종양과 정상조직 간의 종양-근육 비율이 높게 나타났다.",
+          "evidence_quote": "All primary masses were 64Cu-avid and conspicuous, with consistently elevated tumour-to-muscle ratios across tumour-bearing cats"
+        },
+        {
+          "result": "영상은 신체검사에서 완전히 드러나지 않은 국소 침습과 전이성 병변을 추가로 확인하였다.",
+          "evidence_quote": "Imaging provided additional staging information by identifying locally invasive and metastatic disease that was not fully evident on physical examination."
+        },
+        {
+          "result": "혈청 ceruloplasmin 농도는 다양하게 나타났으나 종양 섭취량과 상관관계가 없었다.",
+          "evidence_quote": "Serum ceruloplasmin concentrations varied widely and did not correlate with tumour uptake."
+        },
+        {
+          "result": "생리적 추적자 분포는 간과 담낭에서 높은 섭취를 보였고, 골격근에서는 낮은 섭취를 보여 신뢰할 만한 참조 조직 역할을 하였다.",
+          "evidence_quote": "Physiologic tracer distribution was characterized by high uptake in the liver and gallbladder and low uptake in skeletal muscle, which served as a reliable reference tissue."
+        }
+      ],
+      "authors_conclusion": "64CuCl2 PET/CT는 FMC에서 사용할 수 있는 기능적 영상기법으로서, 종양 발견에 도움을 주는 영상 방법으로 가능성이 있으나, 탐색적 연구로 모든 영상 결과가 조직학적 확증을 얻지 못해 추가 연구가 필요하다.",
+      "clinical_takeaway": "64CuCl2 PET/CT 영상기법은 feline mammary carcinoma 환자에서 원발 종양 및 침습성, 전이성 병변을 시각화하는 데 유용할 수 있습니다. 특히 신체검사로 발견하기 어려운 병변들을 밝혀내는 데 기여할 수 있다는 점에서 영상진단의 보조적 도구로 고려할 만합니다. 그러나 소규모 탐색 연구로서 영상 결과가 조직학적 확증을 충분히 받지 못한 점과 혈청 ceruloplasmin 농도와 영상 섭취량의 상관성이 없음을 감안할 때, 아직 임상 치료 계획 변경 등 직접적 적용에는 주의를 요합니다. 따라서 FMC 고양이에서 구리 활용과 병변 확인을 위한 연구를 확대하여 64CuCl2 PET/CT의 정확도와 임상적 유용성을 입증하는 추가 데이터가 필요합니다.",
+      "limitations": [
+        "소수의 환자(8마리 고양이) 대상으로 한 탐색적 연구이다.",
+        "모든 PET/CT 영상 결과가 조직병리학적 또는 세포학적 확인을 받지 못했다.",
+        "대조군은 1마리에 불과하여 통계적 비교가 제한적이다.",
+        "혈청 ceruloplasmin 농도와 영상 섭취량 간 관계 분석이 단편적이다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70125",
+      "discovered_at": "2026-10-15 23:35:42.238936+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42876319/",
+      "summary_generated_at": "2026-10-15 23:36:39.909888+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Clinical outcomes were evaluated in 82 dogs with B-cell lymphoma treated with adoptive T-cell therapy following cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy.",
       "journal": "Journal of the American Veterinary Medical Association",
@@ -514,7 +579,7 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42751987/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 개의 침습성 지방종 치료에 대한 수술적 방법(구획 절제술 vs 감량술) 결과를 직접 평가하여 임상적 치료 결정에 중요한 증거를 제공한다.",
+      "relevance_reason": "본 연구는 infiltrative lipoma가 진단된 반려견 29마리를 대상으로 compartmental excision과 debulking 수술 후 장기적인 재발률과 결과를 직접 비교한 임상 연구로서, 해당 수술법의 임상적 효과를 평가하는 데 매우 의미가 있다.",
       "primary_category": "surgery",
       "tags": [
         "surgery",
@@ -523,50 +588,59 @@
       "species": [
         "dog"
       ],
-      "disease_or_topic": "infiltrative lipoma treatment",
+      "disease_or_topic": "infiltrative lipoma surgery outcomes",
       "study_design": "retrospective",
       "sample_size": 29,
       "sample_size_quote": "Twenty-nine client-owned dogs were surgically treated for infiltrative lipoma",
-      "objective": "침습성 지방종에 대해 구획적 절제술과 감량술 후 장기 재발률 포함 수술 후 결과를 평가하여 비교한다.",
-      "study_methods": "29마리의 임상 반려견을 대상으로 수술 전 조직병리학 또는 영상검사로 진단된 침습성 지방종을 구획 절제술 또는 감량술로 치료하였다. 임상기록을 검토하여 신상정보, 병력, 신체검사, 영상 및 임상 병리 결과, 재발 시기 및 수술 후 결과를 평가했다. 재발률 비교와 수술 후 합병증 여부를 분석하였다.",
-      "one_sentence_summary": "29마리의 침습성 지방종 진단을 받은 반려견을 대상으로 구획 절제술 또는 감량술 적용 후 장기 추적하였다. 재발은 감량술군에서 13마리 중 9마리(69.2%)에서 발생한 반면, 구획 절제술군 9마리 중 1마리(11%), 근치적 절제 1마리에서는 발생하지 않았다. 구획 절제술은 감량술과 비교 시 재발 가능성을 유의하게 줄였다(OR 18.0; 95% CI 1.65-196.31). 구획 절제술은 사지 기능 영향 없이 안전하게 시행되었으며 주로 삼출액 관련 합병증이 보고되었다.",
+      "objective": "infiltrative lipoma 환자에서 compartmental excision과 debulking 수술 후 장기 결과와 재발률 차이를 평가하고, 수술 후 기능 회복 및 합병증을 조사하였다.",
+      "study_methods": "29마리의 반려견에서 histopathology 또는 수술 시 영상 소견으로 infiltrative lipoma를 진단하고 수술 치료를 했다. 전자의무기록에서 신호 특성, 병력, 신체 검사, 영상 및 임상검사 결과, 재발까지 기간 및 수술 후 장기 추적 결과를 평가하였다. 수술법은 compartmental excision, debulking, radical excision으로 나뉘었으며, 재발률과 합병증을 비교하였다.",
+      "one_sentence_summary": "이 연구는 infiltrative lipoma로 진단된 29마리의 반려견을 대상으로 compartmental excision과 debulking 수술 후 장기 재발률과 합병증을 후향적으로 평가하였다. 전체에서 pelvic limb에 주로 위치하였고, debulking 군에서 13마리 중 9마리(69.2%)가 재발한 반면, compartmental excision 군에서는 9마리 중 1마리(11%)만이 재발하였다. 수술 후 limb 기능 장애는 보고되지 않았으며 총 12마리에서 합병증이 있었고 주로 seroma였음을 확인하였다.",
       "key_results": [
         {
-          "result": "침습성 지방종의 재발률은 감량술에서 9/13 (69.2%), 구획 절제술에서 1/9 (11%), 근치적 절제에서 0/1이었다.",
-          "evidence_quote": "Recurrence was reported in 9/13 (69.2%) debulking, 1/9 (11%) compartmental and 0/1 radical excision"
+          "result": "debunking 수술군에서 9/13 (69.2%)이 재발하였다.",
+          "evidence_quote": "Recurrence was reported in 9/13 (69.2%) debulking"
         },
         {
-          "result": "구획 절제술 시행 시 재발 가능성이 감량술에 비해 유의하게 낮았다(OR 18.0; 95% CI 1.65 to 196.31).",
+          "result": "compartmental excision 수술군에서 1/9 (11%)이 재발하였다.",
+          "evidence_quote": "1/9 (11%) compartmental"
+        },
+        {
+          "result": "radical excision 수술군에서는 0/1 재발하였다.",
+          "evidence_quote": "0/1 radical excision"
+        },
+        {
+          "result": "compartmental excision은 debulking에 비해 재발 위험이 통계적으로 유의하게 낮았다 (OR 18.0; 95% CI 1.65 to 196.31).",
           "evidence_quote": "recurrence was significantly less likely with pre-planned compartmental excision compared to debulking (OR 18.0; 95% CI 1.65 to 196.31)"
         },
         {
-          "result": "감량술 후 재발까지의 중앙 시간은 342일(범위 187~995일)이었다.",
+          "result": "debunking 후 재발까지 중앙값은 342일이었다 (범위 187~995일).",
           "evidence_quote": "Median time to representation for recurrence following debulk was 342 days (range 187 to 995)"
         },
         {
-          "result": "구획 절제술 후 사지 기능에는 주관적으로 영향이 보고되지 않았다.",
+          "result": "compartmental excision 후 limb 기능 장애는 주관적 평가에서 보고되지 않았다.",
           "evidence_quote": "Subjectively, no effect on limb function was reported secondary to compartmental excision"
         },
         {
-          "result": "전체 25마리 중 12마리에서 합병증이 있었으며, 주로 삼출액(9마리)에 의한 합병증이었다.",
+          "result": "전반적 합병증은 25마리 중 12마리에서 발생했고 그 중 9건은 seroma였다.",
           "evidence_quote": "Overall complications were seen in 12 of 25 dogs, predominantly seroma (n = 9)"
         }
       ],
-      "authors_conclusion": "침습성 지방종에 대해 구획 절제술은 감량술에 비해 재발률이 낮았으며 이전 보고와 비교해도 유의한 차이를 보였다. 근육 절제와 관련된 기능 저하는 관찰되지 않았으며 구획 절제술은 치료 시 고려할 만한 방법이다.",
-      "clinical_takeaway": "침습성 지방종 치료에서 구획 절제술은 감량술에 비해 재발 위험을 현저히 낮춰 장기적으로 더 안정적인 수술 결과를 기대할 수 있다. 또한 주관적으로 사지 기능 손상 없이 안전하게 시행 가능하여 기능적 부담이 적다. 다만 주요 합병증으로 삼출액 발생이 관찰되므로 수술 후 이에 대한 모니터링과 관리가 필요하다. 본 연구는 후향적 소규모이므로 결과를 보완할 대규모 전향적 연구가 필요하다. 따라서 현재 임상에서는 침습성 지방종 환자에서 재발률 감소와 기능 보존을 위해 구획 절제술을 우선 고려하되, 개별 환자 상황과 수술 위험도를 같이 평가해야 한다.",
+      "authors_conclusion": "compartmental excision 수술은 infiltrative lipoma 환자에서 debulking에 비해 재발률이 낮았으며 myectomy로 인한 기능 장애는 없었다. 따라서 infiltrative lipoma 치료에 compartmental excision을 고려해야 한다는 결론을 내렸다.",
+      "clinical_takeaway": "이 연구는 infiltrative lipoma를 가진 반려견에서 compartmental excision이 debulking에 비해 재발률을 현저히 낮출 수 있음을 입증하였다. 특히 재발 위험 감소와 함께 수술 후 사지 기능 장애가 없다는 점이 임상적으로 중요하다. 따라서 infiltrative lipoma의 수술적 치료를 계획할 때 compartmental excision 방식을 우선 고려하는 것이 바람직하나, 연구가 후향적이고 환자 수가 제한적이므로 모든 증례에 일반화하기에는 주의가 필요하다. 또한 seroma 등 합병증 발생 가능성도 인지하고 면밀한 수술 후 관리가 필요하다.",
       "limitations": [
-        "후향적 연구 설계로 인한 편향 가능성",
-        "소규모 샘플 크기(29마리)로 일반화 제한",
-        "합병증 및 기능 평가가 주관적 보고에 의존함",
-        "초록만 제공되어 상세한 방법론 및 후속처리 정보 부족"
+        "후향적 연구로 무작위 배정이나 대조군 설정이 없으며 표본 수가 29마리로 제한적이다.",
+        "장기간의 기능 평가가 주관적이며 표준화된 평가 도구가 부족하다.",
+        "견종, 병변 크기 및 위치에 따른 세부 영향 분석이 미흡하다.",
+        "전체 29마리 중 합병증 평가 대상은 25마리로 일부 분석에서 누락이 있다.",
+        "객관적 재발 진단법에 대한 세부 기술이 부족하다."
       ],
       "recommended": true,
-      "recommendation_reason": "침습성 지방종의 재발률 감소를 위해 구획 절제술이 감량술 대비 명확한 우위를 증명하며, 수술 후 사지 기능 보존이 확인되어 즉시 임상 적용 가능하므로 권장한다.",
+      "recommendation_reason": "반려견 infiltrative lipoma 수술 치료에서 compartmental excision이 재발률 감소와 기능 보존에 도움이 된다는 직접적인 임상 증거가 명확히 제시되어, 임상적 의사결정에 유용한 정보로 판단된다.",
       "id": "doi:10.1111/jsap.70200",
       "discovered_at": "2026-09-18 01:46:59.571788+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42751987/",
-      "summary_generated_at": "2026-09-20 23:30:13.036688+00:00",
+      "summary_generated_at": "2026-10-15 23:36:30.994388+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -652,43 +726,42 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42747238/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 건강한 비글견 6두를 대상으로 루테올린 기반 치아 젤의 치태 축적 및 치은 출혈 감소 효과를 평가함으로써, 반려견의 구강 건강 관리에 직접적인 임상 적용 가능성을 보여준다.",
+      "relevance_reason": "본 연구는 반려견(beagle) 6두를 대상으로 luteolin 기반 치과용 젤의 미생물성 치태 축적과 치은 출혈에 대한 임상 효과를 평가하였으며, 해당 개체에 직접 적용한 결과를 보고하고 있으므로 임상 연관성이 직접적임을 알 수 있습니다.",
       "primary_category": "internal_medicine",
       "tags": [
-        "internal_medicine",
-        "infectious_disease"
+        "internal_medicine"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "Periodontal disease prevention and treatment in dogs",
+      "disease_or_topic": "periodontal disease prevention and treatment",
       "study_design": "prospective",
       "sample_size": 6,
       "sample_size_quote": "Six healthy beagle dogs underwent professional dental scaling and polishing under general anaesthesia on day 0.",
-      "objective": "루테올린의 항균 및 항염증 효과를 활용하여 반려견의 구강 내 미생물성 치태 축적과 치은 출혈 감소에 대한 루테올린 기반 치아 젤의 임상적 효능을 개발 및 평가하고자 함.",
-      "study_methods": "6두의 건강한 비글견에게 마취하에 전문 치석 제거 및 광택술을 시행하고, 이후 30일간 루테올린 함유 치아 젤을 1일 1회 도포하였다. 동일 조건하에 상업용 건식 사료 급여 중이었다. 루테올린 치료 후 전문 치석 제거를 재실시하고 치태를 특정 색소로 착색 후 촬영하였다. 이후 30일 간 동일한 도포법으로 플라시보(첨가제만 포함) 단계가 진행되었다. QuPath 소프트웨어로 특정 치아 부위의 치태 범위를 정량화하였다.",
-      "one_sentence_summary": "본 전향적 연구는 6두의 건강한 비글견을 대상으로 루테올린 기반 치아 젤을 30일간 1일 1회 도포하여 미생물성 치태 축적과 치은 출혈에 미치는 영향을 평가하였다. 전문 스케일링 및 폴리싱 후 젤을 적용하였으며, 플라시보 도포 기간과 비교 평가하였다. 정량 분석 결과, 루테올린 도포 시 치태 축적이 유의하게 감소하였다.",
+      "objective": "luteolin 기반 치과용 젤이 개에서 미생물성 치태 축적과 치은 출혈 감소에 미치는 임상적 효과를 평가하기 위함",
+      "study_methods": "6두의 건강한 beagle을 대상으로 일반 마취 하에 전문적인 치석 제거 및 광택 작업을 시행하였다. 이후 30일간 매일 하루 1회 luteolin이 포함된 치과용 젤을 치아에 도포하였다. 다시 전문적인 치석 제거를 시행한 후 플라크를 FD&C blue #1과 D&C red #28 착색제를 이용해 착색하고, 일반 마취 하에서 치아 촬영을 시행하였다. 이후 동일한 방법과 도포 프로토콜로 제작된 excipient만 포함하는 플라시보 젤을 30일간 적용하는 위약 기간을 두었다. QuPath 소프트웨어를 이용해 선택된 치아 부위의 플라크 범위를 정량화하였다.",
+      "one_sentence_summary": "본 연구는 건강한 beagle 6두를 대상으로 프로스펙티브 설계로 luteolin 함유 치과용 젤의 치태 축적과 치은 출혈에 대한 효과를 평가하였다. 30일간 하루 한 번씩 luteolin 젤을 도포한 후 치태가 통계적으로 유의하게 감소함을 확인했고, 이후 30일간 플라시보 젤을 적용하여 비교하였다. 주요 결과는 치태 축적이 luteolin 젤 처리 시 플라시보 대비 유의하게 감소했다는 점이며, 임상적 의미를 평가하였다.",
       "key_results": [
         {
-          "result": "루테올린 처리 기간 동안 치태 축적이 플라시보 대비 유의하게 감소하였다.",
+          "result": "luteolin 치료 기간 동안 치태 축적이 플라시보와 비교해 유의하게 감소하였다.",
           "evidence_quote": "Quantitative analysis showed a significant reduction in plaque accumulation during the luteolin treatment phase compared to the placebo, and statistical analysis using both parametric and non-parametric methods confirmed these differences were significant."
         }
       ],
-      "authors_conclusion": "루테올린 기반 치아 젤을 하루 한 번 도포하는 것이 개의 미생물성 치태 형성 및 치은 출혈을 효과적으로 줄일 수 있음을 시사하며, 이는 자연 예방 및 치료제로서 잠재력이 있다. 더 큰 모집단 및 장기 연구를 통한 추가 검증이 필요하다.",
-      "clinical_takeaway": "이 연구는 건강한 개의 구강 내 치태 축적과 치은 염증 감소를 위해 루테올린 기반 치아 젤이 효과적일 수 있음을 제시한다. 반려견 구강 건강 관리에 있어 자연 유래 물질을 이용한 예방적 젤 도포가 임상적으로 의미 있을 수 있으며, 기존 구강 위생법의 보완제로 고려할 수 있다. 다만, 연구가 적은 수의 건강한 비글견 대상이며 30일 단기 적용에 국한되므로, 다양한 품종과 장기 효과에 대한 추가 연구가 필요하다.",
+      "authors_conclusion": "일일 luteolin 기반 치과용 젤 도포는 개에서 미생물성 치태 형성과 치은 출혈을 효과적으로 감소시켜 자연스러운 예방 및 치료제로서 가능성을 시사하나, 향후 더 큰 집단을 대상으로 장기 효능을 평가하는 추가 연구가 필요하다고 결론지었다.",
+      "clinical_takeaway": "이 연구는 건강한 beagle에서 luteolin 함유 치과용 젤을 하루 한 번 30일간 도포했을 때 미생물성 치태 축적과 치은 출혈이 유의하게 감소함을 보여준다. 이는 luteolin 젤이 개 구강 건강 증진과 치주 질환 예방 및 치료에 활용될 수 있음을 시사한다. 다만 표본 수가 6두로 제한적이고 연구 기간도 30일로 짧아, 다양한 품종 및 장기간 적용 시 효과 검증과 임상 적용 시 주의가 필요하다. 이 결과는 초기 보조 구강 위생 관리법으로 고려할 수 있으나, 대규모 연구에서의 재현이 중요하다.",
       "limitations": [
-        "연구 대상이 6두의 건강한 비글견으로 규모가 작고, 다양한 품종 및 구강 상태의 반려견에 일반화하기 어렵다.",
-        "치료 지속 기간이 30일로 단기간이며, 장기 효능 및 안전성 데이터 부족.",
-        "플라시보 단계와 치료 단계가 순차적으로 진행되어 완전 무작위 이중맹검 설계가 아니며, 마취 하에서 평가가 이루어져 실생활 환경 반영에 한계가 있다.",
-        "초록만 제공되어 상세한 연구 방법 및 통계 분석 결과가 제한적이다."
+        "표본 수가 6두로 제한적이며, 다양한 품종에 대한 결과 일반화가 어렵다.",
+        "30일간의 짧은 치료 및 관찰 기간으로 장기 효과 및 안전성 평가가 부족하다.",
+        "플라시보 대조군은 동일한 젤 기반이었으나, 완전한 이중맹검 설계였는지 불명확하다.",
+        "연구는 추후 대규모 집단을 대상으로 한 확증적 연구 필요를 명시하였다."
       ],
-      "recommended": false,
-      "recommendation_reason": null,
+      "recommended": true,
+      "recommendation_reason": "직접 임상 적용이 가능한 건강한 개를 대상으로 하는 전향적 연구로, luteolin 기반 치과용 젤이 치태와 치은 염증 감소에 의미 있는 효과를 보였으며, 자연 치료제로서 잠재적 가치를 시사하기 때문에 임상 적용 가능성을 높게 평가하였다.",
       "id": "doi:10.1111/jsap.70201",
       "discovered_at": "2026-09-17 05:57:03.683408+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42747238/",
-      "summary_generated_at": "2026-09-27 23:26:04.973282+00:00",
+      "summary_generated_at": "2026-10-15 23:36:59.964658+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -705,46 +778,51 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42744608/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "임상 증례에서 안전하고 효과적으로 전악골절제술에 적용되어 턱관절 접근성을 높이고 수술 중 관절 해체 및 외과적 절제에 유리함을 보임.",
+      "relevance_reason": "본 논문은 개에서 시행된 total mandibulectomy 수술법에 관한 임상 사례와 해부 시술 결과를 보고하며, canine 임상 수술에 직접 적용 가능한 내용을 포함하고 있습니다.",
       "primary_category": "surgery",
       "tags": [
-        "soft_tissue_surgery",
-        "surgery"
+        "surgery",
+        "soft_tissue_surgery"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "total mandibulectomy technique",
+      "disease_or_topic": "total mandibulectomy surgical technique",
       "study_design": "case_report",
-      "sample_size": 1,
-      "sample_size_quote": "one clinical case (2.5-year-old castrated male Australian Shepherd)",
-      "objective": "새로운 측면 및 복측 접근을 결합한 전악골절제술(CATM) 기법을 기술하고 임상 적용 가능성을 평가한다.",
-      "study_methods": "개 시체 한 마리(27 kg, 잡종)에서 시술법을 평가하고 임상증례(2.5세 중성화 수컷 호주 셰퍼드)에서 좌측 악골 연조직 육종 환자에게 CATM 기법을 적용하였다. 측면 접근으로 측두하악관절의 관절두절제술을 수행하고 복측 전중앙 접근법으로 좌측 전악골절제술을 시행하였다.",
-      "one_sentence_summary": "잡종견 시체와 2.5세 중성화 수컷 호주 셰퍼드 한 마리를 대상으로 CATM 기법을 평가하였다. 좌측 악골 연조직 육종 환자에게 측면 접근을 통한 관절두절제술과 복측 접근을 통한 전악골절제술을 결합한 CATM 수술을 성공적으로 시행하였다. 수술 중 합병증 없었으며, 측면 절개를 연장하여 임상 증례에서 국소 림프절 절제술도 가능하였다. 수술 후 2개월간 기능 유지 및 재발 없이 양호한 경과를 보였다.",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개 임상 사례와 사체 해부 연구를 통해 total mandibulectomy (CATM)의 새로운 결합 수술법을 기술하고 평가함.",
+      "study_methods": "27 kg 혼합견 사체에서 lateral approach를 이용한 condylectomy와 ventral paramedian approach를 이용한 total mandibulectomy를 조합하여 CATM 시술법을 시행 및 평가하였다. 이후 2.5세 거세된 수컷 Australian Shepherd 임상 환자에게 같은 기법을 적용하였으며, 종양 제거와 림프절 절제도 포함하여 추후 합병증과 기능적 결과를 관찰하였다.",
+      "one_sentence_summary": "2.5세 거세된 수컷 Australian Shepherd에서 좌측 mandibular soft tissue sarcoma 치료를 위해 새로운 combined approach for total mandibulectomy (CATM)를 시행하였다. CATM은 dog cadaver와 임상 환자 모두에서 수술 중 합병증 없이 성공적으로 시행되었으며, 임상 환자에서는 수술 2개월 후 기능이 양호하고 종양 재발 및 추가 부작용이 없었다.",
       "key_results": [
         {
-          "result": "CATM은 시체 및 임상 사례 모두에서 성공적으로 시행되어 수술 중 합병증이 없었다.",
+          "result": "CATM은 사체 모델과 임상 사례 모두에서 수술 중 합병증 없이 성공적으로 시행되었다.",
           "evidence_quote": "CATM was successfully performed in both the cadaveric model and clinical case without intraoperative complications."
         },
         {
-          "result": "측면 절개를 뒤쪽으로 연장하여 임상 사례에서 지역 림프절 절제술이 가능하였다.",
+          "result": "임상 사례에서 lateral condylectomy 절개를 후방으로 연장해 regional lymphadenectomy를 실시할 수 있었다.",
           "evidence_quote": "Extending the lateral condylectomy incision caudally allowed for regional lymphadenectomy in the clinical case."
         },
         {
-          "result": "우측 악골의 내측 이동으로 인한 구개 접촉 외상이 발생했으나, 크라운 높이 감소 및 활력 맹출 치료로 성공적으로 관리되었다.",
+          "result": "수술 후 오른쪽 mandibular의 내측 이동으로 인한 구개 접촉 손상을 crown height reduction과 vital pulpotomy로 관리하였다.",
           "evidence_quote": "Medial drift of the right mandible resulted in palatal contact trauma that was successfully managed with crown height reduction and vital pulpotomy."
         },
         {
-          "result": "수술 후 2개월 동안 기능적 유지 및 종양 재발이나 기타 부작용 없이 양호한 임상적 결과를 보였다.",
+          "result": "수술 2개월 후 임상 사례 개는 정상적인 기능을 유지하며 종양 재발이나 추가 부작용이 관찰되지 않았다.",
           "evidence_quote": "At two months postoperatively, the dog maintained good clinical function without tumor recurrence or additional adverse effects."
+        },
+        {
+          "result": "CATM은 TMJ exposure를 증가시켜 joint disarticulation과 condylectomy를 용이하게 하였다.",
+          "evidence_quote": "The CATM was a feasible technique that provided increased TMJ exposure for joint disarticulation and condylectomy."
         }
       ],
-      "authors_conclusion": "CATM은 턱관절에 대한 노출을 증가시켜 관절 분리 및 관절두절제술을 용이하게 하는 실현 가능한 기법이다.",
-      "clinical_takeaway": "본 연구는 악골 전체 절제술을 위해 새로운 결합 접근법인 CATM 기법을 개발하고 이를 임상견에서 성공적으로 적용함을 보여준다. 이 기법은 턱관절 해부학적 접근성을 크게 향상시켜 연조직 종양 수술 시 관절 분리와 관절두절제술을 보다 안전하고 효과적으로 수행할 수 있음을 시사한다. 다만, 수술 후 악골 변위로 인한 구강 내 외상을 예방하거나 조기 치료하는 주의가 필요하며, 장기적인 추적 연구가 부족해 일반화에는 신중함이 요구된다.",
+      "authors_conclusion": "CATM은 TMJ 접근성을 최적화하여 안전하고 효과적인 total mandibulectomy를 가능하게 하는 실용적인 수술법이다.",
+      "clinical_takeaway": "개에서 mandibular soft tissue sarcoma 등의 질환에 total mandibulectomy가 필요한 경우, CATM 기법은 TMJ에 대한 접근성을 개선하여 joint disarticulation과 condylectomy를 용이하게 한다는 점에서 안전하고 효과적인 수술기술이다. 특히 이 접근법은 연조직뿐 아니라 인근 림프절 절제도 가능하게 하여 광범위한 병변 제거가 유리하다. 다만, 수술 후 정상적인 mandibular 위치 유지가 어려워 구개 손상이 발생할 수 있으므로 주의 깊은 관리가 필요하며, 장기적인 수술 결과와 합병증에 대한 추가 연구가 요구된다.",
       "limitations": [
-        "본 연구는 단일 임상 사례와 시체 연구에 근거한 기술 보고로, 표본 크기가 매우 제한적이다.",
-        "후향적 기술 보고로 무작위 대조 연구가 아니며 장기 추적 및 비교 대조군이 존재하지 않는다.",
-        "초록만 제공되어 상세한 방법론 및 잠재적 합병증 보고가 부족하다."
+        "본 연구는 단일 임상 사례와 사체 실험에 국한되어 있어 일반화에 제한이 있다.",
+        "장기 추적 관찰 기간이 2개월로 짧아 장기 기능적 결과와 종양 재발에 대한 정보가 부족하다.",
+        "후속 연구에서 비교군 없이 기술적 평가만 이루어져 효과성 검증이 제한적이다.",
+        "Abstract만 제공되어 세부 수술 과정과 환자 관리에 관한 완전한 정보가 제공되지 않았다."
       ],
       "recommended": false,
       "recommendation_reason": null,
@@ -752,7 +830,7 @@
       "discovered_at": "2026-09-17 05:57:03.687056+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42744608/",
-      "summary_generated_at": "2026-09-20 23:25:30.999052+00:00",
+      "summary_generated_at": "2026-10-15 23:37:15.027463+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -830,47 +908,48 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42717639/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 3개월령의 미성숙 고양이에서 발생한 골반 내 요도 파열 및 협착에 대해 transpelvic urethrostomy(TPU)를 시행한 후 골반 변형과 장기적 기능 예후를 직접적으로 다룬 증례 보고이므로, 소유 환자인 고양이 임상에 직접적으로 관련있다.",
+      "relevance_reason": "본 연구는 3개월령의 골격 미성숙한 고양이를 대상으로 한 임상 증례로, transpelvic urethrostomy (TPU) 수술 후 골반 형태 변화와 장기 기능적 예후를 평가하여, 임상적으로 직접적인 적용 가능성을 시사한다.",
       "primary_category": "surgery",
       "tags": [
-        "soft_tissue_surgery",
-        "orthopedics"
+        "internal_medicine",
+        "orthopedics",
+        "surgery"
       ],
       "species": [
         "cat"
       ],
-      "disease_or_topic": "transpelvic urethrostomy 후 골반 변형 및 기능 예후",
+      "disease_or_topic": "urethral stricture, skeletal modifications after transpelvic urethrostomy",
       "study_design": "case_report",
       "sample_size": 1,
-      "sample_size_quote": "One 3-month-old male domestic short-haired cat",
-      "objective": "3개월령 고양이에서 반복적 요도 카테터 삽입 후 발생한 골반 내 요도 파열과 협착에 대해 TPU 시술 후 양측 좌골 결절의 외측 변위 발생 및 장기적 임상적 결과를 기술함.",
-      "study_methods": "3개월령 고양이에서 반복적 요도 카테터 삽입에 의한 골반 내 요도 파열 후 보존적 치료 및 회음부 요도 개구술 실패 사례에서 구제적 수술로 TPU를 시행함. 수술 후 3년간 신체검사, 방사선촬영, CT촬영, 정형외과 평가 및 주인 작성 기능 설문지를 통해 경과를 관찰함.",
-      "one_sentence_summary": "한 마리 3개월령 수컷 고양이에서 반복적 요도 카테터 삽입에 의한 골반 내 요도 파열에 대해 TPU를 시행하였다. 12시간 내 자발적 배뇨를 회복하고 이후 요도 폐쇄 없이 대소변 조절이 유지되었다. 2개월 차 방사선 촬영에서 좌골 결절의 양측 외측 변위와 골반 폭 증가가 관찰되었고, 3년 후 CT에서는 골반과 고관절의 골형태 변화가 지속되었으나 FMPI 2/72, ADS 0.75/16으로 근골격계 통증과 기능적 장애는 경미하였다.",
+      "sample_size_quote": "One 3-month-old male domestic short-haired cat.",
+      "objective": "골격 미성숙 고양이에서 intrapelvic urethral rupture 및 obstruction 치료를 위해 시행한 transpelvic urethrostomy 후 발생한 bilateral lateral displacement of the ischial tuberosities의 발생, 관리, 장기 결과를 기술하고자 하였다.",
+      "study_methods": "3개월령 고양이에서 반복된 요도 카테터 삽입 실패로 인한 intrapelvic urethral rupture가 발생하여 보존적 치료 후 perineal urethrostomy를 시도하였으나 재발성 요도 협착으로 실패하였다. 이후 구제 수단으로 transpelvic urethrostomy를 시행하였다. 수술 후 3년간 신체검사, 방사선검사, CT, 정형외과적 평가 및 보호자 기능 설문지를 통해 장기 추적 관찰하였다.",
+      "one_sentence_summary": "3개월령 골격 미성숙 고양이에서 반복된 요도 카테터 삽입 실패에 의한 intrapelvic urethral rupture와 협착을 치료하기 위해 transpelvic urethrostomy를 실시하였다. 수술 후 12시간 내에 자발적 배뇨가 회복되고 3년간 추적 관찰하였으며, 2개월 시점에 양측 ischial tuberosities의 외측 변위 및 골반 폭 증가가 방사선 사진으로 확인되었다(iliac wings 46.2 mm, ischial tuberosities 55.7 mm, pelvic length 79.6 mm). 3년 후 CT에서 acetabular rim 각도 변화가 있었으나, 임상적으로는 최소한의 근골격 통증과 정상 운동 기능이 유지되었다(FMPI=2/72, ADS=0.75/16).",
       "key_results": [
         {
-          "result": "수술 12시간 내 자발적 배뇨 회복 및 요도 기능 유지",
+          "result": "수술 후 12시간 이내에 자발적 배뇨가 회복되었고, 신경학적 대소변 장애 없이 요실금이 없었다.",
           "evidence_quote": "The cat regained voluntary urination within 12 h postoperatively and remained continent."
         },
         {
-          "result": "2개월 차 방사선검사에서 좌골 결절 양측 외측 변위 및 골반 폭 측정치 증가(이리악 날개 46.2 mm, 좌골 결절 55.7 mm, 골반 길이 79.6 mm)",
+          "result": "2개월 추적 검사에서 양측 ischial tuberosities가 외측으로 변위되어 pelvic width가 iliac wings 46.2 mm, ischial tuberosities 55.7 mm로 증가하였고 pelvic length는 79.6 mm였다.",
           "evidence_quote": "Follow-up radiographs at 2 months revealed bilateral lateral displacement of the ischial tuberosities, with pelvic width measuring 46.2 mm at the iliac wings and 55.7 mm at the ischial tuberosities, compared with a pelvic length of 79.6 mm."
         },
         {
-          "result": "3년 후 CT에서 고관절 배측 경사각 16.9°-18.1°, 전상자세각 45° 관찰",
+          "result": "3년 후 CT에서 dorsal acetabular rim angle이 16.9°-18.1°, acetabular angle이 45°로 측정되었다.",
           "evidence_quote": "At 3 years, CT measurements showed dorsal acetabular rim angles of 16.9°-18.1° and an acetabular angle of 45°."
         },
         {
-          "result": "장기간 기능 평가에서 근골격계 통증 최소화(FMPI 2/72), 기능 장애 경미(ADS 0.75/16), 운동 기능 보존됨",
+          "result": "장기 기능 평가에서 근골격 통증은 최소한 수준(FMPI = 2/72), 운동 장애도 경미(ADS = 0.75/16)하여 운동 기능이 유지되었다.",
           "evidence_quote": "Functional assessment demonstrated minimal musculoskeletal pain (feline musculoskeletal pain index [FMPI] = 2/72) and negligible disability (average disability score [ADS] = 0.75/16), with preserved locomotor function."
         }
       ],
-      "authors_conclusion": "TPU는 골격 미성숙 고양이에서 골반 내 요도 파열 치료에 실현 가능하고 효과적인 수술적 선택지이다. 골반의 형태학적 변화는 발생할 수 있으나, 본 증례에서는 기능적 손상과 연관되지 않아 선택된 소아 고양이에서 구제적 절차로서 TPU의 가능성을 시사한다.",
-      "clinical_takeaway": "3개월령 미성숙 고양이에서 반복적 요도 카테터로 인한 골반 내 요도 파열과 협착에 대해 TPU를 시행하면, 수술 후 골반 골격의 변형이 발생할 수 있으나 장기적으로 통증과 기능장애 없이 배뇨가 가능함을 본 증례가 보여준다. 이는 유사한 미성숙 환자의 구제술로서 TPU 고려 시, 골반 형태 변화에 따른 기능상 문제 가능성을 반드시 평가하되, 큰 기능적 손상이 없을 수도 있음을 시사한다. 그러나 단일 증례임을 감안할 때 모든 경우에 일반화하기 어려우며 후속 연구가 필요하다.",
+      "authors_conclusion": "골격 미성숙 고양이에서 intrapelvic urethral rupture 치료를 위한 transpelvic urethrostomy는 실현 가능하고 효과적인 선택지임을 보였다. 골반의 형태학적 변화가 발생할 수 있으나, 본 증례에서는 기능적 손상이 없었으며, 신중한 환자 선별 시 구제 수술로 고려할 수 있음을 시사한다.",
+      "clinical_takeaway": "골격이 완전히 성장하지 않은 어린 고양이에서 intrapelvic urethral rupture와 요도 협착을 치료하기 위한 수술적 선택으로 transpelvic urethrostomy가 가능하며, 이 수술 후 long-term에는 골반 형태 변형이 발생할 수 있으나 기능적 장애가 반드시 동반되지는 않는다는 점을 알 수 있다. 따라서, repeated catheterization 실패로 인한 복잡한 요도 병변에서 대체 수술법으로 TPU를 고려할 수 있으며, 수술 후에는 골반 및 정형외과적 추적 관찰이 필요하다. 다만 현재 증례 한 마리에 국한되어 있으므로, 다른 환자군에서의 예후와 합병증 발생 빈도는 추가 연구가 요구된다.",
       "limitations": [
-        "단일 증례 보고로 일반화 제한적임",
-        "후향적 기술 및 무조절 증례",
-        "장기 추적은 있으나 기능 장애에 대한 객관적 대규모 평가 부족",
-        "초록 기반 정보만 제공됨"
+        "단일 증례 보고로서 연구 대상 수가 매우 적다.",
+        "후향적이며 대조군이 없어 일반화에 제한이 있다.",
+        "장기 추적은 1예에 한정되어 다른 개체에서의 결과는 불확실하다.",
+        "수술법의 다른 변형이나 연령대에서의 적용 가능성에 대한 비교가 부족하다."
       ],
       "recommended": false,
       "recommendation_reason": null,
@@ -878,7 +957,7 @@
       "discovered_at": "2026-09-16 01:13:31.967749+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42717639/",
-      "summary_generated_at": "2026-09-18 23:24:52.400363+00:00",
+      "summary_generated_at": "2026-10-15 23:37:24.649829+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2148,19 +2227,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 477
+        "received": 481
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 408
+        "received": 419
       }
     },
-    "started_at": "2026-10-14T23:35:53.713036+00:00",
-    "since": "2026-08-30",
+    "started_at": "2026-10-15T23:35:40.533933+00:00",
+    "since": "2026-08-31",
     "processed": 1,
-    "refreshed": 6,
-    "failed": 6,
-    "deferred": 945,
-    "finished_at": "2026-10-14T23:38:30.292979+00:00"
+    "refreshed": 4,
+    "failed": 10,
+    "deferred": 940,
+    "finished_at": "2026-10-15T23:38:05.352663+00:00"
   }
 }
