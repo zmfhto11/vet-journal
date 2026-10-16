@@ -1,9 +1,157 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T23:38:05.454225+00:00",
-  "last_successful_collection": "2026-10-15T23:35:40.533879Z",
+  "generated_at": "2026-10-16T23:37:11.489147+00:00",
+  "last_successful_collection": "2026-10-16T23:35:03.012243Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Use of a cost-effective specimen retrieval bag for canine laparoscopic ovariectomy: a clinical prospective study (2021-2024).",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-10-15",
+      "online_publication_date": "2026-10-15",
+      "publication_date_raw": "2026-Oct-15",
+      "doi": "10.1111/jsap.70215",
+      "pmid": "42878493",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70215",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42878493/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 client-owned dog에서 실제 임상 상황인 canine laparoscopic ovariectomy 중 비의료용 플라스틱 봉투를 specimen retrieval bag으로 사용한 전향적 연구로, 실용적이고 직접적인 임상 적용 가능성을 평가하고 있습니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "minimally_invasive_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "laparoscopic ovariectomy",
+      "study_design": "prospective",
+      "sample_size": 31,
+      "sample_size_quote": "Thirty-one client-owned dogs having laparoscopic ovariectomy with a non-medical specimen retrieval bag were prospectively enrolled.",
+      "objective": "laparoscopic ovariectomy 시행 시 specimen retrieval bag으로 비용 효과가 높은 비의료용 플라스틱 봉투의 실용성과 안전성을 평가하였다.",
+      "study_methods": "31마리의 client-owned dog들이 비의료용 플라스틱 봉투(아기 젖병용 일회용 라이너)를 specimen retrieval bag으로 사용한 laparoscopic ovariectomy를 받았다. 수술 시간, specimen retrieval 시간, 절개부 확대 요구 여부, retrieval의 용이성 점수, specimen 크기, 수술자 숙련도(레지던트 vs diplomate), 합병증 발생 여부를 분석했다. 수술 2주 후 owner가 평가한 동물의 편안함 점수와 만족도 점수도 기록하였다.",
+      "one_sentence_summary": "본 전향적 연구는 31마리의 client-owned dog에서 laparoscopic ovariectomy 중 비의료용 일회용 플라스틱 봉투를 specimen retrieval bag으로 사용하여 비용 효과성과 안전성을 평가하였다. 평균 수술 시간은 45.6분, 평균 specimen retrieval 시간은 6.2분이며, 절개부 확대는 3건에서 요구되었다. 수술자 숙련도 차이에 따라 retrieval 용이성 점수에서 유의한 차이가 있었고, 경미한 합병증 3건이 보고되었다. 2주 후 owner 평가에서 동물 편안함 점수는 9.0, 만족도는 10.0으로 매우 높았다.",
+      "key_results": [
+        {
+          "result": "평균 수술 시간은 45.6 ± 13.4분이었다.",
+          "evidence_quote": "The mean surgical time was 45.6 ± 13.4 minutes"
+        },
+        {
+          "result": "평균 specimen retrieval 시간은 6.2 ± 4.4분이었다.",
+          "evidence_quote": "the mean retrieval time was 6.2 ± 4.4 minutes"
+        },
+        {
+          "result": "절개부 확대는 3건에서 필요하였다.",
+          "evidence_quote": "Incision enlargement was required in three cases"
+        },
+        {
+          "result": "경미한 수술 중 합병증이 3건 발생하였다.",
+          "evidence_quote": "Three minor intraoperative complications occurred"
+        },
+        {
+          "result": "specimen 크기는 평균 31.4 ± 19.2 mm였다.",
+          "evidence_quote": "The mean size of the specimens was 31.4 ± 19.2 mm"
+        },
+        {
+          "result": "retrieval 용이성 점수 중앙값은 8.0이며, 숙련자(diplomates)가 레지던트보다 유의하게 높았다.",
+          "evidence_quote": "The median retrieval easiness score was 8.0 (IQR = 8.0 to 10.0) and was significantly lower for residents than diplomates (median difference = -1)"
+        },
+        {
+          "result": "owner가 평가한 동물 편안함 점수 중앙값은 9.0이었다.",
+          "evidence_quote": "The median owner-assessed comfort score was 9.0 (IQR = 7.5 to 10.0)"
+        },
+        {
+          "result": "owner 만족도 점수 중앙값은 10.0이었다.",
+          "evidence_quote": "the median owners' satisfaction score was 10.0 (IQR = 9.0 to 10.0)"
+        }
+      ],
+      "authors_conclusion": "비의료용 일회용 플라스틱 봉투를 sterilized 후 specimen retrieval bag으로 사용한 canine laparoscopic ovariectomy는 사용이 용이하고 경미한 합병증 발생에 그쳤으며, 개들의 편안함과 소유주의 만족도가 매우 우수하였다. 이는 상업용 specimen retrieval bag에 대한 비용 효과적인 대안이 될 수 있다.",
+      "clinical_takeaway": "본 연구는 canine laparoscopic ovariectomy 시행 시 고가의 상업용 specimen retrieval bag 대신 저렴한 비의료용 일회용 플라스틱 봉투를 사용해도 안전하며 실용적임을 시사한다. 31마리의 사례에서 수술과 회복 중 큰 문제 없이 용이하게 사용되었고, 소유주 만족도가 매우 높아 임상 적용 가능성이 기대된다. 다만 소규모 전향적 연구이며, 일부 환자에서 절개 확대나 경미한 합병증이 있으므로 모든 상황에 무조건 적용할 수는 없으며 수술자 숙련도도 영향을 줄 수 있다. 추가 연구로 더 다양한 환자군과 장기 결과 검증이 필요하다.",
+      "limitations": [
+        "소규모 표본 크기(31마리)로 일반화에 제한이 있다.",
+        "단일 군 전향적 연구로 비교군이 없어 객관적 효능 평가에 한계가 있다.",
+        "단기간(2주) 추적관찰로 장기 합병증이나 durability 평가가 이루어지지 않았다.",
+        "usage는 특정 환경(비의료용 아기 젖병 유래 봉투) 및 sterilization 조건에 의존하므로 타 환경 적용 시 주의가 필요하다.",
+        "논문 초록만 제공되어 세부 수술 기술, 합병증 관리 등에 대한 자세한 정보가 부족하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상 환경에서 실용적이고 비용 효과적인 specimen retrieval bag 대안을 평가한 직접적인 canine laparoscopic ovariectomy 임상 전향 연구로, 비용 절감과 환자 및 소유주 만족도 측면에서 유용하여 임상 적용 가치가 높다.",
+      "id": "doi:10.1111/jsap.70215",
+      "discovered_at": "2026-10-16 23:35:04.455849+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42878493/",
+      "summary_generated_at": "2026-10-16 23:36:53.645511+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Polarization Sensitive Optical Coherence Tomography for Surgical Margin Assessment for Canine Soft Tissue Sarcoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-10-15",
+      "online_publication_date": "2026-10-15",
+      "publication_date_raw": "2026-Oct-15",
+      "doi": "10.1111/vco.70121",
+      "pmid": "42881568",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70121",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42881568/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 canine soft tissue sarcoma의 surgical margin 평가에 polarization-sensitive optical coherence tomography (PS-OCT) 기법이 spectral-domain OCT (SD-OCT) 대비 조직 분화와 진단 정확도에 미치는 영향을 평가하였다. 그러나 10예의 조직학적 부검과 30예의 STS에서 수술부위 검사로 제한되고, 핵심 결과는 PS-OCT가 전체적으로 통계적 개선을 보이지 않았지만 숙련된 관찰자의 정확도 향상에만 의미가 있다. 따라서 임상 적용을 위한 추가 연구가 필요하다.",
+      "primary_category": "surgery",
+      "tags": [
+        "internal_medicine",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "soft tissue sarcoma surgical margin assessment",
+      "study_design": "prospective",
+      "sample_size": 30,
+      "sample_size_quote": "surgical margins from 30 resected STS",
+      "objective": "PS-OCT가 SD-OCT 단독보다 조직 분화 및 수술부 경계 진단 정확도를 향상시키는지 평가",
+      "study_methods": "10마리 개에서 절제된 soft tissue sarcoma의 수술 경계를 PS-OCT 영상과 조직학적 검사로 대조하여 정상 및 신생물 조직의 특징을 규명하였다. 이후 30마리 절제 STS의 수술부 경계를 6명의 서로 다른 OCT 해석 경험자를 대상으로 SD-OCT 단독과 PS-OCT 병용 두 조건에서 평가하여 비교하였다. 정확도, 관찰자 간 및 내적 일치도를 산출하였다.",
+      "one_sentence_summary": "개에서 절제된 30건의 soft tissue sarcoma 수술부위를 대상으로 PS-OCT가 기존 SD-OCT에 비해 조직 분화능과 진단 정확도를 향상시키는지 평가한 전향적 연구이다. 10건의 조직 검사와 비교한 PS-OCT 영상에서는 조직별 birefringence 차이를 확인하였으며, 6명의 관찰자가 평가에 참여하였다. 전체적으로 정확도는 SD-OCT 93.7%, PS-OCT 병용 92.6%로 유의한 차이가 없었으나, 숙련된 관찰자 그룹에서 PS-OCT 병용 시 유의한 정확도 향상이 있었다. 관찰자 간 및 내적 일치도는 높은 수준이었다.",
+      "key_results": [
+        {
+          "result": "SD-OCT 단독의 정확도는 93.7%였고 PS-OCT 병용 시 92.6%로 전체적으로 통계적으로 유의한 차이는 없었다.",
+          "evidence_quote": "correct classification rate: SD-OCT alone 93.7% (95% confidence interval (CI): 90.1, 96.0) vs. SD-OCT combined with PS-OCT 92.6% (95% = CI: 89.3, 95.4)"
+        },
+        {
+          "result": "중급 이상의 숙련 관찰자들은 PS-OCT 병용 시 통계적으로 유의한 정확도 향상을 보였다.",
+          "evidence_quote": "adding PS-OCT did not significantly improve accuracy across all observers (p = 0.82), though expert observers benefited significantly (p = 0.0018)"
+        },
+        {
+          "result": "PS-OCT 영상에서 skeletal muscle은 교차하는 높은 및 낮은 birefringence 대역을 나타내고 STS는 균일하게 낮은 birefringence를 보였다.",
+          "evidence_quote": "skeletal muscle exhibited alternating high and low birefringence bands, fascia showed variable birefringence and STS had uniformly low birefringence"
+        },
+        {
+          "result": "관찰자 간 및 같은 관찰자 내 일치도는 substantial에서 near perfect 수준이었다.",
+          "evidence_quote": "Interobserver and intraobserver agreement ranged from substantial to near perfect"
+        }
+      ],
+      "authors_conclusion": "PS-OCT는 간단한 교육 후 신뢰성 있게 해석 가능하며 경험 많은 사용자에게서 진단 정확도 향상을 기대할 수 있다. 추가적으로 체계적 교육과 실시간 적용 가능성에 대한 연구가 필요하다.",
+      "clinical_takeaway": "개에서 soft tissue sarcoma의 수술부위를 OCT 영상으로 평가할 때, PS-OCT는 조직의 polarization contrast를 추가하여 조직 유형 구분에 도움을 주나, 전체 관찰자 집단에서는 SD-OCT 단독과 진단 정확도 차이가 크지 않았다. 다만 경험 많은 사용자의 경우 PS-OCT 병용이 의미 있게 정확도 향상을 가져오므로, 고도의 숙련도가 요구되는 경우 보조 영상 기법으로 고려될 수 있다. 따라서 직접적인 임상 적용을 위해서는 PS-OCT 해석에 대한 심층적 교육과 실시간 평가 가능성을 포함한 추가 연구가 필요하다. 그러나 현재 근거는 소수 표본과 제한된 임상 대상에 국한되어 있어 일반화에 신중해야 한다.",
+      "limitations": [
+        "소규모 표본 크기(30예)로 통계적 파워 제한 가능성",
+        "영상 해석자들의 숙련도 차이가 진단 정확도에 영향을 미침",
+        "PS-OCT의 실시간 수술 중 적용 가능성 및 환자 예후에 미치는 영향 미평가",
+        "단일 기관에서 진행되어 일반화에 제한점 존재",
+        "전체 관찰자 그룹에서는 PS-OCT 병용 효과가 미미한 점"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70121",
+      "discovered_at": "2026-10-16 23:35:04.444275+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42881568/",
+      "summary_generated_at": "2026-10-16 23:36:26.325403+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "A New Application of 64CuCl2 PET/CT: Imaging of Cats With Mammary Carcinoma.",
       "journal": "Veterinary and Comparative Oncology",
@@ -974,67 +1122,64 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42717636/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 담낭염 또는 양성 담낭질환으로 오픈 담낭절제술을 받은 반려견 73마리를 대상으로 하여 수술 중 내시경 담관조영술(IOC)의 적용과 단기 임상 결과를 조사함으로써 임상 의미가 직접적임.",
+      "relevance_reason": "본 연구는 73마리의 임상 개를 대상으로 하였으며, open cholecystectomy 중 intraoperative cholangiography(IOC)의 활용과 이에 따른 술 후 단기 결과를 평가하였다. 이는 개의 담낭 양성 질환 치료에 직접적으로 관련된 임상 연구로서 수술 중 술기의 유용성을 평가하였다.",
       "primary_category": "surgery",
       "tags": [
-        "internal_medicine",
-        "surgery"
+        "surgery",
+        "internal_medicine"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "benign gallbladder disease with common bile duct obstruction",
+      "disease_or_topic": "benign gallbladder disease",
       "study_design": "retrospective",
       "sample_size": 73,
       "sample_size_quote": "A total of 73 client-owned dogs.",
-      "objective": "오픈 담낭절제술 중 내시경 담관조영술(IOC)의 유용성을 평가하고, 수술 전 총담관(CBD) 폐색이 의심되는 증례를 포함하여 단기적인 임상 결과를 기술하고자 함.",
-      "study_methods": "2014년부터 2022년까지 73마리의 반려견 의무기록을 후향적으로 검토하였다. 모든 개는 오픈 담낭절제술, 생리식염수를 이용한 담관 세척(BDF), 그리고 subtractive fluoroscopy 기반의 IOC를 시행받았다. 담관조영 영상에서 총담관 완전 폐색(십이지장으로 조영제가 통과하지 않는 상태), 부분 폐색(잔류 이물 질환에 의한 충만 결손), 및 간관 내 충만 결손 여부를 평가하였다. 수술 전후 14일까지의 사망률과 퇴원 후 3개월간의 임상 추적 결과를 기록하였다.",
-      "one_sentence_summary": "73마리의 반려견을 대상으로 오픈 담낭절제술과 함께 내시경 담관조영술(IOC)을 시행하고, 총담관 폐색 여부와 담관 내 잔류 이물 질환 유무를 평가하였다. 총 72마리에서 IOC 평가가 가능했으며, 9마리(12.5%)는 총담관 완전 폐색, 15마리(20.8%)는 부분 폐색 소견을 보였다. 시술 관련 부작용으로 조영제 관련 쇼크가 1예 발생하였고, 수술 전 황달 증상이 있었던 44마리 중 5마리가 수술 후 14일 이내 사망하였다(11.4%). 퇴원 후 3개월간의 추적 관찰에서는 추가 사망이 없었다.",
+      "objective": "개에서 benign gallbladder disease와 preoperative CBD obstruction이 의심되는 경우, open cholecystectomy 중 intraoperative cholangiography의 유용성과 단기 예후를 평가하였다.",
+      "study_methods": "2014년부터 2022년까지 임상 개 73마리의 의무기록을 후향적으로 검토하였다. 모든 개는 open cholecystectomy, 식염수로 bile duct flushing(BDF) 및 subtraction fluoroscopy 하의 IOC를 시행받았다. IOC 소견으로는 완전한 common bile duct(CBD) 폐색, 부분 폐색과 hepatic duct 내 filling defects를 평가하였다. 14일 이내의 perioperative mortality 및 3개월간의 추적 관찰 결과를 기록하였다.",
+      "one_sentence_summary": "임상 개 73마리를 대상으로 open cholecystectomy 중 intraoperative cholangiography를 시행하고 14일 이내의 perioperative mortality와 3개월간 추적 관찰한 후향적 연구이다. IOC는 72마리에서 평가 가능했으며, 12.5%에서는 완전한 CBD 폐색, 20.8%에서 부분 폐색이 관찰되었고, hepatic duct에 filling defect가 10.6%에서 나타났다. 전체의 perioperative mortality는 6.8%였고, 황달이 없는 군에서는 사망자가 없었으며 황달이 있는 군에서 11.4%였다. 3개월간 추적 관찰 중 추가 사망은 없었다.",
       "key_results": [
         {
-          "result": "내시경 담관조영술은 73마리 중 72마리에서 평가 가능했으며, 1마리는 카테터 천공으로 평가가 불가했다.",
-          "evidence_quote": "IOC was evaluable in 72 of 73 dogs; assessment was precluded by catheter perforation in one dog."
-        },
-        {
-          "result": "총담관 완전 폐색은 12.5% (9/72)에서 확인되었다.",
+          "result": "IOC는 72마리 중 9마리(12.5%)에서 완전한 CBD 폐색을 확인하였다.",
           "evidence_quote": "Complete CBD obstruction was identified in 12.5% (9/72)."
         },
         {
-          "result": "부분 폐색은 20.8% (15/72)에서 나타났으며, 이 중 4마리는 조영제 주입 시 간헐적 폐색이 발생했다.",
+          "result": "72마리 중 15마리(20.8%)에서 부분 폐색이 관찰되었고, 이 중 4마리에서는 contrast 주입 시 distal CBD가 일시적으로 폐색되었다.",
           "evidence_quote": "Partial obstruction with retained debris occurred in 20.8% (15/72); debris migrated to transiently obstruct the distal CBD during contrast injection in four of 15."
         },
         {
-          "result": "간관 내 충만 결손은 10.6% (7/66)에서 관찰되었다.",
+          "result": "IOC가 right와 left hepatic duct에 조영된 66마리 중 7마리(10.6%)에서 hepatic duct filling defects가 발견되었다.",
           "evidence_quote": "Among the 66 dogs in which IOC opacified the right and left hepatic ducts, seven (10.6%) had filling defects in the hepatic ducts."
         },
         {
-          "result": "조영제 관련 의심 쇼크는 1예 있었으나 치료 후 호전되었다.",
+          "result": "술 중 contrast와 관련된 쇼크 의심 사례가 1례 있었으나 치료로 호전되었다.",
           "evidence_quote": "One dog developed suspected contrast-associated shock that resolved with treatment."
         },
         {
-          "result": "전 군집 기준 perioperative mortality는 6.8% (5/73)였으며, 황달 없는 군에서는 0%, 황달 있는 군에서는 11.4% (5/44)였다.",
+          "result": "전체 73마리 개 중 perioperative mortality는 6.8%(5/73)였으며, 황달이 없는 29마리에서는 사망이 없었고, 황달 개 44마리에서는 11.4%(5/44)의 사망률을 보였다.",
           "evidence_quote": "Perioperative mortality was 6.8% (5/73) in the total cohort; 0% (0/29) in dogs without jaundice, and 11.4% (5/44) in dogs with jaundice."
         },
         {
-          "result": "퇴원 후 3개월 동안 61마리 추적 관찰 중 사망은 발생하지 않았다.",
+          "result": "3개월 추적 관찰이 가능했던 61마리에서는 추적 기간 내 사망이 발생하지 않았다.",
           "evidence_quote": "Among 61 dogs with follow-up, no deaths occurred within 3 months."
         }
       ],
-      "authors_conclusion": "오픈 담낭절제술 중 내시경 담관조영술은 잔류 이물 및 기타 담도 이상을 자주 발견할 수 있었으며, 전통적 담관 세척술에 도움을 주는 유용한 보조법으로 평가된다. 특히 수술 전 총담관 폐색이 의심될 때 임상 결과 개선에 기여할 수 있다.",
-      "clinical_takeaway": "수술 중 내시경 담관조영술(IOC)은 반려견의 오픈 담낭절제술 시 총담관 및 간관 내 잔류 이물이나 폐색 여부를 정확히 진단하는 데에 유용하다. 이 방법은 담관 세척술과 병행하여 술 후 담관 내 문제로 인한 합병증 위험을 줄이고, 특히 황달 등으로 전형적인 폐색이 의심되는 환자에서 수술 결과를 향상시킬 가능성이 있다. 다만, 본 연구는 후향적이며, 일부 시술 관련 합병증(예: 조영제 관련 쇼크) 가능성과 제한된 사망률 데이터 해석에 주의가 필요하다. 따라서 일선 임상에서는 IOC를 보조적 진단 도구로 고려할 수 있으나, 모든 담낭절제술에서 루틴하게 적용할지를 결정하기 위해서는 추가 연구가 필요하다.",
+      "authors_conclusion": "Open cholecystectomy 중 IOC는 retained debris 및 기타 담관 이상을 자주 확인할 수 있었으며, preoperative CBD 폐색이 있는 개에서 수술 결과 개선을 위해 유용한 보조 수단이 될 수 있다고 결론지었다.",
+      "clinical_takeaway": "benign gallbladder disease로 인해 open cholecystectomy를 받은 73마리 개에서 intraoperative cholangiography는 common bile duct 및 hepatic duct 내 잔존 debris나 협착을 실시간 확인하는 데 유용하였다. 특히 preoperative CBD 폐색이 의심되는 경우, IOC를 통해 보다 정확한 담관 내 상태 평가 및 필요한 추가 치료(예: bile duct flushing)를 할 수 있어 수술 결과 개선에 기여할 가능성이 크다. 다만, contrast제 사용 시 드물게 쇼크와 유사한 반응이 발생할 수 있으므로 주의가 필요하다. 이 연구는 후향적이며 술 후 장기 추적은 3개월로 제한되어 있어 장기 예후에 대한 해석에는 주의가 필요하다.",
       "limitations": [
-        "연구가 후향적이며, 무작위 대조군과의 비교가 이루어지지 않았다.",
-        "조영제 관련 부작용 및 세부 중재법에 관한 상세 기술이 부족하다.",
-        "단기(3개월) 추적 관찰만 포함되어 장기 임상 결과는 평가하지 못하였다.",
-        "초록만 제공되어 전체 본문에 기반한 추가 분석이 불가능하다."
+        "후향적 연구 설계이므로 일부 정보 부족 및 평가 편향 가능성 존재",
+        "대상 개의 수는 73마리로 비교적 제한적이며 단일 기관 데이터임",
+        "장기 추적 관찰 기간이 3개월로 제한적임",
+        "대조군 없이 IOC의 효과를 직접 비교 평가하지 못함",
+        "abstract만으로 상세한 술식 및 결과 분석 제한"
       ],
       "recommended": true,
-      "recommendation_reason": "본 연구는 임상 현장에서 흔히 접하는 담낭 양성 질환 반려견을 대상으로 한 후향적 사례 분석으로, 오픈 담낭절제술 중 IOC의 실질적인 유용성과 안전성 데이터를 제공하여 수술 계획과 합병증 관리에 직접 적용 가능한 정보를 제공한다.",
+      "recommendation_reason": "실제 임상에서 open cholecystectomy 받는 개에서 IOC를 이용하는 것이 CBD 및 hepatic duct 내 이상을 실시간으로 발견하고 수술 중 대응할 수 있게 하여 특히 preoperative CBD 폐색이 있는 개의 수술 결과를 개선할 근거가 있으므로 권장할 만하다.",
       "id": "doi:10.1111/vsu.70157",
       "discovered_at": "2026-09-16 01:13:31.967749+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42717636/",
-      "summary_generated_at": "2026-09-18 23:25:08.135914+00:00",
+      "summary_generated_at": "2026-10-16 23:36:09.900578+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1051,7 +1196,7 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42710541/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "The study describes a combined electrochemotherapy and IL-12 gene electrotransfer treatment applied directly to veterinary cancer patients (dogs), showing local control and systemic antitumor effects relevant for clinical oncology.",
+      "relevance_reason": "이 연구는 개 환자에서 electrochemotherapy(ECT)와 interleukin-12(IL-12) gene electrotransfer의 병합 치료가 국소 종양 제어뿐만 아니라 전신 항종양 반응을 유도하여 임상적 생존 기간 연장과 미처리 종양 및 전이 병변의 퇴축에 긍정적 영향을 미쳤음을 보고하였기 때문에 임상에 직접 적용 가능한 중요한 증거로 판단됩니다.",
       "primary_category": "oncology",
       "tags": [
         "internal_medicine",
@@ -1060,50 +1205,42 @@
       "species": [
         "dog"
       ],
-      "disease_or_topic": "Electrochemotherapy combined with IL-12 gene electrotransfer for cancer in dogs",
+      "disease_or_topic": "Electrochemotherapy combined with IL-12 gene electrotransfer in canine tumors",
       "study_design": "other",
       "sample_size": null,
       "sample_size_quote": null,
-      "objective": "To evaluate the combined use of electrochemotherapy and IL-12 gene electrotransfer in naturally occurring tumors in dogs to achieve both local tumor control and systemic antitumor immune responses.",
-      "study_methods": "The approach combined electrochemotherapy (ECT), a local tumor ablation technique, with systemic immunomodulation via IL-12 gene electrotransfer, both using electroporation technology. This combined modality was applied to various tumor types in canine patients within veterinary oncology clinical settings. Clinical outcomes and immune responses were measured including local tumor control, distant tumor regression, survival, and peripheral blood CD8+ lymphocyte levels.",
-      "one_sentence_summary": "본 연구는 개 환자에서 다양한 종양 유형에 대해 전기화학요법(ECT)과 IL-12 유전자 전기전달을 결합한 치료법을 적용하여 우수한 국소 종양 억제 뿐만 아니라 전신 항종양 효과를 확인하였다. 치료 세션 후 말초혈액에서 CD8+ 세포의 일시적 증가가 관찰되었으며, 이와 임상적으로 연관된 원격 종양 후퇴와 림프절 전이 감소, 생존기간 연장이 보고되었다. 이는 수의 임상 종양학 분야에서 자연발생 종양을 대상으로 한 전신 면역 활성화의 가능성을 시사한다.",
+      "objective": "개에서 전기화학요법과 interleukin-12 gene electrotransfer의 병합이 국소 종양 제어 및 전신 면역 반응에 미치는 영향을 평가하고, 이를 통해 치료 효과 확대 가능성을 모색하였다.",
+      "study_methods": "본 연구는 임상 현장에서 다양한 종양 유형을 가진 개 환자에게 electrochemotherapy와 IL-12 gene electrotransfer를 병합 적용했으며, 국소 종양의 제어력과 동시에 전신 면역 활성화의 임상적 및 면역학적 지표를 후향적으로 관찰했다. 주요 평가 지표는 국소 종양의 반응, 먼 거리 미처리 종양 및 림프절 전이의 변화를 포함하고, 주기적 치료 세션 후 말초혈액 CD8+ 세포의 변화도 면역학적 척도로 분석하였다.",
+      "one_sentence_summary": "개 환자에서 electrochemotherapy(ECT)와 IL-12 gene electrotransfer를 병합 적용한 연구로, 다양한 종양 유형에 대해 국소 종양의 우수한 제어 효과를 확인하였다. 또한, 미처리 종양과 림프절 전이의 퇴축 및 침습적 종양 성장 감소와 같은 전신적 치료 반응도 관찰되었다. 주기적 치료 세션 이후 CD8+ 세포의 일시적 증가가 말초혈액에서 발견되어 전신면역 활성화가 확인되었으며, 이는 치료 후 생존 기간 연장과 연관된 임상적 시사점을 가진다.",
       "key_results": [
         {
-          "result": "본 태크닉이 개에서 다양한 종양에 적용되어 우수한 국소 항종양 효과를 나타냈다.",
-          "evidence_quote": "In veterinary medicine, this combined approach has been successfully applied across various tumor types in dogs, demonstrating excellent local antitumor control"
-        },
-        {
-          "result": "전신 효과로 원격 처리되지 않은 종양과 림프절 전이의 퇴행이 임상적으로 관찰되었다.",
-          "evidence_quote": "clinically associated with prolonged survival, regression of distant untreated tumors and lymph node metastases"
-        },
-        {
-          "result": "종양의 침습성 성장 감소가 보고되었다.",
-          "evidence_quote": "reduced invasive tumor growth"
-        },
-        {
-          "result": "각 치료 세션 후 말초혈액에서 순환하는 CD8+ 세포가 일시적으로 증가하였다.",
-          "evidence_quote": "flow cytometry analysis of peripheral blood demonstrating transient increases in circulating CD8+ cells following each therapeutic session"
-        },
-        {
-          "result": "ECT 단독은 국소 종양 조절에 뛰어나나 미처리 혹은 전이성 질환 조절에는 한계가 있다.",
+          "result": "Electrochemotherapy 단독 치료는 국소 종양을 효과적으로 제거하나, 종종 비치료 부위나 전이성 병변은 제어하지 못한다.",
           "evidence_quote": "Current evidence indicates that ECT achieves excellent local ablative control of treated tumors; however, its principal limitation is that ECT does not reliably control untreated or metastatic disease."
+        },
+        {
+          "result": "치료 세션 이후 말초혈액 내 순환하는 CD8+ 세포 수가 일시적으로 증가하여 전신 면역 활성화가 면역학적으로 확인되었다.",
+          "evidence_quote": "Immunological studies are also consistent with systemic immune activation, with flow cytometry analysis of peripheral blood demonstrating transient increases in circulating CD8+ cells following each therapeutic session."
+        },
+        {
+          "result": "현재 적절한 환자 선별을 위해 적용 가능한 바이오마커 탐색 연구가 추가로 필요함이 제안되었다.",
+          "evidence_quote": "Further studies are needed to find the suitable biomarkers for selecting the appropriate patients for the selected treatments."
         }
       ],
-      "authors_conclusion": "본 연구는 개의 자연 발생 종양에서 전기화학요법과 IL-12 유전자 전기전달의 병합 요법이 우수한 국소 조절과 함께 잠재적인 전신 면역 반응을 유도할 수 있음을 제시한다. 그러나 적합한 환자 선별을 위한 생체표지자 탐색 등 추가 연구가 필요하다.",
-      "clinical_takeaway": "이 연구는 개에서 전기화학요법(ECT) 단독의 국소 조절 한계를 보완하고 전신적 항종양 면역반응을 유도할 수 있는 IL-12 유전자 전기전달과의 병합요법 가능성을 보여준다. 치료 후 CD8+ 세포 증가 및 원격 종양 퇴행이 관찰되어 면역매개 효과가 시사된다. 따라서, 항암 면역반응 증진을 위해 자연 발생 종양 환자에 대한 전기기반 병합 치료가 고려될 수 있으나, 적합 대상 환자 선정을 위한 추가 연구와 생체표지자 동반이 필수적이다. 기존 ECT 단독 치료를 보완하려는 수의 임상 종양학에 참고할 만하다.",
+      "authors_conclusion": "Electrochemotherapy와 IL-12 gene electrotransfer의 병합은 개 종양 환자에서 뛰어난 국소 종양 제어뿐 아니라 전신 면역 반응을 유도하여 생존 기간 연장과 미처리 종양의 퇴축을 가능케 하였으나, 환자 선별을 위한 적절한 바이오마커 발굴이 추가 연구로 필요하다.",
+      "clinical_takeaway": "Electrochemotherapy 단독 치료는 국소 종양 억제에는 효과적이나, 전신적인 전이종양의 제어에 한계가 있습니다. 개 환자에서 IL-12 gene electrotransfer를 병합함으로써, 국소 치료 효과뿐 아니라 전신적인 면역 활성화 및 원격 종양 퇴축 반응이 관찰되어 생존 기간 연장의 가능성을 시사합니다. 본 연구는 다양한 종양 종류에 적용 가능하며 치료 후 CD8+ 세포 증가가 면역 반응의 지표가 될 수 있음을 보여줍니다. 하지만 환자 맞춤형 치료 적용을 위해 적절한 바이오마커의 추가 발굴과 전향적 임상 연구가 필요하며, 현재는 예비적 증거로 간주해야 합니다.",
       "limitations": [
-        "초록에 근거한 보고로 전임상 설계, 무작위 배정, 대조군 유무, 정확한 샘플 수 등이 명시되지 않아 연구의 정밀 평가가 어렵다.",
-        "생체표지자 후보 탐색과 적합 환자 선별에 관한 추가 연구 필요성을 저자들이 지적하였다.",
-        "결과들은 다양한 종양 유형에 걸쳐 있으나 개별 종양별 효과 분석은 제공되지 않았다.",
-        "임상 결과가 주로 관찰 연구 수준이므로 인과관계 확정에 한계가 있다."
+        "후향적 관찰 연구로 환자 수 및 세부 임상 정보가 명확히 보고되지 않음",
+        "바이오마커 선별 및 환자 적합성 평가에 관한 추가 연구 필요성",
+        "전신 효과의 기전과 지속 기간에 대한 명확한 분석 부재",
+        "초록에 한정된 근거로 상세한 연구 설계 및 통계 분석 정보 미포함"
       ],
       "recommended": true,
-      "recommendation_reason": "개에서 자연 발생 종양에 대한 직접 임상 적용 사례이며, 기존 ECT 치료 한계를 보완하는 병합 면역치료법의 가능성을 제시하여 수의 임상에서 활용 가치가 높다.",
+      "recommendation_reason": "개 임상 종양 환자에서 electrochemotherapy와 IL-12 gene electrotransfer 병합 치료가 국소 제어와 전신 면역 반응을 유도함으로서 임상적 생존 연장과 종양 전이 감소 가능성을 제시하여 임상 적용 가치가 높다고 판단됨.",
       "id": "doi:10.2460/javma.26.06.0510",
       "discovered_at": "2026-09-16 01:13:31.968749+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42710541/",
-      "summary_generated_at": "2026-09-18 23:26:33.858399+00:00",
+      "summary_generated_at": "2026-10-16 23:36:35.294125+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1308,84 +1445,6 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
       "summary_generated_at": "2026-09-20 23:28:01.670256+00:00",
-      "analysis_model": "gpt-4.1-mini"
-    },
-    {
-      "title": "Myoclonus as a neurologic manifestation of hypoglycemia in dogs.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "journal_id": "jvim",
-      "publication_date": "2026-09-01",
-      "online_publication_date": null,
-      "publication_date_raw": "2026-Sep-01",
-      "doi": "10.1093/jvimsj/aalag252",
-      "pmid": "42867939",
-      "pmcid": "PMC13660468",
-      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag252",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867939/",
-      "source": "pubmed",
-      "clinical_relevance": "direct",
-      "relevance_reason": "이 연구는 hypoglycemia로 인해 myoclonus가 발생한 개 10마리를 대상으로 하였으며, 진단, 치료 및 예후를 직접 평가하여 임상에 직접적인 관련이 있습니다.",
-      "primary_category": "internal_medicine",
-      "tags": [
-        "internal_medicine",
-        "neurology"
-      ],
-      "species": [
-        "dog"
-      ],
-      "disease_or_topic": "hypoglycemia-associated myoclonus in dogs",
-      "study_design": "retrospective",
-      "sample_size": 10,
-      "sample_size_quote": "Ten dogs presenting myoclonus and concurrent hypoglycemia.",
-      "objective": "개에서 hypoglycemia와 관련된 myoclonus를 설명하고, 진단 결과, 치료 방법 및 결과를 보고하는 것.",
-      "study_methods": "여러 기관에서 hypoglycemia와 관련된 myoclonus를 보인 10마리의 개 의무 기록을 후향적으로 검토하였다. Neurological examination, 혈당 측정, 원인 평가와 함께 치료 방법(의학적 치료 및 외과적 절제술)과 임상 경과를 기록하였다.",
-      "one_sentence_summary": "10마리의 hypoglycemia와 concurrent myoclonus가 있는 개를 대상으로 후향적 다기관 연구를 진행하였다. 이 중 9마리가 insulinoma와 연관되어 있었고, 5마리는 의학적 치료만, 3마리는 의학적 및 외과적 치료를 병행하였다. 치료 후 단기적으로 myoclonus 빈도가 개선되었으나, 4마리는 hypoglycemia 및 myoclonus가 재발하여 안락사되었다. 이 연구는 개에서 hypoglycemia에 의한 myoclonus가 임상적으로 간과될 수 있음을 시사한다.",
-      "key_results": [
-        {
-          "result": "모든 개에서 myoclonus가 관찰되었으며, 5/10 (50%)에서는 신경학적 이상 소견이 있었다.",
-          "evidence_quote": "All dogs presented with myoclonus. Neurological examination was abnormal in 5/10 (50%)."
-        },
-        {
-          "result": "myoclonus는 8/10 (80%)에서 generalized 형태였고, 2/10 (20%)는 국소적(두부)으로 관찰되었으며, 5/10 (50%)에서는 generalized tonic-clonic epileptic seizures로 진행되었다.",
-          "evidence_quote": "Myoclonus was generalized in 8/10 (80%) dogs and focal (head) in 2/10 (20%), with progression to generalized tonic-clonic epileptic seizures in 5/10 (50%)."
-        },
-        {
-          "result": "모든 개에서 hypoglycemia(<3.3 mmol/L)가 myoclonus 에피소드 동안 확인되었으며, 혈당 중앙값은 2.07 mmol/L이었다.",
-          "evidence_quote": "Hypoglycemia (<3.3 mmol/L) was observed in all dogs (median, 2.07 mmol/L) during the myoclonic episodes."
-        },
-        {
-          "result": "9/10 (90%) 개에서 insulinoma가 의심, 추정 또는 확진되었고, 1마리는 인위적 hypoglycemia가 원인이었다.",
-          "evidence_quote": "Insulinoma was a suspected (n = 1), presumptive (n = 5), or definitive (n = 3) diagnosis in 9/10 (90%) dogs. One dog (10%) developed iatrogenic hypoglycemia"
-        },
-        {
-          "result": "인슐리노마 개 중 5/9 (56%)는 의학적 치료만 받았고, 3/9 (33%)는 의학적·외과적 치료를 병행했으며, 1/9 (11%)는 치료 받지 않았다.",
-          "evidence_quote": "Among dogs with suspected, presumptive or confirmed insulinoma, 5/9 (56%) received medical treatment alone, 3/9 (33%) combined medical and surgical treatment, and 1/9 (11%) was not treated."
-        },
-        {
-          "result": "의학적 치료는 prednisolone, diazoxide, 치료용 식이가 포함되었고, 외과적 치료는 췌장 종양 절제술이었다.",
-          "evidence_quote": "Medical treatment included, prednisolone (n = 6), diazoxide (n = 3) and therapeutic diet (n = 6). Surgical treatment consisted of pancreatic mass resection."
-        },
-        {
-          "result": "의학적 또는 외과적 치료 후 모든 개에서 myoclonus 빈도가 단기적으로 개선되었으나, 4마리는 hypoglycemia 및 myoclonus 재발로 인해 안락사되었다.",
-          "evidence_quote": "Medical or surgical treatment resulted in short-term improvement in myoclonus frequency in all dogs, however, four were later euthanized due to recurrence of hypoglycemia and myoclonus."
-        }
-      ],
-      "authors_conclusion": "Myoclonus는 개에서 hypoglycemia의 신경학적 증상으로 과소평가될 수 있으며, 혈당 측정은 hypoglycemia 관련 myoclonus 진단에 필수적이다. 치료는 임상적 호전을 가져올 수 있으나, 예후는 근본 원인에 달려 있다.",
-      "clinical_takeaway": "개에서 myoclonus가 관찰될 때 혈당 검사로 hypoglycemia 여부를 반드시 확인해야 하며, 특히 insulinoma가 원인일 가능성이 높다. 치료 방법에는 prednisolone, diazoxide, 식이요법과 췌장 종양 절제가 포함될 수 있으며, 단기적으로 myoclonus가 호전될 수 있지만 재발 위험과 치료 실패 가능성도 높다. 따라서 이 결과는 hypoglycemia 관련 myoclonus를 새롭게 인지하고 근본 원인에 따른 적절한 개별화된 치료 계획 수립의 중요성을 시사한다. 다만, 후향적 연구로 제한되므로 예후 예측이나 치료 비교의 강한 근거로 확대해석하기에는 신중해야 한다.",
-      "limitations": [
-        "후향적 연구 설계로 인과관계 확립에 제한이 있다.",
-        "표본 크기가 10마리로 상대적으로 작다.",
-        "치료 방법과 예후에 대한 장기 추적 결과가 제한적이다.",
-        "다기관 데이터이지만 세부 치료 프로토콜 및 추적 평가 방법에 일관성 결여 가능성이 있다.",
-        "abstract-only evidence로 상세한 방법과 통계분석 내용이 부족하다."
-      ],
-      "recommended": true,
-      "recommendation_reason": "이 연구는 임상 현장에서 myoclonus를 보이는 개에서 hypoglycemia를 의심하도록 하는 중요한 임상적 지표를 제공하며, 혈당 측정의 중요성과 치료에 따른 단기 호전 가능성을 구체적으로 서술한 점에서 직접적인 임상 적용 가치가 큽니다.",
-      "id": "doi:10.1093/jvimsj/aalag252",
-      "discovered_at": "2026-10-14 08:47:32.180085+00:00",
-      "evidence_source": "abstract",
-      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42867939/",
-      "summary_generated_at": "2026-10-14 23:38:07.290439+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1609,6 +1668,78 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42680555/",
       "summary_generated_at": "2026-09-22 23:25:57.414392+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Atypical radiographic changes seen in dogs treated with bedinvetmab (Librela).",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-31",
+      "online_publication_date": "2026-08-31",
+      "publication_date_raw": "2026-Aug-31",
+      "doi": "10.2460/javma.26.05.0379",
+      "pmid": "42673999",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.05.0379",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42673999/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 bedinvetmab (Librela)로 치료받은 개들에서 발생하는 이상한 임상 및 방사선학적 골격계 변화를 기술하였으며, 실제 임상에서 이 약물 사용 시 진단 및 관리에 직접적인 영향을 미치는 근거를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "adverse musculoskeletal events following bedinvetmab treatment",
+      "study_design": "retrospective",
+      "sample_size": 319,
+      "sample_size_quote": "During the study period (November 2020 through December 2025), 319 cases were considered as potential cases of adverse musculoskeletal events.",
+      "objective": "bedinvetmab (Librela)로 치료받은 개에서 발생하는 부작용인 임상적 및 방사선학적 골격계 이상 소견을 기술하고자 하였다.",
+      "study_methods": "Zoetis Global Pharmacovigilance 데이터베이스에서 bedinvetmab 치료 개에서 보고된 골격계 부작용 사례를 수집하였다. 사례는 의학 정보 및 방사선 사진 또는 방사선 보고서가 충분히 포함된 것만 선정하였다. 선정된 사례들은 자료 부족, 일반적 골관절염 진행, 다른 정형외과 질환 일치, 비정형 소견으로 분류되었으며, 비정형 소견은 추가 감사를 통해 방사선 변화 유형에 따라 세분화되었다.",
+      "one_sentence_summary": "bedinvetmab (Librela) 치료 중 발생한 골격계 부작용 사례 319건을 Zoetis Global Pharmacovigilance 데이터베이스에서 후향적으로 분석했다. 이 중 186건은 비정형 방사선 소견을 보였으며, 가장 흔한 변화는 주변 관절 뼈 재형성이었다. 주로 팔꿈치와 발목 관절이 영향을 받았고, 증상은 단측 또는 양측, 진행형이며 서로 다른 관절에도 영향을 미쳤다. NSAIDs 병용은 118마리(63%)에서, 오프라벨 사용은 46마리(25%)에서 보고되었다.",
+      "key_results": [
+        {
+          "result": "186건의 사례에서 비정형 방사선 소견이 관찰되었다.",
+          "evidence_quote": "Review of these cases found 186 that had atypical radiographic findings."
+        },
+        {
+          "result": "가장 흔한 변화는 비정상적인 periarticular bone remodeling이었다.",
+          "evidence_quote": "Abnormal periarticular bone remodeling was the most common change noted"
+        },
+        {
+          "result": "가장 흔히 팔꿈치 관절과 발목(tarsus) 관절이 영향을 받았다.",
+          "evidence_quote": "Most commonly, the elbow or tarsus joint was involved."
+        },
+        {
+          "result": "변화는 단측 또는 양측에서 나타나며 진행성이고 한 마리 개에서 서로 다른 관절에도 영향을 줄 수 있다.",
+          "evidence_quote": "Changes occurred unilaterally or bilaterally and could be progressive and affect different joints in the same dog."
+        },
+        {
+          "result": "NSAIDs가 동시 투여된 사례는 118마리(63%)였다.",
+          "evidence_quote": "Concurrent administration of NSAIDs was reported in 118 dogs (63%"
+        },
+        {
+          "result": "bedinvetmab의 오프라벨 사용은 46마리(25%)에서 보고되었다.",
+          "evidence_quote": "off-label use of bedinvetmab was reported in 46 dogs (25%"
+        }
+      ],
+      "authors_conclusion": "본 연구는 bedinvetmab 치료 후 개에서 관찰되는 임상적 및 방사선학적 특징을 기술한다. 이 약물 투여 시 독특한 골격계 소견이 나타날 수 있음을 제시한다.",
+      "clinical_takeaway": "bedinvetmab으로 치료받는 개에서는 골관절염이나 기존의 정형외과 질환과 구분되는 독특한 임상 및 방사선학적 소견을 보일 수 있다. 특히 주변 관절의 비정상적인 뼈 재형성, 팔꿈치나 발목 관절에서의 변화가 흔하며 이러한 변화가 한쪽 혹은 양쪽 관절에서 진행성으로 나타나는 점에 유의해야 한다. NSAIDs 동시 투여나 오프라벨 사용 여부도 환자의 임상 양상에 영향을 줄 수 있으므로 치료 중 발생하는 이상 증세 해석에 고려해야 한다. 그러나 본 연구가 후향적 데이터베이스 분석이라는 점과 구체적 치료 결과 및 기전 분석이 부족한 한계로 인해, 개인별 임상 적용 시에는 주의가 필요하다.",
+      "limitations": [
+        "후향적 데이터 수집으로 인한 정보의 제한과 편향 가능성",
+        "구체적인 임상 경과 및 치료 중단 후 변화에 대한 추적 정보 부족",
+        "동시 투여 약물 및 오프라벨 사용에 따른 혼란 변수 조정 미흡",
+        "abstract only로 전체 연구방법 세부 사항 및 결과 미보고"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.05.0379",
+      "discovered_at": "2026-09-16 01:13:36.180413+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42673999/",
+      "summary_generated_at": "2026-10-16 23:37:01.905901+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2220,6 +2351,84 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42420192/",
       "summary_generated_at": "2026-10-08 23:29:01.634457+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Myoclonus as a neurologic manifestation of hypoglycemia in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-01-01",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag252",
+      "pmid": "42867939",
+      "pmcid": "PMC13660468",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag252",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867939/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 hypoglycemia로 인해 myoclonus가 발생한 개 10마리를 대상으로 하였으며, 진단, 치료 및 예후를 직접 평가하여 임상에 직접적인 관련이 있습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "hypoglycemia-associated myoclonus in dogs",
+      "study_design": "retrospective",
+      "sample_size": 10,
+      "sample_size_quote": "Ten dogs presenting myoclonus and concurrent hypoglycemia.",
+      "objective": "개에서 hypoglycemia와 관련된 myoclonus를 설명하고, 진단 결과, 치료 방법 및 결과를 보고하는 것.",
+      "study_methods": "여러 기관에서 hypoglycemia와 관련된 myoclonus를 보인 10마리의 개 의무 기록을 후향적으로 검토하였다. Neurological examination, 혈당 측정, 원인 평가와 함께 치료 방법(의학적 치료 및 외과적 절제술)과 임상 경과를 기록하였다.",
+      "one_sentence_summary": "10마리의 hypoglycemia와 concurrent myoclonus가 있는 개를 대상으로 후향적 다기관 연구를 진행하였다. 이 중 9마리가 insulinoma와 연관되어 있었고, 5마리는 의학적 치료만, 3마리는 의학적 및 외과적 치료를 병행하였다. 치료 후 단기적으로 myoclonus 빈도가 개선되었으나, 4마리는 hypoglycemia 및 myoclonus가 재발하여 안락사되었다. 이 연구는 개에서 hypoglycemia에 의한 myoclonus가 임상적으로 간과될 수 있음을 시사한다.",
+      "key_results": [
+        {
+          "result": "모든 개에서 myoclonus가 관찰되었으며, 5/10 (50%)에서는 신경학적 이상 소견이 있었다.",
+          "evidence_quote": "All dogs presented with myoclonus. Neurological examination was abnormal in 5/10 (50%)."
+        },
+        {
+          "result": "myoclonus는 8/10 (80%)에서 generalized 형태였고, 2/10 (20%)는 국소적(두부)으로 관찰되었으며, 5/10 (50%)에서는 generalized tonic-clonic epileptic seizures로 진행되었다.",
+          "evidence_quote": "Myoclonus was generalized in 8/10 (80%) dogs and focal (head) in 2/10 (20%), with progression to generalized tonic-clonic epileptic seizures in 5/10 (50%)."
+        },
+        {
+          "result": "모든 개에서 hypoglycemia(<3.3 mmol/L)가 myoclonus 에피소드 동안 확인되었으며, 혈당 중앙값은 2.07 mmol/L이었다.",
+          "evidence_quote": "Hypoglycemia (<3.3 mmol/L) was observed in all dogs (median, 2.07 mmol/L) during the myoclonic episodes."
+        },
+        {
+          "result": "9/10 (90%) 개에서 insulinoma가 의심, 추정 또는 확진되었고, 1마리는 인위적 hypoglycemia가 원인이었다.",
+          "evidence_quote": "Insulinoma was a suspected (n = 1), presumptive (n = 5), or definitive (n = 3) diagnosis in 9/10 (90%) dogs. One dog (10%) developed iatrogenic hypoglycemia"
+        },
+        {
+          "result": "인슐리노마 개 중 5/9 (56%)는 의학적 치료만 받았고, 3/9 (33%)는 의학적·외과적 치료를 병행했으며, 1/9 (11%)는 치료 받지 않았다.",
+          "evidence_quote": "Among dogs with suspected, presumptive or confirmed insulinoma, 5/9 (56%) received medical treatment alone, 3/9 (33%) combined medical and surgical treatment, and 1/9 (11%) was not treated."
+        },
+        {
+          "result": "의학적 치료는 prednisolone, diazoxide, 치료용 식이가 포함되었고, 외과적 치료는 췌장 종양 절제술이었다.",
+          "evidence_quote": "Medical treatment included, prednisolone (n = 6), diazoxide (n = 3) and therapeutic diet (n = 6). Surgical treatment consisted of pancreatic mass resection."
+        },
+        {
+          "result": "의학적 또는 외과적 치료 후 모든 개에서 myoclonus 빈도가 단기적으로 개선되었으나, 4마리는 hypoglycemia 및 myoclonus 재발로 인해 안락사되었다.",
+          "evidence_quote": "Medical or surgical treatment resulted in short-term improvement in myoclonus frequency in all dogs, however, four were later euthanized due to recurrence of hypoglycemia and myoclonus."
+        }
+      ],
+      "authors_conclusion": "Myoclonus는 개에서 hypoglycemia의 신경학적 증상으로 과소평가될 수 있으며, 혈당 측정은 hypoglycemia 관련 myoclonus 진단에 필수적이다. 치료는 임상적 호전을 가져올 수 있으나, 예후는 근본 원인에 달려 있다.",
+      "clinical_takeaway": "개에서 myoclonus가 관찰될 때 혈당 검사로 hypoglycemia 여부를 반드시 확인해야 하며, 특히 insulinoma가 원인일 가능성이 높다. 치료 방법에는 prednisolone, diazoxide, 식이요법과 췌장 종양 절제가 포함될 수 있으며, 단기적으로 myoclonus가 호전될 수 있지만 재발 위험과 치료 실패 가능성도 높다. 따라서 이 결과는 hypoglycemia 관련 myoclonus를 새롭게 인지하고 근본 원인에 따른 적절한 개별화된 치료 계획 수립의 중요성을 시사한다. 다만, 후향적 연구로 제한되므로 예후 예측이나 치료 비교의 강한 근거로 확대해석하기에는 신중해야 한다.",
+      "limitations": [
+        "후향적 연구 설계로 인과관계 확립에 제한이 있다.",
+        "표본 크기가 10마리로 상대적으로 작다.",
+        "치료 방법과 예후에 대한 장기 추적 결과가 제한적이다.",
+        "다기관 데이터이지만 세부 치료 프로토콜 및 추적 평가 방법에 일관성 결여 가능성이 있다.",
+        "abstract-only evidence로 상세한 방법과 통계분석 내용이 부족하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "이 연구는 임상 현장에서 myoclonus를 보이는 개에서 hypoglycemia를 의심하도록 하는 중요한 임상적 지표를 제공하며, 혈당 측정의 중요성과 치료에 따른 단기 호전 가능성을 구체적으로 서술한 점에서 직접적인 임상 적용 가치가 큽니다.",
+      "id": "doi:10.1093/jvimsj/aalag252",
+      "discovered_at": "2026-10-14 08:47:32.180085+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42867939/",
+      "summary_generated_at": "2026-10-14 23:38:07.290439+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -2227,19 +2436,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 481
+        "received": 483
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 419
+        "received": 461
       }
     },
-    "started_at": "2026-10-15T23:35:40.533933+00:00",
-    "since": "2026-08-31",
-    "processed": 1,
-    "refreshed": 4,
-    "failed": 10,
-    "deferred": 940,
-    "finished_at": "2026-10-15T23:38:05.352663+00:00"
+    "started_at": "2026-10-16T23:35:03.012290+00:00",
+    "since": "2026-09-01",
+    "processed": 3,
+    "refreshed": 2,
+    "failed": 8,
+    "deferred": 944,
+    "finished_at": "2026-10-16T23:37:11.404588+00:00"
   }
 }
