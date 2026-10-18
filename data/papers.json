@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T23:37:11.489147+00:00",
-  "last_successful_collection": "2026-10-16T23:35:03.012243Z",
+  "generated_at": "2026-10-18T01:03:01.274003+00:00",
+  "last_successful_collection": "2026-10-18T01:01:09.865225Z",
   "mode": "live",
   "papers": [
     {
@@ -1384,7 +1384,7 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 3세 미만의 반려견에서 원인 불명의 만성 신질환(juvenile-onset chronic kidney disease, CKD)의 임상 양상과 예후를 후향적으로 분석하여 직접적인 임상적 정보를 제공한다.",
+      "relevance_reason": "이 연구는 3세 미만의 반려견에서 발생하는 원인 불명의 juvenile-onset chronic kidney disease 환자들을 대상으로 임상 소견과 경과를 구체적으로 분석하여, 실제 임상 현장에서 질병의 진행 위험 인자와 예후 정보를 제공하기 때문에 임상 적용에 직접적 관련이 있습니다.",
       "primary_category": "internal_medicine",
       "tags": [
         "internal_medicine",
@@ -1393,58 +1393,59 @@
       "species": [
         "dog"
       ],
-      "disease_or_topic": "juvenile-onset chronic kidney disease in dogs",
+      "disease_or_topic": "juvenile-onset chronic kidney disease",
       "study_design": "retrospective",
       "sample_size": 36,
       "sample_size_quote": "This retrospective study included 36 client-owned dogs under 3 years of age with chronic kidney disease.",
-      "objective": "반려견의 원인 불명의 어린 나이 만성 신질환의 임상 소견과 예후를 기술한다.",
-      "study_methods": "후향적 연구로, 3세 미만 만성 신질환 진단 반려견 36마리의 신호 인자 및 임상병리 소견을 기술하였다. 28마리를 대상으로 CKD 진행 및 사망까지의 경과를 장기 추적 분석했으며, 혈청 크레아티닌 농도가 25% 이상 증가한 경우를 CKD 진행으로 정의해 Cox 비례 위험 모델로 위험을 평가했다.",
-      "one_sentence_summary": "본 연구는 3세 미만 반려견 36마리를 대상으로 원인 불명 어린이 만성 신질환의 임상 및 예후를 후향적으로 분석하였다. 이 중 28마리의 장기 추적에서 CKD 진행 위험과 생존기간을 평가하였으며, 저자들은 혈청 총칼슘 농도가 CKD 진행 위험 인자로 작용함을 발견했다. CKD 3기 개체는 모두 4기로 진행하였으며, 중앙 생존기간은 1461일이었다.",
+      "objective": "3세 미만 반려견에서 원인 불명의 juvenile-onset chronic kidney disease의 임상 양상과 경과를 기술하고, 질병 진행 시간 및 사망과의 연관 요인을 분석하기 위함이다.",
+      "study_methods": "2010년부터 2023년까지 3세 미만 client-owned dog 36마리를 후향적으로 선정하였다. IRIS 지침에 따른 chronic kidney disease (CKD) 단계를 분류하고, 신호 및 임상병리 결과를 서술하였다. 총 28마리를 대상으로 CKD 진행(혈청 크레아티닌 25% 이상 증가)과 사망까지의 장기 추적을 하였으며, Cox proportional hazard model로 진행 위험인자를 평가했다.",
+      "one_sentence_summary": "3세 미만의 원인 불명 juvenile-onset chronic kidney disease 진단을 받은 36마리 반려견을 대상으로 후향적 분석을 실시했다. IRIS 기준으로 7마리는 CKD stage 1, 17마리는 stage 2, 8마리는 stage 3, 4마리는 stage 4였다. 단백뇨가 35%에서 관찰되었고, 혈압 160mmHg 이상인 증례는 없었다. 총 칼슘 농도가 CKD 진행 위험 인자로 확인되었으며, stage 3 환자는 모두 stage 4로 진행했다. 중앙 생존기간은 1461일이었다.",
       "key_results": [
         {
-          "result": "가장 흔한 품종은 래브라도 리트리버와 셰틀랜드 쉽독으로 각각 5마리였다.",
+          "result": "Labrador retrievers와 Shetland sheepdogs가 각각 5마리로 가장 흔한 품종이었다.",
           "evidence_quote": "The most common breeds were Labrador retrievers and Shetland sheepdogs (n = 5, respectively)."
         },
         {
-          "result": "CKD 단계별 분포는 1기 7마리, 2기 17마리, 3기 8마리, 4기 4마리였다.",
-          "evidence_quote": "Seven dogs were classified as chronic kidney disease stage 1, 17 as stage 2, eight as stage 3 and four as stage 4"
+          "result": "CKD stage 1은 7마리, stage 2는 17마리, stage 3은 8마리, stage 4는 4마리로 분류되었다.",
+          "evidence_quote": "Seven dogs were classified as chronic kidney disease stage 1, 17 as stage 2, eight as stage 3 and four as stage 4 according to International Renal Interest Society guidelines."
         },
         {
-          "result": "단백뇨(urine protein:creatinine ratio ≥ 0.5) 유병률은 35%였다.",
+          "result": "단백뇨(urine protein:creatinine ratio ≥ 0.5)의 유병률은 35%였다.",
           "evidence_quote": "The prevalence of proteinuria (urine protein:creatinine ratio ≥ 0.5) was 35%."
         },
         {
-          "result": "어떤 개도 간접 수축기 혈압이 160 mmHg 이상인 경우는 없었다.",
+          "result": "혈압이 160 mmHg 이상인 반려견은 한 마리도 없었다.",
           "evidence_quote": "None of the dogs had an indirect systolic blood pressure ≥ 160 mmHg."
         },
         {
-          "result": "발현 시 혈청 총칼슘 농도는 CKD 진행 위험과 양의 상관관계가 있었고, 위험비는 2.24였다.",
+          "result": "혈청 total calcium 농도가 높은 것이 CKD 진행 위험 증가와 관련되었다(hazard ratio 2.24, P = .03).",
           "evidence_quote": "Serum total calcium concentration at presentation was positively associated with the risk for chronic kidney disease progression (hazard ratio, 2.24; 95% confidence interval, 1.11 to 4.53; P = .03)."
         },
         {
-          "result": "CKD 3기인 모든 개체는 4기로 진행하였다.",
+          "result": "CKD stage 3 환자들은 모두 stage 4로 진행했다.",
           "evidence_quote": "All dogs with chronic kidney disease stage 3 experienced progression to stage 4."
         },
         {
-          "result": "전체 중앙 생존기간은 1461일이었다.",
+          "result": "전체 중앙 생존기간은 1461일이었다(95% CI: 530 to 2620 days).",
           "evidence_quote": "Overall, the median survival time (95% confidence interval) was 1461 days (530 to 2620 days)."
         }
       ],
-      "authors_conclusion": "어린 나이에 발병한 반려견의 원인 불명의 만성 신질환은 여러 품종에서 진단되었고, 고혈압 유병률은 이전 연구보다 낮았다. 혈청 총칼슘 농도가 질환 진행 위험과 연관되어 있으며, 본 연구는 해당 질환의 특성과 예후에 대한 유용한 정보를 제공한다.",
-      "clinical_takeaway": "3세 미만 반려견에서 원인 불명 만성 신질환은 다양한 품종에서 관찰되며, 기존 연구보다 고혈압 유병률은 낮았다. 혈청 총칼슘 농도가 상승할수록 CKD 진행 위험이 유의하게 증가하는 점은 조기 위험 인자 평가에 참고할 수 있다. 특히 CKD 3기인 경우 모두 4기로 진행하는 경과를 보이므로 적절한 모니터링과 조기 치료 전략이 중요할 수 있다. 그러나 후향적 연구라는 한계와 제한된 샘플 크기를 고려해 본 연구 결과를 해석해야 할 것이다.",
+      "authors_conclusion": "juvenile-onset chronic kidney disease가 다양한 개 품종에서 진단되며, 본 연구에서는 이전 보고보다 저혈압 빈도가 낮게 나타났다. 혈청 total calcium이 CKD 진행 위험인자로 확인되어, 이러한 임상 정보가 해당 질환의 특성 및 예후 이해에 도움을 준다.",
+      "clinical_takeaway": "3세 미만의 반려견에서 원인 불명의 juvenile-onset chronic kidney disease는 여러 품종에서 발생하며, 특징적으로 혈압이 크게 상승한 경우는 적다. 혈청 total calcium 농도가 높으면 CKD 진행 위험이 증가하므로 초기 진단 시 생화학 검사 결과를 주의 깊게 평가해야 한다. stage 3에서 4로의 진행이 뚜렷하므로 진단 후 단계별 모니터링과 적극적인 관리가 필요하다. 다만 후향적 연구로서 인과관계 해석에 제한이 있으므로 본 연구 결과를 참조하되, 임상별 개별 평가를 병행해야 한다.",
       "limitations": [
-        "후향적 연구 디자인으로 인과관계 해석에 제한이 있다.",
-        "표본 크기가 적고 특정 품종에 편중되어 결과 일반화에 제한이 있을 수 있다.",
-        "고혈압 유병률이 낮게 보고된 이유에 대해 명확한 설명이 부족하다.",
-        "전체 논문이 아닌 초록만 제공되어 상세한 데이터 및 방법론 확인이 어렵다."
+        "후향적 연구 설계로 인과 관계 규명에 제한이 있다.",
+        "견종 및 표본 수가 제한적이어서 모든 품종에 일반화하기 어렵다.",
+        "혈압, 단백뇨 등 일부 변수는 단편적 측정치만 측정되어 변화 추적이 불분명하다.",
+        "원인 불명의 CKD이라는 정의상 기저 질환 확인이 제한적이다.",
+        "초기 CKD 증상 미약으로 조기 진단 민감도가 낮을 수 있다."
       ],
       "recommended": true,
-      "recommendation_reason": "실제 임상에서 3세 미만 반려견의 CKD 진행 위험 평가 및 예후 예측에 직접적이며 구체적인 데이터를 제공하므로 유용하다.",
+      "recommendation_reason": "본 연구는 client-owned 반려견 36마리를 대상으로 juvenile-onset chronic kidney disease의 임상 소견, 진행 위험인자, 장기 생존기간 등을 구체적으로 분석해 임상 의사결정에 필요한 유용한 근거를 제공하므로 임상의가 참고하기에 가치가 높다.",
       "id": "doi:10.1111/jsap.70187",
       "discovered_at": "2026-09-16 01:13:31.974748+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
-      "summary_generated_at": "2026-09-20 23:28:01.670256+00:00",
+      "summary_generated_at": "2026-10-18 01:02:44.204580+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1946,9 +1947,9 @@
       "title": "Abnormal modified Insall-Salvati index values are associated with increased odds of medial meniscal tears in dogs with cranial cruciate ligament tears.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-08-12",
+      "publication_date": "2026-11-01",
       "online_publication_date": "2026-08-12",
-      "publication_date_raw": "2026-Aug-12",
+      "publication_date_raw": "2026-Nov-01",
       "doi": "10.2460/javma.26.03.0166",
       "pmid": "42590798",
       "pmcid": null,
@@ -2155,9 +2156,9 @@
       "title": "Ultrasonographic evaluation of the canine gracilis, semimembranosus, and semitendinosus muscles.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-08-05",
+      "publication_date": "2026-11-01",
       "online_publication_date": "2026-08-05",
-      "publication_date_raw": "2026-Aug-05",
+      "publication_date_raw": "2026-Nov-01",
       "doi": "10.2460/javma.26.05.0362",
       "pmid": "42556420",
       "pmcid": null,
@@ -2214,9 +2215,9 @@
       "title": "Is annual Dirofilaria immitis antigen testing at preventive renewal proportionate to the residual infection risk in documented-compliant dogs?",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-07-31",
+      "publication_date": "2026-11-01",
       "online_publication_date": "2026-07-31",
-      "publication_date_raw": "2026-Jul-31",
+      "publication_date_raw": "2026-Nov-01",
       "doi": "10.2460/javma.26.04.0293",
       "pmid": "42542127",
       "pmcid": null,
@@ -2436,19 +2437,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 483
+        "received": 472
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 461
+        "received": 462
       }
     },
-    "started_at": "2026-10-16T23:35:03.012290+00:00",
-    "since": "2026-09-01",
-    "processed": 3,
-    "refreshed": 2,
-    "failed": 8,
-    "deferred": 944,
-    "finished_at": "2026-10-16T23:37:11.404588+00:00"
+    "started_at": "2026-10-18T01:01:09.865280+00:00",
+    "since": "2026-09-03",
+    "processed": 0,
+    "refreshed": 1,
+    "failed": 11,
+    "deferred": 955,
+    "finished_at": "2026-10-18T01:03:01.180199+00:00"
   }
 }
