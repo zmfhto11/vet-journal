@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T01:03:01.274003+00:00",
-  "last_successful_collection": "2026-10-18T01:01:09.865225Z",
+  "generated_at": "2026-10-19T01:17:10.773841+00:00",
+  "last_successful_collection": "2026-10-19T01:14:43.373862Z",
   "mode": "live",
   "papers": [
     {
@@ -644,73 +644,68 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42753794/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 개의 비강내 종양에 대한 외과적 종양 절제술과 다전극을 이용한 전기화학요법(ECT)의 임상 결과를 다루며, 실제 임상 환자인 반려견을 대상으로 하는 직접적인 임상 연구이기 때문이다.",
+      "relevance_reason": "본 연구는 client-owned dogs에서 intranasal tumor에 대해 수술적 debulking과 electrochemotherapy (ECT)를 포함한 다전극 접근법의 임상적 유용성을 평가하는 후향적 관찰 연구입니다. 이는 방사선 치료가 불가능한 경우 대안적 치료 옵션을 제시한다는 점에서 임상적으로 직접 관련성이 높습니다.",
       "primary_category": "oncology",
       "tags": [
-        "internal_medicine",
         "oncology",
         "surgery"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "Intranasal tumors in dogs",
+      "disease_or_topic": "intranasal tumors",
       "study_design": "retrospective",
       "sample_size": 12,
       "sample_size_quote": "12 dogs were included",
-      "objective": "개의 비강내 종양에서 수술적 종양 절제와 다전극을 포함한 전기화학요법의 실행 가능성과 예비 임상 결과 평가",
-      "study_methods": "2017년부터 2024년까지 수의 종양 전문 센터에서 비강내 종양을 가진 반려견 12마리를 후향적으로 조사하였다. 대상은 최소 1회 수술적 절제술과 수술 중 다전극 방식을 사용한 블레오마이신 기반 전기화학요법을 시행받았으며, 최소 2개월 이상의 추적 관찰이 이루어진 개체였다. 임상 반응, 영상학적 진행, 재치료 비율, 무진행 생존기간, 전반 생존기간 및 부작용이 평가되었다.",
-      "one_sentence_summary": "본 연구는 2017년부터 2024년까지 비강내 종양을 가진 12마리의 반려견을 후향적으로 분석하였다. 모든 개에서 임상 반응이 관찰되었고, 75%에서 완전 임상 반응, 25%에서 부분 반응이 확인되었다. 83%가 고도 국소 병기였으며, 중간 무진행 기간은 492일, 중간 생존 기간은 694일이었다. 치료 관련 부작용은 흔했으나 대부분 경증에서 중등도였으며, 수술과 ECT 병합치료는 임상적 유익과 실행 가능성을 시사하였다.",
+      "objective": "intranasal tumor를 가진 개에서 tetrapolar single-needle electrode를 포함한 다전극 전기화학요법과 수술적 debulking의 가능성과 임상적 결과를 평가하기 위함이다.",
+      "study_methods": "2017년부터 2024년까지 수의 종양학 전문 센터에서 intranasal tumor로 진단받고 단일 이상의 수술과 수술 중 bleomycin 기반 electrochemotherapy(ECT)를 다전극 접근법과 함께 받은 client-owned 개 12마리를 후향적으로 관찰하였다. 최소 2개월 이상의 추적 관찰이 있었다. 임상적 반응, CT를 통한 종양 진행 및 부작용 등을 분석하였다.",
+      "one_sentence_summary": "intranasal tumor가 있는 12마리의 개를 대상으로 수술적 debulking과 bleomycin 기반의 다전극 ECT(테트라폴라(single-needle) 전극 포함)를 시행한 후, 75%에서 완전 임상 반응, 25%에서 부분 임상 반응이 관찰되었다. 67%는 임상 증상 지속 혹은 종양 진행으로 인해 재시술을 받았으며, 중앙 무진행 기간은 492일, 중앙 생존 기간은 694일이었다. 치료 관련 부작용은 흔하였으나 주로 경증~중등도였고, 50%는 부분 상처 벌어짐 등이 있었다.",
       "key_results": [
         {
-          "result": "임상 반응이 모든 개에서 관찰되었으며, 완전 임상 반응은 75%, 부분 임상 반응은 25%였다.",
+          "result": "모든 개에서 임상 반응이 있었으며 75%는 완전 임상 반응, 25%는 부분 임상 반응이었다.",
           "evidence_quote": "Clinical response was observed in all dogs, including complete clinical response in 75% and partial clinical response in 25%."
         },
         {
-          "result": "국소 병기 T3에서 T4가 83%로 고도 진행 국소 질환이 많았다.",
-          "evidence_quote": "most had advanced local disease (83% stages T3 to T4)."
-        },
-        {
-          "result": "컴퓨터단층촬영상 5마리 개체에서 국소 진행이 관찰되었다.",
+          "result": "5마리(42%)에서 CT로 국소 진행이 확인되었다.",
           "evidence_quote": "Local progression was documented by CT in 5 dogs (42%)."
         },
         {
-          "result": "지속적인 임상 증상 또는 종양 진행으로 67%의 개에서 재수술 또는 재치료가 시행되었다.",
+          "result": "67%의 개가 임상 증상 지속이나 종양 진행으로 인해 재시술을 받았다.",
           "evidence_quote": "Repeat procedures were performed in 67% of dogs because of persistent clinical signs or tumor progression."
         },
         {
-          "result": "중간 무진행 생존 기간은 492일이었다.",
+          "result": "중앙 무진행 기간은 492일이었다.",
           "evidence_quote": "The median progression-free interval was 492 days"
         },
         {
-          "result": "중간 생존 기간은 694일이었다.",
+          "result": "중앙 생존 기간은 694일이었다.",
           "evidence_quote": "the median survival time was 694 days."
         },
         {
-          "result": "치료 관련 부작용은 흔하게 발생하였으나 대부분 경증에서 중등도로 국한되었으며, 부분 상처 열개(50%), 딱지 형성(42%), 감염(25%), 구강비강루(25%)가 보고되었다.",
+          "result": "치료 관련 부작용은 빈번했으나 대부분 경증에서 중등도였으며, 50%는 부분 상처 벌어짐, 42%는 딱지 형성, 25%는 감염 및 oronasal fistula를 경험했다.",
           "evidence_quote": "Treatment-related adverse events were frequent but predominantly mild to moderate, including partial wound dehiscence (50%), crust formation (42%), infection (25%), and oronasal fistula (25%)."
         },
         {
-          "result": "시술과 관련된 사망은 보고되지 않았다.",
+          "result": "시술 관련 사망은 없었다.",
           "evidence_quote": "No procedure-related deaths occurred."
         }
       ],
-      "authors_conclusion": "수술적 종양 절제와 다전극 방식을 포함한 ECT의 병합 치료는 비강내 종양이 있는 개에서 실행 가능하며 임상적 혜택과 연관되어 있음이 확인되었다. 방사선 치료가 불가능한 경우 대안으로서 이 방법의 전향적 연구가 필요하다.",
-      "clinical_takeaway": "본 연구는 국소 진행된 비강내 종양이 있는 반려견에서 수술적 종양 절제와 전기화학요법(ECT) 병합 요법이 안정적으로 시행 가능하고 임상 반응을 유도하며 장기간 무진행 생존 및 생존 연장을 기대할 수 있음을 보여준다. 특히, 방사선 치료가 어려운 상황에서 적용 가능한 치료 옵션임을 시사한다. 다만 부작용 발생률이 비교적 높으나 대부분 경등도에 그쳐 관리 가능하며, 일부 개에서는 재치료가 필요함을 고려해야 한다. 후향적 단일 센터 소규모 연구이므로 결과 해석에 주의가 필요하며, 향후 전향적 연구를 통한 검증이 요구된다.",
+      "authors_conclusion": "수술적 debulking과 테트라폴라 single-needle 전극을 포함한 다전극 전기화학요법을 병합하는 치료는 intranasal tumor가 있는 개에서 시행 가능하며 임상적 이득과 관련이 있다. 따라서 이 접근법의 전향적 연구가 필요하다.",
+      "clinical_takeaway": "본 연구는 진행된 intranasal tumor를 가진 개에서 수술과 함께 bleomycin 기반의 다전극 ECT를 시행하는 치료법이 임상적 반응률이 높고 중앙 생존 기간 또한 유의미하다는 사실을 보여준다. 다만 50% 이상의 빈번한 부작용과 42%에서 국소 진행이 관찰되어 주의가 필요하며, 67%가 재시술을 받은 점은 지속적 모니터링과 추가 치료가 필요함을 시사한다. 방사선 치료가 불가한 경우 대안적 치료 선택지로 고려할 수 있으나, 후향적 연구라는 한계가 있어 신중한 임상 적용과 추가 전향적 연구가 요구된다.",
       "limitations": [
-        "후향적 연구 설계",
-        "소규모 대상자 수(12마리 개)",
-        "단일 기관 연구",
-        "추적 기간 최소 2개월로 제한적임",
-        "초록 정보 한정"
+        "후향적 연구 디자인으로 인과관계 확정에 한계가 있다.",
+        "표본 크기가 12마리로 비교적 적다.",
+        "단일 센터 결과로 일반화에 제약이 있을 수 있다.",
+        "추적 관찰 기간과 상세한 부작용 관리 정보가 제한적이다.",
+        "ABSTRACT only 자료로 전체 논문 상세 데이터 부족이 있다."
       ],
       "recommended": true,
-      "recommendation_reason": "직접적인 임상 증례를 바탕으로 한 연구이며, 실제 임상에서 방사선 치료가 제한적인 비강내 종양 개의 치료에 새로운 치료 방법으로서 가능성을 제시하기 때문에 추천함.",
+      "recommendation_reason": "내부기전과 임상 반응이 명확하고, 재현 가능성이 있으며, 방사선 치료가 불가능한 locally advanced intranasal tumor 개의 임상 치료 선택지로 현실적으로 적용 가능하여 유용한 임상 정보를 제공한다.",
       "id": "doi:10.2460/javma.26.05.0387",
       "discovered_at": "2026-09-18 07:49:44.989495+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42753794/",
-      "summary_generated_at": "2026-09-22 23:24:03.958619+00:00",
+      "summary_generated_at": "2026-10-19 01:15:21.589102+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1256,8 +1251,8 @@
       "publisher_url": "https://doi.org/10.1111/vco.70109",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42706634/",
       "source": "pubmed",
-      "clinical_relevance": "indirect",
-      "relevance_reason": "본 논문은 고양이 유선암에 대한 임상적 지식과 진단, 병기 설정, 치료 및 예후 평가에 관한 종설 논문으로 임상적 이해도를 높이지만, 구체적인 연구 데이터나 통계 결과를 제공하지 않아 직접적인 임상 적용보다는 개념적 이해에 도움을 줌.",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 논문은 고양이 유선암(feline mammary carcinomas)의 진단, 병기 설정, 치료 및 예후 평가에 관한 임상적 지식을 요약하며, 고양이 환자에서의 적용 가능성이 높은 임상적 자료를 제공하므로 직접적인 임상 관련성이 있습니다.",
       "primary_category": "oncology",
       "tags": [
         "oncology"
@@ -1265,31 +1260,34 @@
       "species": [
         "cat"
       ],
-      "disease_or_topic": "Feline Mammary Carcinomas",
+      "disease_or_topic": "Feline mammary carcinomas",
       "study_design": "other",
       "sample_size": null,
       "sample_size_quote": null,
-      "objective": "고양이 유선암의 진단, 병기 설정, 치료 및 예후 평가에 관한 최신 임상 지식 요약 및 향후 연구 방향 제시.",
-      "study_methods": "고양이 유선암에 관한 역학, 위험 요인, 진단 과정, 병기 설정, 치료 방법, 예후 평가에 대한 기존 문헌과 임상 지식을 종합적으로 검토하여 요약함.",
-      "one_sentence_summary": "고양이 유선암은 높은 악성 가능성과 조기 전이, 다양한 임상병리적 행동양식을 보여 치료와 예후 평가에 어려움이 있다. 이 논문은 고양이 유선암에 관한 역학, 위험 요인, 진단, 병기 결정, 치료, 예후 평가의 현재 임상 지식을 요약하며, 합의된 진단기준과 병리기록의 표준화가 필요함을 강조한다. 향후 다기관 전향적 연구를 통해 근거 기반의 위험도 적응 치료 경로 개발이 요구되고 있음을 제시한다.",
+      "objective": "고양이 유선암의 역학, 위험 요인, 진단, 병기 설정, 치료 및 예후 평가에 관한 현재 임상 지식을 종합적으로 검토하는 것입니다.",
+      "study_methods": "이 리뷰는 고양이 유선암 관련 문헌 검토로서, 다양한 연구 결과를 종합하여 임상적 합의점과 지속적인 논쟁점을 강조하고 있으며, 표준화된 병기 설정과 병리 보고를 통한 전향적 다기관 연구의 필요성을 언급합니다.",
+      "one_sentence_summary": "고양이 유선암은 높은 악성도와 조기 전이 가능성, 임상병리학적 이질성을 지녀 치료와 예후 평가에 어려움이 크다는 점을 밝히며, 이 리뷰는 역학, 위험인자, 진단, 병기, 치료법, 예후 평가에 관한 기존의 임상자료를 종합적으로 정리했습니다. 연구진은 이러한 질환의 치료 발전을 위해서는 표준화된 병기 및 병리 보고를 기반으로 한 전향적, 다기관 연구가 필요하다고 제안하였습니다.",
       "key_results": [
         {
-          "result": "고양이 유선암은 높은 악성 잠재력, 조기 전파, 임상병리 행동의 상당한 이질성을 보인다.",
+          "result": "고양이 유선암은 높은 악성 잠재력과 조기 전이성, 임상병리학적 이질성을 보이며 치료 및 예후 관리에 어려움이 크다.",
           "evidence_quote": "Feline mammary carcinomas remain a major therapeutic and prognostic challenge in veterinary oncology because they combine high malignant potential, early dissemination, and substantial heterogeneity in clinicopathologic behaviour."
         },
         {
-          "result": "고양이 유선암 관련 역학, 위험인자, 진단, 병기 설정, 치료, 예후 평가에 대해 현재 임상 지식이 요약되었다.",
+          "result": "현재 임상지식은 역학, 위험요인, 진단 작업, 병기 설정, 치료 및 예후 평가를 포함하며, 합의된 부분과 논쟁이 지속되는 분야를 모두 포함한다.",
           "evidence_quote": "This review summarizes current clinical knowledge on epidemiology, risk factors, diagnostic work-up, staging, treatment, and prognostic assessment of feline mammary carcinomas, highlighting areas of consensus and persistent controversies."
         },
         {
-          "result": "임상적 진보를 위해 다기관 전향적 연구 및 병리 보고의 표준화가 필요하다.",
+          "result": "고양이 유선암 치료 발전을 위해서는 조화된 병기 설정 및 병리 보고를 토대로 하는 전향적 다기관 연구가 필요하다.",
           "evidence_quote": "Progress in care will require prospective, multicentre studies built on harmonized staging and pathology reporting, enabling risk-adapted treatment pathways that are both evidence-based and clinically actionable."
         }
       ],
-      "authors_conclusion": "고양이 유선암은 임상적 치료와 예후 평가에 중요한 도전 과제로, 증거 기반임상 적용을 위해서는 다기관 전향적 연구와 표준화된 병기 및 병리 보고가 필수적이다.",
-      "clinical_takeaway": "본 종설 논문은 고양이 유선암이 높은 악성도와 조기 전이로 인해 예후 및 치료에서 어려움이 있음을 알린다. 따라서 임상수의사는 위험 요인과 병기 평가에 신중을 기할 필요가 있으며, 표준화된 진단 및 병리보고 체계 도입이 중요하다. 현재까지는 명확한 치료 프로토콜 보다는 개별 환자에 맞춘 증거 기반의 접근법 개발이 요구되는 시점으로 판단된다. 향후 다기관 연구 결과를 통해 임상 적용 가능한 위험도 기반 치료 전략이 정립될 것으로 기대된다.",
+      "authors_conclusion": "고양이 유선암은 높은 악성도와 조기 전이, 임상병리적 이질성으로 인해 치료와 예후 평가가 여전히 어려우며, 환자 맞춤형 치료를 위한 증거기반의 진단 및 병기 표준화와 다기관 전향적 연구가 필요하다고 결론지었습니다.",
+      "clinical_takeaway": "고양이 유선암 환자를 치료할 때 이 질환이 가진 고악성도와 조기 전이 가능성, 임상병리학적 이질성을 반드시 고려해야 합니다. 이는 진단 및 병기 평가가 신중히 이루어져야 하며, 현재 임상에서의 치료 결정에 불확실성을 야기합니다. 따라서 임상가는 가능한 표준화된 병기 및 병리 보고를 활용해 환자별 위험도를 평가하고, 향후 다기관 전향적 연구 결과를 참고하여 근거 기반의 맞춤형 치료 전략을 구축해야 할 필요가 있습니다. 단, 현재까지는 이 분야에서 확립된 치료 프로토콜이 부족하여 임상 적용에는 신중함이 요구됩니다.",
       "limitations": [
-        "abstract only"
+        "해당 논문은 리뷰 형식으로 전향적 연구 데이터가 아닌 기존 문헌을 종합하였다는 점",
+        "표준화된 병기 체계와 병리 보고 방식이 아직 확립 중인 상태임",
+        "구체적인 치료 방법에 관한 임상 시험이나 환자 수가 명확하지 않음",
+        "동일한 방법론이나 평가 기준을 가진 대규모 다기관 연구가 부재함"
       ],
       "recommended": false,
       "recommendation_reason": null,
@@ -1297,7 +1295,7 @@
       "discovered_at": "2026-09-16 01:13:31.969749+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42706634/",
-      "summary_generated_at": "2026-09-19 23:23:14.290696+00:00",
+      "summary_generated_at": "2026-10-19 01:15:53.569085+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1757,7 +1755,7 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617659/",
       "source": "pubmed",
       "clinical_relevance": "indirect",
-      "relevance_reason": "연구는 반려동물에서 나타나는 Carbapenem 내성 Enterobacterales(CRE)의 증가 추세와 관련 지식을 제공하나, 직접적인 임상 연구 결과나 치료 효과 데이터는 포함하지 않으며 역학과 감염 예방 중심의 개요임.",
+      "relevance_reason": "본 연구는 carbapenem-resistant Enterobacterales (CRE)의 반려동물에서의 출현과 인간 및 환경과의 다방향 전파를 다루고 있으나, 임상적 치료 결과나 구체적 환자 데이터는 보고하지 않습니다. 따라서 반려동물 임상 적용에 있어 간접적 참고자료로서의 가치가 높습니다.",
       "primary_category": "internal_medicine",
       "tags": [
         "infectious_disease",
@@ -1767,38 +1765,47 @@
         "dog",
         "cat"
       ],
-      "disease_or_topic": "Carbapenem-resistant Enterobacterales",
+      "disease_or_topic": "carbapenem-resistant Enterobacterales",
       "study_design": "other",
       "sample_size": null,
       "sample_size_quote": null,
-      "objective": "반려동물 내 Carbapenem 내성 Enterobacterales의 역학, 내성 기전, 진단, 치료 및 감염 예방 관행에 관한 종합적 개요 제공",
-      "study_methods": "미국 내 반려동물에서의 CRE 검출 동향과 발병 사례 및 CRE 교환 기록을 종합하였으며, CRE에 관한 지식 격차를 정리해 현황 파악 및 대응의 필요성을 강조함. 특정 연구군이나 경우 수는 명시하지 않음.",
-      "one_sentence_summary": "미국에서 탄탄한 임상 표집은 부족하나 반려견과 반려묘에서 CRE 검출이 최근 증가하고 있음을 보고하였다. CRE는 사람과 동물, 환경 사이에서 다방향으로 전파되며, 동물병원 내 발병 사례를 통해 동물 의료 환경에서 CRE가 전염 및 환경 내 잔존할 수 있음을 시사한다. 탄약제는 반려동물에 공식 승인된 약제가 아니나 비승인 방식으로 간헐 처방되며, CRE 관련 주요 지식 격차로는 실제 발생률, 내성 기전, 집락 형성 역학, 인수 위험 인자 등이 있다. 한 건강(One Health) 전략 하에 감시 및 대응이 요구됨을 강조하였다.",
+      "objective": "반려동물에서 등장하고 있는 carbapenem-resistant Enterobacterales (CRE)의 역학, 내성 기전, 진단, 치료 및 감염 예방과 관리에 대한 포괄적 개요 제공을 목표로 하였습니다.",
+      "study_methods": "해당 문헌은 CRE의 반려동물 내 출현 현황 및 관련 공중보건적 의미를 리뷰하는 개요 형태입니다. 연구는 CRE의 전파 경로, 임상 내성 기전, 진단 고려사항, 치료제 한계, 감염 예방 및 통제 실천사항을 종합적으로 기술합니다. 미국 내 반려동물에서 CRE 검출 현황과 의료기관 내 집단발병 사례, CRE와 사람 간 교환 사례 등을 포함한 정보를 다루고 있습니다.",
+      "one_sentence_summary": "Carbapenem-resistant Enterobacterales (CRE)는 다약제내성 세균으로서 반려동물에서 최근 증가 추세를 보이고 있으며, 미국 반려동물에서의 CRE 검출이 늘어나고 있다. CRE는 동물 의료기관 내 전파 및 환경 내 지속 가능성을 보여주고 있으며, 반려동물과 사람 간 교환이 확인되었다. 그러나 표본검사 및 보고 부족으로 실제 유병률, 내성 메커니즘, 집락화 동태 및 위험요인에 대한 정보는 부족한 상태이다. 본 연구는 CRE의 역학과 임상적 의미를 One Health 관점에서 전반적으로 요약하였다.",
       "key_results": [
         {
-          "result": "미국에서 반려동물내 CRE 검출이 최근 증가하였다.",
+          "result": "미국 반려동물에서 최근 CRE 검출이 증가하였다.",
           "evidence_quote": "In the US, CRE detections in companion animals have recently increased."
         },
         {
-          "result": "반려동물 내 CRE 유병률은 낮은 것으로 추정되나, 동물병원 내 발병 사례가 보고되어 CRE가 의료 환경 내에서 전염 및 잔존할 수 있음을 보여준다.",
-          "evidence_quote": "While prevalence of CRE in US companion animals is estimated to be low, outbreaks in veterinary hospitals demonstrate that CRE can be transmitted within animal healthcare settings, persist in the environment, and cause operational disruption."
+          "result": "미국 반려동물 내 CRE 유병률은 낮은 수준으로 추정된다.",
+          "evidence_quote": "While prevalence of CRE in US companion animals is estimated to be low,"
         },
         {
-          "result": "반려동물과 사람 간에 CRE 교환이 기록되어 있다.",
+          "result": "반려동물 의료기관 내 CRE 집단발병 사례가 보고되어 CRE가 의료 환경 내에서 전파되고 지속될 수 있음을 시사한다.",
+          "evidence_quote": "outbreaks in veterinary hospitals demonstrate that CRE can be transmitted within animal healthcare settings, persist in the environment, and cause operational disruption."
+        },
+        {
+          "result": "반려동물과 사람 간 CRE 교환 사례가 문서화되었다.",
           "evidence_quote": "Exchange of CRE between companion animals and people has been documented."
         },
         {
-          "result": "CRE와 관련된 지식 격차로는 정확한 유병률 추정, 내성 메커니즘 이해 부족, 집락화 역학 관련 제한된 데이터, 인수 위험 인자에 대한 정보 부족 등이 있다.",
-          "evidence_quote": "There are several important knowledge gaps about CRE in companion animals, including (1) uncertainties in true prevalence due to infrequent testing and underreporting; (2) lack of understanding of carbapenem resistance mechanisms because of inconsistent access to testing; (3) limited data on colonization dynamics; and (4) lack of information characterizing risk factors for acquisition."
+          "result": "CRE에 대한 정확한 역학적 이해를 가로막는 요인으로는 낮은 검사 빈도와 보고 부족, 내성 메커니즘에 대한 이해 부족, 집락화 동태 및 위험인자에 대한 정보 부족이 있다.",
+          "evidence_quote": "There are several important knowledge gaps about CRE in companion animals, including (1) uncertainties in true prevalence due to infrequent testing and underreporting; (2) lack of understanding of carbapenem resistance mechanisms because of inconsistent access to testing; (3) limited data on colonization dynamics; and (4) lack of information characterizing risk factors for acquisition"
+        },
+        {
+          "result": "CRE 감시 및 대응을 위해서는 One Health 차원의 협력적 접근이 필수적이다.",
+          "evidence_quote": "A coordinated One Health approach for surveillance and preparedness is essential to identify, prevent, and contain CRE."
         }
       ],
-      "authors_conclusion": "CRE는 반려동물에서 점차 출현하고 있으며, 환경 내 잔존과 의료 환경 내 전염 가능성 때문에 지속 관찰 및 감시, 감염 예방 관리 조치의 필요성이 대두된다. 이러한 맥락에서, CRE에 대한 종합적 이해와 One Health 관점의 대응 전략 마련이 필수적이다.",
-      "clinical_takeaway": "반려견과 반려묘에서 Carbapenem 내성 Enterobacterales(CRE)의 감염과 보균이 최근 늘어나고 있다는 점은, 임상 수의사에게 CRE 감시 및 감염 관리에 대한 경각심을 요구한다. 특히 CRE는 동물병원 환경에서 전염 및 잔존할 수 있어, 병원 내 감염 예방 조치 강화가 중요하다. 또한 사람-동물 간 CRE 교환 가능성은 공중보건 차원의 One Health 접근 필요성을 시사한다. 하지만 반려동물 내 CRE 유병률과 내성 기전에 대한 이해가 부족하고, 진단 검사가 일관되지 않아 정확한 진단과 치료 가이드라인 마련에 한계가 있다. 따라서 CRE 관련 추가 연구와 함께 감염 관리 체계 구축이 요구된다.",
+      "authors_conclusion": "반려동물에서 CRE의 증가는 하나의 건강(One Health) 위협으로 간주되며, 제한적인 검사와 정보 부족으로 인해 여러 이해관계자의 긴밀한 협력 하에 감시 및 관리 전략이 시급히 필요하다는 결론을 내리고 있습니다.",
+      "clinical_takeaway": "이 논문은 미국 내 반려견과 고양이에서 carbapenem-resistant Enterobacterales (CRE)의 검출 빈도가 최근 증가하고 있음을 보고하였습니다. CRE가 의료기관 내에서 집단발병을 일으키고, 반려동물과 사람 사이에 교환이 가능하다는 점은 반려동물 진료 시 다제내성균의 전파 가능성을 인지하고 감염 예방 및 통제 조치를 강화해야 함을 시사합니다. 그러나 현재까지 CRE의 정확한 유병률과 내성기전, 감염 위험인자에 관한 정보가 부족하여, 이를 극복하기 위한 One Health 차원의 전국적 감시 체계와 연구가 절실한 상황입니다. 따라서 임상가는 CRE에 대한 인식을 확대하고 항생제 사용을 신중하게 고려하는 한편, 감염 발생 시 적절한 신고와 방역 협력에 적극 참여해야 할 것입니다.",
       "limitations": [
-        "초록만 제공되어 상세 연구 설계, 대상군 및 수집된 데이터에 대한 정보가 부족함",
-        "직접적인 반려동물 임상 시험이나 치료 효과에 대한 정보가 포함되어 있지 않음",
-        "유병률 및 역학 데이터가 추정치 혹은 보고 사례에 기반하여 정확성에 한계가 있음",
-        "내성 기전과 감염 동태 등 주요 부분에 대한 과학적 증거가 부족함"
+        "단일 연구가 아닌 개요문헌으로, 구체적인 반려동물 개체의 임상 데이터나 전향적 연구결과를 포함하지 않습니다.",
+        "CRE의 임상적 치료 결과나 예후에 대해서는 구체적 근거가 부족합니다.",
+        "검사 빈도와 보고가 적은 점으로 실제 유병률 추정치에 불확실성이 존재합니다.",
+        "감염 위험 및 전파 메커니즘에 관한 상세한 역학 자료가 제한적입니다.",
+        "초록 정보만 제공되어 전체 본문에 대한 정보 부족이 있습니다."
       ],
       "recommended": false,
       "recommendation_reason": null,
@@ -1806,7 +1813,7 @@
       "discovered_at": "2026-09-17 05:57:05.938789+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42617659/",
-      "summary_generated_at": "2026-09-28 23:30:08.207827+00:00",
+      "summary_generated_at": "2026-10-19 01:16:52.212638+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1823,48 +1830,46 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42604724/",
       "source": "pubmed",
       "clinical_relevance": "indirect",
-      "relevance_reason": "The study uses a pilot retrospective immunohistochemical analysis of feline tumor samples but does not link MMR protein expression directly to clinical outcomes or treatments in cats. The evidence is relevant for understanding feline cancer biology but lacks clinical intervention or prognosis correlation, limiting direct clinical application at this stage.",
+      "relevance_reason": "본 연구는 feline neoplasia에서 mismatch repair (MMR) protein의 발현을 면역조직화학적으로 평가하는 기초적 방법론을 소개하였으나, 연구대상이 사람 암과 직접적 관련된 치료 적용이나 예후 판정으로 이어지는 임상 연구가 아니며, 환자군도 한정되어 있고 동물 임상 절차에 직접적 영향을 미치기 어렵다.",
       "primary_category": "oncology",
       "tags": [
-        "internal_medicine",
         "oncology"
       ],
       "species": [
         "cat"
       ],
       "disease_or_topic": "Mismatch Repair Protein Expression in Feline Cancers",
-      "study_design": "retrospective",
+      "study_design": "other",
       "sample_size": 83,
       "sample_size_quote": "we conducted a pilot screening to assess MMR protein expression in 83 feline tumours",
-      "objective": "To establish a validated immunohistochemistry approach for assessing mismatch repair (MMR) proteins in feline tumors and to preliminarily characterize MMR protein expression across various feline cancer types.",
-      "study_methods": "The study validated cross-reactive anti-human antibodies against MLH1, MSH2, and MSH6 using CRISPR/Cas9-engineered feline tumor cell lines lacking each target gene to confirm specificity. Using these antibodies, immunohistochemistry was performed on 83 archived feline tumor samples across multiple tumor types to assess MMR protein expression patterns. The approach aimed to map preliminary MMR protein expression in feline cancers as a pilot investigation.",
-      "one_sentence_summary": "본 연구는 CRISPR/Cas9를 이용해 특정 MMR 유전자를 결손시킨 고양이 종양 세포주를 통해 인간용 항체의 교차 반응성을 검증한 후, 83마리의 고양이 종양 조직에서 면역조직화학적으로 MLH1, MSH2, MSH6 단백질 발현을 평가하였다. 멜라노마 6건 중 6건(100%), 골육종 15건 중 14건(93%)에서 MLH1 발현이 소실되는 등 여러 종양 유형에서 MMR 단백질 발현 감소가 관찰되었다. 이 연구는 고양이 종양에서 MMR 단백질 평가를 위한 분석적으로 검증된 기초 틀을 제공하며, MMR 장애가 고양이 암에서 예상보다 널리 분포할 수 있음을 시사한다.",
+      "objective": "feline 암에서 mismatch repair (MMR) protein 발현을 평가하는 면역조직화학법 개발과 feline tumour에서의 MMR protein 분포 조사",
+      "study_methods": "CRISPR/Cas9로 각각의 MMR 타겟 유전자가 결실된 feline 종양세포주를 제작하여 anti-human MLH1, MSH2, MSH6 항체의 교차반응성을 확인하였다. 이후 이 검증된 항체들을 사용해 83건의 고양이 종양 조직에서 MMR protein 발현을 평가하는 선행 필드 테스트를 수행하였다.",
+      "one_sentence_summary": "이 연구는 feline tumour 83개 표본을 대상으로, CRISPR/Cas9 시스템으로 유전자 결실이 확인된 세포주를 이용해 교차반응이 검증된 anti-human MMR protein 항체를 통해 MLH1, MSH2, MSH6의 면역조직화학적 발현을 평가하였다. 결과 melanoma 6건 모두(100%)와 osteosarcoma 15건 중 14건(93%)에서 MLH1 발현이 소실됨을 관찰하여 feline malignancy에서 MMR 이상이 광범위할 수 있음을 시사했다. 본 연구는 임상 적용을 위한 충분한 근거 마련이 필요한 예비 연구 단계임을 명확히 한다.",
       "key_results": [
         {
-          "result": "멜라노마 6건 중 6건(100%)에서 MLH1 발현이 완전히 소실되었다.",
-          "evidence_quote": "Notably, MLH1 expression was lost in all melanoma cases (6/6, 100%)"
+          "result": "melanoma 6건 모두에서 MLH1 expression이 완전히 소실되었다.",
+          "evidence_quote": "MLH1 expression was lost in all melanoma cases (6/6, 100%)"
         },
         {
-          "result": "골육종 15건 중 14건(93%)에서 MLH1 발현 소실이 관찰되었다.",
-          "evidence_quote": "and in most osteosarcomas (14/15, 93%)"
+          "result": "osteosarcoma 15건 중 14건에서 MLH1 expression이 소실되거나 감소되었다.",
+          "evidence_quote": "in most osteosarcomas (14/15, 93%), indicating that MMR perturbations may be particularly relevant in these malignancies"
         },
         {
-          "result": "고양이 83개의 종양 샘플에서 MLH1, MSH2, MSH6 발현에 다양한 감소 또는 소실이 관찰되었다.",
-          "evidence_quote": "we conducted a pilot screening to assess MMR protein expression in 83 feline tumours and observed variable reductions or losses of MLH1, MSH2 and MSH6 across several tumour types"
+          "result": "feline tumour 83건을 대상으로 anti-human MLH1, MSH2, MSH6 항체의 발현을 평가하였다.",
+          "evidence_quote": "we conducted a pilot screening to assess MMR protein expression in 83 feline tumours"
         },
         {
-          "result": "교차 반응성 항체의 특이성은 CRISPR/Cas9로 편집된 고양이 종양 세포주를 이용해 검증되었다.",
+          "result": "CRISPR/Cas9-engineered feline tumour cell lines lacking each target gene로 anti-human MMR 항체의 교차반응성이 검증되었다.",
           "evidence_quote": "confirming the cross-reactivity of anti-human MLH1, MSH2 and MSH6 antibodies using CRISPR/Cas9-engineered feline tumour cell lines lacking each target gene"
         }
       ],
-      "authors_conclusion": "본 연구는 고양이 암에서 MMR 단백질 평가를 위한 첫 분석적 검증 절차를 확립하였으며, MMR 단백질 발현 이상의 분포가 이전보다 널리 퍼져 있을 가능성을 시사한다. 임상 표본 수가 제한적이지만, 본 파일럿 연구는 고양이 MMR 단백질 발현의 기초 지도를 제공한다. 생물학적 의미를 명확히 하기 위해 미세위성 불안정성 검사, 메틸화 분석, 유전체 프로파일링을 포함한 대규모 검증 연구가 필요하다.",
-      "clinical_takeaway": "이 연구는 고양이 종양에서 DNA 불일치 수리(MMR) 단백질의 발현 이상이 멜라노마와 골육종을 포함한 여러 암에서 관찰된다는 것을 보여준다. 특히 멜라노마 100%, 골육종 93%에서 MLH1 발현이 소실된 점은 MMR 시스템이 고양이 암 발생과 진행에 중요한 역할을 할 가능성을 시사한다. 다만 표본 크기가 제한적이고 임상 관련성 또는 예후 영향은 평가되지 않아, 현재로서는 진단적 바이오마커로 사용하거나 치료 방침 변경에 바로 적용하기 어렵다. 후속 연구에서 MMR 이상과 임상 특성, 예후 예측 또는 치료 반응 간 관계를 규명해야 한다.",
+      "authors_conclusion": "이 연구는 feline oncology에서 MMR protein 평가를 위한 교차반응 항체기반 면역조직화학적 방법론을 처음으로 검증하여 제시하였다. MMR protein 발현 이상은 melanoma와 osteosarcoma를 포함한 여러 feline 종양에서 관찰되어 MMR 이상이 고양이 악성종양에 더 널리 관련될 수 있음을 시사한다. 그러나 임상 샘플 규모가 제한적이기 때문에 microsatellite instability 검사, methylation 분석, 유전체 프로파일링을 포함한 추가 대규모 연구가 필요하다.",
+      "clinical_takeaway": "이 연구는 feline 종양에서 mismatch repair protein 결함이 비교적 흔하며, 특히 melanoma와 osteosarcoma에서 MLH1 발현 소실이 두드러진다는 점을 알려준다. 진단적 차원에서 MMR protein 평가를 위한 면역조직화학법의 교차반응성을 CRISPR/Cas9 기반 세포주를 통해 검증함으로써 feline 암의 분자병리학 연구에 새로운 기초를 제공한다. 다만 임상 적용이나 치료 반응 예측자로서의 유용성은 추가 연구가 필요하며, 난치성 고양이 악성종양의 분자적 특성 이해를 확장하는 선행적 조사로 보는 것이 타당하다.",
       "limitations": [
-        "임상 표본 수가 83건으로 소규모이며, 종양별 표본 수도 제한적이다.",
-        "MMR 단백질 발현 이상과 임상 결과 또는 치료 반응 간 연관성은 평가하지 않았다.",
-        "본 연구는 파일럿 성격의 회고적 조직 기반 분석으로, 전향적 임상 평가가 필요하다.",
-        "면역조직화학 검사 결과만으로는 MMR 기능 이상 여부를 완전하게 판단할 수 없으며, 미세위성 불안정성 검사 등 유전자 수준 검사가 보완되어야 한다.",
-        "초록만 제공되어 전체 텍스트 내 추가 세부 방법 및 결과 분석을 확인할 수 없다."
+        "임상 샘플 수가 제한적이며 단일 연구에서 얻은 예비적 결과에 불과하다.",
+        "MMR protein 발현 평가에만 국한되어 microsatellite instability, DNA methylation, 유전체 변이 분석 등 분자적 추가 검증이 부족하다.",
+        "임상적 예후와의 상관관계 분석이 수행되지 않아 진단적 또는 치료적 적용 가능성 평가가 미흡하다.",
+        "CRISPR/Cas9 교차반응 검증은 세포주 수준이며 실제 임상조직에서 항체 특이성 검증이 완전하지 않다."
       ],
       "recommended": false,
       "recommendation_reason": null,
@@ -1872,7 +1877,7 @@
       "discovered_at": "2026-09-17 05:57:05.950815+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42604724/",
-      "summary_generated_at": "2026-09-28 23:31:50.378663+00:00",
+      "summary_generated_at": "2026-10-19 01:17:00.309150+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2437,19 +2442,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 472
+        "received": 466
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 462
+        "received": 456
       }
     },
-    "started_at": "2026-10-18T01:01:09.865280+00:00",
-    "since": "2026-09-03",
+    "started_at": "2026-10-19T01:14:43.373918+00:00",
+    "since": "2026-09-04",
     "processed": 0,
-    "refreshed": 1,
-    "failed": 11,
-    "deferred": 955,
-    "finished_at": "2026-10-18T01:03:01.180199+00:00"
+    "refreshed": 4,
+    "failed": 17,
+    "deferred": 951,
+    "finished_at": "2026-10-19T01:17:10.678171+00:00"
   }
 }
