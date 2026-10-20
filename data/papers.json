@@ -1,9 +1,81 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T01:17:10.773841+00:00",
-  "last_successful_collection": "2026-10-19T01:14:43.373862Z",
+  "generated_at": "2026-10-20T01:51:12.073043+00:00",
+  "last_successful_collection": "2026-10-20T01:48:52.464898Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-10-18",
+      "online_publication_date": "2026-10-18",
+      "publication_date_raw": "2026-Oct-18",
+      "doi": "10.1111/vco.70124",
+      "pmid": "42893846",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70124",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42893846/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 리뷰 논문은 doxorubicin 유발 cardiotoxicity에 대한 개에서의 병태 생리, 위험 인자, 진단법 및 연구 동향을 종합적으로 제시하였으나 임상 연구가 주로 실험적, 후향적 연구에 근거하여 본격적인 임상 권고로 직접 적용하기에는 한계가 있기 때문입니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "oncology",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Doxorubicin-induced Cardiotoxicity",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "Doxorubicin에 의한 cardiotoxicity의 병태생리, 임상적 특징, 진단법 및 위험 인자에 대한 최신 지견을 정리하여 개에서의 이해 증진 및 향후 연구 방향을 제안하는 것을 목표로 하였습니다.",
+      "study_methods": "해당 논문은 narrative review로, 기존의 실험적, 후향적 연구 결과들을 종합하여 doxorubicin-induced cardiotoxicity의 다양한 측면을 분석하였으며, 임상적 진단법과 위험 인자, 분자생물학적 기전 등에 대한 문헌들을 검토하였습니다. 임상적 개 체계 연구는 아니며 데이터 취합 분석에 중점을 두었습니다.",
+      "one_sentence_summary": "본 논문은 doxorubicin이 개에서 림프종, 육종, 암종 등 다양한 종양에 널리 사용되지만, 급성 또는 만성 cardiotoxicity를 일으켜 심각한 심장 부정맥과 울혈성 심부전을 초래할 수 있음을 서술한 narrative review입니다. 주요 심장독성 기전은 산화 스트레스, 미토콘드리아 기능장애, DNA 손상, 염증 및 세포사멸 경로의 이상으로 구성됩니다. 위험 인자로는 높은 누적 용량, 특발성 확장성 심근병증에 취약한 품종, 체중이 포함됩니다. 심장 바이오마커, 심전도, 심초음파 및 고급 영상기법을 통한 조기 검출 방법을 소개하며, 기존 연구 대다수가 실험 및 후향 연구임을 지적하여 향후 대규모 전향적 임상 연구 필요성을 강조합니다.",
+      "key_results": [
+        {
+          "result": "Doxorubicin은 개에서 림프종, 육종 및 암종 등 다양한 악성 종양에 대해 높은 효과를 나타냄과 동시에, 급성 또는 만성 cardiotoxicity 가능성이 있음이 보고됨.",
+          "evidence_quote": "Doxorubicin, an anthracycline widely used in both human and veterinary oncology, is highly effective against a variety of malignancies in dogs, including lymphomas, sarcomas and carcinomas. Despite its efficacy, doxorubicin exposure can be associated with cardiotoxicity, which may present acutely or chronically, potentially leading to severe cardiac arrhythmia and congestive heart failure."
+        },
+        {
+          "result": "Doxorubicin-induced cardiotoxicity의 주요 병태 기전은 산화 스트레스, 미토콘드리아 기능장애, topoisomerase IIβ를 통한 DNA 손상, 염증 및 apoptosis, pyroptosis, ferroptosis 등 세포사멸 경로의 이상임.",
+          "evidence_quote": "Mechanisms underlying cardiotoxicity are multifactorial, including oxidative stress, mitochondrial dysfunction, DNA damage via topoisomerase IIβ, inflammation and dysregulated cell death pathways such as apoptosis, pyroptosis and ferroptosis."
+        },
+        {
+          "result": "개에서 doxorubicin cardiotoxicity 위험 요인으로는 높은 누적 용량, 특발성 확장성 심근병증에 취약한 품종, 더 높은 체중이 알려져 있음.",
+          "evidence_quote": "In dogs, known risk factors include higher cumulative dose, breed predisposition to idiopathic dilated cardiomyopathy, and higher body weight."
+        },
+        {
+          "result": "심장 독성 징후의 조기 발견을 위해 심장 바이오마커, 심전도, 심초음파 및 기타 고급 영상기법이 사용되지만, 임상 증상 없이도 이상 소견이 관찰될 수 있음.",
+          "evidence_quote": "Cardiac biomarkers, electrocardiography, echocardiography and other advanced imaging techniques have been employed to detect cardiac changes that can be seen also in the absence of clinical signs."
+        },
+        {
+          "result": "현존하는 증거는 대부분 실험적 및 후향적 연구이며, 조기 검출 및 예방을 위한 대규모 전향적 임상 연구가 요구됨.",
+          "evidence_quote": "However, current evidence is predominantly derived from experimental and retrospective research, highlighting the need for large prospective clinical studies to strengthen recommendations for monitoring and prevention."
+        },
+        {
+          "result": "심초음파 고급 기법, microRNAs, 프로테오믹 바이오마커, 약동학 모델링 등의 신기술이 조기 진단 및 개별화된 용량 조절에 기여할 수 있음.",
+          "evidence_quote": "Emerging approaches, including advanced echocardiography, microRNAs, proteomic biomarkers and pharmacokinetic modelling, may help improve early detection and guide more individualised dosing to minimise toxicity."
+        }
+      ],
+      "authors_conclusion": "Doxorubicin-induced cardiotoxicity는 복합적인 병태생리에 의해 개에서 심각한 심장 합병증을 일으킬 수 있으며, 위험 인자와 초기 진단법 이해를 바탕으로 개별 환자 맞춤형 모니터링 및 투여 전략 개발이 필요하나, 이를 확증할 대규모 임상 연구가 부족하여 향후 연구가 필수적임을 결론지음.",
+      "clinical_takeaway": "doxorubicin 치료를 받는 개에서는 심근 손상으로 인한 심장 독성 위험이 있으므로, 특히 고용량 누적 투여 및 확장성 심근병증에 취약한 품종, 비만 개는 주의 깊게 모니터링해야 합니다. 심장 바이오마커, 심전도, 심초음파 등의 진단법이 조기 변화 감지에 유용하나, 임상적으로 무증상인 경우에도 이상 소견이 나타날 수 있어 주기적 검사 및 신기술 도입에 관심을 가져야 합니다. 다만, 현재 연구 증거가 후향적이고 실험적인 비중이 높아 임상적 해석과 적용에 신중함이 요구됩니다. 따라서, 이 분야에서 대규모 전향적 연구가 한층 진행되어 개별 맞춤형 안전 치료법 개발에 기여해야 할 것입니다.",
+      "limitations": [
+        "해당 논문은 narrative review이며, 임상 연구가 아닌 문헌 종합 형태로 구성되어 있음.",
+        "대부분의 근거가 실험적 및 후향적 연구에 기반하였기에 임상 권고 도출에 제한점이 존재함.",
+        "본 리뷰는 초록 자료에 의존하였으며, 전체 전문 내용 검토가 불가능하여 상세한 통계 수치 및 질적 평가는 부족함."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70124",
+      "discovered_at": "2026-10-20 01:48:53.929283+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42893846/",
+      "summary_generated_at": "2026-10-20 01:49:56.676279+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Use of a cost-effective specimen retrieval bag for canine laparoscopic ovariectomy: a clinical prospective study (2021-2024).",
       "journal": "Journal of Small Animal Practice",
@@ -1541,9 +1613,9 @@
       "publisher_url": "https://doi.org/10.1093/jvimsj/aalag217",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42803610/",
       "source": "pubmed",
-      "clinical_relevance": "indirect",
-      "relevance_reason": "본 논문은 간헐적 광 자극법(intermittent photic stimulation, IPS)의 개에서의 표준화 및 적용 가능성을 고찰하는 리뷰 논문으로, 직접적인 임상 연구 결과 없이 기존 문헌들을 종합하여 방법론과 프로토콜의 불일치 문제를 지적하고 이를 개선하기 위한 권고안을 제시함. 따라서 임상 현장 적용을 위한 직접적 근거보다는 간접적 지식 제공에 해당함.",
-      "primary_category": "other",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 리뷰 연구는 간질 진단에 있어서 dogs에서의 electroencephalography(EEG)에서 intermittent photic stimulation(IPS)의 임상적 효용과 사용법에 관한 현재 지식을 체계적으로 정리하였으며, IPS의 표준화가 진단 민감도를 향상시키고 photosensitive epilepsy syndrome을 식별하는 데 중요한 도구가 될 수 있음을 제시하였다.",
+      "primary_category": "internal_medicine",
       "tags": [
         "internal_medicine",
         "neurology"
@@ -1551,50 +1623,55 @@
       "species": [
         "dog"
       ],
-      "disease_or_topic": "intermittent photic stimulation for electroencephalography in dogs",
-      "study_design": "other",
+      "disease_or_topic": "photosensitive epilepsy and intermittent photic stimulation in dogs",
+      "study_design": "systematic_review",
       "sample_size": null,
       "sample_size_quote": null,
-      "objective": "간헐적 광 자극법(IPS)의 개 EEG 진단에서의 활용 실태와 연구 간 이질성 평가, IPS 프로토콜 표준화를 위한 실용적 지침 제시",
-      "study_methods": "출판된 수의 임상 연 구들을 종합하여 개의 간헐적 광 자극법을 다루었으며, 자극 디자인, 각성 상태, 전극 배열 등의 변수 간 차이를 분석하고 인간을 대상으로 한 기존 방법론과 비교하며 수의 임상에 적용 가능한 표준화 방안을 제안함. 프로토콜 간 빈도 범위, 빛 세기, 눈 상태 조절, 깜박임 지속 시간, 각성 상태, 램프 거리 등 변동성이 큼을 확인하고 이에 따른 진단 민감도의 영향도 논의함.",
-      "one_sentence_summary": "본 리뷰는 간헐적 광 자극법(IPS)을 이용한 개의 뇌파검사(EEG) 연구들을 분석하여, IPS가 개의 특정 간질 증후군에서 일반화된 스파이크-웨이브 및 다중스파이크-웨이브 방전을 유발할 수 있으나 프로토콜이 빈도, 빛 강도, 눈 상태, 각성 상태 등에서 매우 다양함을 확인하였다. 특히 각성 상태에서 검사가 이루어질 때 진단 민감도가 높으며, 진정 또는 전신 마취 중에는 광 자극 반응이 저하됨이 보고되었다. 또한, 전극 배열의 부족과 비일관성으로 공간적 해석과 연구 간 비교에 어려움이 존재함을 밝혔다. 인간 EEG 검사 방법을 참고하여 개의 IPS 표준화 및 EEG 진단 민감도 향상을 위한 가이드라인을 제시하였다.",
+      "objective": "본 리뷰는 dogs에서 EEG 수행 시 intermittent photic stimulation의 현재 활용 상태와 메서드적 변이성을 평가하고, 임상진단적 효용을 높이기 위한 프로토콜 표준화 방안을 제안하는 데 목적이 있다.",
+      "study_methods": "국내외 출판된 점광자극 관련 수의학 문헌을 대상으로 dogs의 EEG에서 IPS 사용 현황, 자극 디자인, 동물의 각성 상태, 전극 배열 등 주요 변수들의 편차를 분석하였다. 또한 인간에서의 표준화된 IPS 절차를 참고하여 임상 적용 가능성을 모색하였다.",
+      "one_sentence_summary": "본 내러티브 리뷰는 dogs에서 EEG에 intermittent photic stimulation(IPS)을 적용한 연구들을 종합하고, 자극 주파수 범위, 조명 세기, 눈 상태, 각성 상태, 전극 배치 면에서 큰 변이가 있음을 확인하였다. 각성과정을 거치지 않은 sedation 및 전신마취는 retinal 및 thalamocortical 반응성을 감소시켜 photoparoxysmal responses(PPRs) 유발 가능성을 낮추는 반면, 각성 상태에서의 IPS는 generalized spike-wave 및 polyspike-wave 활동을 유발하여 photosensitive epilepsy syndrome의 진단적 가치를 높인다. 현재까지의 연구는 전극 배열의 한계로 공간적 해석 및 연구 간 비교가 어려우므로, 인간 및 수의학 표준법을 고려한 각성 하 테스트와 엄격한 프로토콜 표준화가 필요함을 강조한다.",
       "key_results": [
         {
-          "result": "광 자극이 개의 특정 간질 증후군에서 일반화된 스파이크-웨이브 및 다중스파이크-웨이브 방전을 유발함",
+          "result": "IPS는 각성 상태인 dogs에서 generalized spike-wave 및 polyspike-wave 패턴을 유발할 수 있다.",
           "evidence_quote": "Published veterinary studies demonstrate that photic stimulation can provoke generalized spike-wave and polyspike-wave discharges in selected epilepsy syndromes of dogs, particularly during awake recordings."
         },
         {
-          "result": "검사 중 각성 상태가 진단에 중요한 변수이며, 진정 또는 전신 마취 시 광 자극 반응이 저하됨",
+          "result": "Sedation과 general anesthesia는 retinal과 thalamocortical 반응성을 약화시켜 photoparoxysmal responses 유발 가능성을 감소시킨다.",
           "evidence_quote": "Sedation and general anesthesia appear to attenuate retinal and thalamocortical responsiveness, decreasing the likelihood of eliciting photoparoxysmal responses."
         },
         {
-          "result": "프로토콜 간 빈도 범위, 빛 세기, 눈 상태 조절, 깜박임 지속 시간, 각성 상태, 램프 거리 등의 요소에서 상당한 이질성 존재",
+          "result": "수의학 IPS 프로토콜은 주파수 범위, 빛의 세기, 눈 상태, 플래시 지속시간, 각성 상태, 램프 거리 면에서 큰 변이를 보인다.",
           "evidence_quote": "However, protocols vary substantially in frequency range, light intensity, eye state control, flash duration, vigilance state, and lamp distance."
         },
         {
-          "result": "전극 배열이 일관성이 없고 부족하여 공간적 해석 및 연구 간 비교가 어려움",
-          "evidence_quote": "sparse and inconsistent electrode arrays limit spatial interpretation of photic responses and hinder cross-study comparisons"
+          "result": "동물의 각성 상태에서 IPS가 가장 민감하고 효과적인 photic responsiveness 검출 방법이다.",
+          "evidence_quote": "In contrast, awake IPS produces robust electroclinical signals in dogs and preserves native visual and thalamocortical responses."
         },
         {
-          "result": "인간 EEG에서의 확립된 방법론과 수의 임상 데이터를 근거로 표준화된 각성 상태 검사, 자극 매개변수 정의, 공간 샘플링 개선 권고안 제시",
-          "evidence_quote": "Drawing on established methodology used in humans and emerging veterinary data, this review outlines practical recommendations for standardized awake testing, defined stimulus parameters, and improved spatial sampling."
+          "result": "현재 veterinary EEG 연구에서 전극 배열이 sparse하고 이질적이며, 이로 인해 IPS에 의한 공간적 반응 해석과 연구 간 비교가 어렵다.",
+          "evidence_quote": "sedation and anesthesia tend to attenuate visual drive and lower the chance of capturing EDs. The literature also has wide variability in frequency ranges, distance, eye state control, and electrode coverage, which makes cross-study comparisons difficult and blunts the ability to set practical thresholds"
+        },
+        {
+          "result": "수의학 IPS 프로토콜 표준화를 위해서는 EEG montage의 장소, 램프 위치와 조도, 자극 주파수, 플래시 시간 및 휴식 시간, 눈 상태, 각성 상태 등의 요소를 명확히 기록하고 조절해야 한다.",
+          "evidence_quote": "this review outlines practical recommendations for standardized awake testing, defined stimulus parameters, and improved spatial sampling"
         }
       ],
-      "authors_conclusion": "본 리뷰는 개 EEG에서 간헐적 광 자극법의 임상적 활용을 위한 프로토콜 표준화의 필요성을 강조하며, 표준화된 검사법이 진단 민감도를 높이고 개에서의 광민감성 간질 증후군 탐지 및 인간과의 비교 연구를 촉진할 수 있음을 제안한다.",
-      "clinical_takeaway": "간헐적 광 자극법은 개 EEG 상 특정 간질 증후군 진단에 유용할 수 있으나, 현재 프로토콜의 다양성으로 인해 실제 임상 적용과 해석에 어려움이 크다. 특히 진정 또는 마취 상태에서는 광 자극 반응이 감소하므로 반드시 각성 상태에서 검사를 시행하는 것이 중요하다. 전극 배열의 표준화와 빛 자극 조건의 일관된 조절을 통해 진단 정확도를 높이고, 인간 간질 연구와의 비교 가능성도 향상될 수 있다. 다만 본 연구는 기존 문헌을 종합한 리뷰로 직접적인 대규모 임상 시험 근거가 부족하므로, 임상 적용에는 주의를 기울여야 한다.",
+      "authors_conclusion": "IPS는 dogs에서 EEG 검사의 진단 민감도를 향상시킬 수 있는 유망한 활성화 기법이다. 각성 상태에서 IPS는 photosensitive epilepsy의 전형적인 EEG 변화를 유발하나, sedation 또는 anesthesia 하에서는 반응성이 크게 감소한다. 현재까지 수의학 분야에서는 IPS 프로토콜과 전극 배열에서 큰 변이가 존재하여 결과 해석과 비교에 어려움이 있다. 따라서 인간에서 확립된 방법론과 신진 veterinary 데이터를 토대로, 각성 상태에서의 표준화된 IPS 프로토콜과 충분한 뇌 영역 표본 채취를 권고한다.",
+      "clinical_takeaway": "Dogs에서 EEG 수행 시 intermittent photic stimulation(IPS)은 각성 상태에서 photosensitive epilepsy 진단에 유용한 도구가 될 수 있습니다. Sedation이나 anesthesia는 retinal 및 thalamocortical 회로 반응을 억제하여 IPS의 진단적 민감도를 떨어뜨리므로, 가능하면 각성 상태에서 검사를 시행하는 것이 권장됩니다. 또한, 광자극의 주파수, 빛 세기, 눈 상태, 램프 거리 등 자극 변수와 EEG 전극 배열이 표준화되어야만 정확하고 재현 가능한 결과를 얻을 수 있습니다. 현재까지 수의학 분야의 IPS 적용은 연구마다 큰 차이가 있으므로, 임상 현장에서의 해석과 비교에 제한점이 있음을 인식해야 하며, 점차 임상 프로토콜의 표준화가 필수적입니다.",
       "limitations": [
-        "수의 임상 연구가 제한적이고 이질적이며 표본 크기와 설계가 다양하여 강력한 일반화 어려움",
-        "대부분의 근거가 간접 자료 및 리뷰 논문에 기반하여 직접적 임상 연구 부재",
-        "단일 프로토콜이나 표준화된 임상 연구 부재로 실제 검사법과 결과 간 비교 제약",
-        "전체 논문이 아닌 초록만 제공되어 상세한 방법론과 통계적 분석 정보 부족"
+        "본 연구는 narrative review로서 임상적 시험이 아니라 간행된 문헌의 종합으로 제한된다.",
+        "수의학 분야의 IPS 관련 연구들은 프로토콜과 전극 배열이 매우 이질적이어서 결과의 일반화와 통계적 비교가 어렵다.",
+        "인간 IPS 프로토콜을 기반으로 권고안을 제시하였으나, 그 적합성은 추가 연구를 통해 확인되어야 한다.",
+        "dogs의 다양한 품종별 시신경 및 두뇌 해부학적 차이가 반응성에 미치는 영향은 충분히 연구되지 않았다.",
+        "정확한 자극 강도와 눈 상태에 대한 통제가 일관되게 이루어지지 않은 연구가 많아 진단 민감도 해석에 한계가 있다."
       ],
-      "recommended": false,
-      "recommendation_reason": null,
+      "recommended": true,
+      "recommendation_reason": "본 리뷰는 dogs에서 intermittent photic stimulation이 EEG 진단 민감도 향상에 직접적으로 기여할 수 있음을 체계적으로 요약하고, sedated/anesthetized 상태에서는 반응이 감소한다는 중요한 임상적 근거를 제공한다. 또한 표준화 필요성을 구체적으로 제시하여 실제 임상 적용과 연구 방법 개선에 실질적 가치를 제공하므로 추천한다.",
       "id": "doi:10.1093/jvimsj/aalag217",
       "discovered_at": "2026-09-28 23:25:35.022818+00:00",
-      "evidence_source": "abstract",
-      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42803610/",
-      "summary_generated_at": "2026-09-28 23:29:59.526606+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13617574",
+      "summary_generated_at": "2026-10-20 01:50:08.562588+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1611,54 +1688,51 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42680555/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 개의 피부 및 피하 조직에 발생한 비만세포종 치료에 직접 적용된 임상 연구로, 방사선 치료와 Gilvetmab 병용요법의 효과와 부작용을 평가하였다.",
+      "relevance_reason": "본 연구는 cutaneous 또는 subcutaneous mast cell tumour을 가진 개들을 대상으로 하여 임상 현장에서 직접 적용 가능한 hypofractionated radiation therapy와 gilvetmab 병용 치료법에 관한 전향적 연구로, 개 임상에 직접적인 치료적 시사점을 제공합니다.",
       "primary_category": "oncology",
       "tags": [
-        "internal_medicine",
-        "oncology"
+        "oncology",
+        "surgery"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "cutaneous or subcutaneous mast cell tumours in dogs",
+      "disease_or_topic": "mast cell tumour",
       "study_design": "prospective",
       "sample_size": 18,
       "sample_size_quote": "Eighteen dogs with mast cell tumours (MCTs) were prospectively treated",
-      "objective": "개의 피부 또는 피하 비만세포종 치료에서 저분할 방사선 치료와 Gilvetmab 병용요법의 효과와 안전성을 평가하였다.",
-      "study_methods": "18마리의 비만세포종이 있는 개들을 대상으로 두 가지 치료법을 병용하여 전향적으로 연구하였다. 24Gy의 방사선 치료를 0, 7, 21일에 진행하였고, Gilvetmab은 방사선 치료 두 번째 시점인 7일차부터 2주 간격으로 최대 10회 투여하였다. 종양 반응률, 무진행 생존 기간, 부작용 등이 관찰되었다.",
-      "one_sentence_summary": "18마리의 비만세포종 개를 대상으로 24Gy 저분할 방사선 치료와 Gilvetmab 병용요법을 실시하였다. 종양 반응률은 완전 반응 6%, 부분 반응 44%, 안정병변 50%로 총 객관적 반응률은 50%였으며, 중위 무진행 기간은 116일이었다. 림프절 전이 유무에 따라 무진행 기간과 총 생존 기간에 유의한 차이가 있었으나, 전반적으로 치료는 지속적인 종양 통제에는 미흡하였고, 심각한 부작용도 보고되었다.",
+      "objective": "개에서 cutaneous 또는 subcutaneous mast cell tumour 치료에 대해 hypofractionated radiation therapy와 anti-PD-1 항체인 gilvetmab 병행 투여의 효과와 부작용을 평가하고자 하였다.",
+      "study_methods": "18마리 mast cell tumour 개를 대상으로 24 Gy hypofractionated radiation therapy를 0, 7, 21일에 나누어 시행했고, 2회차 RT 시행일(Day 7)부터 gilvetmab을 2주 간격으로 최대 10회 투여하였다. 주요 평가 변수는 종양 반응률, 무진행기간(PFI), 총생존기간(MST), 및 부작용 발생이었다.",
+      "one_sentence_summary": "18마리의 개를 대상으로 24 Gy hypofractionated radiation therapy와 gilvetmab을 함께 또는 순차적으로 투여하였다. 종양 반응률은 50%(완전 반응 6%, 부분 반응 44%)였으며, 무진행기간 중앙값은 116일이었다. 림프절 전이 유무에 따라 PFI와 MST에 유의한 차이가 있었으며, gilvetmab 관련 39%에서 부작용이 나타났다.",
       "key_results": [
         {
-          "result": "객관적 반응률(ORR)은 50%로, 완전 반응 1마리(6%), 부분 반응 8마리(44%), 안정 병변 9마리(50%)였다.",
+          "result": "최고 종양 반응률(ORR)은 50%로, 완전 반응 6%(1마리), 부분 반응 44%(8마리)였다.",
           "evidence_quote": "Best tumour response was complete in one (6%), partial in eight (44%) and stable disease in nine dogs (50%) for an ORR of 50%."
         },
         {
-          "result": "중위 무진행 기간(PFI)은 116일이었다.",
+          "result": "무진행기간(PFI)의 중앙값은 116일이었다.",
           "evidence_quote": "Thirteen dogs (72%) developed progressive disease with a median progression free interval (PFI) of 116 days after the first fraction of RT."
         },
         {
-          "result": "림프절 전이 여부에 따라 중위 무진행 기간은 64일과 292일, 중위 총 생존 기간은 103일과 587일로 유의한 차이가 있었다(p=0.02, 0.005).",
-          "evidence_quote": "There was a significant difference in PFI and MST for dogs with and without lymph node metastasis with a median PFI of 64 versus 292 days and MST of 103 versus 587 days (p = 0.02 and 0.005, respectively)."
+          "result": "gilvetmab 이행 이상반응은 39%에서 나타났으며, 28%는 Grade 3 이상이었다.",
+          "evidence_quote": "Nine adverse events (AEs) attributed to gilvetmab were recorded in seven dogs (39%) consisting of infusion reactions in four, metabolic changes in three and gastrointestinal signs and pancreatitis in one each. Overall, five dogs (28%) experienced Grade 3 AEs."
         },
         {
-          "result": "Gilvetmab 관련 부작용은 7마리 개 중 9건으로, 주로 주입 반응, 대사 변화, 위장관 증상 및 췌장염이었다.",
-          "evidence_quote": "Nine adverse events (AEs) attributed to gilvetmab were recorded in seven dogs (39%) consisting of infusion reactions in four, metabolic changes in three and gastrointestinal signs and pancreatitis in one each."
-        },
-        {
-          "result": "방사선 치료에 의한 부작용은 대부분 경증(grade 1)으로 7마리 개에서 나타났다.",
+          "result": "방사선 치료 관련 이상반응은 모두 Grade 1로 경미했다.",
           "evidence_quote": "Radiation AEs were limited to Grade 1 for both acute and late effects in seven dogs (39%)."
         },
         {
-          "result": "전체 개중 5마리(28%)가 3등급 이상의 심각한 부작용을 경험하였다.",
-          "evidence_quote": "Overall, five dogs (28%) experienced Grade 3 AEs."
+          "result": "림프절 전이 유무에 따라 무진행기간과 총생존기간에 통계적 유의한 차이가 있었다 (PFI: 64 vs 292일, MST: 103 vs 587일).",
+          "evidence_quote": "There was a significant difference in PFI and MST for dogs with and without lymph node metastasis with a median PFI of 64 versus 292 days and MST of 103 versus 587 days (p = 0.02 and 0.005, respectively)."
         }
       ],
-      "authors_conclusion": "이 병용요법은 개의 비만세포종에 대해 지속적인 종양 통제 효과를 제공하지 못했으며, 부작용 발생률도 높아 추가 평가가 필요하다.",
-      "clinical_takeaway": "이 연구는 피부 및 피하 비만세포종이 있는 개에서 저분할 방사선 치료와 Gilvetmab 병용요법의 임상 효과와 안전성을 평가하였다. 병용요법은 50%의 객관적 반응률과 중위 무진행 기간 116일을 보였으나, 림프절 전이 유무에 따라 예후가 크게 달랐다. 심각한 부작용도 28%에서 보고되어 주의가 필요하다. 따라서 이 치료법은 현재로서는 지속적인 종양 통제에 한계가 있고, 부작용 위험으로 인해 신중한 검토 및 추가 연구가 요구된다. 본 연구 결과는 비만세포종 개 환자에서 본 병용요법의 제한점을 이해하고, 개별 환자 상황에 따라 치료 옵션을 고민하는 데 참고가 될 수 있다.",
+      "authors_conclusion": "Hypofractionated radiation therapy와 gilvetmab 병합 치료는 canine mast cell tumour에 대해 지속적 종양 조절 효과를 제공하지 못하였으며, gilvetmab 관련 부작용 프로파일에 대해 추가 조사가 필요하다.",
+      "clinical_takeaway": "18마리의 cutaneous 또는 subcutaneous mast cell tumour을 가진 개 대상 연구에서 hypofractionated radiation therapy와 anti-PD-1 항체 gilvetmab 병합 요법은 전체 종양 반응률 50%를 보였으나, 림프절 전이가 있는 개는 빠른 질병 진행과 낮은 생존기간을 보여 예후 평가에 림프절 전이 유무가 중요함을 시사합니다. gilvetmab 관련 부작용이 39%에서 보고되었으며, 이 중 상당수에서 Grade 3 이상의 심각한 이상반응도 관찰되어 임상 적용 시 부작용 모니터링 및 관리가 필요합니다. 방사선 치료 관련 이상반응은 경미한 수준으로 평가되었으나, 이 치료법은 내구력 있는 종양 조절 효과가 제한적임을 주지해야 합니다. 따라서 이 병용 요법은 제한된 임상 효과와 부작용 위험성을 감안하여 신중히 접근해야 하며, 추가 연구를 통한 최적화가 요구됩니다.",
       "limitations": [
-        "연구는 단일 군 전향적 설계로 통제군이 없어 병용요법의 순수 효과 분리 어려움",
-        "샘플 크기가 18마리로 제한적임",
-        "전체 논문이 아닌 초록 정보만 제공되어 상세한 부작용 및 장기 추적 데이터 부족"
+        "본 연구는 상대적으로 소수(18마리)의 대상 개체로 제한된 표본 크기를 가짐.",
+        "비교군 없는 단일군 전향적 설계로 치료 효과 및 부작용의 대조 평가 불가.",
+        "추적 기간 및 장기 예후 데이터 제한적임.",
+        "초록 정보만을 기반으로 하여 세부 연구 설계와 통계 분석 정보 부족."
       ],
       "recommended": false,
       "recommendation_reason": null,
@@ -1666,7 +1740,7 @@
       "discovered_at": "2026-09-16 01:13:36.176335+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42680555/",
-      "summary_generated_at": "2026-09-22 23:25:57.414392+00:00",
+      "summary_generated_at": "2026-10-20 01:49:47.167571+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1894,7 +1968,7 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 개에서 전두입술 및 코 주변부 결손 재건을 위한 rostral labial pivot flap 변형 기법의 적응증, 수술 방법 및 결과를 직접 보고하였다.",
+      "relevance_reason": "본 연구는 maxillary lip defect가 있는 개에서 rostral labial pivot flap과 그 변형을 이용한 수술적 재건술의 기법과 결과를 직접 평가한 임상 연구로서, 해당 환자군에 대한 직접적인 임상 유용성을 갖는다.",
       "primary_category": "surgery",
       "tags": [
         "surgery",
@@ -1903,49 +1977,51 @@
       "species": [
         "dog"
       ],
-      "disease_or_topic": "maxillary lip and paranasal defect reconstruction",
+      "disease_or_topic": "rostral lip and paranasal defects reconstruction",
       "study_design": "case_series",
       "sample_size": 4,
       "sample_size_quote": "Four dogs with rostral lip/paranasal defect underwent rostral labial pivot flap.",
-      "objective": "전두입술 및 주위 코 점막 결손을 동반한 종양 절제 후 출현한 결손부를 rostral labial pivot flap 및 그 변형술을 통해 재건하고 그 임상 결과를 기술한다.",
-      "study_methods": "네 마리의 개에서 종양 절제 후 전두입술 및 코 주변부 결손을 rostral labial pivot flap 및 mucosal island flap, nasal rotation flap을 포함한 변형 기법으로 재건하였다. 의무기록을 후향적으로 검토하여 수술 기법과 결과, 합병증 및 기능적, 미용적 결과를 평가하였다.",
-      "one_sentence_summary": "네 마리의 개에서 rostral labial pivot flap 및 변형 기법을 적용하여 전두입술과 코 주변부 결손을 재건하였다. mucosal island flap을 이용한 코 점막 재건 및 nasal rotation flap을 통한 입술 높이 조절로 좋은 결과를 얻었으며, 두 마리에서 경미한 합병증(구강-비강 누공, 경도의 콧구멍 협착)이 발생했으나 임상 증상은 없었다. 모든 개는 추적 관찰 시 정상 기능과 삶의 질을 유지하였다.",
+      "objective": "rostral labial pivot flap variant의 기법과 임상 결과를 기술하고 평가하였다.",
+      "study_methods": "종양 절제술 후 rostral lip 및 paranasal 결손부와 동반된 nasal mucosal 손상이 있는 4마리 개에서 rostral labial pivot flap과 mucosal island flap, nasal rotation flap을 포함한 변형 기법을 적용하여 재건술을 시행하였다. 의무기록을 대상으로 수술 전후 경과와 합병증, 기능적 및 미용적 결과를 검토하였다.",
+      "one_sentence_summary": "4마리 개가 종양 절제로 발생한 rostral lip 및 paranasal 결손부에 대해 rostral labial pivot flap과 mucosal island flap 및 nasal rotation flap의 변형 기법을 적용받았다. 두 마리에서 oronasal fistula 및 가벼운 narial stenosis의 경미한 합병증이 발생했으나 임상적 증상은 없었고, 모든 개는 추적 관찰 시 정상적인 기능과 삶의 질을 보였다. 해당 flap 기법은 미용적, 기능적으로 수용 가능한 결과를 제공하였다.",
       "key_results": [
         {
-          "result": "로스트랄 래비얼 피벗 플랩과 변형술이 전두입술 및 코 주변부 결손 재건에 허용 가능한 결과를 제공하였다.",
+          "result": "rostral labial pivot flap과 변형 기법으로 rostral lip 및 paranasal 결손부 재건에 대해 4마리 개에서 수용 가능한 결과를 얻었다.",
           "evidence_quote": "The rostral labial pivot flap and its variants provided acceptable outcomes in four dogs for reconstruction of rostral lip and paranasal defects."
         },
         {
-          "result": "점막 섬 플랩을 포함시켜 코 점막 재건에 효과적이었다.",
+          "result": "mucosal island flap 통합이 nasal mucosal 재건에 효과적이었다.",
           "evidence_quote": "Incorporation of a mucosal island flap was effective for nasal mucosal reconstruction"
         },
         {
-          "result": "콧구멍 회전 피판을 사용하여 입술 높이 차이를 조절하고 긴장을 완화하여 좋은 결과를 얻었다.",
+          "result": "nasal rotation flap 사용으로 tension 완화 및 lip height 불균형 교정에 도움을 주어 수용 가능한 결과를 얻었다.",
           "evidence_quote": "use of a nasal rotation flap to reduce tension and address lip height discrepancy resulted in acceptable outcomes."
         },
         {
-          "result": "두 마리의 개에서 경미한 합병증이 있었으나 임상적 증상은 없었다.",
+          "result": "2마리 개에서 경미한 합병증(oronasal fistula, mild narial stenosis)이 발생하였으나 임상 증상을 동반하지 않았다.",
           "evidence_quote": "Two dogs experienced minor complications, including an oronasal fistula and mild narial stenosis, neither of which was associated with clinical signs."
         },
         {
-          "result": "추적 관찰 시 모든 개가 정상 기능과 삶의 질을 유지하였다.",
+          "result": "추적 관찰 시 모든 개가 정상적인 기능과 삶의 질을 보였다.",
           "evidence_quote": "All dogs were considered to have normal function and quality of life at follow-up."
         }
       ],
-      "authors_conclusion": "Rostral labial pivot flap은 개에서 전두입술 및 코 주변부 결손 재건에 합리적이고 적응성 있는 옵션이 될 수 있으며, 본 증례군에서는 미용적·기능적 결과가 양호하고 이환율이 낮았다. 그러나 성공률과 합병증에 대한 이해를 높이기 위해 추가 증례가 필요하다.",
-      "clinical_takeaway": "본 연구는 rostral labial pivot flap 및 그 변형술이 개에서 전두입술 및 코 주변부의 복잡한 결손 재건에 있어 기능적 및 미용적으로 허용 가능한 결과를 제시함을 보여준다. 특히 mucosal island flap과 nasal rotation flap의 적절한 적용은 점막 재건과 입술 높이 조절에 유용해 일부 두경부 결손 환자에서 수술 후 합병증 위험을 낮출 수 있다. 다만, 소수 증례를 대상으로 후향적으로 진행된 연구로서 성공률과 합병증 양상에 대한 일반화에는 제한점이 있으며, 임상적 적용 시 추가 연구 결과 참조가 필요하다.",
+      "authors_conclusion": "rostral labial pivot flap은 maxillary lip과 paranasal 결손부 재건에 대한 합리적이고 적응성 있는 옵션으로, 미용적 및 기능적으로 수용 가능한 결과와 낮은 이환율을 보여주었으나, 보다 명확한 성공률과 합병증 평가를 위해 추가 증례 연구가 필요하다.",
+      "clinical_takeaway": "rostral lip 및 paranasal 부위에 종양 절제 후 발생하는 결손부에 대해 rostral labial pivot flap과 그 변형 기법은 기능적 장애 없이 양호한 재건 결과를 기대할 수 있는 수술적 옵션임을 시사한다. mucosal island flap 통합은 코 점막 재건에 유용하며, nasal rotation flap은 flap tension 감소 및 입술 높이 불균형 문제 해결에 도움이 된다. 경미한 합병증(예: oronasal fistula, narial stenosis)은 임상 증상 없이 발생 가능하나, 추가 연구로 장기 합병증과 결과를 면밀히 관찰할 필요가 있다. 이 연구는 4례를 대상으로 한 소수 증례 연구이므로 결과 해석 시 과도한 일반화에 주의해야 한다.",
       "limitations": [
-        "증례 수가 4건으로 매우 제한적이다.",
-        "후향적 증례 보고로 무작위 대조 연구가 아니다.",
-        "단편적 임상 정보만 제공하는 초록 기반 자료이다."
+        "소수의 증례(4마리 개)를 대상으로 한 단일 기관의 후향적 사례 시리즈이다.",
+        "종양 유형 및 결손의 다양성에 따른 결과 차이가 평가되지 않았다.",
+        "장기 추적 관찰 데이터가 제한적이며, 합병증 빈도 및 유형 평가에 제한이 있다.",
+        "추가 증례 연구 및 비교 연구가 필요하다.",
+        "초록 정보만 제공되어 상세 수술 방법 및 표준화 여부 파악이 어렵다."
       ],
-      "recommended": false,
-      "recommendation_reason": null,
+      "recommended": true,
+      "recommendation_reason": "종양 절제 후 maxillary lip 및 paranasal 결손 재건에 직접 적용 가능한 실제 임상 사례를 제시하며, 기능 및 미용에 대한 실질적 결과를 제공해 임상적 의사결정에 유용한 근거 자료로 활용할 수 있다.",
       "id": "doi:10.1111/vsu.70148",
       "discovered_at": "2026-09-17 05:57:05.953232+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
-      "summary_generated_at": "2026-09-28 23:32:04.655228+00:00",
+      "summary_generated_at": "2026-10-20 01:50:45.792918+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2027,68 +2103,64 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42562008/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "이 연구는 슬개골 탈구가 있는 개에서 Dejour의 대퇴골 외측 방사선 징후를 평가하고, 정상 개와 비교하여 해당 징후의 진단적 가치를 직접적으로 다루며, 컴퓨터 단층촬영(CT) 영상이 방사선 사진을 대체할 수 있는지의 임상적 가능성을 제시하므로 직접적인 임상 관련성을 가진다.",
-      "primary_category": "surgery",
+      "relevance_reason": "본 연구는 patellar luxation (PL)이 있는 개에서 femoral trochlear dysplasia의 영상 진단인 Dejour signs를 평가하여 임상적으로 해당 징후들이 PL 환자와 정상 개 간에 차이가 있음을 보여주어, PL의 진단과 수술 계획에 직접적으로 활용될 수 있기 때문이다.",
+      "primary_category": "internal_medicine",
       "tags": [
+        "internal_medicine",
         "orthopedics",
-        "surgery",
-        "minimally_invasive_surgery"
+        "surgery"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "Canine Femoral Trochlear Dysplasia",
+      "disease_or_topic": "femoral trochlear dysplasia in canine patellar luxation",
       "study_design": "retrospective",
       "sample_size": 40,
       "sample_size_quote": "Forty femoral trochleae were divided into controls without PL (n = 15) and dogs with PL (n = 25).",
-      "objective": "Dejour의 대퇴골 활차 이형성증(lateral radiographic signs)의 정상 개와 슬개골 탈구(PL) 개에서의 판별 가능성과 CT lateral 재구성이 방사선 사진을 대체할 수 있는지 평가.",
-      "study_methods": "슬개골 탈구가 없는 15개 대퇴활차와 슬개골 탈구가 있는 25개 대퇴활차를 대상으로 후향적 연구가 수행됨. 중간외측 방향의 슬관절 방사선 사진과 CT lateral 재구성이 무작위로 배치되어 블라인드 평가자가 Dejour 징후(crossing, supratrochlear spur, double contour)를 판독함. 두 영상 모달리티 간의 일치도는 Cohen's kappa와 McNemar 검정(p<0.05)으로 평가됨.",
-      "one_sentence_summary": "슬개골 탈구 없는 15개 대퇴활차와 슬개골 탈구가 있는 25개 대퇴활차를 대상으로 Dejour 징후 여부를 중간외측 방사선 사진과 CT lateral 재구성에서 평가하였다. 정상군에서는 Dejour 징후가 거의 관찰되지 않은 반면(slpea군은 하나의 CT 경우 제외), 슬개골 탈구군에서는 방사선 사진에서 68%, CT에서 72%가 하나 이상의 Dejour 징후를 보여 진단적 가치를 입증하였다. 두 영상 기법 간에 높은 일치도(95-100%, κ 0.89-1.00)를 나타냈으며, 추가로 'dome' 징후가 24%의 슬개골 탈구 개체에서 관찰되어 중증 탈구와 연관성을 시사하였다. CT의 lateral 재구성은 방사선 사진을 대체할 수 있는 신뢰성 있는 방법임을 제안한다.",
+      "objective": "Dejour's lateral radiographic signs of femoral trochlear dysplasia가 건강한 개와 patellar luxation(PL)이 있는 개에서 식별 가능한지, CT lateral reconstructions가 방사선 사진을 대체할 수 있는지 평가하고자 하였다.",
+      "study_methods": "본 연구는 환자의 중재 없이 후향적으로 이루어졌으며, 총 40개의 femoral trochleae를 PL이 없는 대조군 15개와 PL이 있는 25개로 나누었다. mediolateral stifle 방사선 사진과 CT 기반 lateral reconstruction 영상을 블라인드한 관찰자가 임의 순서로 평가하며 Dejour signs(crossing, supratrochlear spur, double contour)를 판단하였다. 영상 모달리티 간 일치도는 Cohen's kappa와 McNemar 검정을 사용하여 통계 분석하였다(p < 0.05).",
+      "one_sentence_summary": "총 40개의 femoral trochleae를 PL 유무에 따라 나누고, mediolateral stifle 방사선 사진과 CT lateral reconstruction으로 Dejour signs를 평가하였다. 정상 대조군에서는 Dejour signs가 거의 없었고, PL이 있는 stifle에서는 방사선에서 68%, CT에서 72%에서 하나 이상의 Dejour signs가 관찰되었다. 방사선과 CT 간의 징후 일치도는 높은 수준이었으며(κ 0.89-1.00), dome sign이라는 새로운 소견도 PL 환자의 24%에서 확인되었다.",
       "key_results": [
         {
-          "result": "정상 대퇴활차에서는 두 영상법 모두에서 Dejour 징후가 거의 관찰되지 않았다 (CT에서 한 개 예외).",
+          "result": "정상 대조군에서는 두 영상 모달리티 모두에서 Dejour signs가 거의 나타나지 않았으며, CT에서만 한 개에서 발견되었다.",
           "evidence_quote": "Dejour signs were absent from controls on both modalities except for one CT trochlea."
         },
         {
-          "result": "정상군에서 두 영상 모달리티 간 femoral trochlear dysplasia signs(하나 이상의 징후) 일치도는 93%로 높았다.",
+          "result": "정상 대조군에서 femoral trochlear dysplasia signs의 영상 모달리티 간 일치율은 93%로 높았다.",
           "evidence_quote": "In controls, method agreement for femoral trochlear dysplasia signs (one or more signs) was high (observed agreement 93%)."
         },
         {
-          "result": "슬개골 탈구군에서는 방사선 사진에서 68%, CT에서 72%가 하나 이상의 Dejour 징후를 보였다.",
+          "result": "PL이 있는 stifle에서는 68%에서 방사선 사진, 72%에서 CT에서 하나 이상의 Dejour signs가 관찰되었다.",
           "evidence_quote": "In PL stifles, one or more Dejour signs were present in 68% on radiographs and 72% on CT."
         },
         {
-          "result": "슬개골 탈구군 방사선 사진에서 crossing 48%, supratrochlear spur 40%, double contour 28%; CT에서는 각각 48%, 44%, 28%의 빈도를 보였다.",
+          "result": "PL stifles에서 각 Dejour signs별 빈도는 방사선 사진에서 crossing 48%, supratrochlear spur 40%, double contour 28%, CT에서는 각각 48%, 44%, 28%였다.",
           "evidence_quote": "On radiographs: crossing 48%, supratrochlear spur 40%, double contour 28%; and on CT: 48%, 44%, 28%, respectively."
         },
         {
-          "result": "슬개골 탈구군에서 Dejour 징후 조합이 36%에서 관찰되었다.",
-          "evidence_quote": "Sign combinations occurred in 36%."
-        },
-        {
-          "result": "방사선 사진과 CT 간 슬개골 탈구 개별 징후의 일치도는 관찰 일치도 95-100%, κ 0.89-1.00로 상당히 높았다.",
+          "result": "방사선 사진과 CT 간 PL stifles에서 Dejour signs의 일치도는 매우 높았으며(관찰 일치율 95~100%, κ 0.89~1.00), 이는 CT가 방사선을 대체할 수 있음을 시사한다.",
           "evidence_quote": "Agreement between radiography and CT in PL stifles was substantial (observed agreement 95-100%; κ 0.89-1.00)."
         },
         {
-          "result": "추가 소견으로, convex trochlea를 시사하는 단일 투영선('dome' sign)이 슬개골 탈구 대퇴활차의 24%에서 관찰되었으며 주로 grade-4 PL에서 나타났다.",
+          "result": "dome sign이라 명명한 새로운 곡선 모양 trochlea 소견이 PL 환자의 24%에서 관찰되었으며, 주로 grade-4 PL에서 나타났다.",
           "evidence_quote": "An ancillary finding - a single projection line consistent with a convex trochlea ('dome' sign) - was observed in 24% of PL trochleae both with radiography and CT, mostly grade-4 PL."
         }
       ],
-      "authors_conclusion": "Dejour femoral trochlear dysplasia 징후는 슬개골 탈구가 있는 개에서는 확인 가능하며 정상 개에서는 드물게 나타난다. CT lateral 재구성 영상은 이러한 징후들을 신뢰성 있게 보여주며 방사선 사진을 대체할 수 있다. Dejour 징후와 제안된 'dome' 징후의 인지는 슬개골 탈구 개의 수술 전 계획 및 수술적 결정에 도움을 줄 수 있다.",
-      "clinical_takeaway": "이 연구는 슬개골 탈구 진단을 위해 Dejour 기준의 대퇴활차 이형성 징후들을 확인할 수 있음을 보여준다. 방사선 사진과 CT lateral 재구성 모두에서 높은 일치도를 나타내어 CT가 방사선 사진을 효과적으로 대체할 수 있음을 시사한다. 특히 ‘dome’ 징후의 관찰은 중증 슬개골 탈구(주로 grade-4) 평가에 도움을 줄 수 있으며, 수술 계획 수립 시 중요한 영상 소견이 될 수 있다. 단, 샘플 크기 제한과 후향적 연구 설계로 인해 추가 규모가 큰 전향적 연구가 요구된다.",
+      "authors_conclusion": "Dejour femoral trochlear dysplasia signs는 PL이 있는 개에서 확인 가능하며 정상 개에서는 드물다. CT lateral reconstructions는 이러한 징후를 신뢰성 있게 나타내어 방사선 사진을 대체할 수 있다. Dejour sign과 새로 제안된 dome sign의 인지는 개의 PL 수술 전 계획 및 의사결정에 도움이 될 수 있다.",
+      "clinical_takeaway": "본 연구는 patellar luxation(PL)이 있는 개에서 femoral trochlear dysplasia를 나타내는 Dejour signs가 방사선 사진과 CT lateral reconstruction에서 모두 신뢰성 있게 탐지됨을 보여주었다. 정상 개에서는 이러한 소견이 거의 없으므로, 영상에서 Dejour signs의 발견은 PL 진단에 실질적 근거를 제공한다. 특히 CT는 방사선 사진을 대체할 만큼 신뢰도가 높아, PL 환자의 수술 전 평가에 유용할 수 있다. 또한 dome sign이라 명명된 새로운 영상 소견은 고도 PL(grade-4) 개에서 주로 나타났으며, 수술 계획에 추가적인 정보를 제공할 가능성이 있다. 다만, 후향적 연구이고 표본 크기가 제한적이므로 임상 적용 시 보완 연구가 필요하다.",
       "limitations": [
-        "후향적 연구로 인과관계 확인에 제한이 있음",
-        "전체 대상이 40개 대퇴활차로 상대적으로 작은 표본 크기",
-        "평가자가 한명이며, 영상 판독자 간 변이 평가가 포함되지 않음",
-        "초록만 제공되어 세부 연구 절차와 통계 분석 방법이 제한적으로 보고됨"
+        "후향적 연구 설계로 인과관계 평가에 한계가 있다.",
+        "표본 크기가 40개 femoral trochleae로 비교적 작아 일반화에 제약이 있다.",
+        "방사선 사진과 CT 재구성 영상만을 비교하였으며, 임상 결과와의 연관성은 평가하지 않았다.",
+        "abstract-only 정보 제공으로 상세 연구 방법과 환자 선택 기준 등이 제한적으로 보고되었다."
       ],
       "recommended": true,
-      "recommendation_reason": "슬개골 탈구 수술 전 영상 평가에서 Dejour 징후와 dome 징후를 적극적으로 활용할 근거를 제공하며, CT를 방사선 사진 대안으로 고려할 수 있어 임상적 실행 가능성과 진단 정확도 향상에 기여할 수 있으므로 권장함.",
+      "recommendation_reason": "본 연구는 임상에서 자주 보는 patellar luxation 환자 대상으로 femoral trochlear dysplasia를 진단하는 데 유용한 영상 특징과 새로운 dome sign을 실증하며, CT가 방사선을 대체 가능함을 근거 있게 제시하여 실제 수술 계획 수립에 도움을 주므로 임상 적용을 권고한다.",
       "id": "doi:10.1055/a-2924-7203",
       "discovered_at": "2026-09-17 05:57:06.049855+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42562008/",
-      "summary_generated_at": "2026-10-02 23:26:33.078125+00:00",
+      "summary_generated_at": "2026-10-20 01:51:10.887921+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2282,6 +2354,65 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Automated acute pain assessment in brachycephalic cats with ocular pain using the Feline Grimace Scale.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-11-01",
+      "online_publication_date": "2026-07-22",
+      "publication_date_raw": "2026-Nov-01",
+      "doi": "10.2460/javma.26.04.0301",
+      "pmid": "42486150",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.04.0301",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42486150/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "해당 연구는 brachycephalic 형의 고양이에서 Feline Grimace Scale (FGS)를 이용한 AI 기반 급성 안구 통증 평가 가능성을 탐구하였으나, AI 모델의 예측 성능이 제한적이며, conformation-specific 데이터셋의 필요성을 강조하여 임상 적용에는 추가 연구와 보완이 필요하다고 판단됩니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "acute pain assessment in brachycephalic cats",
+      "study_design": "other",
+      "sample_size": 200,
+      "sample_size_quote": "A total of 200 facial images of brachycephalic cats with ocular pain were used for model training and evaluation.",
+      "objective": "brachycephalic 고양이의 안구 통증에 대해 AI 기반 Feline Grimace Scale (FGS) 파이프라인의 적용 가능성과 한계 평가",
+      "study_methods": "brachycephalic 고양이 안구 통증 환자의 200장 얼굴 사진을 이용해 모델을 훈련 및 평가하였다. 얼굴 랜드마크 위치를 예측하는 모델과 5개의 FGS 동작 단위(ear position, orbital tightening, muzzle tension, whiskers change, head position)에 대응하는 5개의 독립적인 회귀 모델이 XGBoost 라이브러리를 사용해 학습되었다. 입력 변수 구성은 3가지로 나누어 평가했고, 랜드마크 위치 정확도는 normalized root mean square error (NRMSE)로, 통증 예측은 mean absolute error, Pearson correlation, R2로 평가되었다.",
+      "one_sentence_summary": "본 연구는 brachycephalic 고양이의 급성 안구 통증을 AI 기반 Feline Grimace Scale (FGS)으로 평가하고자 200장의 얼굴 이미지를 활용한 모델을 개발하였다. 얼굴 랜드마크 위치 탐지는 NRMSE 19.96%로 mesocephalic 고양이 연구(16.76%)보다 정확도가 낮았다. 통증 예측 모델은 muzzle tension과 whiskers change 제외 시(mean absolute error 0.168, R2 0.115, Pearson correlation 0.374) 가장 좋은 성능을 보였으나 전반적으로 일반화가 부족하였다. 제한된 주석 데이터로 인해 예측 성능 추정이 어려우며, 품종별 데이터셋 확보가 필요하다.",
+      "key_results": [
+        {
+          "result": "랜드마크 위치 탐지는 brachycephalic 고양이에서 NRMSE 19.96%로, 이전 연구의 mesocephalic 고양이 16.76%보다 낮은 정확도를 보였다.",
+          "evidence_quote": "Facial landmark detection showed reduced accuracy in brachycephalic cats (NRMSE, 19.96%) compared with previous reports in predominantly mesocephalic cats (NRMSE, 16.76%)."
+        },
+        {
+          "result": "통증 예측 모델 중 muzzle tension과 whiskers change를 제외한 구성에서 가장 나은 결과(평균 절대 오차 0.168, R2 0.115, Pearson 상관계수 0.374)를 보였으나 전체적으로 일반화 성능이 낮았다.",
+          "evidence_quote": "Pain prediction models demonstrated poor generalizability, showing the best results for without muzzle tension and whiskers change (mean absolute error, 0.168; R2, 0.115; Pearson correlation, 0.374)."
+        },
+        {
+          "result": "총 200장의 brachycephalic 고양이 안구 통증 얼굴 이미지가 모델 훈련 및 평가에 사용되었다.",
+          "evidence_quote": "A total of 200 facial images of brachycephalic cats with ocular pain were used for model training and evaluation."
+        }
+      ],
+      "authors_conclusion": "AI 기반 FGS 파이프라인을 이용한 자동 랜드마크 탐지와 통증 예측은 brachycephalic 고양이에서 가능하지만, 제한된 데이터로 인해 예측 성능이 제한적이며 신중한 해석이 필요하다.",
+      "clinical_takeaway": "brachycephalic 고양이에서 안구 통증 평가를 위한 AI 기반 FGS 사용은 기술적으로 가능하지만, 얼굴 구조 특이성이 반영된 충분한 데이터가 없으면 진단 신뢰성이 떨어진다. 본 연구의 모델은 랜드마크 인식 정확도가 낮고 통증 예측 일반화가 부족하여 현장 진료에서 자동화된 통증 평가 보조 도구로 바로 활용하기에는 한계가 있다. 따라서 현재 시점에서는 추가적인 데이터 축적과 모델 개선이 선행되어야 하며, AI 기반 통증 평가는 임상적 맥락과 병합하여 신중하게 적용해야 한다.",
+      "limitations": [
+        "본문은 초록에 근거하였으며 전체 연구 내용과 세부사항이 부족하다.",
+        "모델은 제한된 주석 데이터셋으로 학습되었으며, 전체적인 일반화 성능이 낮다.",
+        "brachycephalic 고양이 특이 얼굴 구조로 인해 랜드마크 탐지 정확도가 떨어져 결과 해석에 주의가 필요하다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.04.0301",
+      "discovered_at": "2026-10-18 01:01:13.256271+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42486150/",
+      "summary_generated_at": "2026-10-20 01:51:00.624689+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Urolithiasis and crystalluria in dogs with primary portal vein hypoplasia: a retrospective study (2010-2023).",
       "journal": "Journal of Small Animal Practice",
       "journal_id": "jsap",
@@ -2442,19 +2573,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 466
+        "received": 462
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 456
+        "received": 477
       }
     },
-    "started_at": "2026-10-19T01:14:43.373918+00:00",
-    "since": "2026-09-04",
-    "processed": 0,
+    "started_at": "2026-10-20T01:48:52.464946+00:00",
+    "since": "2026-09-05",
+    "processed": 2,
     "refreshed": 4,
-    "failed": 17,
-    "deferred": 951,
-    "finished_at": "2026-10-19T01:17:10.678171+00:00"
+    "failed": 11,
+    "deferred": 952,
+    "finished_at": "2026-10-20T01:51:11.982951+00:00"
   }
 }
