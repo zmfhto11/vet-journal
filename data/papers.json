@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T01:51:12.073043+00:00",
-  "last_successful_collection": "2026-10-20T01:48:52.464898Z",
+  "generated_at": "2026-10-21T01:36:43.172969+00:00",
+  "last_successful_collection": "2026-10-21T01:33:58.218176Z",
   "mode": "live",
   "papers": [
     {
@@ -1062,51 +1062,51 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42716084/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 스코티시 테리어와 같이 요로 상피세포암 발생 고위험군 견종을 대상으로 BRAF 돌연변이와 질병 스펙트럼을 연계하여 임상에서의 조기 진단과 스크리닝 근거를 제공하므로, 개 임상 진단 및 예방 분야에 직접적 관련성이 있다.",
-      "primary_category": "internal_medicine",
+      "relevance_reason": "개에서 BRAF mutation BRAFV595E가 비신생성 요로상피부터 침습성 urothelial carcinoma(UC)에 이르기까지 다양한 단계에서 발견된 연구로, 특히 Scottish Terriers를 대상으로 한 임상적 암 조기 진단 및 예방 연구에 직접적인 임상적 의미가 있다.",
+      "primary_category": "oncology",
       "tags": [
-        "oncology",
-        "internal_medicine"
+        "internal_medicine",
+        "oncology"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "canine urothelial carcinoma and BRAF mutation",
+      "disease_or_topic": "urothelial carcinoma",
       "study_design": "prospective",
       "sample_size": 120,
-      "sample_size_quote": "Scottish Terriers ≥ 6 years old with no outward evidence of urinary disease (n = 120) were screened for UC",
-      "objective": "BRAF BRAFV595E 돌연변이의 존재를 비신생성 요로상피에서부터 침습성 요로상피암(UC)에 이르기까지 다양한 단계에서 탐지하여 이를 기반으로 향후 암 예방 연구의 기초를 마련한다.",
-      "study_methods": "6세 이상 스코티시 테리어 120마리를 대상으로 요로 상피세포암(UC) 선별검사 시행. 검사방법은 소변 검사, 요로 초음파, 이후 방광경 생검 및 가능한 경우 부검까지 포함. BRAFV595E 돌연변이는 소변 침전물에서 드롭렛 디지털 PCR로, 방광 조직에서는 면역조직화학법으로 검출. 초기 결과는 2022년에 발표됐으며, 이번에는 확대된 추적관찰 결과가 포함됨.",
-      "one_sentence_summary": "스코티시 테리어 120두를 대상으로 진행한 전향적 연구에서, 41두에서 사진과 생검으로 요로상피암(UC)이 확인되었다(31두 고등급 UC, 6두 저등급 UC, 1두 제자리암종, 3두 이형성증에서 고등급 UC로 진행). BRAFV595E 돌연변이는 고등급 UC 환자 26두 중 23두의 소변에서, 저등급 UC 5두 중 4두, 이형성 3두 중 2두, 그리고 UC 미발견군 66두 중 12두에서 발견되었다. 면역조직화학법에서도 UC 및 비신생성 요로 상피에서 돌연변이가 확인되어 BRAF 돌연변이가 요로상피암 전 단계부터 나타날 수 있음을 시사한다.",
+      "sample_size_quote": "Scottish Terriers ≥ 6 years old with no outward evidence of urinary disease (n = 120) were screened",
+      "objective": "Scottish Terriers에서 BRAF mutation BRAFV595E가 비신생성 요로상피부터 침습성 urothelial carcinoma에 이르기까지 다양한 병변 단계에서 존재하는지 확인하여 암 예방 연구 기반을 마련하고자 했다.",
+      "study_methods": "6세 이상 Scottish Terriers 120마리를 대상으로 무증상 요로 질환에 대해 스크리닝을 실시하였으며, 소변검사, 요로 초음파, 추후 방광내시경 생검 및 가능한 경우 부검을 통해 UC를 진단하였다. BRAFV595E 돌연변이는 소변 침전물에서 droplet digital PCR 법으로, 방광 조직에서는 면역조직화학법으로 검출하였다. 초기 결과는 2022년에 발표되었고, 본 연구는 확장된 추적 관찰 결과를 포함한다.",
+      "one_sentence_summary": "6세 이상 Scottish Terriers 120마리를 대상으로 무증상 요로 질환 스크리닝과 생검 및 추적 관찰을 시행하였다. 이 중 41마리에서 생검으로 UC가 확인되었으며, BRAF mutation BRAFV595E는 고등급 UC 26마리 중 23마리, 저등급 UC 5마리 중 4마리, 이형성 3마리 중 2마리 및 UC 미검출 66마리 중 12마리에서 소변에서 검출되었다. 면역조직화학법으로 비신생성 요로상피와 UC 조직 모두에서 돌연변이가 검출된 점이 확인되었다.",
       "key_results": [
         {
-          "result": "생검으로 확인된 41두의 UC 중 31두는 고등급, 6두는 저등급, 1두는 제자리암종, 3두는 고등급 UC로 진행된 이형성증이었다.",
-          "evidence_quote": "biopsy-confirmed UC was found in 41 dogs including 31 high-grade UC, 6 low-grade UC, 1 carcinoma in situ, and 3 dysplasias that progressed to high-grade UC."
+          "result": "생검으로 확진된 41마리 개 중 31마리는 고등급 UC, 6마리는 저등급 UC, 1마리는 carcinoma in situ, 3마리는 이형성에서 고등급 UC로 진행되었다.",
+          "evidence_quote": "biopsy-confirmed UC was found in 41 dogs including 31 high-grade UC, 6 low-grade UC, 1 carcinoma in situ, and 3 dysplasias that progressed to high-grade UC"
         },
         {
-          "result": "고등급 UC 26두 중 23두, 저등급 UC 5두 중 4두, 이형성증 3두 중 2두, UC 미검출군 66두 중 12두의 소변에서 BRAFV595E 돌연변이가 검출되었다.",
+          "result": "고등급 UC 26마리 중 23마리, 저등급 UC 5마리 중 4마리, 이형성 3마리 중 2마리, 그리고 UC 미검출 66마리 중 12마리 소변에서 BRAFV595E mutation이 검출되었다.",
           "evidence_quote": "The BRAFV595E mutation was found in the urine of 23 of 26 dogs with high-grade UC, 4 of 5 dogs with low-grade UC, 2 of 3 dogs with dysplasia, and 12 of 66 dogs with no UC detected over a median of 14 months of follow-up"
         },
         {
-          "result": "BRAFV595E 돌연변이는 면역조직화학에서 UC뿐만 아니라 비신생성 요로 상피에서도 검출되었다.",
+          "result": "BRAFV595E mutation은 UC 및 비신생성 요로상피 조직에서 면역조직화학법으로 검출되었다.",
           "evidence_quote": "The BRAFV595E mutation was detected in UC and non-neoplastic urothelium by immunohistochemistry."
         }
       ],
-      "authors_conclusion": "BRAF V595E 돌연변이는 개의 요로상피암 및 비신생성 요로 상피 단계 모두에서 존재하며, 이는 향후 암 예방 연구에 중요한 기초자료가 될 것이다.",
-      "clinical_takeaway": "본 연구는 스코티시 테리어를 포함한 고위험 견종에서 요로상피암 발생 초기 단계부터 BRAF 돌연변이가 존재함을 입증했다. 따라서 이들 견종에서 정기적인 요로암 선별검사가 필요하며, 소변 내 돌연변이 검사와 영상 및 조직 검사를 병행하는 것이 권장된다. BRAF 돌연변이가 암 진행과 관계된 중요한 선행생체지표임을 시사하나, 추적관찰 기간과 대상 견종에 제한이 있으므로 다른 견종과 장기 추적연구 필요성이 남아 있다.",
+      "authors_conclusion": "BRAFV595E mutation은 개의 UC 다양한 단계와 비신생성 요로상피에 존재하며, 본 연구 결과는 향후 암 예방 연구에 중요한 기초자료로 사용될 것이다.",
+      "clinical_takeaway": "6세 이상 Scottish Terriers에서 BRAF mutation BRAFV595E는 무증상 때부터 침습성 UC에 이르기까지 다양한 병변 단계에서 발견되어, 이 품종과 잠재적 고위험 다른 품종에서 UC에 대한 선별검사가 필요하다는 점을 시사한다. 소변 내 돌연변이 검색이 민감한 선별 도구로 보이며, 확진 및 치료 계획 수립에는 생검과 표준화된 영상 진단이 필수적임을 확인하였다. 다만, 돌연변이가 발병하지 않은 개에서도 검출되었기에 돌연변이 존재만으로 확진이나 예후를 단정하기에는 한계가 있다.",
       "limitations": [
-        "초기 결과는 2022년에 발표된 바 있으며, 이번 연구는 확장된 추적 관찰 결과를 포함하지만 여전히 스코티시 테리어 단일 견종군에 국한된다.",
-        "연구 대상 120두 중 일부만이 생검 및 부검으로 확진되어 전체 대조군에 대한 확실한 진단 확립에 한계가 있다.",
-        "BRAF 돌연변이 검출과 임상적 발현 간 인과관계가 명확히 증명되지는 않았다.",
-        "초록만 제공되어 상세한 연구 설계와 진행 과정이 제한적으로 기술되었다."
+        "초기 연구 결과에 대한 확장된 추적 관찰 결과지만, 무작위 대조군 연구는 아님",
+        "돌연변이 양성 개 가운데 무병변 개도 존재하여 돌연변이만으로 질환 확진에 사용하기 어려움",
+        "연구 대상이 Scottish Terriers로 제한되어 다른 품종 일반화에 제약이 있음",
+        "전체 120마리 중 생검이 가능한 경우와 가능한 환경에서만 종합 평가가 이뤄져 일부 데이터는 편향 가능성 존재"
       ],
       "recommended": true,
-      "recommendation_reason": "개 임상에서 고위험 견종의 요로상피암 조기 진단과 예방을 위한 구체적이고 직접적인 분자 진단법 증거를 제공하므로 임상검진 체계 개선에 도움된다.",
+      "recommendation_reason": "Scottish Terriers에서 UC 발생과 관련된 BRAFV595E mutation의 반복되는 검출과 무증상기 돌연변이 존재를 바탕으로, 특정 고위험 품종에서 선별검사 도입과 함께 조직 검사 및 영상 검사의 병행이 임상적으로 권고된다.",
       "id": "doi:10.2460/javma.26.06.0508",
       "discovered_at": "2026-09-16 01:13:31.968749+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42716084/",
-      "summary_generated_at": "2026-09-25 23:26:10.296387+00:00",
+      "summary_generated_at": "2026-10-21 01:34:56.854273+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -1532,7 +1532,7 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42823068/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "This study directly investigates clinical presentation, diagnostics, treatment, and outcomes of presumptive propriospinal myoclonus in client-owned dogs, which is a relevant neurological disorder for veterinary internal medicine.",
+      "relevance_reason": "본 연구는 개에서 presumptive propriospinal myoclonus (PSM)의 임상 표현형, 진단 소견, 치료 및 예후를 후향적으로 분석한 직접적인 임상 연구입니다. 27마리의 임상 사례가 포함되어 있으며, 신경과 전문 수의사가 평가를 수행했고, 임상적 특징과 치료 반응 데이터를 제시합니다.",
       "primary_category": "internal_medicine",
       "tags": [
         "internal_medicine",
@@ -1541,63 +1541,55 @@
       "species": [
         "dog"
       ],
-      "disease_or_topic": "Presumptive propriospinal myoclonus in young dogs",
+      "disease_or_topic": "presumptive propriospinal myoclonus",
       "study_design": "retrospective",
       "sample_size": 27,
-      "sample_size_quote": "Twenty-seven dogs with presumptive PSM.",
-      "objective": "To describe the phenotype, diagnostic findings, treatment, and outcomes in presumptive propriospinal myoclonus in dogs.",
-      "study_methods": "This was a multicenter, retrospective study enrolling 27 client-owned dogs with myoclonus affecting limbs and trunk without head involvement. Cases were identified through online calls for suspected cases of PSM. Neurological examinations and advanced diagnostic imaging including MRI of spinal cord and brain were performed in subsets of these dogs. Treatment varied, with some dogs receiving no therapy, others treated with different antiseizure medications. Follow-up information was collected for 96% of dogs.",
-      "one_sentence_summary": "This retrospective multicenter study described 27 young dogs (median onset age 9 months) with presumptive propriospinal myoclonus characterized by extensor pelvic limb myoclonus during recumbency, frequently lateral (93%) or sternal (44%) postures, with normal neurological exams and mostly normal MRI findings. No treatment was given in 59% of cases with 56% showing spontaneous improvement; 41% received antiseizure drugs with 45% improving. The condition appears idiopathic and predominantly affects pelvic limbs in young dogs with generally preserved mentation and potential for spontaneous improvement.",
+      "sample_size_quote": "Twenty-seven dogs met the inclusion criteria over 12 years (2013-2025).",
+      "objective": "개에서 presumptive propriospinal myoclonus의 임상 표현형, 진단 소견, 치료 및 예후를 기술하기 위함.",
+      "study_methods": "다기관 후향적 연구로서, limb과 trunk에 영향을 주는 myoclonus를 보이나 머리는 포함하지 않는 증례를 온라인 및 네트워크 공지를 통해 모집하였으며, board-certified 신경과 전문의 및 신경과 전공의를 통해 심사된 27마리 개의 임상 기록, 비디오, 진단검사 결과(혈액검사, MRI, CSF 검사 등) 및 치료와 경과 정보를 수집하고 분석하였다.",
+      "one_sentence_summary": "2013년부터 2025년까지 전 세계 17개 기관에서 수집된 27마리의 presumptive propriospinal myoclonus를 가진 젊은 개(발병 중앙값 9개월)를 대상으로 후향적 분석을 수행했습니다. 모든 개에서 골반 다리의 extensor myoclonus가 주로 비체중부하자세(측와위 93%, 복위 44%)에서 발생하였으며, 신경학적 검사는 정상이고 MRI 검사에서도 별다른 이상소견이 없었습니다. 59% 개는 무치료 상태에서 56%가 자연 호전을 보였고, 41%는 항경련제 등으로 치료받았으며 이 중 45%가 호전을 보였습니다. 임상적으로 이 질환은 대부분 특발성으로 보이며, 예후는 대체로 양호하나 치료 반응은 다양합니다.",
       "key_results": [
         {
-          "result": "Median age at onset was 9 months (range, 2-44 months).",
-          "evidence_quote": "Median age at onset was 9 months (range, 2-44 months)."
+          "result": "모든 개는 골반 다리에서 extensor myoclonus가 관찰되었으며, 52%는 앞다리, 33%는 몸통에도 관여했다.",
+          "evidence_quote": "Propriospinal myoclonus involved pelvic limbs in all dogs, thoracic limbs in 14/27 (52%), and trunk in 9/27 (33%). Pelvic limb myoclonus was extensor in all dogs, whereas thoracic limb involvement was extensor in 12/27 (44%) and flexor in 3/27 (11%) dogs."
         },
         {
-          "result": "Propriospinal myoclonus involved pelvic limbs in all dogs, thoracic limbs in 14/27 (52%), and trunk in 9/27 (33%).",
-          "evidence_quote": "Propriospinal myoclonus involved pelvic limbs in all dogs, thoracic limbs in 14/27 (52%), and trunk in 9/27 (33%)."
+          "result": "신경학적 검사는 모든 개에서 정상 소견이었고, MRI 검사(6마리 중 5마리)에서는 골격계 및 뇌에 특이 이상 소견이 발견되지 않았다.",
+          "evidence_quote": "Neurological examination was normal in all dogs. Abnormalities were not detected on magnetic resonance imaging of the spinal cord (4/6) or brain (6/6) in 5/6 dogs; in the remaining dog, findings were unrelated to the presumptive PSM."
         },
         {
-          "result": "Pelvic limb myoclonus was extensor in all dogs; thoracic limb involvement was extensor in 12/27 (44%) and flexor in 3/27 (11%) dogs.",
-          "evidence_quote": "Pelvic limb myoclonus was extensor in all dogs, whereas thoracic limb involvement was extensor in 12/27 (44%) and flexor in 3/27 (11%) dogs."
-        },
-        {
-          "result": "Episodes occurred mainly in non-weight-bearing posture, predominantly lateral (25/27; 93%) and sternal (12/27; 44%) recumbency.",
-          "evidence_quote": "Episodes were observed in a non-weight-bearing posture in all dogs, mainly lateral (25/27; 93%) and sternal (12/27; 44%) recumbency."
-        },
-        {
-          "result": "Neurological examination was normal in all dogs.",
-          "evidence_quote": "Neurological examination was normal in all dogs."
-        },
-        {
-          "result": "MRI of spinal cord was normal in 4/6 dogs and brain MRI was normal in 6/6 dogs; one dog had unrelated abnormalities.",
-          "evidence_quote": "Abnormalities were not detected on magnetic resonance imaging of the spinal cord (4/6) or brain (6/6) in 5/6 dogs; in the remaining dog, findings were unrelated to the presumptive PSM."
-        },
-        {
-          "result": "Sixteen dogs (59%) received no treatment; 9/16 (56%) showed spontaneous reduction in PSM frequency.",
+          "result": "반려견 16마리(59%)는 무치료 상태였으며, 이중 9마리(56%)에서 PSM 빈도의 자연 감소가 관찰되었다.",
           "evidence_quote": "Sixteen dogs (59%) received no treatment, of which 9/16 (56%) showed spontaneous reduction in PSM frequency."
         },
         {
-          "result": "Eleven dogs (41%) received antiseizure medications; 5/11 (45%) improved.",
+          "result": "항경련제 등 약물 치료를 받은 11마리 중 5마리(45%)에서 임상 증상 개선이 관찰되었다.",
           "evidence_quote": "Treatment with various antiseizure medications was started in 11/27 (41%) dogs, of which 5/11 (45%) improved."
+        },
+        {
+          "result": "모든 개는 증상 발생 시 의식이 보존되었고 자극에 의해 발작이 방해될 수 있었다.",
+          "evidence_quote": "Episodes were distractible by tactile or auditory stimulation in 17/27 dogs (63%)."
+        },
+        {
+          "result": "증상은 주로 휴식 중 비체중부하 자세에서 발생하였으며, 대부분은 측와위자세(93%)와 복위자세(44%)였다.",
+          "evidence_quote": "Episodes were observed in a non-weight-bearing posture in all dogs, mainly lateral (25/27; 93%) and sternal (12/27; 44%) recumbency."
         }
       ],
-      "authors_conclusion": "Presumptive propriospinal myoclonus primarily affects young dogs, is likely idiopathic, characterized by extensor myoclonus predominantly in pelvic limbs during recumbency, with preserved mentation and frequent spontaneous improvement.",
-      "clinical_takeaway": "이 연구는 주로 9개월령의 젊은 개에서 발생하는 의심되는 propriospinal myoclonus(PSM)의 임상 특징과 예후를 설명한다. 이 질환은 주로 고관절 및 뒷다리의 신전성 근간대경련을 특징으로 하며, 신경학적 검사와 MRI에서는 대부분 정상 소견을 보였다. 많은 개에서 치료 없이도 자발적인 증상 호전이 관찰되어, PSM이 대체로 양호한 예후를 가지며 특발성으로 추정됨을 시사한다. 그러나 치료군 일부에서 항경련제 사용 후 개선이 관찰되었으나, 무작위 대조 연구가 없어 치료 효과 판단에는 한계가 있다. 따라서 젊은 개에서 말초 또는 척추 신경계 이상 없이 재발성 신전성 근경련이 나타날 경우 PSM을 감별진단에 포함하고, 무증상 혹은 경미증상의 경우 관찰 후 자발적 호전 가능성에 대해 보호자에게 설명할 수 있다. 다만 MRI 등 정밀 검사를 통해 중추신경계 구조 이상을 배제하는 것이 필요하다.",
+      "authors_conclusion": "Presumptive PSM은 주로 젊은 개에서 발생하는 양성 경과를 가진 특발성 척수 운동 장애로 판단된다. 주로 골반 다리를 침범하는 extensor myoclonus가 휴식 중 나타나며, 인지 기능은 보존되고 자연 호전이 흔하다.",
+      "clinical_takeaway": "본 연구는 젊은 개에서 발생하는 presumptive propriospinal myoclonus(PSM)의 임상적 특징과 경과를 처음으로 명확히 기술했습니다. 증상은 주로 골반 다리의 extensor myoclonus로 이루어지고 비체중부하 자세에서 자주 나타나며, 신경학적 검사나 영상검사에서 이상 소견이 발견되지 않는 점이 특징입니다. 치료하지 않아도 상당수에서 자연 호전을 보이나, 일부는 항경련제 등 약물 치료에 반응하기도 합니다. 따라서 임상에서는 이 질환을 양성이고 특발성인 척수 운동 장애로 인지하고, 과잉진단이나 과도한 검사 없이 경과 관찰을 우선할 수 있으며, 필요시 항경련제 등으로 치료를 시도할 수 있음을 의미합니다. 아직까지 표준화된 진단법(예: polymyography)과 치료법이 부재하며 증례 수가 제한적이라는 점에서 향후 전향적 연구가 요구됩니다.",
       "limitations": [
-        "후향적 연구로 치료 중재와 추적 관찰이 비체계적으로 이루어짐.",
-        "대부분 사례에서 진단 확진을 위한 조직검사 등 확정적 진단법 부재.",
-        "MRI 검사가 제한된 개체에게만 시행되어 영상학적 이상 여부 확인 제한적.",
-        "진료 기관 다양성 및 증례 확보 방식이 편향 가능성 내포.",
-        "연구가 초록에 한정되어 전문 내용 및 통계 분석 세부 정보 부족."
+        "후향적 디자인으로 인한 자료의 불완전성 및 편향 가능성",
+        "체계적인 신경생리학적 검사(polymyography, EEG-EMG 검증 등)가 실시되지 않아 확진에 한계가 있음",
+        "MRI 및 기타 진단검사가 일부 개에서만 실시되어 기저 질환 배제에 제한적",
+        "치료 반응 평가가 여러 약물 및 시기별 변수를 포함하여 명확한 효과 추정이 어려움",
+        "발작 발생 시 수면 중인지 여부 등 시간적 특성에 대한 자료 부족"
       ],
       "recommended": true,
-      "recommendation_reason": "직접적으로 임상에서 젊은 개의 원인불명 신전성 근간대경련 진단과 예후 판단에 중요한 정보를 제공하며, 진단적 접근과 치료 결정에 유용한 근거로서 가치가 있음.",
+      "recommendation_reason": "본 연구는 임상 현장에서 접할 수 있는 젊은 개의 대표적 척수 기원의 nonepileptic myoclonus 사례를 다기관 대규모로 분석하여 임상 특징과 자연 경과, 치료 반응 양상을 상세히 보고하였으며, 비침습적 평가 방법으로 임상 진단에 도움을 주는 최초의 근거를 마련했습니다. 따라서 임상 진단과 예후 상담 및 치료 결정에 직접적으로 활용 가능하여 수의학 임상 현장에서 참고할 가치가 높습니다.",
       "id": "doi:10.1093/jvimsj/aalag211",
       "discovered_at": "2026-10-02 23:23:59.072315+00:00",
-      "evidence_source": "abstract",
-      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42823068/",
-      "summary_generated_at": "2026-10-02 23:26:05.530662+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13630453",
+      "summary_generated_at": "2026-10-21 01:35:51.044607+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2302,47 +2294,34 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42542127/",
       "source": "pubmed",
       "clinical_relevance": "indirect",
-      "relevance_reason": "연구는 개에서 심장사상충 항원 검사 및 예방제 처방의 적정성 평가에 관한 것으로, 임상적 컴플라이언스와 지역별 감염율을 고려한 위험 기반 검사 전략을 제안하지만 직접적인 임상 시험이나 환자 결과에 대한 증거는 제공하지 않습니다.",
+      "relevance_reason": "본 연구는 American Heartworm Society의 지침과 관련하여, macrocyclic lactone 예방약제 처방 시 Dirofilaria immitis 항원 검사를 매년 시행하는 것이 진료 지침으로 권고되는지 평가하기 위해, 수의학에서 처음으로 인간 예방의학에서 사용되는 Number Needed to Screen 개념을 적용하여 지역별 감염 위험과 순응도를 반영한 평가를 시도한 간행물입니다. 해당 연구는 감염 위험에 따른 검사 필요성에 관한 간접적 근거를 제공하지만, 직접적인 임상 치료 결과나 개별 환자 데이터를 기반으로 하지 않아 직접적인 임상 권고를 도출하기 어렵습니다.",
       "primary_category": "internal_medicine",
       "tags": [
-        "infectious_disease",
-        "internal_medicine"
+        "internal_medicine",
+        "infectious_disease"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "Dirofilaria immitis (Heartworm) antigen testing and preventive compliance",
+      "disease_or_topic": "Dirofilaria immitis infection screening",
       "study_design": "other",
       "sample_size": null,
       "sample_size_quote": null,
-      "objective": "미국 심장사상충학회 가이드라인의 마크로사이클릭 락톤 예방제 처방시 항원 검사 의무화 정책의 적정성을 평가하기 위해 인구 기반 심장사상충 감염율과 사용자의 컴플라이언스 분포를 분석하였다.",
-      "study_methods": "본 연구는 미국 내 카운티별 Companion Animal Parasite Council의 심장사상충 감염률과 예방제 복용자의 컴플라이언스 차이를 대리 변수로 수치화하여 미국 각 주별 감염 위험과 컴플라이언스를 반영한 Number Needed to Screen(NNS) 값을 산출하였다. 이 방법은 인체 예방의학에서 개발된 NNS 개념을 수의학에 처음 적용한 것이다.",
-      "one_sentence_summary": "미국의 심장사상충 예방제 복용 개체군을 대상으로 카운티 별 감염률과 사용자 컴플라이언스 격차를 대리 변수로 사용하여 연간 항원 검사 필요성의 상대 위험도를 평가하였다. NNS 분석 결과, 미국 내 각 주별 검사 필요성이 약 25배까지 차이나는 것으로 나타났다. 이러한 지역별 감염률과 예방제 컴플라이언스 이력을 반영한 위험 기반 검사 전략의 추진이 향후 전향적 평가가 필요함을 제안한다.",
+      "objective": "Dirofilaria immitis 예방약물 처방 시 매년 항원검사 시행의 적절성을 지역별 감염률 및 예방 순응도를 반영하여 평가하는 것.",
+      "study_methods": "미국 각 주의 Companion Animal Parasite Council에서 제공하는 지역별 Dirofilaria immitis 유병률 데이터를 활용하였고, 예방약 순응도 차이를 대리변수로 사용하여 각 지역별 Number Needed to Screen(NNS)를 산출하였다. NNS는 인간 예방의학에서 개발된 screening 효율 지표로, 수의학에서 본 지침 평가를 위해 최초로 적용되었다.",
+      "one_sentence_summary": "Dirofilaria immitis 예방약의 처방 시 매년 항원 검사 시행이 적절한지 평가하기 위해, 미국 각 주의 감염 유병률과 개들의 예방 순응도를 반영하여 Number Needed to Screen(NNS)를 산출하였다. 연구 결과, 지역별 NNS 값이 대략 25배 차이를 보이며 크게 이질적임을 확인하였다. 이러한 결과는 개별 지역과 예방 순응도에 따른 위험 기반 검사 시행 전략이 향후 전향적으로 평가되어야 함을 시사한다.",
       "key_results": [
         {
-          "result": "Number Needed to Screen 값이 미국 내 주별로 약 25배까지 차이남",
-          "evidence_quote": "we derive geographically stratified Number Needed to Screen estimates varying approximately 25-fold across US states."
-        },
-        {
-          "result": "현행 미국 심장사상충학회 가이드라인은 컴플라이언스와 지역 감염률과 무관하게 예방제 처방 시 항원검사 미실시에 대해 '권장하지 않음'을 표명함",
-          "evidence_quote": "Current American Heartworm Society guidelines characterize prescribing macrocyclic lactone preventives in the absence of antigen testing as \"NOT RECOMMENDED,\" regardless of compliance history or geographic prevalence."
-        },
-        {
-          "result": "NNS 개념이 수의학 스크리닝 도구로 처음 적용되어 가이드라인 평가에 사용됨",
-          "evidence_quote": "Number Needed to Screen, an established human preventive medicine framework applied here as a novel veterinary screening tool, has not previously been used to evaluate this guideline."
-        },
-        {
-          "result": "지역별 감염률 및 사용자의 예방제 복용 이력을 기반으로 위험 기반 검사 접근법이 필요하며 전향적 연구가 권장됨",
-          "evidence_quote": "A risk-stratified approach calibrated to local prevalence and compliance history merits prospective evaluation."
+          "result": "지역별 Number Needed to Screen 값은 미국 주마다 약 25배의 차이를 보이며 큰 편차를 나타냈다.",
+          "evidence_quote": "we derive geographically stratified Number Needed to Screen estimates varying approximately 25-fold across US states"
         }
       ],
-      "authors_conclusion": "항원 검사 의무화에 대한 현재 가이드라인은 감염 위험과 예방제 복용 이력의 지역적 차이를 반영하지 못하므로, 지리적 특성과 컴플라이언스를 고려한 위험도 기반 검사 전략에 대한 전향적 평가가 필요하다고 결론지었다.",
-      "clinical_takeaway": "현재 미국 심장사상충 예방 가이드라인은 예방제 처방 시 연간 항원 검사 시행을 권장하지만, 이 연구에서 지역별 감염 위험과 예방제 복용 상태에 따라 검사 필요성이 최대 25배까지 차이가 있음을 확인했다. 따라서 개별 지역의 감염 유병률과 환자의 예방제 이력을 고려한 맞춤형 검사가 향후 더 효율적이고 합리적인 방법일 수 있다. 다만 이 연구는 통계적 모델링 및 간접 데이터에 기반하였으며 전향적 임상시험 결과가 없어, 실제 임상 적용 전 추가 연구가 필요하다. 본 결과를 현실 임상에 무리하게 적용하는 것은 위험하며, 지역 특성에 따른 감염 위험 평가와 개별 환자 관리가 중요하다.",
+      "authors_conclusion": "지역별 감염 위험과 예방 순응도에 맞춰 위험을 분류한 검진 전략이 향후 전향적 연구를 통해 평가되어야 한다고 결론지었다.",
+      "clinical_takeaway": "Dirofilaria immitis 예방을 위한 항원 검사 시행의 빈도는 단일 지침으로 획일화 하기보다 각 지역의 감염률과 개별 환자의 예방 순응도를 고려한 맞춤형 접근이 필요함을 시사한다. 본 연구에서 제시한 Number Needed to Screen는 이러한 위험기반 검사 전략 수립에 참고할 만한 간접 지표로 활용될 수 있으나, 아직 전향적 임상 적용 및 결과 검증이 이루어지지 않아 실제 임상에 바로 적용하기에는 한계가 있다. 따라서 현재는 American Heartworm Society의 권고대로 예방약 처방 시 항원 검사를 지속하는 것이 원칙이며, 향후 위험도 기반 검사 간격 조정에 대한 추가 연구가 필요하다.",
       "limitations": [
-        "연구는 전향적 임상시험이 아닌 모델 기반 분석이며 관련 직접 환자 데이터가 부족하다.",
-        "항원 검사 시행과 예방제 복용 컴플라이언스 데이터가 대리 변수로 사용되어 실제 복용 이력에 차이가 있을 수 있다.",
-        "지역별 감염률 데이터는 Companion Animal Parasite Council 자료에 의존하므로 최신 현황과 차이가 있을 수 있다.",
-        "본 연구는 초록만 제공되어 전체 연구 세부 자료 검토가 불가하다. "
+        "임상 환자군 대상 전향적 연구가 아닌 전국 지역감염률과 순응도 데이터를 기반으로 한 이차 자료 분석임",
+        "Number Needed to Screen 개념을 수의학에 처음 적용한 연구로 임상적 검증이 부족함",
+        "연구는 초록 정보만으로 상세한 연구 방법과 실제 환자 추적 결과가 미흡함"
       ],
       "recommended": false,
       "recommendation_reason": null,
@@ -2350,7 +2329,7 @@
       "discovered_at": "2026-09-17 05:57:37.709935+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42542127/",
-      "summary_generated_at": "2026-10-04 23:26:38.497523+00:00",
+      "summary_generated_at": "2026-10-21 01:36:34.512085+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2410,6 +2389,132 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42486150/",
       "summary_generated_at": "2026-10-20 01:51:00.624689+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Development of a predictive model for estimation of postoperative risk following brachycephalic obstructive airway syndrome surgery.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-11-01",
+      "online_publication_date": "2026-07-17",
+      "publication_date_raw": "2026-Nov-01",
+      "doi": "10.2460/javma.26.01.0071",
+      "pmid": "42468570",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.01.0071",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42468570/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 brachycephalic obstructive airway syndrome (BOAS) 수술을 받은 개를 대상으로 수술 후 사망 및 합병증 위험 요인을 규명하고, 이를 바탕으로 개별 환자별 위험 예측 모델을 개발하여 임상적 판단과 예후 예측에 직접적인 도움을 주기 때문에 임상적으로 직접 연관이 있다.",
+      "primary_category": "surgery",
+      "tags": [
+        "internal_medicine",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "brachycephalic obstructive airway syndrome surgery postoperative risk",
+      "study_design": "retrospective",
+      "sample_size": 297,
+      "sample_size_quote": "297 cases were included.",
+      "objective": "BOAS 수술을 받은 개에서 수술 후 사망 및 합병증에 대한 위험 인자를 규명하고, 이를 활용하여 수술 후 위험을 예측하는 모델을 개발하는 것이다.",
+      "study_methods": "2012년부터 2023년까지 수의학 교육 병원에서 BOAS 수술을 받은 개들의 의무기록을 후향적으로 검토하였다. 예측 변수는 신호 정보, 병력, 임상 증상, 기저 병리, 급성 상태, 수술 종류 등을 포함하는 여러 도메인으로 분류하였다. 결과는 사망, 주요 합병증, 경미한 합병증으로 구분되었고, 이들과 예측 변수 간 연관성은 로지스틱 회귀분석으로 평가하였다. 유의한 변수는 odds ratio와 회귀계수, 95% 신뢰구간으로 보고하였다. 이를 토대로 수술 후 사망과 합병증 위험을 추정하는 예측 모델을 구축하였다.",
+      "one_sentence_summary": "2012년부터 2023년까지 한 수의학 교육 병원에서 BOAS 수술을 받은 297마리 개를 대상으로 후향적 연구가 수행되었다. 연구 결과, 총 12마리(4%)가 퇴원 전 사망했고, 29마리(10%)는 주요 합병증(기도 개입 및 폐렴)을 경험하였다. 주요 합병증과 관련된 유의한 위험 인자로 응급 상태(OR 7.45), 암컷성별(OR 2.78), 고등급 후두 무력증(OR 4.28), 구토/역류 병력(OR 2.16)이 확인되었다. 이러한 위험 인자를 바탕으로 개별 환자의 수술 후 위험을 예측하는 모델이 개발되었다.",
+      "key_results": [
+        {
+          "result": "총 297마리의 BOAS 수술 환자가 포함되었으며, 12마리(4%)가 사망했다.",
+          "evidence_quote": "297 cases were included. Twelve dogs (4%) died prior to discharge."
+        },
+        {
+          "result": "주요 합병증은 29마리(10%)에서 보고되었으며, 기도 개입과 폐렴이 포함되었다.",
+          "evidence_quote": "Major complications (airway interventions and pneumonia) were reported for 29 dogs (10%)."
+        },
+        {
+          "result": "주요 합병증 위험 인자는 응급 출현(OR 7.45; 95% CI, 2.70 to 20.59), 암컷(OR 2.78; 95% CI, 1.11 to 6.67), 고등급 후두 무력증(OR 4.28; 95% CI, 1.56 to 11.79), 구토/역류 병력(OR 2.16; 95% CI, 0.87 to 5.38)이었다.",
+          "evidence_quote": "Major complications were strongly associated with emergent presentation (OR, 7.45; 95% CI, 2.70 to 20.59), female sex (OR, 2.78; 95% CI, 1.11 to 6.67), high-grade laryngeal collapse (OR, 4.28; 95% CI, 1.56 to 11.79), and history of regurgitation/vomiting (OR, 2.16; 95% CI, 0.87 to 5.38)."
+        }
+      ],
+      "authors_conclusion": "본 연구는 BOAS 수술 후 사망 및 합병증과 관련된 위험 인자를 규명하였고, 개별 환자 특성을 반영한 수술 후 위험을 예측하는 다변량 모델을 개발하였다. 그러나 이 모델은 아직 외부 검증이 이루어지지 않았으므로 임상 적용 시 주의가 필요하다.",
+      "clinical_takeaway": "BOAS 수술을 받은 개의 임상가들은 응급상태 출현, 암컷성별, 고등급 후두 무력증, 구토 또는 역류 병력과 같은 위험 인자를 바탕으로 수술 후 사망 및 주요 합병증 발생 위험을 보다 정밀하게 평가할 수 있게 되었다. 본 연구에서 개발된 예측 모델은 개별 환자에게 맞는 위험도를 산출함으로써 예후 예측과 치료 결정, 그리고 환자 분류에 유용한 도구가 될 수 있으나, 외부 검증이 이루어지지 않은 점을 고려하여 임상 상황과 함께 신중히 해석해야 한다. 이는 특히 위험도가 높은 환자를 조기 식별하는 데 도움을 줄 수 있으나, 모든 개에 일괄 적용하기에는 아직 근거가 부족하다.",
+      "limitations": [
+        "후향적 연구로 인과관계 규명에 한계가 있다.",
+        "단일 기관 자료만 사용하여 외부 타당성 검증이 이루어지지 않았다.",
+        "임상 경과와 합병증에 대한 상세한 장기 추적이 부족하다.",
+        "예측 모델의 외부 검증 및 임상 적용에 관한 추가 연구가 필요하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 297마리의 임상 개에서 직접 수술 후 위험 요인을 규명하고 이를 이용한 예측 모델을 제시하여 임상 현장에 즉시 적용 가능한 개별 환자 맞춤형 위험 평가 근거를 제공한다는 점에서 실질적 가치가 높다.",
+      "id": "doi:10.2460/javma.26.01.0071",
+      "discovered_at": "2026-10-18 01:01:13.272095+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42468570/",
+      "summary_generated_at": "2026-10-21 01:35:05.754646+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Cumulative omeprazole administration is associated with increased hazard of exercise-induced pulmonary hemorrhage detection in Thoroughbred racehorses.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-11-01",
+      "online_publication_date": "2026-07-15",
+      "publication_date_raw": "2026-Nov-01",
+      "doi": "10.2460/javma.26.04.0319",
+      "pmid": "42456746",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.04.0319",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42456746/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 Thoroughbred 경주마에 대한 retrospective cohort study로, 경주마의 exercise-induced pulmonary hemorrhage (EIPH) 발생과 omeprazole 누적 투여 간 연관성을 평가하였습니다. 비록 직접적으로 개나 고양이를 대상으로 한 연구는 아니지만, 임상적으로 유사한 내과적 약물 투여의 해로움 가능성을 시사하여 간접적 참고가 가능합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "exercise-induced pulmonary hemorrhage",
+      "study_design": "retrospective",
+      "sample_size": 2924,
+      "sample_size_quote": "A retrospective cohort study of 2,924 Thoroughbred racehorses in training in Hong Kong during the 2012-2013 and 2022-2023 racing seasons was performed",
+      "objective": "Thoroughbred 경주마에서 cumulative oral omeprazole 투여와 exercise-induced pulmonary hemorrhage (EIPH), epistaxis, atrial fibrillation, 그리고 골절 발생 사이의 연관성을 평가하는 것",
+      "study_methods": "홍콩에서 2012-2013년과 2022-2023년 경주 시즌 동안 훈련 중인 2,924마리 Thoroughbred 경주마의 수의학 기록, 훈련 기록, 경주 기록을 이용한 retrospective cohort 연구이다. Cox proportional hazards 모델을 사용하여 누적 omeprazole 용량을 시계열 변화 공변량(time-varying covariate)으로 적용했고, 조련사, 최근 훈련 강도, 경주 연도, 첫 트랙 워크 연령으로 보정하였다. 30일 및 60일의 누적 투여량과 각 질환 발생에 대한 위험비를 산출하였다.",
+      "one_sentence_summary": "홍콩에서 훈련 중인 2,924마리 Thoroughbred 경주마를 대상으로 한 retrospective cohort 연구에서, 최근 30일간의 누적 oral omeprazole 투여량이 exercise-induced pulmonary hemorrhage (EIPH) 발생 위험 증가와 관련이 있었다(hazard ratio 1.08, 95% CI 1.01-1.15 for each 10-g increase). Epistaxis와의 유사한 경향성도 관찰되었으나 유의하지 않았고(hazard ratio 1.20, 95% CI 0.99-1.45), 골절과 atrial fibrillation과는 관련이 없었다.",
+      "key_results": [
+        {
+          "result": "최근 30일간 누적 omeprazole 투여량이 10g 증가할 때마다 EIPH 발생 위험이 1.08배 증가하였다.",
+          "evidence_quote": "Cumulative omeprazole administration during the preceding 30 days was associated with an increased hazard of EIPH detection (hazard ratio, 1.08 for each 10-g increase; 95% CI, 1.01 to 1.15)."
+        },
+        {
+          "result": "Epistaxis 발생 위험도 최근 누적 omeprazole 투여량과 양의 상관관계 경향을 보였으나 통계적으로 유의하지 않았다(hazard ratio 1.20, 95% CI 0.99-1.45).",
+          "evidence_quote": "A similar direction of association was observed for epistaxis (hazard ratio, 1.20; 95% CI, 0.99 to 1.45)."
+        },
+        {
+          "result": "최근 60일간 누적 omeprazole 투여량과 골절 발생 위험 사이에는 거의 상관관계가 없었다(hazard ratio 1.02, 95% CI 0.89-1.17).",
+          "evidence_quote": "Effect estimates were close to null for associations between cumulative omeprazole administration and fracture (hazard ratio, 1.02 for each 10-g increase over 60 days; 95% CI, 0.89 to 1.17"
+        },
+        {
+          "result": "최근 30일간 누적 omeprazole 투여량과 atrial fibrillation 발생 위험 사이에는 관련성이 없었다(hazard ratio 1.02, 95% CI 0.86-1.20).",
+          "evidence_quote": "Effect estimates were close to null for associations between cumulative omeprazole administration and fracture (hazard ratio, 1.02 for each 10-g increase over 60 days; 95% CI, 0.89 to 1.17) or atrial fibrillation (hazard ratio, 1.02 for each 10-g increase over 30 days; 95% CI, 0.86 to 1.20)."
+        }
+      ],
+      "authors_conclusion": "Thoroughbred 경주마에서의 최근 누적 omeprazole 투여는 골절이나 atrial fibrillation 발생과는 관련이 없었으나, exercise-induced pulmonary hemorrhage (EIPH) 발생 위험 증가와 연관되어 있었다.",
+      "clinical_takeaway": "본 연구는 Thoroughbred 경주마의 retrospective 분석으로서, omeprazole 누적 투여가 exercise-induced pulmonary hemorrhage (EIPH) 발생 위험을 증가시킬 수 있음을 시사합니다. 이는 경주마에서 prophylactic으로 omeprazole을 장기간 투여할 때 조심스럽게 투여 지시와 기간을 고려해야 함을 의미합니다. 다만, 연구는 인간이 아닌 말에서의 자료이며 retrospective 설계이므로, 소형 반려동물의 임상에 직접 적용 시 신중함이 요구됩니다. 추가적으로 개나 고양이에서의 직접 연구가 필요합니다.",
+      "limitations": [
+        "연구는 retrospective cohort study로 인과관계를 확정하기 어렵다.",
+        "Thoroughbred 경주마에 한정된 연구이므로 개나 고양이 등 다른 종에 직접 적용하기 어렵다.",
+        "abstract만 이용하여 full data 및 세부 분석 내용을 확인할 수 없다.",
+        "운동강도, 훈련 및 다른 약물 사용 등 교란 변수를 완전히 통제하지 못했을 가능성이 있다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.04.0319",
+      "discovered_at": "2026-10-18 01:01:13.320858+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42456746/",
+      "summary_generated_at": "2026-10-21 01:36:41.951231+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2573,19 +2678,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 462
+        "received": 455
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 477
+        "received": 523
       }
     },
-    "started_at": "2026-10-20T01:48:52.464946+00:00",
-    "since": "2026-09-05",
-    "processed": 2,
-    "refreshed": 4,
-    "failed": 11,
-    "deferred": 952,
-    "finished_at": "2026-10-20T01:51:11.982951+00:00"
+    "started_at": "2026-10-21T01:33:58.218222+00:00",
+    "since": "2026-09-06",
+    "processed": 3,
+    "refreshed": 3,
+    "failed": 9,
+    "deferred": 960,
+    "finished_at": "2026-10-21T01:36:43.080335+00:00"
   }
 }
