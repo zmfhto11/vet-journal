@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T01:36:43.172969+00:00",
-  "last_successful_collection": "2026-10-21T01:33:58.218176Z",
+  "generated_at": "2026-10-22T01:32:37.853997+00:00",
+  "last_successful_collection": "2026-10-22T01:30:07.100868Z",
   "mode": "live",
   "papers": [
     {
@@ -1808,6 +1808,78 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Plasma Dimethylarginine Concentrations in Dogs With Large Cell Lymphoma or Hemangiosarcoma: A Prospective Observational Study.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-08-27",
+      "online_publication_date": "2026-08-27",
+      "publication_date_raw": "2026-Aug-27",
+      "doi": "10.1111/vco.70108",
+      "pmid": "42661152",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70108",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42661152/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 대형 세포 림프종 또는 비피부성 혈관육종으로 새로 진단된 개에서 plasma SDMA 와 ADMA 농도를 측정하여 종양과 관련된 생체표지자로서의 의미를 평가하였으며, 임상 현장에서 종양 부담 및 진행 상태 판단에 직접적으로 도움이 될 수 있는 결과를 제시하였다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "large cell lymphoma, hemangiosarcoma, dimethylarginine",
+      "study_design": "prospective",
+      "sample_size": 31,
+      "sample_size_quote": "A total of 31 dogs were enrolled: 11 with lymphoma, 15 with HSA and 5 with benign splenic lesions.",
+      "objective": "dogs newly diagnosed with large cell lymphoma or non-cutaneous hemangiosarcoma의 plasma ADMA 및 SDMA 농도를 측정하고 종양과의 연관성을 평가하기 위함이다.",
+      "study_methods": "31마리의 개를 대형 세포 림프종(11마리), 비피부성 혈관육종(15마리), 양성 비장 병변(5마리) 세 그룹으로 모집하였다. 모든 개는 연구 참여 시 신장 기능 평가를 통해 신장질환 유무를 배제하였다. 각 개에서 진단 시점에 plasma ADMA 및 SDMA 농도를 측정하였고 임상 병기 정보도 수집하였다.",
+      "one_sentence_summary": "31마리의 개가 연구에 등록되었으며, 대형 세포 림프종 11마리, 비피부성 혈관육종 15마리, 양성 비장 병변 5마리로 구성되었다. SDMA는 혈관육종 환자의 47%, 림프종 환자의 36%, 양성 병변군에서는 0%가 정상 범위를 초과했다. 림프종 및 혈관육종 그룹에서 양성 병변군 대비 SDMA 농도가 유의하게 높았고(p=0.003, p=0.013), 전이 의심 혈관육종 개는 비전이 개보다 SDMA 농도가 높았다(median 21.5 vs. 12 μg/dL; p=0.012). ADMA 농도는 그룹 간 차이가 없었다(p=0.39).",
+      "key_results": [
+        {
+          "result": "혈관육종 환자 47%, 림프종 환자 36%, 양성 병변 환자 0%에서 SDMA 농도가 기준 범위를 초과하였다.",
+          "evidence_quote": "SDMA concentrations exceeded the reference interval in 47%, 36% and 0% of dogs with HSA, lymphoma and benign lesions, respectively."
+        },
+        {
+          "result": "림프종 그룹은 양성 병변군에 비해 SDMA 농도가 통계적으로 유의하게 높았다 (p = 0.003).",
+          "evidence_quote": "Dogs with lymphoma (p = 0.003) and HSA (p = 0.013) had significantly higher SDMA concentrations than dogs with benign splenic lesions."
+        },
+        {
+          "result": "혈관육종 그룹도 양성 병변군에 비해 SDMA 농도가 유의하게 높았다 (p = 0.013).",
+          "evidence_quote": "Dogs with lymphoma (p = 0.003) and HSA (p = 0.013) had significantly higher SDMA concentrations than dogs with benign splenic lesions."
+        },
+        {
+          "result": "전이 의심 혈관육종 개는 전이 없는 개보다 SDMA 농도가 유의하게 높았다 (median 21.5 vs. 12 μg/dL; p = 0.012).",
+          "evidence_quote": "dogs with presumed disseminated HSA had significantly higher SDMA concentrations than those without metastatic disease (median: 21.5 vs. 12 μg/dL; p = 0.012"
+        },
+        {
+          "result": "ADMA 농도는 각 그룹 간 차이가 통계적으로 유의하지 않았다 (p=0.39).",
+          "evidence_quote": "plasma ADMA concentrations did not differ significantly among groups (p = 0.39)."
+        }
+      ],
+      "authors_conclusion": "림프종 및 혈관육종 환자에서 SDMA 농도 상승은 신장 이외의 원인일 가능성이 있으며, SDMA는 종양 부담 또는 진행의 생체표지자로 가치가 있을 수 있다. ADMA의 임상적 유용성은 추가 연구가 필요하다.",
+      "clinical_takeaway": "대형 세포 림프종이나 비피부성 혈관육종으로 진단된 개에서 plasma SDMA 농도가 정상 범위를 벗어나 상승하는 경우가 많으며, 특히 전이병변이 의심되는 혈관육종 개에서는 SDMA 농도가 더 높게 관찰된다. 따라서 SDMA는 이 두 종양의 병기 평가나 종양 부담 판단에 보조적인 생체표지자로 활용될 가능성이 있다. 반면에 ADMA 농도는 종양 유형 간 차이가 없어서 임상적 활용 가능성은 아직 불확실하다. 이러한 결과는 신장 기능이 정상인 개들에서 산출된 것으로, 신장 상태에 따른 혼란변수를 배제했다는 점에서 임상적 해석에 도움이 된다. 다만 본 연구는 소규모이고 전향적 관찰 연구이며, 치료 반응이나 예후와의 연관성은 평가하지 않아 환자 관리에 직접 적용하기 전 더 큰 규모와 장기 추적 연구가 필요하다.",
+      "limitations": [
+        "소규모 표본수(31마리)로 일반화 한계가 있다.",
+        "양성 병변군과 악성 종양군 간 비교는 교차점이 제한적이다.",
+        "임상 경과나 생존률 관련 자료가 포함되어 있지 않다.",
+        "신장 기능 정상 개만 대상으로 하여 신장 질환 개에서의 SDMA 변화는 알 수 없다.",
+        "전향적 관찰 연구로 인과 관계 입증에는 한계가 있다.",
+        "이해를 돕기 위한 추가 생화학적 및 임상 지표는 제공되지 않았다.",
+        "전이 평가 방법과 정의가 상세하지 않다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적으로 임상에서 lymphoma와 hemangiosarcoma 환자의 SDMA 농도를 통해 종양 부담 및 전이 여부를 판단하는 데 중요한 정보를 제공하며, 추가 연구를 통해 종양 생체표지자로서 활용 가능성을 탐색할 가치가 크기 때문이다.",
+      "id": "doi:10.1111/vco.70108",
+      "discovered_at": "2026-09-17 05:57:03.693814+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42661152/",
+      "summary_generated_at": "2026-10-22 01:31:09.329217+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Carbapenem-resistant Enterobacterales in companion animals are an emerging One Health threat.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -2235,41 +2307,42 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42556420/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "이 연구는 개에서 실제 임상에서 사용하는 초음파 기법을 설명하며, 정상 대퇴내전근군(그라실리스, 세미멤브라노서스, 세미텐디노서스 근육)의 해부학적 구조 및 초음파 소견을 제시한다. 이는 근섬유종 등 병변 진단에 직접 활용이 가능하므로, 임상적 관련성이 높다.",
-      "primary_category": "internal_medicine",
+      "relevance_reason": "이 연구는 개에서 gracilis, semimembranosus, semitendinosus 근육의 정상 해부학과 초음파 평가 기법을 상세히 설명하여 임상에서 fibrotic myopathy 같은 근육 질환 진단에 직접적으로 활용 가능하기 때문입니다.",
+      "primary_category": "other",
       "tags": [
         "internal_medicine"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "canine thigh muscle ultrasonographic anatomy and evaluation",
-      "study_design": "case_report",
+      "disease_or_topic": "muscle ultrasonography",
+      "study_design": "other",
       "sample_size": 2,
-      "sample_size_quote": "2 clinically healthy client-owned German Shepherd Dogs were used for this tutorial",
-      "objective": "개에서 그라실리스, 세미멤브라노서스, 세미텐디노서스 근육의 초음파 평가를 위한 실용적 기법을 기술한다.",
-      "study_methods": "2마리의 임상적으로 건강한 독일 셰퍼드 견을 대상으로, 주인 동의 및 대학 위원회 승인하에 시행하였다. 개들은 피부를 털깎기 하고 진정시킨 뒤 등측위에서 양측 고관절 벌림 상태로 편안하게 고정하였다. 고주파 리니어 초음파 탐촉자를 사용해 단계별 스캔법을 시연하였다. 깊이, 초점, 게인, 시간-게인 보상을 조절하여 영상을 최적화하였고, 횡단면 및 종단면 모두에서 근육 기시부, 몸통, 부착부를 관찰하였다. 정상 해부학적 구조를 확인하여 일관된 평가가 가능하도록 하였다.",
-      "one_sentence_summary": "본 연구에서는 임상적으로 건강한 2마리의 독일 셰퍼드 견을 대상으로 고주파 리니어 초음파 탐촉자 사용법을 적용하여 그라실리스, 세미멤브라노서스, 세미텐디노서스 근육을 횡단면과 종단면에서 단계적으로 스캔하였다. 해당 근육들은 위치, 모양, 에코 특성 및 섬유 방향에 따라 명확하게 확인되었고, 표준화된 스캔 평면을 통해 근육 구조와 힘줄 부착부를 일관되게 시각화하는 것이 가능하였다. 이 연구는 개의 대퇴내전근 초음파 평가 방법을 상세히 설명하여 임상 진단에 도움을 준다.",
+      "sample_size_quote": "2 clinically healthy client-owned German Shepherd Dogs were used for this tutorial.",
+      "objective": "개에서 gracilis, semimembranosus, semitendinosus 근육에 대한 실용적인 초음파 평가 기법을 기술하는 것.",
+      "study_methods": "2마리의 건강한 German Shepherd Dogs를 클리핑하고 진정시킨 후, 등쪽으로 누운 자세에서 고주파 직선 탐촉자를 사용하여 초음파 검사하였다. 깊이, 초점 위치, 게인과 시간-게인 보상을 조절하며 횡단면과 종단면 모두에서 근육의 기원, 몸통, 부착 부위를 평가하였다. 정상 해부학적 위치를 기준으로 근육을 식별하고 일관된 평가법을 시연하였다.",
+      "one_sentence_summary": "2마리 건강한 German Shepherd Dogs를 대상으로 다양한 초음파 스캔 기법을 이용해 gracilis, semimembranosus, semitendinosus 근육을 평가하였으며, 근육의 위치, 형태, 에코 특성 및 섬유 방향에 기반해 명확히 식별하였다. 이 표준화된 스캔 방법은 근육 구조와 힘줄 부착부를 일관되게 시각화하는 데 성공하였다. 이 연구는 fibrotic myopathy 진단에 중요한 근육 초음파 사용법을 실제 임상에서 적용할 수 있게 하는 기초자료이다.",
       "key_results": [
         {
-          "result": "초음파 검사를 통해 그라실리스, 세미멤브라노서스, 세미텐디노서스 근육을 위치, 모양, 에코강도 및 섬유 방향에 근거하여 명확하게 식별할 수 있었다.",
-          "evidence_quote": "Ultrasound allowed clear identification of the gracilis, semimembranosus, and semitendinosus muscles on the basis of location, shape, echogenicity, and fiber orientation."
+          "result": "초음파로 gracilis는 표재성이고 평편한 위치의 adductor muscle로, semimembranosus는 더 깊은 위치에, semitendinosus는 후방에 둥근 윤곽으로 명확하게 식별되었다.",
+          "evidence_quote": "Ultrasound allowed clear identification of the gracilis, semimembranosus, and semitendinosus muscles on the basis of location, shape, echogenicity, and fiber orientation. The gracilis was identified in a transverse plane as a superficial, flat adductor muscle, with the semimembranosus located deeper and the semitendinosus positioned more caudally with a rounded contour."
         },
         {
-          "result": "그라실리스 근육은 횡단면에서 표재성의 납작한 내전근으로, 세미멤브라노서스는 더 깊게 위치하며 세미텐디노서스는 보다 후측에 둥근 윤곽으로 관찰되었다.",
-          "evidence_quote": "The gracilis was identified in a transverse plane as a superficial, flat adductor muscle, with the semimembranosus located deeper and the semitendinosus positioned more caudally with a rounded contour."
+          "result": "깊이, 초점 위치, 게인과 시간-게인 보상을 조정하며 횡단 및 종단면 스캔을 통해 근육 기원, 몸통, 부착부위를 평가하였다.",
+          "evidence_quote": "The image was optimized by adjustment of depth, focal zone placement, gain, and time-gain compensation. Scanning was performed in both transverse and longitudinal planes to assess muscle origin, body, and insertion."
         },
         {
-          "result": "고정된 표준 스캔 평면을 통해 근육 구조와 힘줄 부착부를 일관되게 확인하였다.",
+          "result": "표준화된 스캔면으로 근육의 구조와 힘줄 연결부를 일관되게 시각화할 수 있었다.",
           "evidence_quote": "Standardized scanning planes enabled consistent visualization of muscle architecture and tendon attachments."
         }
       ],
-      "authors_conclusion": "초음파는 개에서 그라실리스, 세미멤브라노서스, 세미텐디노서스 근육 평가에 가치 있고 접근 가능한 도구이며, 정상 해부학 및 스캔 기술에 익숙해지는 것이 섬유화 근병증 등 질환 진단과 조기 중재에 필수적이다.",
-      "clinical_takeaway": "이 연구는 개의 대퇴 내전근군 초음파 평가를 위한 표준화된 스캔 기법을 제시하여 임상에서 근육 손상이나 섬유화 근병증 진단에 도움을 준다. 정상 근육의 초음파 소견과 위치, 형태를 숙지함으로써 이상 소견을 정확히 구분할 수 있어 조기 진단 및 치료 계획 수립에 유용하다. 다만 연구 대상은 임상적으로 건강한 2마리의 개에 한정되어 결과의 일반화에는 제한이 있으므로 실제 근병증 환자에 적용한 추가 연구가 필요하다.",
+      "authors_conclusion": "개에서 gracilis, semimembranosus, semitendinosus 근육의 정상 초음파 특징과 효율적인 평가 기법을 확립함으로써 fibrotic myopathy 등의 근육 질환 조기 진단과 평가가 용이해질 수 있음을 시사한다.",
+      "clinical_takeaway": "이 연구는 건강한 개에서 세 가지 근육의 정상적인 초음파 해부학을 상세히 규명하여 임상가들이 fibrotic myopathy와 같은 근육 병리 진단 시 초음파를 활용하는 데 필수적인 기법적 근거를 제공합니다. 표준화된 스캔 프로토콜은 근육과 힘줄의 구조적 변화를 일관되게 평가할 수 있게 하여, 조기 진단과 치료 개입 시점을 앞당길 수 있습니다. 다만 대상은 건강한 2마리의 German Shepherd Dog에 국한되어 적용 범위가 제한적이며 다른 품종이나 병변이 있는 환자에게 적용 시 추가 연구가 필요합니다.",
       "limitations": [
-        "소수의 건강한 개 표본(2마리)만을 대상으로 한 사례 보고 연구이다.",
-        "병적 변화가 있는 환자에서의 초음파 소견과 비교하지 않았다.",
-        "전체 텍스트가 아닌 초록만 제공되어 상세한 검토가 제한적이다."
+        "건강한 독일 셰퍼드 2마리만 대상으로 한 제한된 표본 크기",
+        "환자 개체, 품종 다양성 부족",
+        "fibrotic myopathy 등 실제 질환에서는 초음파 소견과 진단 정확성에 관한 추가 연구 필요",
+        "abstarct only로 자세한 데이터와 통계분석 미제공"
       ],
       "recommended": false,
       "recommendation_reason": null,
@@ -2277,7 +2350,7 @@
       "discovered_at": "2026-09-17 05:57:06.064064+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42556420/",
-      "summary_generated_at": "2026-10-02 23:26:44.606833+00:00",
+      "summary_generated_at": "2026-10-22 01:31:27.251672+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2531,11 +2604,10 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42420192/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 개에서 일차성 문맥 저형성과 관련된 요로결석 발생률과 임상 및 검사 소견을 직접 평가하여 임상 진단과 치료에 중요한 정보를 제공하기 때문입니다.",
+      "relevance_reason": "본 연구는 primary portal vein hypoplasia 진단을 받은 개에서 urolithiasis의 유병률과 임상 병리학적 변화, 임상 증상을 평가하여 이 질환과 요석 발생 간의 직접적인 관련성을 명확히 제시하고 있습니다.",
       "primary_category": "internal_medicine",
       "tags": [
-        "internal_medicine",
-        "nephrology"
+        "internal_medicine"
       ],
       "species": [
         "dog"
@@ -2544,54 +2616,187 @@
       "study_design": "retrospective",
       "sample_size": 14,
       "sample_size_quote": "Fourteen dogs with a definitive diagnosis of primary portal vein hypoplasia were documented",
-      "objective": "일차성 문맥 저형성 진단을 받은 개에서 요로결석 유병률 평가와 요로결석 유무에 따른 임상증상 및 임상병리학적 차이 비교",
-      "study_methods": "2010년부터 2023년까지 15개 영국 전문병원에서 일차성 문맥 저형성으로 진단된 개의 의무기록을 후향적으로 분석. 조직병리학적 진단과 선천성 간문맥-전신 샨트가 배제된 완전한 진단 영상을 포함하는 개만 포함. 임상 증상, 생화학적 지표, 소변검사 소견 및 요로결석 유무 조사.",
-      "one_sentence_summary": "14마리의 일차성 문맥 저형성 확진견을 대상으로 후향적 연구를 수행하였으며, 그중 4마리(28.5%)에서 요로결석이 확인되었다. 요로결석이 있는 개들은 모두 결정증을 보였고, 빌리루빈 결정 및 암모늄 바이우레이트 결정이 각각 일부에서 발견되었다. 요로결석군의 중앙 연령은 15개월이었고, 임상 증상 기간은 중앙값 71일이었다. 일부에서는 후천성 간문맥-전신 샨트도 동반되었다.",
+      "objective": "primary portal vein hypoplasia를 가진 개에서 urolithiasis의 유병률 평가 및 요석 유무에 따른 임상 병리학적 변화와 임상 징후 비교",
+      "study_methods": "2010년부터 2023년까지 15개 영국 중환자 병원에서 primary portal vein hypoplasia로 진단된 개의 의무기록을 검색하였으며, 조직병리학적 진단이 없거나 선천성 간외 또는 간내 포타시스템믹 샌트가 영상으로 배제되지 않은 개는 제외하였다. 임상 징후, 생화학적 지표, 소변 검사 및 urolithiasis 존재 여부에 대해 기록을 검토하였다.",
+      "one_sentence_summary": "본 후향적 연구에서는 primary portal vein hypoplasia가 확진된 14마리의 개를 대상으로 하였으며, 이 중 4마리(28.5%)가 urolithiasis를 가지고 있었다. 요석이 있는 개는 모두 crystalluria를 보였고, bilirubin 결정과 ammonium biurate 결정이 확인되었으며, 일부에서 하부 요로 증상을 나타냈다. 평균 연령 및 임상 증상 지속 기간 등 임상 양상의 차이가 관찰되었고, acquired extrahepatic portosystemic shunt 발생 빈도에도 차이가 있었다.",
       "key_results": [
         {
-          "result": "14마리의 일차성 문맥 저형성 확진견 중 4마리(28.5%)에서 요로결석 발생",
+          "result": "14마리의 primary portal vein hypoplasia 확진견 중 4마리(28.5%)에서 urolithiasis가 관찰되었다.",
           "evidence_quote": "Fourteen dogs with a definitive diagnosis of primary portal vein hypoplasia were documented, of which four (28.5%) had urolithiasis."
         },
         {
-          "result": "요로결석이 있는 모든 개에서 결정증 확인",
-          "evidence_quote": "All dogs with urolithiasis had crystalluria."
+          "result": "모든 urolithiasis가 있는 개에서 crystalluria가 동반되었으며, 1마리(25%)는 bilirubin 결정, 3마리(75%)는 ammonium biurate 결정이 관찰되었다.",
+          "evidence_quote": "All dogs with urolithiasis had crystalluria. One of the four dogs (25%) had bilirubin crystals, while the three other dogs (75%) with urolithiasis had ammonium biurate crystalluria"
         },
         {
-          "result": "요로결석 개 중 1마리(25%)는 빌리루빈 결정, 3마리(75%)는 암모늄 바이우레이트 결정 소견 보임",
-          "evidence_quote": "One of the four dogs (25%) had bilirubin crystals, while the three other dogs (75%) with urolithiasis had ammonium biurate crystalluria"
+          "result": "urolithiasis가 있는 개의 절반(50%)은 하부 요로 증상을 나타냈다.",
+          "evidence_quote": "two (50%) exhibited lower urinary tract signs."
         },
         {
-          "result": "요로결석 있는 개 중 2마리(50%)에서 하부 요로 증상 관찰",
-          "evidence_quote": "two (50%) exhibited lower urinary tract signs"
-        },
-        {
-          "result": "요로결석이 있는 개의 중앙 연령은 15개월(범위 3~38개월), 없는 개는 39개월(범위 6~104개월)",
+          "result": "urolithiasis가 있는 개의 중앙 연령은 15개월(범위 3~38개월)이고, urolithiasis가 없는 개는 39개월(범위 6~104개월)이었다.",
           "evidence_quote": "The median age was 15 months (range 3 to 38) and 39 months (range 6 to 104) in dogs with or without urolithiasis, respectively."
         },
         {
-          "result": "임상 증상 지속 기간 중앙값은 요로결석군 71일(범위 14~150일), 비요로결석군 135일(범위 3~365일)",
+          "result": "유증상 지속 기간 중앙값은 urolithiasis가 있는 개에서 71일(14~150일), 없는 개에서 135일(3~365일)이었다.",
           "evidence_quote": "The median duration of clinical signs was 71 days (range 14 to 150) in dogs with urolithiasis and 135 days (range 3 to 365) in those without."
         },
         {
-          "result": "요로결석이 있는 개 4마리 중 2마리(50%)와 없는 개 10마리 중 1마리(10%)에서 후천성 간문맥-전신 샨트 동반",
+          "result": "acquired extrahepatic portosystemic shunts는 urolithiasis가 있는 개 4마리 중 2마리(50%), 없는 개 10마리 중 1마리(10%)에서 발견되었다.",
           "evidence_quote": "Acquired extrahepatic portosystemic shunts were documented in 2/4 (50%) dogs with urolithiasis and 1/10 (10%) of dogs without."
         }
       ],
-      "authors_conclusion": "일차성 문맥 저형성 개는 요로결석, 즉 상·하부 요로 결석을 발생할 위험이 있으며, 보통 임상 증상이 동반된다. 따라서 개를 평가할 때 소변 검사와 진단 영상 검사를 수행하는 것이 중요하다.",
-      "clinical_takeaway": "일차성 문맥 저형성 진단을 받은 개에서는 28.5%에서 요로결석이 동반될 수 있어, 임상 증상 및 결정증 여부를 확인하기 위한 정기적인 소변검사와 영상 진단이 필수적입니다. 특히, 빌리루빈 및 암모늄 바이우레이트 결정 형성과 하부 요로 증상이 동반된 경우가 많아 이에 대한 주의가 필요합니다. 또한 일부에서는 후천성 간문맥-전신 샨트가 함께 발견되므로, 복합적인 간 및 요로 평가가 임상 관리를 위해 요구됩니다. 다만, 소규모 후향적 연구이므로, 광범위한 적용 전 추가 연구가 필요합니다.",
+      "authors_conclusion": "primary portal vein hypoplasia를 가진 개는 요석 발생 위험이 있고, 이에 따른 임상 징후를 동반하는 경우가 많으므로 소변 검사와 영상 진단이 필수적이라고 보고하였다.",
+      "clinical_takeaway": "primary portal vein hypoplasia가 진단된 개에서는 urolithiasis 발생 가능성이 높아 이에 대한 적극적 검사가 필요합니다. 본 연구에서 14마리 중 4마리에서 요석이 확인되었고, 요석이 있는 군은 crystalluria와 하부 요로 증상이 동반되어 임상 증상의 평가에 중요함을 시사합니다. 또한 acquired extrahepatic portosystemic shunt와의 관련성도 일부 관찰되어 복합적인 병태생리를 고려해야 합니다. 이 연구 결과는 해당 질환을 가진 개들의 요석 발생 위험 평가 및 진단 전략 수립에 실질적인 근거를 제공합니다. 다만 후향적 연구라는 점과 증례 수 제한 등으로 일반화에는 주의가 필요합니다.",
       "limitations": [
-        "후향적 연구 디자인으로 인과관계 평가 제한",
-        "총 대상 개체가 14마리로 소규모",
-        "완전한 조직병리 및 영상 진단을 가진 사례에 한정됨",
-        "초록만 제공되어 상세 분석 제한"
+        "후향적 연구 디자인으로 인과관계 추론에 제한이 있음",
+        "증례 수가 14마리로 상대적으로 적어 통계적 검증력이 낮음",
+        "선천성 Portosystemic Shunt를 완벽히 배제하였으나, acquired shunt의 영향이 포함되어 해석이 어려움",
+        "단일 국가 내 15개 병원 데이터로 지리적/인종학적 편차 고려 필요",
+        "영상 진단 및 조직검사 기준의 세부 차이가 결과 해석에 영향을 줄 수 있음"
       ],
-      "recommended": false,
-      "recommendation_reason": null,
+      "recommended": true,
+      "recommendation_reason": "primary portal vein hypoplasia 환자에서 urolithiasis 발생 위험과 임상 징후가 상당히 명확히 보고되어, 임상 현장에서 해당 환자의 요석 검사 및 영상 진단 시행을 적극 권고할 만한 근거를 제시한다.",
       "id": "doi:10.1111/jsap.70157",
       "discovered_at": "2026-10-05 23:24:59.103283+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42420192/",
-      "summary_generated_at": "2026-10-08 23:29:01.634457+00:00",
+      "summary_generated_at": "2026-10-22 01:32:11.466372+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Use of ultrasound-guided percutaneous perineural corticosteroid injections for refractory cervical pain secondary to vertebral venous system abnormality in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag148",
+      "pmid": "42467980",
+      "pmcid": "PMC13379067",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag148",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42467980/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 2세 중성화된 수컷 Greyhound 견에서 vertebral venous system abnormality에 의한 refractory cervical pain 환자를 대상으로 ultrasound-guided percutaneous perineural corticosteroid injections를 시행하여 임상 증상 개선을 평가했으므로, 직접적인 임상적 관련성을 가진다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "vertebral venous system abnormality causing refractory cervical pain",
+      "study_design": "case_report",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "Ultrasound-guided perineural glucocorticoid injections의 refractory cervical pain에 대한 치료 효과 평가.",
+      "study_methods": "2세 수컷 Greyhound에서 chronic, progressive right forelimb lameness와 cervical pain을 주소로 입원하였다. Cervical MRI로 right-sided C6 internal venous plexus enlargement 및 진행성 C5-T1 internal vertebral venous plexus enlargement와 radiculopathy, spinal cord compression 가능성을 확인하였다. 기존 약물 치료 및 물리치료에도 불구하고 증상 호전이 없어, general anesthesia하에 ultrasound-guided paravertebral perineural methylprednisolone acetate (1 mg/kg per site) 주사를 C5-C6, C6-C7, C7-T1부위에 3회 반복하여 시행하고 추적관찰을 했다.",
+      "one_sentence_summary": "1두의 Greyhound 견에서 vertebral venous system abnormality에 기인한 chronic refractory cervical pain 및 right thoracic limb lameness가 관찰되었으며, 기존의 약물 치료와 physiotherapy에 반응하지 않았다. Ultrasound-guided perineural glucocorticoid injections을 C5-T1 부위에 3회 시행하였고, 임상증상의 호전과 통증 완화가 확인되어 치료적 가능성을 보였다. 부작용은 관찰되지 않았으며, 1개월 후에도 개선된 임상 상태가 지속되었다.",
+      "key_results": [
+        {
+          "result": "Cervical MRI에서 right-sided C6 internal venous plexus enlargement 확인과 함께 C5-T1 부위로 진행하는 internal vertebral venous plexus 비대 및 radiculopathy와 동적 spinal cord compression 의심 소견이 관찰되었다.",
+          "evidence_quote": "A repeat cervical MRI identified progressive right-sided C5-T1 moderate internal vertebral venous plexus enlargement with associated radiculopathy and possible dynamic spinal cord compression (Figure 2). Given lack of response to previous medical management and physiotherapy, ultrasound-guided paravertebral perineural glucocorticoid (methylprednisolone acetate 1 mg/kg per site) injections were performed at right C5-C6, C6-C7, and C7-T1 while the dog was under general anesthesia after MRI."
+        },
+        {
+          "result": "Ultrasound-guided perineural methylprednisolone acetate 주사가 C5-C6, C6-C7, C7-T1 부위에 총 3회 시행되었고, 시행 후 right thoracic limb lameness와 cervical discomfort가 호전되었다.",
+          "evidence_quote": "Three ultrasound-guided perineural glucocorticoid injections (methylprednisolone acetate, 1 mg/kg per site) were performed at right C5-C6, C6-C7, and C7-T1 with improvement noted in lameness and cervical discomfort."
+        },
+        {
+          "result": "주사 시행과 관련된 부작용은 발생하지 않았다.",
+          "evidence_quote": "No adverse effects were associated with the injections."
+        }
+      ],
+      "authors_conclusion": "Ultrasound-guided percutaneous perineural glucocorticoid injections는 vertebral venous system abnormality에 의해 유발된 refractory cervical pain의 치료에 잠재적 치료법으로 고려될 수 있으며, 본 증례에서 임상증상 호전과 안전성이 확인되었다.",
+      "clinical_takeaway": "Greyhound견에서 vertebral venous system abnormality로 인한 chronic refractory cervical pain 치료에 기존 약물 및 물리치료에 반응하지 않을 경우, ultrasound-guided perineural corticosteroid injections가 증상 개선에 도움이 될 가능성이 있다. 본 연구는 단일 증례보고로서, 치료 효과와 안전성을 입증하기 위해서는 추가적인 전향적 연구가 필요하다. 그러나 임상적으로 유사한 병태를 가진 환자에서 대체적 통증조절 옵션으로 고려할 수 있다는 점에서 유용하다.",
+      "limitations": [
+        "단일 증례보고로 일반화에 제한이 있다.",
+        "대조군이 없고 전향적 연구가 아니므로 인과관계를 명확히 하기 어렵다.",
+        "추적 기간이 상대적으로 짧아 장기 효과 및 부작용 평가가 불충분하다.",
+        "치료 횟수 및 용량 관련 최적 프로토콜이 제시되지 않았다.",
+        "MRI 및 임상 평가에 대한 주관적 요소가 존재할 수 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 임상 증례에서 refractory cervical pain 환자에 대해 ultrasound-guided perineural corticosteroid injections 사용 시 임상적 개선과 부작용 부재가 보고되어, 임상적 대체 치료법을 모색하는 경우 시도해볼 만한 가치가 있기 때문이다.",
+      "id": "doi:10.1093/jvimsj/aalag148",
+      "discovered_at": "2026-09-17 05:57:06.133199+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13379067",
+      "summary_generated_at": "2026-10-22 01:32:26.436914+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Association of brachycephaly, sleep-disordered breathing, and inflammatory response in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag126",
+      "pmid": "42476551",
+      "pmcid": "PMC13384642",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag126",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42476551/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 brachycephaly와 sleep-disordered breathing(SDB)이 실제 개에서 매우 높은 관련성을 보이며, SDB 진단과 치료를 위해 임상적으로 중요한 정보를 제공합니다. 특히 brachycephalic dog에서 SDB와 관련된 low-grade inflammation의 상관관계를 다루어 진단 및 치료 계획에 직접적 임상적 가치를 갖습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "respiratory"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "sleep-disordered breathing in brachycephalic dogs",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "본 연구는 brachycephaly가 sleep-disordered breathing 및 이에 따른 염증 반응과 개의 복지에 미치는 영향을 평가하고, 이러한 SDB의 진단과 치료법을 개괄적으로 탐구하는 데 목적이 있습니다.",
+      "study_methods": "연구는 sleep physiology, SDB의 병인, 진단법(폴리솜노그래피, whole-body barometric plethysmography, portable neckband system), SDB 증상과 임상적 발견, 위험 인자 및 치료법에 관한 기존 문헌과 임상 연구들을 포괄적으로 분석한 종합적 논문 형식으로 진행되었습니다. 특히 brachycephalic dog를 중심으로 SDB와 관련된 저등급 염증 반응에 대한 연구 결과를 체계적으로 정리하였습니다.",
+      "one_sentence_summary": "본 연구는 brachycephaly가 sleep-disordered breathing(SDB)과 밀접하게 관련되어 있음을 다양한 진단법과 임상증상으로 확인하였으며, 보통 brachycephalic dog에서 SDB가 흔히 나타납니다. SDB는 intermittent hypoxemia에 따른 chronic low-grade inflammation과 연관되어 있고, 이로 인해 동물복지에 심각한 영향을 끼칩니다. 치료법으로는 수술적 방법과 보존적 방법이 있으나 완전한 치료법은 아직 없으며, SDB의 객관적 진단법 확립과 임상적 인식 제고가 필요합니다.",
+      "key_results": [
+        {
+          "result": "brachycephaly와 moderate 또는 severe signs의 BOAS와 과체중이 SDB의 중요한 위험인자임을 확인하였다.",
+          "evidence_quote": "Risk factors for SDB include brachycephaly, moderate or severe signs of brachycephalic obstructive airway syndrome, and excess weight."
+        },
+        {
+          "result": "포터블 neckband system을 이용해 평균 5개 이상의 SDB 이벤트를 보인 개에서 주인 인지 증상이 더 많이 나타났다.",
+          "evidence_quote": "Owner-perceived signs of SDB are more prevalent in dogs with more than 5 SDB events per hour of estimated sleep."
+        },
+        {
+          "result": "BOAS 수술 후에도 SDB가 지속되는 경우가 있으며, 완전한 해소는 보장되지 않는다.",
+          "evidence_quote": "However, continuation of SDB after BOAS surgery is described both objectively13,14 and subjectively.87,95 In addition, permanent tracheostomy improves quality of life in dogs with SDB.109 Conservative treatment forms include medications, weight loss, and potentially continuous positive airway pressure (CPAP) and positional therapy."
+        },
+        {
+          "result": "brachycephalic dog에서 sleep 중 산소포화도의 간헐적 저하가 chronic low-grade inflammation과 연관되어 있으며, 다양한 염증 매개체 변화가 관찰되었다.",
+          "evidence_quote": "The activated hypoxia-inducible factor complex regulates many immune cell functions, such as cell motility,135 migration,136 and proliferation.137 Hypoxia-inducible factor is also involved in upregulation of various cytokines138 and chemokines.139 In addition to disease processes, hypoxemia-induced low-grade inflammation also occurs in healthy dogs due to high altitude.140 The relationship between chronic low-grade inflammation and OSA is widely researched in humans, but inflammatory mediators have not been assessed in dogs with relation to objectively measured SDB. Although in humans, OSA is associated with comorbidities, including obesity and cardiovascular disease, which also induce low-grade inflammation, the severity of OSA correlates with elevated concentration of various inflammatory mediators.141,142 Current knowledge of low-grade inflammation in brachycephalic dogs, presumably as a result of intermittent hypoxemia resulting from upper airway obstruction, is compiled in Table 3."
+        },
+        {
+          "result": "Polysomnography가 SDB 진단의 골드 스탠다드이나 임상에 적용하기 어려워, 간단하고 실용적인 진단 도구 개발이 필요하다.",
+          "evidence_quote": "Snoring cannot be used as the sole indicator of SDB, as it occurs even in the absence of apneas and hypopneas and does not correlate with the rate of SDB events in brachycephalic dogs.13,14 The currently available objective diagnostic methods are not easily adapted into clinical practice. Although the use of a portable neckband system for diagnostics of SDB is described,13,14 it is not commercially available at present."
+        },
+        {
+          "result": "과체중은 SDB 위험을 증가시키며, 체중 조절은 호흡 기능 개선에 중요하다.",
+          "evidence_quote": "Sleep-disordered breathing is objectively described also in the normocephalic Norwich Terrier.14 Norwich Terriers are prone to upper airway syndrome, where the constricted laryngeal region and lymphoedema, instead of brachycephaly, lead to upper airway obstruction.97–99 Excess weight (body condition score greater than 5/9) is a risk factor for both SDB14 and BOAS.96,100,101 Obesity decreases minute volume and limits airflow in brachycephalic dogs100 and worsens respiratory measurements, such as tidal volume, also in normocephalic dogs.102 Respiratory function and oxygenation improve after weight loss in normocephalic dogs,103 which may also be reflected in their quality of sleep. Sex and aging are not identified as risk factors for SDB,14 although both are associated with OSA in humans."
+        }
+      ],
+      "authors_conclusion": "본 연구들은 brachycephaly가 수면 중 호흡장애의 중요한 위험요인임을 확인하였으며, SDB는 호흡기 및 전신 건강과 관련해 복잡한 저등급 염증을 일으킬 수 있음을 시사한다. 하지만 현재 이용 가능한 진단법과 치료법은 제한적이며, 보다 간단하고 객관적인 진단 도구의 개발과 치료 반응 평가를 위한 추가 연구가 긴요하다. 또한, brachycephalic 품종의 미래에 대한 근본적인 검토와 개선책 역시 필요하다.",
+      "clinical_takeaway": "brachycephalic dog에서 sleep-disordered breathing(SDB)은 매우 흔하며 이로 인한 intermittent hypoxemia가 chronic low-grade inflammation을 유발해 복지저하와 동반질환 위험 증가에 기여할 수 있습니다. 임상에서는 주인 보고 증상(예: 앉아서 수면, 야간 불안정, apnea 증상)을 바탕으로 의심할 수 있으나, snoring만으로는 진단할 수 없습니다. 현재 gold standard인 polysomnography는 임상 활용이 어렵고, portable neckband 등 간편 진단법은 상용화되어 있지 않아, 객관적 진단법 개발이 시급합니다. 수술과 보존적 치료가 도움이 되나 완전한 해결책은 아니므로, 과체중 관리와 다측면 접근이 필요합니다. 이 결과는 brachycephalic 개의 SDB 진단과 치료 전략 수립에 직접 활용할 수 있으나, 아직 진단 기준과 치료법의 표준화가 이루어지지 않아 광범위한 적용에는 제한점이 있습니다.",
+      "limitations": [
+        "본 논문은 종합적 문헌 및 기존 연구 요약 형태로, 임상시험이나 전향적 연구가 아니므로 근거 수준이 제한적임.",
+        "SDB 진단에 gold standard인 polysomnography 연구가 제한적으로 수행되어 있고, 새로운 진단기술들이 임상에 널리 적용된 상태가 아님.",
+        "low-grade inflammation과 SDB의 연관성 연구는 일부 관찰 및 상관관계에 의존하며 인과관계 확립에는 추가 연구가 필요함.",
+        "본 연구의 대부분 데이터는 brachycephalic dog에 국한되어 있어, normocephalic dog나 다른 품종에 일반화하는 데 주의가 필요함.",
+        "치료법의 효과에 관한 데이터가 일부 소규모 연구나 사례 보고에 근거하고 있어 임상적 적용 전 신중한 평가가 요구됨."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 brachycephalic dog에서 sleep-disordered breathing과 그 영향, 진단 및 치료법에 대한 포괄적이고 직접적인 임상 정보를 제공하여, 수면 호흡 장애 의심과 관리에 실질적 도움을 주기에 임상 현장에서 권장할 만합니다.",
+      "id": "doi:10.1093/jvimsj/aalag126",
+      "discovered_at": "2026-09-17 05:57:06.129815+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13384642",
+      "summary_generated_at": "2026-10-22 01:31:41.408318+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2678,19 +2883,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 455
+        "received": 452
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 523
+        "received": 513
       }
     },
-    "started_at": "2026-10-21T01:33:58.218222+00:00",
-    "since": "2026-09-06",
+    "started_at": "2026-10-22T01:30:07.100913+00:00",
+    "since": "2026-09-07",
     "processed": 3,
-    "refreshed": 3,
-    "failed": 9,
-    "deferred": 960,
-    "finished_at": "2026-10-21T01:36:43.080335+00:00"
+    "refreshed": 2,
+    "failed": 7,
+    "deferred": 957,
+    "finished_at": "2026-10-22T01:32:37.763588+00:00"
   }
 }
