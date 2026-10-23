@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T01:32:37.853997+00:00",
-  "last_successful_collection": "2026-10-22T01:30:07.100868Z",
+  "generated_at": "2026-10-23T01:32:08.838847+00:00",
+  "last_successful_collection": "2026-10-23T01:29:48.276666Z",
   "mode": "live",
   "papers": [
     {
@@ -1880,6 +1880,66 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Diagnostic performance of 1,2-O-dilauryl-rac-glycero glutaric acid-(6'-methylresorufin) ester lipase activity in cats presenting to a veterinary referral hospital.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-26",
+      "online_publication_date": "2026-08-26",
+      "publication_date_raw": "2026-Aug-26",
+      "doi": "10.2460/javma.26.01.0064",
+      "pmid": "42648350",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.01.0064",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42648350/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 임상에서 췌장염이 의심되는 고양이를 대상으로 1,2-O-dilauryl-rac-glycero glutaric acid-(6'-methylresorufin) ester(DGGR) lipase 활성도를 측정하여 진단적 성능을 평가하였으므로 임상에서 직접적으로 적용 가능한 데이터입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "pancreatitis",
+      "study_design": "retrospective",
+      "sample_size": 231,
+      "sample_size_quote": "A total of 231 cats were included",
+      "objective": "고양이에서 췌장염 임상 진단 및 초음파 평가와 비교하여 DGGR lipase 활성도의 상승 유병률과 진단적 성능을 평가하였다.",
+      "study_methods": "고양이 231마리를 대상으로 혈청 DGGR lipase 활성을 Randox lipase assay로 측정하였다. 25 U/L 초과일 경우 증가된 것으로 간주하였다. 임상 평가자는 DGGR lipase 결과를 모르게 하여 각 고양이에 대해 0(췌장염 없음)부터 4(확실한 췌장염)까지 임상 점수를 부여하였다. 초음파는 췌장염을 지지하는 변화 수에 따라 0부터 4까지 점수를 매겼다. DGGR lipase 활성도는 임상 점수 및 초음파 점수와 비교하였다.",
+      "one_sentence_summary": "231마리의 고양이를 대상으로 DGGR lipase 활성을 측정하고 임상 점수(0~3) 및 초음파 점수(0~3)와 비교하였다. 임상 점수 3(강한 췌장염 의심)을 기준으로 DGGR lipase의 민감도는 70%, 특이도는 79%였으며, 음성예측가치는 97%로 높았다. DGGR lipase 활성은 임상 및 초음파 점수가 낮은 군에서 유의하게 낮았다. 이는 저유병률 2차 병원 환경에서 정상 DGGR lipase 결과가 췌장염 가능성을 낮추는 데 유용함을 시사한다.",
+      "key_results": [
+        {
+          "result": "임상 점수 3을 기준으로 DGGR lipase 활성도의 민감도는 70%, 특이도는 79%였고, 양성예측가치는 24%, 음성예측가치는 97%였다.",
+          "evidence_quote": "With the use of a clinical score of 3 as the reference, DGGR lipase activity had a sensitivity of 70% and specificity of 79% (positive predictive value, 24%; negative predictive value, 97%)."
+        },
+        {
+          "result": "DGGR lipase 활성은 초음파 점수 0인 고양이에서 점수 1, 2, 3인 고양이보다 유의하게 낮았다.",
+          "evidence_quote": "DGGR lipase activity was significantly lower in cats with an ultrasound score of 0 compared to scores of 1, 2, and 3."
+        },
+        {
+          "result": "임상 점수가 0 및 1인 고양이에서 DGGR lipase 활성은 임상 점수 2 및 3인 고양이보다 낮았다.",
+          "evidence_quote": "DGGR lipase activity was lower in cats with clinician-assigned scores of 0 and 1 compared to scores of 2 and 3."
+        }
+      ],
+      "authors_conclusion": "DGGR lipase 활성도는 임상 및 초음파 점수가 낮은 고양이에서 낮게 측정되었으며, 음성예측가치가 높아 췌장염 의심 시 정상 결과는 췌장염 가능성을 줄여주는 것으로 판단된다.",
+      "clinical_takeaway": "이 연구는 내원한 고양이 231마리를 대상으로 DGGR lipase 측정 결과를 임상적 췌장염 의심 정도 및 초음파 평가와 비교하였습니다. DGGR lipase가 정상 범위일 경우 췌장염이 아닐 가능성이 아주 높아져 음성예측가치가 97%에 달하는 점이 임상에서 중요한 진단 보조 역할을 할 수 있음을 나타냅니다. 그러나 양성예측가치는 낮아(24%) DGGR lipase 상승만으로 췌장염 확진은 어렵고 임상과 초음파 소견을 함께 고려해야 합니다. 본 결과는 저유병률 2차 병원 환경의 데이터이므로 고유병률이 다른 환경에 따라 다소 차이가 있을 수 있음을 유념해야 합니다.",
+      "limitations": [
+        "임상 점수 4(확실한 췌장염) 군이 없었으며, 연구는 후향적 디자인으로 완전한 무작위 배정이나 대조가 부족하다.",
+        "DGGR lipase 활성도에 대한 최적 절단값 선정 기준 및 장기 추적 결과는 제공되지 않았다.",
+        "초음파 및 임상 점수는 주관적 평가가 개입될 수 있으며, 조직학적 확진은 포함되지 않았다.",
+        "연구는 1개 기관의 의뢰 환자군에 한정되어 일반화에 제한이 있을 수 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 231마리 고양이를 대상으로 비교적 신뢰할 수 있는 임상 및 영상 소견과 DGGR lipase 활성도를 함께 평가하여 그 진단적 유용성을 명확히 해 주었고, 정상 lipase 결과가 췌장염 의심군에서 음성 예측에 유용함을 밝혀 임상에서 참고할 만한 근거를 제공합니다.",
+      "id": "doi:10.2460/javma.26.01.0064",
+      "discovered_at": "2026-09-17 05:57:03.709125+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42648350/",
+      "summary_generated_at": "2026-10-23 01:31:48.261288+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Carbapenem-resistant Enterobacterales in companion animals are an emerging One Health threat.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -2102,7 +2162,7 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42590798/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 전방 십자인대 파열이 있는 개를 대상으로 하여 인상-살바티 지수의 이상과 내측 반월상 연골 파열의 연관성을 평가하였으므로, 임상에서 전방 십자인대 손상 및 반월상 연골 손상을 가진 개 진료에 직접 적용 가능하다.",
+      "relevance_reason": "본 연구는 canine cranial cruciate ligament tear 환자의 수술 전 modified Insall-Salvati (IS) index 값을 이용하여 medial meniscal tear 위험을 평가하였으며, 그 결과 비정상적인 IS index가 meniscal 손상 위험 증가와 통계적으로 유의한 연관성을 보임을 보고하여 직접적인 임상 적용 가능성을 시사합니다.",
       "primary_category": "surgery",
       "tags": [
         "orthopedics",
@@ -2111,46 +2171,45 @@
       "species": [
         "dog"
       ],
-      "disease_or_topic": "cranial cruciate ligament tears and associated medial meniscal tears in dogs",
+      "disease_or_topic": "cranial cruciate ligament tears and medial meniscal tears",
       "study_design": "retrospective",
       "sample_size": 229,
       "sample_size_quote": "The study included 229 stifles.",
-      "objective": "전방 십자인대 파열이 있는 개에서 수정된 인상-살바티 (IS) 지수로 측정한 슬개골 높이와 내측 반월상 연골 파열 간의 연관성을 평가한다.",
-      "study_methods": "CCLT를 치료받은 개들의 의무기록을 후향적으로 검토하였다. 수정된 IS 지수를 사용하여 중외측 방사선 영상에서 수술 전 슬개골 높이를 측정하였다. 내측 반월상 연골 파열 여부는 크라니오메디알 슬개 소관절 미니 관절경 검사로 확인하였다. 교란 변수를 통제한 통계 분석을 통해 비정상적인 IS 지수가 내측 반월상 연골 손상과 연관이 있는지 평가하였다.",
-      "one_sentence_summary": "전방 십자인대 파열(CrCLT)이 있는 개 229개 슬관절을 대상으로 한 후향적 연구에서, 슬개골 높이를 측정하는 수정된 인상-살바티 지수(IS index)가 비정상인 경우(12.6%, 29/229) 내측 반월상 연골 파열이 44.8%(13/29) 발생했고, 정상 IS 지수인 경우(87.4%, 200/229)는 24.5%(49/200)에서 파열이 나타났다. 비정상 IS 지수를 가진 개는 정상 군에 비해 내측 반월상 연골 파열 발생 위험이 3배 증가하였다(95% 신뢰구간 1.2~7.3). 완전 파열과 부분 파열의 분포는 두 그룹 간 차이가 없었다.",
+      "objective": "cranial cruciate ligament tear (CCLT)를 가진 개에서 modified Insall-Salvati index로 측정한 patellar height와 medial meniscal tear 사이의 연관성을 평가하였다.",
+      "study_methods": "CCLT로 치료받은 개들의 의무기록을 후향적으로 검토하였다. 수술 전 중간측면 촬영에서 modified IS index로 무릎뼈 높이를 측정하였다. craniomedial stifle mini-arthrotomy를 통해 medial meniscal tear의 유무를 확인하였고, 교란변수 조절 후 비정상적 IS index가 meniscal 손상과 연관이 있는지 통계분석을 수행하였다.",
+      "one_sentence_summary": "후향적으로 CCLT 진단 및 수술을 받은 229개의 개 무릎을 대상으로 modified Insall-Salvati index 측정과 craniomedial mini-arthrotomy로 medial meniscal tear 여부를 평가하였다. 전체 스티플의 12.6%에서 비정상 IS index를 보였고, 이 중 44.8%가 meniscal tear를 가졌으며 정상 IS index 군에서는 24.5%였다. 비정상 IS index 군은 정상 군 대비 meniscal tear 발생 위험이 3배 높았다. CCLT가 완전 또는 부분 파열인 분포에는 두 군 간 통계적 차이가 없었다.",
       "key_results": [
         {
-          "result": "수정된 IS 지수의 비정상값은 12.6% (29/229)였고, 이 중 44.8% (13/29)가 내측 반월상 연골 파열을 동반했다.",
+          "result": "229개의 무릎 중 12.6%인 29개가 비정상 modified Insall-Salvati index를 가졌으며, 이 중 44.8% (13개)가 medial meniscal tear를 보였다.",
           "evidence_quote": "Abnormal modified IS index values were found in 12.6% (29 of 229) of stifles, of which 44.8% (13 of 29) had a concurrent medial meniscal tear."
         },
         {
-          "result": "정상 IS 지수 그룹(87.4%, 200/229)에서는 24.5% (49/200)의 슬관절에서 내측 반월상 연골 파열이 있었다.",
+          "result": "정상 modified IS index를 가진 200개의 무릎 중 24.5%인 49개에서 medial meniscal tear가 있었다.",
           "evidence_quote": "Among the dogs with a normal modified IS index (87.4% [200 of 229]), only 24.5% (49 of 200) had a concurrent medial meniscal tear."
         },
         {
-          "result": "비정상 IS 지수를 가진 개들은 정상 지수를 가진 개에 비해 내측 반월상 연골 파열의 오즈가 3배였다(95% 신뢰구간 1.2~7.3).",
+          "result": "비정상 modified Insall-Salvati index를 가진 개는 정상 그룹에 비해 medial meniscal tear 발생 위험이 3배 높았다(95% 신뢰구간 1.2 to 7.3).",
           "evidence_quote": "Dogs with an abnormal IS index had 3 times the odds of a medial meniscal tear (95% CI, 1.2 to 7.3) compared to those with a normal index."
         },
         {
-          "result": "완전 또는 부분 전방 십자인대 파열의 분포는 정상 IS 지수 그룹과 비정상 IS 지수 그룹 사이에 통계적으로 유의한 차이가 없었다.",
+          "result": "정상 IS index 군과 비정상 IS index 군 간에 완전 또는 부분 CCLT 분포는 통계적으로 유의한 차이가 없었다.",
           "evidence_quote": "There was no statistically significant difference in the distribution between complete and partial CCLT between the normal IS index and abnormal IS index groups."
         }
       ],
-      "authors_conclusion": "수정된 인상-살바티 지수로 측정한 비정상적인 슬개골 높이는 전방 십자인대 파열이 있는 개에서 이차적인 내측 반월상 연골 파열의 위험 증가와 유의하게 연관되어 있다.",
-      "clinical_takeaway": "전방 십자인대 이상이 의심되는 개에서 수술 전 방사선 사진을 통해 수정된 IS 지수를 측정하면 내측 반월상 연골 파열 위험이 높은 동물을 선별할 수 있다. 이는 수술 계획 수립과 보호자 상담에 도움을 주며, 반월상 연골 손상 여부에 따른 추가 치료 방침 결정에 참고할 수 있다. 다만, 연구가 후향적이며 비정상 IS 지수 자체가 모든 파열 위험을 설명하지 못하므로, 이 지수만으로 절대적인 진단이나 예후 예측 도구로 사용하기에는 한계가 있다.",
+      "authors_conclusion": "비정상적인 modified Insall-Salvati index에 따른 patellar height는 CCLT를 가진 개에서 이차적인 medial meniscal tear 위험 증가와 유의한 연관이 있다.",
+      "clinical_takeaway": "CCLT가 있는 개에서 수술 전 modified Insall-Salvati index를 측정하는 것은 medial meniscal tear 위험을 평가하는 데 유용할 수 있다. 특히 비정상적인 patellar height를 가진 경우 meniscal 손상의 가능성이 높으므로, 수술 계획과 보호자 상담 시 이를 고려하는 것이 도움이 된다. 다만 연구는 후향적이고 관찰연구이므로 인과관계 확립이나 모든 환자에 대한 일반화에는 한계가 있으며, 추가 전향적 연구가 필요하다.",
       "limitations": [
-        "후향적 연구 디자인으로 인과관계 확립에 제한이 있다.",
-        "수술 전 측정을 위한 방사선 영상의 위치와 해석에 일부 가변성이 있을 수 있다.",
-        "연구는 단일 기관의 의료 기록에 근거하여 일반화에 제한이 있을 수 있다.",
-        "논문 정보가 초록 수준에 한정되어 전체 연구 방법과 통계 분석 세부사항 파악에 한계가 있다."
+        "후향적 연구 설계로 인과관계 확인에 제한이 있다.",
+        "단일 기관 데이터로 일반화 가능성에는 제한이 있을 수 있다.",
+        "meniscal tear 진단을 위한 크라니오메디얼 미니 관절경 절개법에 따른 확인은 제한적일 수 있다."
       ],
       "recommended": true,
-      "recommendation_reason": "이 연구는 임상에서 전방 십자인대 파열 환자 개들의 내측 반월상 연골 손상 위험 평가에 직접적으로 적용 가능한 객관적이고 실용적인 지표를 제시하며, 표본 크기도 229개 슬관절로 비교적 크고 유의한 통계결과를 제공한다.",
+      "recommendation_reason": "임상에서 CCLT 환자의 수술 전 상태 평가 중 modified Insall-Salvati index 측정이 meniscal tear 위험 예측에 직접적으로 활용 가능하며, 이를 바탕으로 수술 계획과 보호자 상담에 실질적 도움을 제공할 수 있어 임상적 가치가 높기 때문이다.",
       "id": "doi:10.2460/javma.26.03.0166",
       "discovered_at": "2026-09-17 05:57:05.982149+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42590798/",
-      "summary_generated_at": "2026-09-29 23:27:21.240375+00:00",
+      "summary_generated_at": "2026-10-23 01:30:55.340808+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2664,6 +2723,137 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Renoprotective effects of curcumin in cats with chronic kidney disease.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag138",
+      "pmid": "42462212",
+      "pmcid": "PMC13375107",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag138",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42462212/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 IRIS stage 3 chronic kidney disease (CKD)를 가진 고양이 16마리를 대상으로, curcumin 보조 요법이 SDMA를 비롯한 다양한 임상 및 생화학적 바이오마커에 미치는 영향을 평가하였으며, 임상에서 직접 적용 가능한 결과를 제공한다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "chronic kidney disease",
+      "study_design": "prospective",
+      "sample_size": 16,
+      "sample_size_quote": "Sixteen client-owned cats with IRIS stage 3 CKD.",
+      "objective": "IRIS stage 3 CKD가 있는 고양이에서 표준 치료와 함께 경구 투여되는 curcumin(80 mg/cat/day)이 신장 기능, 산화 스트레스, 염증, 세포자멸사 관련 바이오마커에 미치는 영향을 평가한다.",
+      "study_methods": "IRIS stage 3 CKD 진단 고양이 16마리를 무작위로 두 그룹(MT; n=8, MT+C; n=8)으로 나누어 MT군은 표준 의료 치료만, MT+C군은 표준 치료에 curcumin을 경구로 80 mg/cat/day, 2회 분할 투여하여 60일간 치료하였다. 주요 평가 변수는 혈청 SDMA, 소변 단백질-크레아티닌 비율(UPC), 총 항산화 상태(TAS), 총 산화 상태(TOS), NF-κB 및 Caspase-3 등이며, 치료 전(0일)과 15, 30, 45, 60일차에 혈액 및 소변 샘플링을 실시하였다. 치료 기간 중 연구자는 맹검하였으며 일차 결과 변수는 SDMA였다.",
+      "one_sentence_summary": "IRIS stage 3 CKD를 가진 16마리의 고양이를 대상으로 한 전향적 무작위 연구로, 8마리에게 표준 치료(MT)를, 8마리에게 표준 치료와 curcumin 80 mg/cat/day 경구 투여(MT+C)를 60일간 실시하였다. MT+C군에서 치료 30일부터 60일까지 혈청 SDMA가 MT군보다 유의하게 낮았고, 소변 protein-to-creatinine ratio(UPC)가 감소했으며, total antioxidant status(TAS)는 증가하고 total oxidant status(TOS)는 감소하는 경향을 보였다. 또한 염증과 세포자멸사 관련 바이오마커인 NF-κB와 Caspase-3 수치가 MT+C군에서 낮아지는 것을 확인하였다. 이는 curcumin이 산화 스트레스, 염증 및 세포자멸사 경로를 조절하여 단계 3 CKD 고양이에서 신장 보호 효과를 나타낼 수 있음을 시사한다.",
+      "key_results": [
+        {
+          "result": "혈청 SDMA는 치료 30, 45, 60일에 MT+C 그룹이 MT 그룹보다 유의하게 낮았다(P < .01).",
+          "evidence_quote": "The primary outcome, serum symmetric dimethylarginine (SDMA) concentration, was significantly lower in the MT + C group than in the MT group on days 30, 45, and 60 (P < .01)."
+        },
+        {
+          "result": "치료 기간 동안 두 그룹 간 혈청 creatinine 농도에는 유의한 차이가 없었다.",
+          "evidence_quote": "Serum creatinine concentrations remained persistently increased in both CKD groups throughout the study, with no significant within-group or between-group differences"
+        },
+        {
+          "result": "MT+C 그룹에서 치료 60일에 수축기 혈압(SBP)이 감소하였고, 60일에 MT 그룹보다 유의하게 낮았다.",
+          "evidence_quote": "In the MT + C group, a significant decrease in SBP was observed at day 60 compared with baseline (P < .05). On day 60, SBP was significantly lower in the MT + C group than in the MT group (P < .05)."
+        }
+      ],
+      "authors_conclusion": "IRIS stage 3 CKD가 있는 고양이에서 standard medical treatment에 curcumin을 60일간 보조 투여하면 혈청 SDMA 농도가 감소하고, 산화 스트레스, 염증, 세포자멸사 관련 메커니즘 바이오마커에서 유리한 변화를 유도하여 신장 보호 효과를 기대할 수 있다. 다만, 표본수가 적고 치료 기간이 짧아 결과는 예비적이며 추가 연구가 필요하다.",
+      "clinical_takeaway": "IRIS stage 3 만성 신부전 고양이에서 curcumin을 80 mg/cat/day 용량으로 60일간 표준 치료와 병행하여 투여하면 SDMA 같은 민감한 신장 기능 바이오마커가 개선되고, 산화 스트레스, 염증 활성화, 세포자멸사가 억제되는 생물학적 메커니즘 변화가 관찰된다. 이 결과는 curcumin이 고양이 만성 신부전에서 신장 보호 효과를 보조할 가능성을 시사하나, 소규모 임상 연구에 근거한 예비적 결과이므로 넓은 임상 적용 전 추가 대규모 장기간 연구가 필요하다. 투여 기간과 용량 설정, 직접적인 신장 조직학적 평가도 향후 검증이 필요하다.",
+      "limitations": [
+        "표본 크기가 16마리로 상대적으로 작아 결과 일반화에 제한적이다.",
+        "신장 조직학적 평가가 없어 조직 수준 변화에 대한 직접적 증거를 제공하지 못한다.",
+        "대조군에 위약 투여가 없어 완전한 맹검 대조 설계가 아니다.",
+        "60일간의 비교적 짧은 관찰 기간으로 장기 효과 및 안전성은 확인되지 않았다.",
+        "healthy control 그룹은 치료 효과 평가 목적이 아닌 질병 특성화를 위한 비교에만 활용되었다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "이 연구는 실제 임상 환경에서 IRIS stage 3 CKD 고양이 대상, curcumin 보조 치료의 신장 기능 개선 및 생체지표 변화에 대해 무작위·전향적 연구 설계로 평가한 최초 임상 증거를 제공한다. 제한적 표본 크기에도 불구하고 SDMA 및 여러 기전 바이오마커에서 일관된 유익 신호를 보여 임상 적용을 위한 근거 자료로 가치 있다.",
+      "id": "doi:10.1093/jvimsj/aalag138",
+      "discovered_at": "2026-09-17 05:57:06.139475+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13375107",
+      "summary_generated_at": "2026-10-23 01:31:17.204919+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Submucosal urethral bulking with 2.5% polyacrylamide hydrogel (Mictamid) for urinary incontinence in male dogs using a percutaneous fluoroscopically assisted perineal approach.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag140",
+      "pmid": "42467979",
+      "pmcid": "PMC13379066",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag140",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42467979/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 요실금이 있는 남성 개에 대해 percutaneous fluoroscopically assisted perineal approach를 이용한 2.5% polyacrylamide hydrogel (PAHG) submucosal urethral bulking 시술의 치료 효과와 안전성을 평가하였고, 대상은 임상 환자인 client-owned 남성 개 5마리로 구성되어 있어 임상 적용이 직접적입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "nephrology",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "urethral sphincter mechanism incompetence (USMI) in male dogs",
+      "study_design": "retrospective",
+      "sample_size": 5,
+      "sample_size_quote": "The remaining 5 cases were included.",
+      "objective": "남성 개의 요실금 치료를 위해 percutaneous fluoroscopically assisted perineal approach를 통한 2.5% polyacrylamide hydrogel (PAHG) submucosal cystoscopic injection 시술과 그 결과를 기술하고 평가합니다.",
+      "study_methods": "2025년 1월부터 7월까지 프렌드쉽 동물병원에서 요실금이 있는 남성 개 중 percutaneous fluoroscopically assisted perineal approach로 submucosal cystoscopic injection을 받은 5마리를 후향적으로 선별. 마취 하에 flexible cystoscopy 후 fluoroscopy를 통한 요도 및 방광 접근으로 rigid cystoscopy 실시. 2.5% PAHG를 요도 점막하에 4-5회 주입해 75% 이상의 요도 내강 폐쇄(coaptation)를 유도, 2개의 고리를 만들어 부종 효과를 냄. 시술 후 1개월 및 마지막 추적 시점에 보호자가 평가한 요실금 정도(1점=완전 요실금 ~ 5점=완전 요실금 없음)를 기록해 Friedman 다중비교 검정으로 통계 분석. 부작용도 기록. 중앙 추적관찰 기간은 108일(범위 51-154일).",
+      "one_sentence_summary": "요실금 증상을 보인 남성 개 5마리를 대상으로 2.5% polyacrylamide hydrogel로 percutaneous fluoroscopically assisted perineal approach를 통한 submucosal cystoscopic urethral bulking 시술을 후향적으로 평가했다. 시술 전 중앙 요실금 점수는 2(범위 2-4)였고, 시술 30일 후 중앙 점수는 5(범위 4-5), 마지막 추적 시점에서도 5(범위 4-5)로 통계적으로 유의하게 개선되었다(P = .03). 추적기간 중앙은 108일이었다. 한 마리에서 일시적 혈뇨가 있었으나 심각한 합병증은 없었다.",
+      "key_results": [
+        {
+          "result": "5마리 모든 개에서 요실금 호전을 보였다.",
+          "evidence_quote": "All 5 dogs had improvement in their urinary incontinence."
+        },
+        {
+          "result": "시술 전 중앙 continence 점수는 2, 시술 30일 후 중앙 점수는 5, 마지막 추적 시점 중앙 점수도 5로 유의미한 개선이 있었다(P = .03).",
+          "evidence_quote": "The median initial continence score was 2 (range, 2-4). The continence score improved significantly compared with the baseline score both at 30 days post-bulking (median, 5; range, 4-5) and at the time of last follow-up (median, 5; range, 4-5; P = .03)."
+        },
+        {
+          "result": "한 마리에서 시술 후 자가 제한적 혈뇨가 나타났다.",
+          "evidence_quote": "One dog had self-limiting hematuria."
+        },
+        {
+          "result": "추적 관찰 기간 중앙값은 108일(범위 51-154일)이었다.",
+          "evidence_quote": "Median time of last follow-up was 108 days post-bulking (range, 51-154 days)."
+        }
+      ],
+      "authors_conclusion": "Percutaneous fluoroscopically assisted perineal approach를 통한 2.5% polyacrylamide hydrogel (PAHG) submucosal cystoscopic urethral bulking은 남성 개에서 urinary incontinence 치료에 유망한 비침습적 치료법임을 시사한다.",
+      "clinical_takeaway": "남성 개에서 우후성 sphincter mechanism incompetence(USMI)로 인한 요실금은 약물치료 반응률이 떨어지는 경우가 많아 치료 옵션이 제한적이었다. 본 연구에서는 2.5% PAHG를 이용한 submucosal urethral bulking을 percutaneous fluoroscopically assisted perineal approach로 시행하여 모든 개에서 통계적으로 유의미한 요실금 개선 효과를 보였고, 심각한 부작용은 관찰되지 않았다. 특히 요도 diverticulum이 동반된 경우에도 효과적이었다. 단, 본 연구는 소규모 후향적 보고로 장기 추적 데이터가 부족하고 표준화된 진단(예: urethral pressure profile)과 치료군 비교가 없는 점이 한계이다. 따라서 임상에서 약물 치료 실패 또는 부적합한 남성 개에서 본 시술을 고려해볼 수 있으나, 장기 효과와 반복 시술 필요성에 대한 추가 연구가 필요하다.",
+      "limitations": [
+        "후향적 연구로 진단과 치료법이 표준화되어 있지 않음",
+        "모든 개가 약물치료 실패 후 치료받지는 않음으로 치료 이력상 이질성 존재",
+        "환자 수가 5마리로 매우 적어 결과 일반화에 한계 있음",
+        "최장 추적기간이 154일로 장기 효과 판정 불가",
+        "유로압력 프로파일 등 확진적 USMI 진단이 이루어지지 않음",
+        "비교 대조군이 없어 효과의 상대적 우위 평가 불가",
+        "투시촬영이 필요해 모든 임상 환경에 적용이 어려움"
+      ],
+      "recommended": true,
+      "recommendation_reason": "이 연구는 직접 임상에서 요실금 남성 개 5마리를 대상으로 실제 시술법과 단기 경과, 부작용을 구체적으로 보고하여 임상적 가치가 높고, 기존 치료법에 제한된 반응을 보인 환자에 새로운 비침습적 대안으로 참고할 수 있으므로 권장한다.",
+      "id": "doi:10.1093/jvimsj/aalag140",
+      "discovered_at": "2026-09-17 05:57:06.136719+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13379066",
+      "summary_generated_at": "2026-10-23 01:30:36.374110+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Use of ultrasound-guided percutaneous perineural corticosteroid injections for refractory cervical pain secondary to vertebral venous system abnormality in a dog.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -2883,19 +3073,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 452
+        "received": 481
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 513
+        "received": 540
       }
     },
-    "started_at": "2026-10-22T01:30:07.100913+00:00",
-    "since": "2026-09-07",
+    "started_at": "2026-10-23T01:29:48.276709+00:00",
+    "since": "2026-09-08",
     "processed": 3,
-    "refreshed": 2,
-    "failed": 7,
-    "deferred": 957,
-    "finished_at": "2026-10-22T01:32:37.763588+00:00"
+    "refreshed": 1,
+    "failed": 8,
+    "deferred": 983,
+    "finished_at": "2026-10-23T01:32:08.740691+00:00"
   }
 }
