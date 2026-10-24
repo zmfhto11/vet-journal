@@ -1,9 +1,70 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T01:32:08.838847+00:00",
-  "last_successful_collection": "2026-10-23T01:29:48.276666Z",
+  "generated_at": "2026-10-24T01:36:51.757734+00:00",
+  "last_successful_collection": "2026-10-24T01:34:28.745273Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Intraoperative Measurement of Soft Tissue Tension in Canine Uncemented Total Hip Arthroplasty.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-10-21",
+      "online_publication_date": "2026-10-21",
+      "publication_date_raw": "2026-Oct-21",
+      "doi": "10.1055/a-2969-6113",
+      "pmid": "42906601",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2969-6113",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42906601/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 client-owned 개들을 대상으로 total hip arthroplasty 시 intraoperative soft tissue tension을 정량적으로 측정하였고, 이를 임상 결과와 연계하여 수술 중 긴장도 평가 방법을 제안했으므로 임상적 직접 관련이 있다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "total hip arthroplasty",
+      "study_design": "prospective",
+      "sample_size": 19,
+      "sample_size_quote": "Twenty hips (19 dogs) were included.",
+      "objective": "client-owned 개를 대상으로 total hip arthroplasty 수술 도중 시행되는 헛관절판 적용 및 최종 맞춤 시 발생하는 soft tissue tension force의 증분을 정량화하고, deep gluteal tendon 부분 tenotomy의 tenorrhaphy가 soft tissue 긴장도에 미치는 영향을 규명하며, Shuck, Kick, External Rotator 테스트를 이용한 수술 중 tension 평가 프로토콜을 개발하고 단기 임상결과와 연관성을 조사하고자 하였다.",
+      "study_methods": "클라이언트 소유 19마리 개 20개의 고관절에 대해 total hip arthroplasty를 시행하면서 여러 단계의 trial head 사용과 trial reduction 중 soft tissue tension을 수술 중 반복적으로 측정하였다. 또한 deep gluteal tendon partial tenotomy 후 tenorrhaphy 과정을 거쳐 tension 변화를 평가하였고, Shuck test를 포함한 여러 평가법의 일관성을 확인하였다. 측정된 tension 값과 단기 임상 결과를 분석하여 intraoperative tension 평가 프로토콜을 제안하였다.",
+      "one_sentence_summary": "본 연구는 total hip arthroplasty를 받은 client-owned 개 19마리(20고관절)를 대상으로 수술 중 trial 및 최종 감압 시 soft tissue tension force를 측정하였다. 최종 tension은 70.6에서 182.4 N 범위였고 평균 124.5 N이었으며, deep gluteal tendon partial tenotomy 후 tenorrhaphy는 tension을 유의하게 증가시켰다. Shuck test는 tension 평가에 일관성이 있었으며, 제시된 수술 중 평가방법이 단기 임상 결과와 연관성을 보였다.",
+      "key_results": [
+        {
+          "result": "최종 soft tissue tension은 70.6부터 182.4 N까지였으며 평균은 124.5 N이었다.",
+          "evidence_quote": "The final soft tissue tension ranged from 70.6 to 182.4 N, with an average of 124.5 N."
+        },
+        {
+          "result": "Shuck test는 수술 중 soft tissue tension 평가 시 반복 가능하고 일관된 결과를 보여주는 신뢰할 만한 검사였다.",
+          "evidence_quote": "The Shuck test was repeatable and consistent."
+        },
+        {
+          "result": "deep gluteal tendon partial tenotomy의 continuous pattern suture tenorrhaphy는 periprosthetic soft tissue tension을 유의하게 증가시켰다.",
+          "evidence_quote": "Tenorrhaphy of the deep gluteal tendon partial tenotomy using a continuous pattern suture of metric 3.5 polydioxanone produced a significant increase in the tension of the periprosthetic soft tissue envelope."
+        }
+      ],
+      "authors_conclusion": "Shuck test는 prosthetic hip joint 주변 soft tissue tension을 신뢰성 있게 측정할 수 있어 수술 중 tension 평가 도구로 유용하며, deep gluteal tendon tenorrhaphy는 최종 soft tissue tension을 유의하게 증가시킨다. 따라서 systematic한 intraoperative tension 평가와 측정 방법 적용이 total hip replacement 수술에 권고된다.",
+      "clinical_takeaway": "total hip arthroplasty를 시행하는 개들의 수술 중 soft tissue tension은 70.6에서 182.4 N까지 다양하게 나타났고 평균은 약 124.5 N이었다. Shuck test는 이러한 tension을 신뢰성 있게 평가할 수 있는 간편한 수술 중 평가법으로 사용 가능하다. 또한 deep gluteal tendon의 partial tenotomy 뒤에 하는 tenorrhaphy는 주변 soft tissue tension을 유의하게 증가시키므로 수술적 봉합 전략 설계에 고려할 필요가 있다. 이 연구 결과는 수술 중 tension 측정을 체계적으로 수행해 prosthesis 주변 조직 상태를 정량적으로 평가하고, 그에 따른 봉합 및 재활 계획 수립에 활용할 수 있음을 시사한다. 다만 단기 임상 결과만 포함한 소규모 전향적 사례집단 연구이므로 장기 결과나 다양한 병태군에 대한 일반화에는 신중해야 한다.",
+      "limitations": [
+        "단기 임상 결과만 평가하였고 장기 추적관찰이 부족하다.",
+        "총 19마리 개 20개 고관절로 표본 크기가 제한적이다.",
+        "단일 수술군에 대한 전향적 사례집 시리즈로 대조군이 없어 비교 근거가 제한적이다.",
+        "수술실 환경 및 단일 평가자에 의한 tension 측정이 반복성에 영향 줄 수 있다.",
+        "abstract 정보만으로 상세한 수술 방법 및 추적 기간, 임상 평가 지표의 구체적 기술이 부족하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "이 연구는 직접 client-owned 개의 total hip arthroplasty 수술 중 soft tissue tension을 정량적으로 측정하고, 신뢰성 있는 intraoperative 평가 방법을 제안하여 실제 임상 수술 과정에 적용 가능하며 봉합법이 tension에 미치는 영향을 구체적으로 밝혀 임상 수술 계획 수립에 실용적인 정보를 제공하기 때문에 권고할 만하다.",
+      "id": "doi:10.1055/a-2969-6113",
+      "discovered_at": "2026-10-24 01:34:30.336992+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42906601/",
+      "summary_generated_at": "2026-10-24 01:35:49.052042+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
       "journal": "Veterinary and Comparative Oncology",
@@ -3073,19 +3134,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 481
+        "received": 501
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 540
+        "received": 563
       }
     },
-    "started_at": "2026-10-23T01:29:48.276709+00:00",
-    "since": "2026-09-08",
-    "processed": 3,
-    "refreshed": 1,
-    "failed": 8,
-    "deferred": 983,
-    "finished_at": "2026-10-23T01:32:08.740691+00:00"
+    "started_at": "2026-10-24T01:34:28.745321+00:00",
+    "since": "2026-09-09",
+    "processed": 1,
+    "refreshed": 0,
+    "failed": 12,
+    "deferred": 1001,
+    "finished_at": "2026-10-24T01:36:51.616852+00:00"
   }
 }
