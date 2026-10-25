@@ -1,9 +1,96 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T01:36:51.757734+00:00",
-  "last_successful_collection": "2026-10-24T01:34:28.745273Z",
+  "generated_at": "2026-10-25T01:11:15.360374+00:00",
+  "last_successful_collection": "2026-10-25T01:08:52.481045Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Retrospective Application of the Current International Myeloma Working Group Disease Definitions in 20 Cats With Immunoglobulin Secreting Neoplasms.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-10-23",
+      "online_publication_date": "2026-10-23",
+      "publication_date_raw": "2026-Oct-23",
+      "doi": "10.1111/vco.70123",
+      "pmid": "42918624",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70123",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42918624/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 고양이에서 immunoglobulin 분비 신생물(MRD) 진단과 예후 평가에 국제 Myeloma Working Group (IMWG) 기준을 고양이 특성에 맞게 적용한 결과를 분석하여 임상 진료에 직접적인 관련성을 가지기 때문입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "feline myeloma related diseases",
+      "study_design": "retrospective",
+      "sample_size": 20,
+      "sample_size_quote": "A retrospective cohort of 20 cats with SPE/IF-confirmed M-proteins and clinical data was included in the study",
+      "objective": "고양이에서 serum protein electrophoresis (SPE)와 immunofixation (IF)으로 확인된 M-proteins을 가진 20마리 고양이를 대상으로 IMWG 기준을 적응하여 MRD 진단을 평가하고, classic multiple myeloma (MM) 정의와의 차이점 및 예후인자를 비교 분석하는 것입니다.",
+      "study_methods": "과거 기록을 토대로 SPE/IF로 M-protein이 확인된 20마리 고양이의 임상 기록, 실험실 데이터, 세포학적 및 조직학적 소견을 바탕으로 IMWG-adapted 및 classic MM 기준을 적용하여 사례를 분류하고, 생존율은 log-rank test로 평가했습니다.",
+      "one_sentence_summary": "이 연구는 20마리 M-protein-positive 고양이를 후향적으로 분석하여 IMWG 기준을 고양이에 맞게 적용했으며, 14마리는 IMWG-adapted MM 기준을 충족했고 7마리는 classic MM 기준에 부합하였습니다. Visceral plasma cell tumors가 주로 관찰되었으며 골병변은 드물었습니다. 생존 기간은 classic MM 군에서 중앙값 226.5일, IMWG 재분류군에서 141일로 유의한 차이가 없었습니다.",
+      "key_results": [
+        {
+          "result": "20마리 고양이 중 14마리가 IMWG-adapted MM 기준에 해당하였다.",
+          "evidence_quote": "14/20 cats met IMWG-adapted MM criteria"
+        },
+        {
+          "result": "7마리 고양이만 classic MM 기준을 만족하였다.",
+          "evidence_quote": "whereas 7 cats met classic criteria."
+        },
+        {
+          "result": "classic MM 군의 중앙 생존 기간은 226.5일이었다.",
+          "evidence_quote": "Median survival time did not differ between classic MM (226.5 days)"
+        },
+        {
+          "result": "IMWG 재분류 MM 군의 중앙 생존 기간은 141일이었다.",
+          "evidence_quote": "and IMWG-reclassified MM (141 days; p = 0.99)"
+        },
+        {
+          "result": "비장성 plasma cell tumor가 biopsy한 14마리 고양이 중 10마리(71.4%)에서 발견되었다.",
+          "evidence_quote": "splenic PCTs occurred in 71.4% (10/14)"
+        },
+        {
+          "result": "간성 plasma cell tumor는 8마리에서 조직 검사했고 이 중 7마리(87.5%)에서 발견되었다.",
+          "evidence_quote": "hepatic PCTs in 87.5% (7/8) of sampled organs."
+        },
+        {
+          "result": "골 침습성 병변은 14마리 중 3마리에서만 드물게 나타났다.",
+          "evidence_quote": "Lytic bone lesions were infrequent (3/14)."
+        },
+        {
+          "result": "IgG 타입 M-protein이 71.4%로 가장 흔했다.",
+          "evidence_quote": "IgG M-proteins predominated (71.4%)."
+        },
+        {
+          "result": "어떠한 임상병리학적 변수도 생존과 유의한 연관성을 보이지 않았다.",
+          "evidence_quote": "No clinicopathologic variable was significantly associated with survival."
+        }
+      ],
+      "authors_conclusion": "IMWG-adapted 기준을 고양이 MRD 진단에 적용했을 때 classic MM 정의 대비 생존률 차이가 없어 이 기준이 진단적으로 유용함을 확인했다. 고양이는 visceral PCT가 우세하고 골 침습성 병변은 드물어 종 특이적 질병 양상을 가지며, 이로 인해 extramedullary 부위 검체 채취가 진단에 중요하다고 제안한다. 더 큰 전향적 연구가 고양이 특이적 바이오마커를 확립하고 MDE의 유효성을 검증해야 한다고 결론냈다.",
+      "clinical_takeaway": "이 연구는 immunoglobulin 분비 신생물을 가진 임상 고양이에서 IMWG 기준을 고양이 특성에 맞게 적용하는 것이 진단적 가치를 갖지만, classic MM 정의와 생존율 차이가 없음을 보여줍니다. 고양이는 주로 visceral plasma cell tumor 형태를 보이며 골 침습성 병변은 드문 점에서 임상적 평가와 진단 시 골병변에 대한 과도한 의존을 경계해야 합니다. 그 대신 비장 및 간 등 외골수 조직 검사가 중요하며, 예후인자로서 임상병리학적 지표는 명확하지 않아 추후 대규모 연구가 필요합니다. 현재까지는 IMWG 기준 적용 시 진단 민감도를 높일 수 있으나, 생존 예측 측면에서는 제한적임을 인지해야 합니다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인한 선택 편향 가능성 존재",
+        "표본 크기(20마리)가 제한적임",
+        "IMWG 기준을 고양이에 맞게 '적응' 적용하였으나 이 기준의 완전한 검증은 아직 이루어지지 않음",
+        "임상병리학적 변수와 생존 간 연관성 분석에서 유의미한 결과 도출 실패",
+        "전향적 연구와 고양이 특이 바이오마커 개발이 요구됨",
+        "초록 정보만 제공되어 전체 논문 세부 내용 부족"
+      ],
+      "recommended": true,
+      "recommendation_reason": "고양이 myeloma 관련 질환에서 임상적으로 직접 활용 가능한 진단 기준 평가 및 고양이 특유의 질병 양상을 구체적으로 제시하여 임상 진단 및 예후 평가에 실질적 도움을 주기 때문입니다.",
+      "id": "doi:10.1111/vco.70123",
+      "discovered_at": "2026-10-25 01:08:54.178267+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42918624/",
+      "summary_generated_at": "2026-10-25 01:09:40.737498+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Intraoperative Measurement of Soft Tissue Tension in Canine Uncemented Total Hip Arthroplasty.",
       "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
@@ -2784,6 +2871,157 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Clinical features, diagnostic findings, and outcomes of emphysematous cholecystitis in 35 dogs: a retrospective case series.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag113",
+      "pmid": "42391600",
+      "pmcid": "PMC13327104",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag113",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42391600/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 35마리의 client-owned 개에서 emphysematous cholecystitis (EC)의 임상 증상, 진단 소견, 그리고 수술적 및 내과적 치료 후 결과를 포함하고 있어, 임상에서 EC 환자를 평가하고 치료 방침을 결정하는 데 직접 적용 가능하다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "emphysematous cholecystitis",
+      "study_design": "retrospective",
+      "sample_size": 35,
+      "sample_size_quote": "A total of 35 dogs were included",
+      "objective": "개에서 emphysematous cholecystitis(EC)의 임상 양상, 진단 소견, 미생물학적 결과, 치료 방법, 그리고 예후를 후향적으로 기술하여 임상적 이해를 증진하고자 하였다.",
+      "study_methods": "2000년부터 2024년까지 4개의 수의대학 병원에서 ultrasonography 또는 CT 결과를 통해 EC로 진단된 35마리의 개의 의무기록을 후향적으로 검토하였다. 임상표현, 혈액검사, 영상검사, 세포학, 균 배양 및 감수성, 조직병리학 결과, 치료 방법(내과적 또는 수술적)과 생존률을 포함한 결과를 수집하였다. 조직병리 슬라이드는 일부 증례에서 재검토되었다. 통계 분석은 적절한 방법을 사용하였다.",
+      "one_sentence_summary": "35마리의 개에서 emphysematous cholecystitis(EC)를 후향적으로 분석하였다. 이들은 대부분 구토(66%), 무기력(66%), 식욕부진(43%) 등의 임상 증상이 있었고, 68%에서 염증성 leukogram, 85%에서 간 효소 상승이 관찰되었다. 가장 흔한 균주는 Escherichia coli와 Clostridium spp.였으며, 14마리가 cholecystectomy를 받았고 29%가 수술 후 사망하였다. 11마리는 내과적 치료를 받았으며 모두 퇴원했고 장기 추적 시 5마리 중 4마리가 6개월 이상 생존하였다.",
+      "key_results": [
+        {
+          "result": "개 35마리 중 23마리(66%)에서 구토, 23마리(66%)에서 무기력, 15마리(43%)에서 식욕부진이 관찰되었다.",
+          "evidence_quote": "Common clinical signs reported included vomiting (23/35, 66%), lethargy (23/35, 66%), or inappetence (15/35, 43%) in dogs."
+        },
+        {
+          "result": "염증성 leukogram이 21/31마리(68%)에서 나타났고, 간 효소 상승은 28/33마리(85%)에서 관찰되었다.",
+          "evidence_quote": "Common clinicopathologic abnormalities were an inflammatory leukogram (21/31, 68%) and elevated serum liver enzyme activity with or without hyperbilirubinemia (28/33, 85%)."
+        },
+        {
+          "result": "가장 흔한 분리균은 Escherichia coli (13/36 isolates)와 Clostridium spp. (12/36 isolates)였다.",
+          "evidence_quote": "The most frequent bacteria isolated were Escherichia coli (13/36 isolates) and Clostridium spp. (12/36 isolates)."
+        },
+        {
+          "result": "수술적 치료(14마리) 후 즉시 사망률은 29%였다 (4/14).",
+          "evidence_quote": "Postoperative death among dogs that underwent cholecystectomy was 29% (4/14)."
+        },
+        {
+          "result": "내과적 치료만 받은 11마리는 모두 퇴원하였고, 추적된 6마리 중 5마리가 6개월 이상 생존하였다.",
+          "evidence_quote": "Eleven of 35 (31%) dogs were treated medically and survived to discharge and 5 of 6 dogs with long-term follow-up survived > 6 months."
+        }
+      ],
+      "authors_conclusion": "Emphysematous cholecystitis(EC)를 가진 개들은 흔히 임상적으로 위약, 염증성 leukogram, 간 효소 상승 및 경미한 hyperbilirubinemia를 보인다. Cholecystectomy는 감염원 제어와 균 배양을 위한 표본 채취에 유리하나, 경험적 내과적 치료로도 성공적인 결과가 얻어질 수 있음을 시사한다.",
+      "clinical_takeaway": "emphysematous cholecystitis(EC)는 개에서 드물지만 중증의 담낭염 형태로, 구토, 무기력, 간 효소 상승 및 염증성 leukogram이 흔히 동반된다. 영상검사에서 담낭 내 가스가 확인되며, 주요 원인균으로 E. coli와 Clostridium spp.가 관찰된다. 현재 권장되는 치료는 cholecystectomy이나, 본 연구에서는 내과적 치료만으로도 단기적인 치료 성공과 장기 생존이 가능함을 보였다. 그러나 수술 치료군이 더 중증이었을 가능성과 연구의 후향적 특성으로 인해 내과적 치료가 모든 환자에 적용 가능한 표준 치료법이라 보기는 어렵다. 따라서, 수술이 불가능하거나 위험한 환자에서 신중하게 내과적 치료를 고려할 수 있으나, 근본적으로는 cholecystectomy가 감염원 제거와 미생물 검사 확보를 위해 우선적으로 고려되어야 한다.",
+      "limitations": [
+        "후향적 연구로 환자 선택과 치료 결정에 편향 가능성이 존재한다.",
+        "치료 프로토콜 및 진단 검사 시행이 각 기관마다 표준화되어 있지 않다.",
+        "모든 환자에 대해 균 배양, 세포학, 조직병리 결과가 확보되지 않아 완전한 병태생리 파악이 제한적이다.",
+        "내과적 치료군은 상대적으로 경증 환자에 편중되어 결과 해석에 주의가 필요하다.",
+        "후속 관찰 기간이 모든 환자에서 충분히 확보되지 못했다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "35마리의 실제 임상 개의 사례를 다룬 대규모 후향적 증례군 연구로서 EC 환자의 임상적 특징, 진단, 감염균주, 치료 및 예후에 관한 구체적이고 실용적인 정보를 제공하며 특히 내과적 치료 옵션에 대한 근거도 함께 시사한다. 따라서 임상 수의사에게 유용한 지침과 진단-치료 의사결정 지원에 기여하므로 추천한다.",
+      "id": "doi:10.1093/jvimsj/aalag113",
+      "discovered_at": "2026-09-17 05:57:10.282846+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13327104",
+      "summary_generated_at": "2026-10-25 01:11:14.200871+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Caregiver burden in owners of dogs with chronic enteropathies-a survey-based assessment.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag128",
+      "pmid": "42407251",
+      "pmcid": "PMC13336632",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag128",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42407251/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 만성 위장염(chronic enteropathy, CE)을 앓고 있는 반려견의 보호자들이 경험하는 caregiver burden (CB, 돌봄 부담)을 평가하였고, 반려견의 상태와 보호자의 삶의 질(QoL), 정서적·사회적·재정적 부담 및 반려견-보호자 관계에 대해 직접적으로 조사하여 임상적으로 중요한 보호자 부담을 규명하였으므로, 임상 현장에서 보호자 상담 및 돌봄 부담 완화를 위한 전략 수립에 직접적인 참고가 가능하다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "chronic enteropathy caregiver burden",
+      "study_design": "prospective",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "만성 위장염이 있는 개의 보호자가 건강한 개 보호자에 비해 돌봄 부담을 경험하는지 평가하고, 감정적·사회적·재정적 측면과 보호자-개 관계를 비교하며, 돌봄 부담에 영향을 미치는 주요 요소를 규명하는 것.",
+      "study_methods": "프로스펙티브 횡단면 연구로, 223명의 만성 위장염(CE) 반려견 보호자와 447명의 건강한 반려견 보호자가 설문지를 작성하였다. 설문 항목은 Zarit Burden Interview와 Monash Dog Owner Relationship Scale에서 조정하였으며, 질병 중증도는 canine inflammatory bowel disease activity index(CIBDAI)를 통해 평가하였다. 보호자의 정서적·사회적·재정적 부담과 개와의 관계, 질병 관련 부담 요소를 설문으로 조사하였고, 비모수 통계 기법을 사용하여 집단 간 차이와 연관성을 분석하였다.",
+      "one_sentence_summary": "223명의 만성 위장염 개 보호자와 447명의 건강한 개 보호자를 대상으로 설문을 통해 돌봄 부담(CB)를 평가했다. 만성 위장염 개 보호자는 심한 임상 증상 발현 빈도가 높을수록 CB와 삶의 질 저하를 더 강하게 경험하였으며, 반려견-보호자 정서적 유대감은 대체로 유지되는 것으로 나타났다. 재정적 부담과 수의사 방문, 반려견의 시간 소모적 특성도 CB에 기여하였으나, 가장 큰 부담은 반려견의 고통과 임상 증상 악화에 대한 걱정이었다.",
+      "key_results": [
+        {
+          "result": "만성 위장염 개 보호자는 건강한 개 보호자에 비해 자기 삶의 질(QoL)이 낮다고 보고했고, 개가 심리적 부담임을 더 자주 보고하였다.",
+          "evidence_quote": "Owners of dogs with CE reported substantial psychological burden and lower quality of life (QoL) for themselves compared with controls."
+        },
+        {
+          "result": "심한 임상 증상이 더 자주 발생할수록 보호자의 돌봄 부담과 삶의 질 저하가 통계적으로 유의하게 증가하였다.",
+          "evidence_quote": "More frequent episodes of severe clinical signs were associated with CB and decreased QoL."
+        },
+        {
+          "result": "CIBDAI 점수는 만성 위장염 그룹에서 평균 3.4였고, 건강한 개 그룹에서는 평균 1.47로서 두 그룹 간에 유의한 차이가 있었다.",
+          "evidence_quote": "Dogs with CE had an average index of 3.4 (n = 223; Min: 0; Max: 15; SD 2.30; median interquartile range [IQR], 3 [2-5]) compared with healthy dogs (n = 447; mean = 1.47; Min: 0; Max: 7; SD 1.19; median [IQR], 1 [1-2"
+        },
+        {
+          "result": "반려견과의 관계는 대개 유지되었으며, 돌봄 부담으로 인해 관계 악화를 보고한 보호자는 6.2%에 불과했다.",
+          "evidence_quote": "Only 6.2% of owners of dogs with CE stated that their relationship to the dog deteriorated because of the disease"
+        },
+        {
+          "result": "만성 위장염 개 보호자들은 건강한 개 보호자에 비해 수의사 방문 및 사료 비용을 더 많이 지출하였으며, 41.2%는 의료 비용이 부담된다고 응답했다.",
+          "evidence_quote": "41.2% of owners of dogs with CE stated that their expenses for care of the dog were too much, compared with 9.4% of owners of healthy dogs"
+        },
+        {
+          "result": "보호자의 가장 큰 부담 요인은 반려견의 고통에 대한 우려였으며, 83.5%가 이를 가장 중요한 부담으로 평가했다.",
+          "evidence_quote": "The concern that the dog suffers from the disease was ranked as one of the top 3 concerns by 83.5% of owners."
+        },
+        {
+          "result": "일상에서 반려견 돌봄으로 인한 스트레스, 수의사 방문, 시간 소모 등이 돌봄 부담에 유의한 영향을 미쳤다.",
+          "evidence_quote": "Contributing factors to CB included veterinary visits, the perception of dogs with CE as time-consuming, and financial factors."
+        },
+        {
+          "result": "약물 투여의 일상적 부담은 돌봄 부담 중 17.1%의 보호자에서 스트레스로 인식되었다.",
+          "evidence_quote": "Administering medications and supplements was stressful for 17.1% of owners of affected dogs"
+        }
+      ],
+      "authors_conclusion": "만성 위장염은 보호자에게 중요한 돌봄 부담을 유발하며, 이는 보호자의 삶의 질과 정신 건강에 부정적 영향을 미친다. 보호자는 주로 반려견의 고통과 임상 증상 재발에 대한 걱정을 부담으로 느끼지만, 대체로 반려견과의 정서적 유대는 유지된다. 수의사는 임상 진료 시 이러한 돌봄 부담을 인지하고 보호자 지원에 노력해야 한다.",
+      "clinical_takeaway": "만성 위장염이 있는 반려견 보호자는 질병의 반복적이고 심한 증상으로 인해 상당한 심리적 부담을 경험하며, 이로 인해 보호자의 삶의 질이 현저히 낮아진다. 보호자가 느끼는 경제적 부담과 시간적인 소비 또한 CB에 기여하지만, 가장 큰 부담은 반려견의 고통과 임상 악화에 대한 정서적 우려이다. 임상가들은 보호자의 돌봄 부담을 진료 과정에서 적극적으로 파악하고, 정보 제공과 정서적 지지, 치료 선택에 대한 충분한 설명을 통해 보호자 부담을 완화할 필요가 있다. 돌봄 부담은 보호자만이 아니라 수의사에게도 정서적 피로를 유발할 수 있으므로, 이 점을 고려한 다각도의 지원이 요구된다. 다만, 설문에 의한 자기 보고 기반 연구이며, 진단 확증이나 객관적 임상 지표 평가가 제한적인 점을 감안해야 한다.",
+      "limitations": [
+        "온라인 설문 방식으로 동물의 건강 상태를 수의학적으로 확인하지 못했으며, 보호자의 자기 보고에 의존했다.",
+        "건강한 개와 만성 위장염 개 간에 연령 차이가 있었으나, 이 차이를 보정하지 않았다.",
+        "공인된 caregiver burden 평가 도구 대신 인간 의학의 평가 문항을 일부 변형하여 사용함에 따라 도구의 완전한 검증과 일반화 가능성에 제한이 있다.",
+        "응답자의 대다수가 여성으로 구성되어 성별 차이에 대한 분석이 이루어지지 못했다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 만성 위장염 반려견 보호자의 돌봄 부담과 삶의 질 저하를 직접적으로 평가하여 임상 현실에 실질적으로 적용 가능한 정보와 보호자 지원의 필요성을 명확히 보여주므로, 수의 임상에서 보호자 상담과 돌봄 부담 완화 전략 수립에 권고할 만하다.",
+      "id": "doi:10.1093/jvimsj/aalag128",
+      "discovered_at": "2026-09-17 05:57:10.273062+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13336632",
+      "summary_generated_at": "2026-10-25 01:10:41.927415+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Renoprotective effects of curcumin in cats with chronic kidney disease.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -3134,19 +3372,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 501
+        "received": 500
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 563
+        "received": 559
       }
     },
-    "started_at": "2026-10-24T01:34:28.745321+00:00",
-    "since": "2026-09-09",
-    "processed": 1,
+    "started_at": "2026-10-25T01:08:52.481092+00:00",
+    "since": "2026-09-10",
+    "processed": 3,
     "refreshed": 0,
-    "failed": 12,
-    "deferred": 1001,
-    "finished_at": "2026-10-24T01:36:51.616852+00:00"
+    "failed": 11,
+    "deferred": 1002,
+    "finished_at": "2026-10-25T01:11:15.155226+00:00"
   }
 }
