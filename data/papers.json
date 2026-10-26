@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T01:11:15.360374+00:00",
-  "last_successful_collection": "2026-10-25T01:08:52.481045Z",
+  "generated_at": "2026-10-26T01:10:41.468946+00:00",
+  "last_successful_collection": "2026-10-26T01:08:20.340805Z",
   "mode": "live",
   "papers": [
     {
@@ -1258,6 +1258,76 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Assessment of Clinical and Immunological Factors of Local Recurrence in Canine Soft Tissue Sarcoma.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-09-09",
+      "online_publication_date": "2026-09-09",
+      "publication_date_raw": "2026-Sep-09",
+      "doi": "10.1111/vco.70111",
+      "pmid": "42713725",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70111",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42713725/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "연구는 canine soft tissue sarcoma (STS) 환자의 수술 후 국소 재발 시간(Time to recurrence, TTR)과 이와 관련된 면역학적 요인을 분석하여, 실제 임상에서 재발 위험 평가와 치료 방침 결정에 중요한 정보를 제공한다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine soft tissue sarcoma local recurrence",
+      "study_design": "retrospective",
+      "sample_size": 27,
+      "sample_size_quote": "Medical records from 27 dogs with STS that recurred after surgery were reviewed.",
+      "objective": "canine soft tissue sarcoma의 국소 재발에 영향을 미치는 임상 및 면역학적 요인을 규명하여 재발 기전에 관한 이해도를 높이고자 함",
+      "study_methods": "27마리의 STS로 진단받고 수술 후 국소 재발이 확인된 개들의 의무기록을 후향적으로 검토하였다. 그 중 조직이 확보된 20마리 개의 종양 조직에 대해 히스토패톨로지, 전사체 분석(NanoString canine IO panel 이용), 면역 조직화학염색(CD3, CD20, FoxP3)을 실시하여 종양 침윤 림프구와 tertiary lymphoid structures(TLSs)를 평가하였다. TTR과 면역 관련 지표 간 연관성은 Cox 비례위험모형과 log-rank 검정으로 분석되었다.",
+      "one_sentence_summary": "27마리 개에서 soft tissue sarcoma 수술 후 국소 재발을 평가한 후향적 연구로, 조직이 확보된 20마리 개를 대상으로 면역학적 프로파일링과 면역세포 침윤 양상을 분석하였다. 중위 TTR은 358일이었으며, NOD2 발현 증가와 Cluster 1 분류가 짧은 TTR과 연관되었다. Cluster 1은 풍부한 림프구 침윤과 면역억제 경로가 특징이며, TLS 및 FoxP3+ regulatory T cell의 분포가 면역 미세환경에 영향을 미쳐 재발에 관여할 가능성을 시사하였다.",
+      "key_results": [
+        {
+          "result": "중위 time to recurrence (TTR)은 358일이었다.",
+          "evidence_quote": "Median TTR was 358 days."
+        },
+        {
+          "result": "높은 NOD2 유전자 발현과 Cluster 1 분류가 다변량 모형에서 짧은 TTR과 유의하게 연관되었다.",
+          "evidence_quote": "Higher NOD2 expression and Cluster 1 assignment were associated with shorter TTR across exploratory multivariable models."
+        },
+        {
+          "result": "Cluster 1 종양은 풍부한 림프구 침윤과 면역억제 경로의 풍부함을 나타냈고, Cluster 2는 상대적으로 낮은 면역 침윤과 친염증 신호를 보였다.",
+          "evidence_quote": "Cluster 1 tumours exhibited abundant lymphocyte infiltration and enrichment of immunosuppressive pathways, whereas Cluster 2 tumours demonstrated lower immune infiltration and proinflammatory signatures."
+        },
+        {
+          "result": "TLS가 양성인 종양은 림프구 침윤이 더 많았으며, FoxP3+ 세포가 TLS 내에 축적되어 있었다.",
+          "evidence_quote": "TLS-positive tumours had greater lymphocyte infiltration, with FoxP3+ cells accumulated within TLSs."
+        },
+        {
+          "result": "재발 종양에서는 원발 종양에 비해 더 큰 TLS가 유의하게 더 많이 존재하였다.",
+          "evidence_quote": "Paired recurrent tumours contained significantly more large TLSs than primary tumours."
+        }
+      ],
+      "authors_conclusion": "canine STS에서 높은 NOD2 발현과 면역학적으로 활성을 가지나 억제된 종양 미세환경은 짧은 TTR과 연관이 있었으며, 규제 T 세포와 TLS는 국소 재발과 관련된 면역 환경에 기여할 가능성이 있어 향후 치료 표적으로서 연구가 필요하다.",
+      "clinical_takeaway": "canine soft tissue sarcoma 환자에서 국소 재발 위험을 평가할 때, 단순한 임상 요인보다 면역 미세환경의 특성이 중요한 정보를 제공한다. 특히, NOD2 발현 증가와 immunologically active하지만 suppressive한 종양 상태는 재발을 더 빨리 초래할 수 있음을 시사하므로, 면역 프로파일링을 통한 환자 분류가 치료 결정에 도움이 될 수 있다. 또한 TLS와 FoxP3+ regulatory T cell의 역할이 재발과 연관되어 이들 면역 구조가 새로운 치료 표적으로 주목받고 있음을 인지해야 한다. 다만, 연구가 후향적이며 표본 크기가 제한적이어서 결과를 일반화하기 전에 추가 연구가 필요하다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인과관계 확립이 어렵다.",
+        "총 27마리 개 중 조직 이용은 20마리에 국한되어 표본 크기가 작다.",
+        "임상 경과 외에 다른 잠재적 교란 요인 조정이 명확하지 않다.",
+        "전체 대상군이 재발 사례로 제한되어 재발이 없는 군과 비교가 불가능했다.",
+        "초록만 제공되어 세부적인 연구방법과 통계 분석 설명이 부족하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "실제 canine soft tissue sarcoma 환자에서 수술 후 국소 재발과 관련된 임상 및 면역학적 인자를 상세히 분석하여, 향후 면역 표적 치료나 재발 위험 예측에 실질적 근거를 제공하기 때문에 임상 적용 가능성이 높다.",
+      "id": "doi:10.1111/vco.70111",
+      "discovered_at": "2026-09-16 01:13:31.968749+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42713725/",
+      "summary_generated_at": "2026-10-26 01:09:55.200030+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Skeletal modifications after transpelvic urethrostomy as treatment for urethral stricture in a three-month-old cat.",
       "journal": "Veterinary Surgery",
       "journal_id": "vetsurg",
@@ -1395,6 +1465,76 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42717636/",
       "summary_generated_at": "2026-10-16 23:36:09.900578+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Gilvetmab advances immune checkpoint inhibitor immunotherapy for canine cancer.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-08",
+      "online_publication_date": "2026-09-08",
+      "publication_date_raw": "2026-Sep-08",
+      "doi": "10.2460/javma.26.06.0517",
+      "pmid": "42710546",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.06.0517",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42710546/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "해당 연구는 canine cancer 환자에서 면역관문억제제인 Gilvetmab의 항종양 면역효과와 안전성 평가를 다루고 있어 실제 임상 적용과 직접 관련이 있습니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "immune checkpoint inhibitor immunotherapy for canine cancer",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "Gilvetmab을 포함한 caninized anti-PD-1 항체의 안전성, 효과 및 부작용을 평가하고, canine 암 환자에서의 면역관문억제 치료 발전에 기여하고자 하였다.",
+      "study_methods": "본 연구는 spontaneous canine cancer 환자에서 caninized anti-PD-1 및 anti-PD-L1 항체 치료의 임상적 안전성 및 효능을 관찰한 후향적 보고 또는 임상적 데이터 분석으로 보이며, 특히 melanoma와 mast cell tumors에 중점을 두어 Gilvetmab의 Target engagement, 내약성, 임상적 효능을 평가하였다. 면역매개 독성 및 반응 평가 방법에 대한 추가 연구가 필요하다고 기술되어 있다.",
+      "one_sentence_summary": "Canine 암, 특히 melanoma와 mast cell tumor를 대상으로 Gilvetmab이라는 caninized anti-PD-1 단일클론항체의 임상적 효능과 안전성을 평가하였다. 본 항체는 미국에서 조건부 허가되어 있으며, 일부 개에서 임상적 효과와 용인 가능한 내약성을 나타냈다. 면역매개 독성에 대한 추가 연구 및 반응 평가 방법의 개선이 필요하다는 점이 지적되었다.",
+      "key_results": [
+        {
+          "result": "Gilvetmab은 치료받은 개의 일부에서 표적 결합(target engagement), 용인 가능한 내약성 및 임상 효능을 보였다.",
+          "evidence_quote": "Gilvetmab, currently the only veterinary ICI available commercially, has conditional licensure in the United States for these indications. This caninized anti-PD-1 monoclonal antibody has demonstrated target engagement, acceptable tolerability, and clinical efficacy in a subset of treated dogs."
+        },
+        {
+          "result": "보고된 부작용은 대체로 관리가 가능하나, 면역매개 독성(immunemediated toxicities)에 대해 추가 연구가 필요하다.",
+          "evidence_quote": "Although reported adverse events are generally manageable, further work is needed to better characterize immune-mediated toxicities."
+        },
+        {
+          "result": "면역관문억제제 치료 시 cytotoxic therapy와 다른 반응 양상, 예를 들어 pseudoprogression이 나타날 수 있어 반응 평가 방법의 신중한 선택이 요구된다.",
+          "evidence_quote": "Furthermore, response patterns may differ from those of cytotoxic therapies, including potential pseudoprogression, necessitating careful selection of response assessment methods."
+        },
+        {
+          "result": "PD-1/PD-L1 경로가 canine 종양 미세환경에서 작용하며, 이를 표적으로 하는 면역관문억제제가 항종양 면역 회복에 중요한 역할을 한다.",
+          "evidence_quote": "In dogs, the immune checkpoint programmed cell death protein 1 (PD-1) axis is a primary focus due to conserved structural and functional homology with the PD-1 axis in humans, documented PD-1/programmed death-ligand 1 (PD-L1) signaling in the canine tumor microenvironment, and its role in reversing tumor-induced immune exhaustion."
+        },
+        {
+          "result": "Gilvetmab과 같은 ICI는 Melanoma와 Mast cell tumor에서 특히 긍정적인 임상 효능을 보였다.",
+          "evidence_quote": "Several caninized anti-PD-1 and anti-PD-L1 antibodies have demonstrated favorable safety profiles and notable antitumor activity in spontaneously occurring canine cancers, particularly melanoma and mast cell tumors."
+        }
+      ],
+      "authors_conclusion": "Gilvetmab은 개 암 치료에 있어 면역관문억제제의 잠재력을 입증했으며, 안전성과 효과 측면에서 유망하나 면역매개 부작용과 반응 평가 방법 등의 문제 해결을 위한 추가 연구가 필요하다. 환자 선택, 바이오마커 개발, 병용 요법 전략 등 임상적 적용을 최적화하기 위한 노력이 계속되어야 한다.",
+      "clinical_takeaway": "Gilvetmab은 canine melanoma와 mast cell tumor를 포함한 자발성 암 치료에 있어 효과적이며 내약성도 양호한 caninized anti-PD-1 monoclonal antibody로 임상적으로 의미 있는 항종양 효과를 보였습니다. 그러나 면역매개 독성 및 치료 반응 평가의 특이성을 감안할 때 신중한 환자 모니터링과 적절한 평가 방법의 선택이 중요합니다. 본 연구의 결과는 veterinary oncology에서 면역관문억제제 사용 확대를 뒷받침하며, 향후 생체지표 개발과 병용치료 전략 연구가 필요함을 시사합니다. 다만, 추후 전향적 연구를 통한 더 많은 임상 근거가 마련되어야 일반적인 적용에 도움이 될 것입니다.",
+      "limitations": [
+        "Abstract only 보고로 상세 임상 정보와 연구 디자인의 체계성이 명확하지 않음",
+        "표본 수 및 평가 방법의 구체적인 데이터 부재",
+        "후향적 또는 탐색적 연구일 가능성으로 근거 수준 제한됨",
+        "면역매개 독성에 대한 상세한 평가 및 장기 추적 결과 미제공",
+        "다양한 종양 조직형 별 효과 차이에 관한 상세 정보 부족"
+      ],
+      "recommended": true,
+      "recommendation_reason": "자발성 canine cancer에 직접 적용 가능한 면역관문억제 치료법인 Gilvetmab의 임상적 효과와 안전성을 보고, veterinary oncology에서 면역항암제 치료 발전에 중요한 근거를 제공하기 때문에 추천한다.",
+      "id": "doi:10.2460/javma.26.06.0517",
+      "discovered_at": "2026-09-16 01:13:31.968749+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42710546/",
+      "summary_generated_at": "2026-10-26 01:10:32.073669+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -3372,19 +3512,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 500
+        "received": 499
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 559
+        "received": 563
       }
     },
-    "started_at": "2026-10-25T01:08:52.481092+00:00",
-    "since": "2026-09-10",
-    "processed": 3,
+    "started_at": "2026-10-26T01:08:20.340850+00:00",
+    "since": "2026-09-11",
+    "processed": 2,
     "refreshed": 0,
-    "failed": 11,
-    "deferred": 1002,
-    "finished_at": "2026-10-25T01:11:15.155226+00:00"
+    "failed": 13,
+    "deferred": 999,
+    "finished_at": "2026-10-26T01:10:41.369580+00:00"
   }
 }

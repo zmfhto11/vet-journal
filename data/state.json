@@ -24,7 +24,7 @@
         "pmid:42742086"
       ],
       "discovered_at": "2026-09-16T01:13:31.966749Z",
-      "updated_at": "2026-10-25T01:09:01.628805Z",
+      "updated_at": "2026-10-26T01:08:27.099495Z",
       "status": "failed",
       "attempts": 3,
       "last_error": "Unsupported numeric finding",
@@ -62,7 +62,7 @@
         "pmid:42733290"
       ],
       "discovered_at": "2026-09-16T01:13:31.967749Z",
-      "updated_at": "2026-10-25T01:09:01.635221Z",
+      "updated_at": "2026-10-26T01:08:27.108430Z",
       "status": "failed",
       "attempts": 3,
       "last_error": "ValidationError",
@@ -100,7 +100,7 @@
         "pmid:42732994"
       ],
       "discovered_at": "2026-09-16T01:13:31.967749Z",
-      "updated_at": "2026-10-25T01:09:01.628631Z",
+      "updated_at": "2026-10-26T01:08:27.099257Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -188,7 +188,7 @@
         "pmid:42732914"
       ],
       "discovered_at": "2026-09-16T01:13:31.967749Z",
-      "updated_at": "2026-10-25T01:09:01.634433Z",
+      "updated_at": "2026-10-26T01:08:27.107310Z",
       "status": "failed",
       "attempts": 3,
       "last_error": "ValidationError",
@@ -226,7 +226,7 @@
         "pmid:42725899"
       ],
       "discovered_at": "2026-09-16T01:13:31.967749Z",
-      "updated_at": "2026-10-25T01:09:03.231802Z",
+      "updated_at": "2026-10-26T01:08:28.778149Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "ValidationError",
@@ -264,7 +264,7 @@
         "pmid:42717639"
       ],
       "discovered_at": "2026-09-16T01:13:31.967749Z",
-      "updated_at": "2026-10-25T01:09:01.636058Z",
+      "updated_at": "2026-10-26T01:08:27.109343Z",
       "status": "processed",
       "attempts": 2,
       "last_error": null,
@@ -349,7 +349,7 @@
         "pmid:42717636"
       ],
       "discovered_at": "2026-09-16T01:13:31.967749Z",
-      "updated_at": "2026-10-25T01:09:01.635901Z",
+      "updated_at": "2026-10-26T01:08:27.109112Z",
       "status": "processed",
       "attempts": 3,
       "last_error": null,
@@ -442,7 +442,7 @@
         "pmid:42716105"
       ],
       "discovered_at": "2026-09-16T01:13:31.967749Z",
-      "updated_at": "2026-10-25T01:09:03.242053Z",
+      "updated_at": "2026-10-26T01:08:30.067010Z",
       "status": "failed",
       "attempts": 3,
       "last_error": "Unsupported number in summary prose",
@@ -480,7 +480,7 @@
         "pmid:42716104"
       ],
       "discovered_at": "2026-09-16T01:13:31.967749Z",
-      "updated_at": "2026-10-25T01:09:03.241883Z",
+      "updated_at": "2026-10-26T01:08:30.066605Z",
       "status": "failed",
       "attempts": 3,
       "last_error": "Unsupported sample size",
@@ -518,7 +518,7 @@
         "pmid:42716084"
       ],
       "discovered_at": "2026-09-16T01:13:31.968749Z",
-      "updated_at": "2026-10-25T01:09:03.242371Z",
+      "updated_at": "2026-10-26T01:08:30.067248Z",
       "status": "processed",
       "attempts": 8,
       "last_error": null,
@@ -599,19 +599,70 @@
       ],
       "discovered_at": "2026-09-16T01:13:31.968749Z",
       "updated_at": "2026-10-25T01:09:01.635390Z",
-      "status": "failed",
-      "attempts": 2,
-      "last_error": "ValidationError",
-      "last_attempt_at": "2026-09-25T23:26:30.973234Z",
-      "analysis": null,
-      "evidence_source": null,
-      "evidence_url": null,
-      "evidence_sha256": null,
-      "summary_generated_at": null,
-      "model": null,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "analysis_version": 0
+      "status": "processed",
+      "attempts": 3,
+      "last_error": null,
+      "last_attempt_at": "2026-10-26T01:09:44.748478Z",
+      "analysis": {
+        "clinical_relevance": "direct",
+        "relevance_reason": "연구는 canine soft tissue sarcoma (STS) 환자의 수술 후 국소 재발 시간(Time to recurrence, TTR)과 이와 관련된 면역학적 요인을 분석하여, 실제 임상에서 재발 위험 평가와 치료 방침 결정에 중요한 정보를 제공한다.",
+        "primary_category": "oncology",
+        "tags": [
+          "internal_medicine",
+          "oncology"
+        ],
+        "species": [
+          "dog"
+        ],
+        "disease_or_topic": "canine soft tissue sarcoma local recurrence",
+        "study_design": "retrospective",
+        "sample_size": 27,
+        "sample_size_quote": "Medical records from 27 dogs with STS that recurred after surgery were reviewed.",
+        "objective": "canine soft tissue sarcoma의 국소 재발에 영향을 미치는 임상 및 면역학적 요인을 규명하여 재발 기전에 관한 이해도를 높이고자 함",
+        "study_methods": "27마리의 STS로 진단받고 수술 후 국소 재발이 확인된 개들의 의무기록을 후향적으로 검토하였다. 그 중 조직이 확보된 20마리 개의 종양 조직에 대해 히스토패톨로지, 전사체 분석(NanoString canine IO panel 이용), 면역 조직화학염색(CD3, CD20, FoxP3)을 실시하여 종양 침윤 림프구와 tertiary lymphoid structures(TLSs)를 평가하였다. TTR과 면역 관련 지표 간 연관성은 Cox 비례위험모형과 log-rank 검정으로 분석되었다.",
+        "one_sentence_summary": "27마리 개에서 soft tissue sarcoma 수술 후 국소 재발을 평가한 후향적 연구로, 조직이 확보된 20마리 개를 대상으로 면역학적 프로파일링과 면역세포 침윤 양상을 분석하였다. 중위 TTR은 358일이었으며, NOD2 발현 증가와 Cluster 1 분류가 짧은 TTR과 연관되었다. Cluster 1은 풍부한 림프구 침윤과 면역억제 경로가 특징이며, TLS 및 FoxP3+ regulatory T cell의 분포가 면역 미세환경에 영향을 미쳐 재발에 관여할 가능성을 시사하였다.",
+        "key_results": [
+          {
+            "result": "중위 time to recurrence (TTR)은 358일이었다.",
+            "evidence_quote": "Median TTR was 358 days."
+          },
+          {
+            "result": "높은 NOD2 유전자 발현과 Cluster 1 분류가 다변량 모형에서 짧은 TTR과 유의하게 연관되었다.",
+            "evidence_quote": "Higher NOD2 expression and Cluster 1 assignment were associated with shorter TTR across exploratory multivariable models."
+          },
+          {
+            "result": "Cluster 1 종양은 풍부한 림프구 침윤과 면역억제 경로의 풍부함을 나타냈고, Cluster 2는 상대적으로 낮은 면역 침윤과 친염증 신호를 보였다.",
+            "evidence_quote": "Cluster 1 tumours exhibited abundant lymphocyte infiltration and enrichment of immunosuppressive pathways, whereas Cluster 2 tumours demonstrated lower immune infiltration and proinflammatory signatures."
+          },
+          {
+            "result": "TLS가 양성인 종양은 림프구 침윤이 더 많았으며, FoxP3+ 세포가 TLS 내에 축적되어 있었다.",
+            "evidence_quote": "TLS-positive tumours had greater lymphocyte infiltration, with FoxP3+ cells accumulated within TLSs."
+          },
+          {
+            "result": "재발 종양에서는 원발 종양에 비해 더 큰 TLS가 유의하게 더 많이 존재하였다.",
+            "evidence_quote": "Paired recurrent tumours contained significantly more large TLSs than primary tumours."
+          }
+        ],
+        "authors_conclusion": "canine STS에서 높은 NOD2 발현과 면역학적으로 활성을 가지나 억제된 종양 미세환경은 짧은 TTR과 연관이 있었으며, 규제 T 세포와 TLS는 국소 재발과 관련된 면역 환경에 기여할 가능성이 있어 향후 치료 표적으로서 연구가 필요하다.",
+        "clinical_takeaway": "canine soft tissue sarcoma 환자에서 국소 재발 위험을 평가할 때, 단순한 임상 요인보다 면역 미세환경의 특성이 중요한 정보를 제공한다. 특히, NOD2 발현 증가와 immunologically active하지만 suppressive한 종양 상태는 재발을 더 빨리 초래할 수 있음을 시사하므로, 면역 프로파일링을 통한 환자 분류가 치료 결정에 도움이 될 수 있다. 또한 TLS와 FoxP3+ regulatory T cell의 역할이 재발과 연관되어 이들 면역 구조가 새로운 치료 표적으로 주목받고 있음을 인지해야 한다. 다만, 연구가 후향적이며 표본 크기가 제한적이어서 결과를 일반화하기 전에 추가 연구가 필요하다.",
+        "limitations": [
+          "후향적 연구 디자인으로 인과관계 확립이 어렵다.",
+          "총 27마리 개 중 조직 이용은 20마리에 국한되어 표본 크기가 작다.",
+          "임상 경과 외에 다른 잠재적 교란 요인 조정이 명확하지 않다.",
+          "전체 대상군이 재발 사례로 제한되어 재발이 없는 군과 비교가 불가능했다.",
+          "초록만 제공되어 세부적인 연구방법과 통계 분석 설명이 부족하다."
+        ],
+        "recommended": true,
+        "recommendation_reason": "실제 canine soft tissue sarcoma 환자에서 수술 후 국소 재발과 관련된 임상 및 면역학적 인자를 상세히 분석하여, 향후 면역 표적 치료나 재발 위험 예측에 실질적 근거를 제공하기 때문에 임상 적용 가능성이 높다."
+      },
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42713725/",
+      "evidence_sha256": "46301dde55d7eddd97f4e0fbe98e94289f38a5cb6da20dc8c9a15fc2351d6e49",
+      "summary_generated_at": "2026-10-26T01:09:55.200030Z",
+      "model": "gpt-4.1-mini",
+      "input_tokens": 2580,
+      "output_tokens": 1303,
+      "analysis_version": 2
     },
     {
       "id": "doi:10.2460/javma.26.06.0517",
@@ -637,19 +688,70 @@
       ],
       "discovered_at": "2026-09-16T01:13:31.968749Z",
       "updated_at": "2026-10-25T01:09:03.247131Z",
-      "status": "failed",
-      "attempts": 2,
-      "last_error": "Finding quotation is not in evidence",
-      "last_attempt_at": "2026-09-26T23:25:17.494448Z",
-      "analysis": null,
-      "evidence_source": null,
-      "evidence_url": null,
-      "evidence_sha256": null,
-      "summary_generated_at": null,
-      "model": null,
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "analysis_version": 0
+      "status": "processed",
+      "attempts": 3,
+      "last_error": null,
+      "last_attempt_at": "2026-10-26T01:10:23.685318Z",
+      "analysis": {
+        "clinical_relevance": "direct",
+        "relevance_reason": "해당 연구는 canine cancer 환자에서 면역관문억제제인 Gilvetmab의 항종양 면역효과와 안전성 평가를 다루고 있어 실제 임상 적용과 직접 관련이 있습니다.",
+        "primary_category": "oncology",
+        "tags": [
+          "internal_medicine",
+          "oncology"
+        ],
+        "species": [
+          "dog"
+        ],
+        "disease_or_topic": "immune checkpoint inhibitor immunotherapy for canine cancer",
+        "study_design": "other",
+        "sample_size": null,
+        "sample_size_quote": null,
+        "objective": "Gilvetmab을 포함한 caninized anti-PD-1 항체의 안전성, 효과 및 부작용을 평가하고, canine 암 환자에서의 면역관문억제 치료 발전에 기여하고자 하였다.",
+        "study_methods": "본 연구는 spontaneous canine cancer 환자에서 caninized anti-PD-1 및 anti-PD-L1 항체 치료의 임상적 안전성 및 효능을 관찰한 후향적 보고 또는 임상적 데이터 분석으로 보이며, 특히 melanoma와 mast cell tumors에 중점을 두어 Gilvetmab의 Target engagement, 내약성, 임상적 효능을 평가하였다. 면역매개 독성 및 반응 평가 방법에 대한 추가 연구가 필요하다고 기술되어 있다.",
+        "one_sentence_summary": "Canine 암, 특히 melanoma와 mast cell tumor를 대상으로 Gilvetmab이라는 caninized anti-PD-1 단일클론항체의 임상적 효능과 안전성을 평가하였다. 본 항체는 미국에서 조건부 허가되어 있으며, 일부 개에서 임상적 효과와 용인 가능한 내약성을 나타냈다. 면역매개 독성에 대한 추가 연구 및 반응 평가 방법의 개선이 필요하다는 점이 지적되었다.",
+        "key_results": [
+          {
+            "result": "Gilvetmab은 치료받은 개의 일부에서 표적 결합(target engagement), 용인 가능한 내약성 및 임상 효능을 보였다.",
+            "evidence_quote": "Gilvetmab, currently the only veterinary ICI available commercially, has conditional licensure in the United States for these indications. This caninized anti-PD-1 monoclonal antibody has demonstrated target engagement, acceptable tolerability, and clinical efficacy in a subset of treated dogs."
+          },
+          {
+            "result": "보고된 부작용은 대체로 관리가 가능하나, 면역매개 독성(immunemediated toxicities)에 대해 추가 연구가 필요하다.",
+            "evidence_quote": "Although reported adverse events are generally manageable, further work is needed to better characterize immune-mediated toxicities."
+          },
+          {
+            "result": "면역관문억제제 치료 시 cytotoxic therapy와 다른 반응 양상, 예를 들어 pseudoprogression이 나타날 수 있어 반응 평가 방법의 신중한 선택이 요구된다.",
+            "evidence_quote": "Furthermore, response patterns may differ from those of cytotoxic therapies, including potential pseudoprogression, necessitating careful selection of response assessment methods."
+          },
+          {
+            "result": "PD-1/PD-L1 경로가 canine 종양 미세환경에서 작용하며, 이를 표적으로 하는 면역관문억제제가 항종양 면역 회복에 중요한 역할을 한다.",
+            "evidence_quote": "In dogs, the immune checkpoint programmed cell death protein 1 (PD-1) axis is a primary focus due to conserved structural and functional homology with the PD-1 axis in humans, documented PD-1/programmed death-ligand 1 (PD-L1) signaling in the canine tumor microenvironment, and its role in reversing tumor-induced immune exhaustion."
+          },
+          {
+            "result": "Gilvetmab과 같은 ICI는 Melanoma와 Mast cell tumor에서 특히 긍정적인 임상 효능을 보였다.",
+            "evidence_quote": "Several caninized anti-PD-1 and anti-PD-L1 antibodies have demonstrated favorable safety profiles and notable antitumor activity in spontaneously occurring canine cancers, particularly melanoma and mast cell tumors."
+          }
+        ],
+        "authors_conclusion": "Gilvetmab은 개 암 치료에 있어 면역관문억제제의 잠재력을 입증했으며, 안전성과 효과 측면에서 유망하나 면역매개 부작용과 반응 평가 방법 등의 문제 해결을 위한 추가 연구가 필요하다. 환자 선택, 바이오마커 개발, 병용 요법 전략 등 임상적 적용을 최적화하기 위한 노력이 계속되어야 한다.",
+        "clinical_takeaway": "Gilvetmab은 canine melanoma와 mast cell tumor를 포함한 자발성 암 치료에 있어 효과적이며 내약성도 양호한 caninized anti-PD-1 monoclonal antibody로 임상적으로 의미 있는 항종양 효과를 보였습니다. 그러나 면역매개 독성 및 치료 반응 평가의 특이성을 감안할 때 신중한 환자 모니터링과 적절한 평가 방법의 선택이 중요합니다. 본 연구의 결과는 veterinary oncology에서 면역관문억제제 사용 확대를 뒷받침하며, 향후 생체지표 개발과 병용치료 전략 연구가 필요함을 시사합니다. 다만, 추후 전향적 연구를 통한 더 많은 임상 근거가 마련되어야 일반적인 적용에 도움이 될 것입니다.",
+        "limitations": [
+          "Abstract only 보고로 상세 임상 정보와 연구 디자인의 체계성이 명확하지 않음",
+          "표본 수 및 평가 방법의 구체적인 데이터 부재",
+          "후향적 또는 탐색적 연구일 가능성으로 근거 수준 제한됨",
+          "면역매개 독성에 대한 상세한 평가 및 장기 추적 결과 미제공",
+          "다양한 종양 조직형 별 효과 차이에 관한 상세 정보 부족"
+        ],
+        "recommended": true,
+        "recommendation_reason": "자발성 canine cancer에 직접 적용 가능한 면역관문억제 치료법인 Gilvetmab의 임상적 효과와 안전성을 보고, veterinary oncology에서 면역항암제 치료 발전에 중요한 근거를 제공하기 때문에 추천한다."
+      },
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42710546/",
+      "evidence_sha256": "432a2ee8135dcf917b9088322cb5612f1d4c26ff0dee34660d37df5917511601",
+      "summary_generated_at": "2026-10-26T01:10:32.073669Z",
+      "model": "gpt-4.1-mini",
+      "input_tokens": 2548,
+      "output_tokens": 1259,
+      "analysis_version": 2
     },
     {
       "id": "doi:10.2460/javma.26.06.0510",
@@ -1061,7 +1163,7 @@
         "pmid:42702362"
       ],
       "discovered_at": "2026-09-16T01:13:31.971749Z",
-      "updated_at": "2026-10-25T01:09:03.240623Z",
+      "updated_at": "2026-10-26T01:08:28.789666Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Finding quotation is not in evidence",
@@ -1101,9 +1203,9 @@
       "discovered_at": "2026-09-16T01:13:31.971749Z",
       "updated_at": "2026-10-22T01:30:22.257579Z",
       "status": "processed",
-      "attempts": 11,
+      "attempts": 12,
       "last_error": "Summary number missing from displayed findings",
-      "last_attempt_at": "2026-10-25T01:09:24.133892Z",
+      "last_attempt_at": "2026-10-26T01:08:49.055817Z",
       "analysis": {
         "clinical_relevance": "direct",
         "relevance_reason": "본 연구는 개의 근위 경골 골단-골단선형 살터-해리스 골절에 대한 직접적인 진단 및 치료 결과를 다루고 있으며, 임상에서 유용한 수술적 고정 방법의 결과를 보고하고 있음.",
@@ -1302,7 +1404,7 @@
         "pmid:42687403"
       ],
       "discovered_at": "2026-09-16T01:13:31.973748Z",
-      "updated_at": "2026-10-25T01:09:03.237863Z",
+      "updated_at": "2026-10-26T01:08:28.786253Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "ValidationError",
@@ -1817,7 +1919,7 @@
         "pmid:42685337"
       ],
       "discovered_at": "2026-09-16T01:13:31.980098Z",
-      "updated_at": "2026-10-25T01:09:03.239991Z",
+      "updated_at": "2026-10-26T01:08:28.789215Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Finding quotation is not in evidence",
@@ -1969,7 +2071,7 @@
         "pmid:42658783"
       ],
       "discovered_at": "2026-09-16T01:13:31.981467Z",
-      "updated_at": "2026-10-25T01:09:03.243029Z",
+      "updated_at": "2026-10-26T01:08:28.792489Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -2007,7 +2109,7 @@
         "pmid:42658782"
       ],
       "discovered_at": "2026-09-16T01:13:31.981467Z",
-      "updated_at": "2026-10-25T01:09:03.243843Z",
+      "updated_at": "2026-10-26T01:08:28.793620Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -2045,7 +2147,7 @@
         "pmid:42658780"
       ],
       "discovered_at": "2026-09-16T01:13:31.981467Z",
-      "updated_at": "2026-10-25T01:09:03.243358Z",
+      "updated_at": "2026-10-26T01:08:28.793173Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -2083,7 +2185,7 @@
         "pmid:42647817"
       ],
       "discovered_at": "2026-09-16T01:13:31.982500Z",
-      "updated_at": "2026-10-25T01:09:03.244001Z",
+      "updated_at": "2026-10-26T01:08:28.793840Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -2197,7 +2299,7 @@
         "pmid:42636342"
       ],
       "discovered_at": "2026-09-16T01:13:31.983521Z",
-      "updated_at": "2026-10-25T01:09:03.243674Z",
+      "updated_at": "2026-10-26T01:08:28.793397Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -2235,11 +2337,11 @@
         "pmid:42633783"
       ],
       "discovered_at": "2026-09-16T01:13:31.983521Z",
-      "updated_at": "2026-10-25T01:09:05.044298Z",
+      "updated_at": "2026-10-26T01:08:30.398149Z",
       "status": "failed",
-      "attempts": 1,
+      "attempts": 2,
       "last_error": "Unsupported sample size",
-      "last_attempt_at": "2026-09-26T23:25:25.800582Z",
+      "last_attempt_at": "2026-10-26T01:10:32.431399Z",
       "analysis": null,
       "evidence_source": null,
       "evidence_url": null,
@@ -2273,7 +2375,7 @@
         "pmid:42627936"
       ],
       "discovered_at": "2026-09-16T01:13:31.984544Z",
-      "updated_at": "2026-10-25T01:09:03.244156Z",
+      "updated_at": "2026-10-26T01:08:28.794079Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -2311,7 +2413,7 @@
         "pmid:42476592"
       ],
       "discovered_at": "2026-09-16T01:13:31.984544Z",
-      "updated_at": "2026-10-25T01:09:03.241073Z",
+      "updated_at": "2026-10-26T01:08:28.790609Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -2349,7 +2451,7 @@
         "pmid:42269671"
       ],
       "discovered_at": "2026-09-16T01:13:31.984544Z",
-      "updated_at": "2026-10-25T01:09:07.025858Z",
+      "updated_at": "2026-10-26T01:08:33.681166Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2425,7 +2527,7 @@
         "pmid:42152592"
       ],
       "discovered_at": "2026-09-16T01:13:31.985565Z",
-      "updated_at": "2026-10-25T01:09:03.245264Z",
+      "updated_at": "2026-10-26T01:08:28.795443Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2463,7 +2565,7 @@
         "pmid:42107986"
       ],
       "discovered_at": "2026-09-16T01:13:31.986585Z",
-      "updated_at": "2026-10-25T01:09:03.245435Z",
+      "updated_at": "2026-10-26T01:08:28.795892Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2501,7 +2603,7 @@
         "pmid:42102870"
       ],
       "discovered_at": "2026-09-16T01:13:31.986585Z",
-      "updated_at": "2026-10-25T01:09:08.816059Z",
+      "updated_at": "2026-10-26T01:08:33.688174Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2539,7 +2641,7 @@
         "pmid:42102868"
       ],
       "discovered_at": "2026-09-16T01:13:31.987604Z",
-      "updated_at": "2026-10-25T01:09:08.815608Z",
+      "updated_at": "2026-10-26T01:08:33.687467Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2577,7 +2679,7 @@
         "pmid:42102862"
       ],
       "discovered_at": "2026-09-16T01:13:31.987604Z",
-      "updated_at": "2026-10-25T01:09:08.815760Z",
+      "updated_at": "2026-10-26T01:08:33.687704Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2615,7 +2717,7 @@
         "pmid:42091068"
       ],
       "discovered_at": "2026-09-16T01:13:31.988623Z",
-      "updated_at": "2026-10-25T01:09:08.816392Z",
+      "updated_at": "2026-10-26T01:08:33.688639Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2691,7 +2793,7 @@
         "pmid:42055052"
       ],
       "discovered_at": "2026-09-16T01:13:31.988623Z",
-      "updated_at": "2026-10-25T01:09:08.817361Z",
+      "updated_at": "2026-10-26T01:08:33.690160Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2729,7 +2831,7 @@
         "pmid:42055050"
       ],
       "discovered_at": "2026-09-16T01:13:31.989642Z",
-      "updated_at": "2026-10-25T01:09:08.817705Z",
+      "updated_at": "2026-10-26T01:08:33.690630Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2767,7 +2869,7 @@
         "pmid:41997887"
       ],
       "discovered_at": "2026-09-16T01:13:31.989642Z",
-      "updated_at": "2026-10-25T01:09:03.245821Z",
+      "updated_at": "2026-10-26T01:08:28.796356Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2919,7 +3021,7 @@
         "pmid:41952327"
       ],
       "discovered_at": "2026-09-16T01:13:31.991680Z",
-      "updated_at": "2026-10-25T01:09:03.246659Z",
+      "updated_at": "2026-10-26T01:08:28.797491Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -2995,7 +3097,7 @@
         "pmid:41934275"
       ],
       "discovered_at": "2026-09-16T01:13:31.992699Z",
-      "updated_at": "2026-10-25T01:09:03.246829Z",
+      "updated_at": "2026-10-26T01:08:28.797713Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3273,7 +3375,7 @@
         "pmid:42674071"
       ],
       "discovered_at": "2026-09-16T01:13:36.179335Z",
-      "updated_at": "2026-10-25T01:09:03.247762Z",
+      "updated_at": "2026-10-26T01:08:30.067707Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Summary number missing from displayed findings",
@@ -3478,7 +3580,7 @@
         "pmid:42617656"
       ],
       "discovered_at": "2026-09-16T01:13:36.182419Z",
-      "updated_at": "2026-10-25T01:09:05.044663Z",
+      "updated_at": "2026-10-26T01:08:30.398620Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -3552,7 +3654,7 @@
         "title:43be948fe5f986702a7ddf72"
       ],
       "discovered_at": "2026-09-16T01:13:36.186421Z",
-      "updated_at": "2026-10-25T01:09:04.884077Z",
+      "updated_at": "2026-10-26T01:08:30.172681Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3589,7 +3691,7 @@
         "title:021fbfe38c654075a1d0d06a"
       ],
       "discovered_at": "2026-09-16T01:13:36.187868Z",
-      "updated_at": "2026-10-25T01:09:04.884897Z",
+      "updated_at": "2026-10-26T01:08:30.173872Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3627,7 +3729,7 @@
         "pmid:42008488"
       ],
       "discovered_at": "2026-09-16T01:13:36.188916Z",
-      "updated_at": "2026-10-25T01:09:05.046488Z",
+      "updated_at": "2026-10-26T01:08:30.400903Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3665,7 +3767,7 @@
         "pmid:41964608"
       ],
       "discovered_at": "2026-09-16T01:13:36.189938Z",
-      "updated_at": "2026-10-25T01:09:05.046648Z",
+      "updated_at": "2026-10-26T01:08:30.401139Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3703,7 +3805,7 @@
         "pmid:41910422"
       ],
       "discovered_at": "2026-09-16T01:13:36.189938Z",
-      "updated_at": "2026-10-25T01:09:05.046823Z",
+      "updated_at": "2026-10-26T01:08:30.401364Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3741,7 +3843,7 @@
         "pmid:41818729"
       ],
       "discovered_at": "2026-09-16T01:13:36.190938Z",
-      "updated_at": "2026-10-25T01:09:05.046994Z",
+      "updated_at": "2026-10-26T01:08:30.401585Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3817,7 +3919,7 @@
         "pmid:41979095"
       ],
       "discovered_at": "2026-09-16T01:13:36.191938Z",
-      "updated_at": "2026-10-25T01:09:05.048613Z",
+      "updated_at": "2026-10-26T01:08:30.406029Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3855,7 +3957,7 @@
         "pmid:41934606"
       ],
       "discovered_at": "2026-09-16T01:13:36.193349Z",
-      "updated_at": "2026-10-25T01:09:05.048763Z",
+      "updated_at": "2026-10-26T01:08:30.406257Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3893,7 +3995,7 @@
         "pmid:41883211"
       ],
       "discovered_at": "2026-09-16T01:13:36.193349Z",
-      "updated_at": "2026-10-25T01:09:05.048910Z",
+      "updated_at": "2026-10-26T01:08:30.406481Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3931,7 +4033,7 @@
         "pmid:41854429"
       ],
       "discovered_at": "2026-09-16T01:13:36.194349Z",
-      "updated_at": "2026-10-25T01:09:05.049057Z",
+      "updated_at": "2026-10-26T01:08:30.406724Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -3969,7 +4071,7 @@
         "pmid:41806393"
       ],
       "discovered_at": "2026-09-16T01:13:36.195349Z",
-      "updated_at": "2026-10-25T01:09:05.049205Z",
+      "updated_at": "2026-10-26T01:08:30.406954Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4007,7 +4109,7 @@
         "pmid:41802285"
       ],
       "discovered_at": "2026-09-16T01:13:36.196349Z",
-      "updated_at": "2026-10-25T01:09:05.049353Z",
+      "updated_at": "2026-10-26T01:08:30.407212Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4045,7 +4147,7 @@
         "pmid:41789551"
       ],
       "discovered_at": "2026-09-16T01:13:36.197556Z",
-      "updated_at": "2026-10-25T01:09:05.049502Z",
+      "updated_at": "2026-10-26T01:08:30.407446Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4121,7 +4223,7 @@
         "pmid:41964610"
       ],
       "discovered_at": "2026-09-16T01:13:36.198556Z",
-      "updated_at": "2026-10-25T01:09:05.049657Z",
+      "updated_at": "2026-10-26T01:08:30.404853Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4159,7 +4261,7 @@
         "pmid:41904682"
       ],
       "discovered_at": "2026-09-16T01:13:36.199556Z",
-      "updated_at": "2026-10-25T01:09:05.049805Z",
+      "updated_at": "2026-10-26T01:08:30.405096Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4197,7 +4299,7 @@
         "pmid:41818731"
       ],
       "discovered_at": "2026-09-16T01:13:36.201557Z",
-      "updated_at": "2026-10-25T01:09:05.050140Z",
+      "updated_at": "2026-10-26T01:08:30.405563Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4273,7 +4375,7 @@
         "pmid:41848755"
       ],
       "discovered_at": "2026-09-16T01:13:36.203775Z",
-      "updated_at": "2026-10-25T01:09:05.047814Z",
+      "updated_at": "2026-10-26T01:08:30.403472Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4311,7 +4413,7 @@
         "pmid:41824751"
       ],
       "discovered_at": "2026-09-16T01:13:36.204801Z",
-      "updated_at": "2026-10-25T01:09:05.047976Z",
+      "updated_at": "2026-10-26T01:08:30.403699Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4349,7 +4451,7 @@
         "pmid:41789552"
       ],
       "discovered_at": "2026-09-16T01:13:36.206935Z",
-      "updated_at": "2026-10-25T01:09:05.048131Z",
+      "updated_at": "2026-10-26T01:08:30.403921Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4387,7 +4489,7 @@
         "pmid:41789548"
       ],
       "discovered_at": "2026-09-16T01:13:36.206935Z",
-      "updated_at": "2026-10-25T01:09:05.048281Z",
+      "updated_at": "2026-10-26T01:08:30.404163Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4425,7 +4527,7 @@
         "pmid:42023676"
       ],
       "discovered_at": "2026-09-16T01:13:36.208209Z",
-      "updated_at": "2026-10-25T01:09:05.051149Z",
+      "updated_at": "2026-10-26T01:08:30.407909Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4463,7 +4565,7 @@
         "pmid:42017533"
       ],
       "discovered_at": "2026-09-16T01:13:36.210511Z",
-      "updated_at": "2026-10-25T01:09:05.051317Z",
+      "updated_at": "2026-10-26T01:08:30.408152Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4539,7 +4641,7 @@
         "pmid:41964609"
       ],
       "discovered_at": "2026-09-16T01:13:36.213771Z",
-      "updated_at": "2026-10-25T01:09:05.051487Z",
+      "updated_at": "2026-10-26T01:08:30.408399Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4577,7 +4679,7 @@
         "pmid:41904681"
       ],
       "discovered_at": "2026-09-16T01:13:36.214770Z",
-      "updated_at": "2026-10-25T01:09:05.051655Z",
+      "updated_at": "2026-10-26T01:08:30.408620Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4615,7 +4717,7 @@
         "pmid:41818730"
       ],
       "discovered_at": "2026-09-16T01:13:36.215770Z",
-      "updated_at": "2026-10-25T01:09:05.051807Z",
+      "updated_at": "2026-10-26T01:08:30.408845Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4653,7 +4755,7 @@
         "pmid:41812258"
       ],
       "discovered_at": "2026-09-16T01:13:36.219134Z",
-      "updated_at": "2026-10-25T01:09:05.051956Z",
+      "updated_at": "2026-10-26T01:08:30.409085Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4691,7 +4793,7 @@
         "pmid:41789550"
       ],
       "discovered_at": "2026-09-16T01:13:36.221320Z",
-      "updated_at": "2026-10-25T01:09:05.052102Z",
+      "updated_at": "2026-10-26T01:08:30.409312Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4729,7 +4831,7 @@
         "pmid:41770850"
       ],
       "discovered_at": "2026-09-16T01:13:39.788161Z",
-      "updated_at": "2026-10-25T01:09:05.052252Z",
+      "updated_at": "2026-10-26T01:08:30.409535Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4767,7 +4869,7 @@
         "pmid:41910421"
       ],
       "discovered_at": "2026-09-16T01:13:39.789074Z",
-      "updated_at": "2026-10-25T01:09:07.015851Z",
+      "updated_at": "2026-10-26T01:08:32.019726Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4805,7 +4907,7 @@
         "pmid:41910423"
       ],
       "discovered_at": "2026-09-16T01:13:39.790074Z",
-      "updated_at": "2026-10-25T01:09:07.016018Z",
+      "updated_at": "2026-10-26T01:08:32.019965Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -4843,7 +4945,7 @@
         "pmid:41789549"
       ],
       "discovered_at": "2026-09-16T01:13:39.791074Z",
-      "updated_at": "2026-10-25T01:09:07.016195Z",
+      "updated_at": "2026-10-26T01:08:32.020211Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -5375,7 +5477,7 @@
         "pmid:40326149"
       ],
       "discovered_at": "2026-09-16T01:13:39.809674Z",
-      "updated_at": "2026-10-25T01:09:08.819785Z",
+      "updated_at": "2026-10-26T01:08:33.693648Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -7122,7 +7224,7 @@
         "pmid:42748963"
       ],
       "discovered_at": "2026-09-17T05:57:03.681436Z",
-      "updated_at": "2026-10-25T01:09:03.237220Z",
+      "updated_at": "2026-10-26T01:08:28.785336Z",
       "status": "failed",
       "attempts": 3,
       "last_error": "Unsupported numeric finding",
@@ -7160,7 +7262,7 @@
         "pmid:42747238"
       ],
       "discovered_at": "2026-09-17T05:57:03.683408Z",
-      "updated_at": "2026-10-25T01:09:01.634923Z",
+      "updated_at": "2026-10-26T01:08:27.107969Z",
       "status": "processed",
       "attempts": 4,
       "last_error": null,
@@ -7231,7 +7333,7 @@
         "pmid:42744760"
       ],
       "discovered_at": "2026-09-17T05:57:03.685416Z",
-      "updated_at": "2026-10-25T01:09:01.633142Z",
+      "updated_at": "2026-10-26T01:08:27.105511Z",
       "status": "failed",
       "attempts": 3,
       "last_error": "Unsupported numeric finding",
@@ -7269,7 +7371,7 @@
         "pmid:42744608"
       ],
       "discovered_at": "2026-09-17T05:57:03.687056Z",
-      "updated_at": "2026-10-25T01:09:01.632756Z",
+      "updated_at": "2026-10-26T01:08:27.105059Z",
       "status": "processed",
       "attempts": 3,
       "last_error": null,
@@ -7562,7 +7664,7 @@
         "pmid:42656013"
       ],
       "discovered_at": "2026-09-17T05:57:03.700348Z",
-      "updated_at": "2026-10-25T01:09:03.237527Z",
+      "updated_at": "2026-10-26T01:08:28.785788Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -8097,7 +8199,7 @@
         "pmid:42639852"
       ],
       "discovered_at": "2026-09-17T05:57:03.727969Z",
-      "updated_at": "2026-10-25T01:09:03.237692Z",
+      "updated_at": "2026-10-26T01:08:28.786028Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Unsupported number in summary prose",
@@ -8591,7 +8693,7 @@
         "pmid:42633774"
       ],
       "discovered_at": "2026-09-17T05:57:05.913990Z",
-      "updated_at": "2026-10-25T01:09:03.247612Z",
+      "updated_at": "2026-10-26T01:08:30.067480Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "missing_abstract",
@@ -8705,7 +8807,7 @@
         "pmid:42633770"
       ],
       "discovered_at": "2026-09-17T05:57:05.921328Z",
-      "updated_at": "2026-10-25T01:09:05.044476Z",
+      "updated_at": "2026-10-26T01:08:30.398388Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -8745,9 +8847,9 @@
       "discovered_at": "2026-09-17T05:57:05.923765Z",
       "updated_at": "2026-10-07T23:25:09.388063Z",
       "status": "failed",
-      "attempts": 1,
-      "last_error": "Finding quotation is not in evidence",
-      "last_attempt_at": "2026-09-25T23:26:20.791896Z",
+      "attempts": 2,
+      "last_error": "Unsupported number in summary prose",
+      "last_attempt_at": "2026-10-26T01:09:11.468011Z",
       "analysis": null,
       "evidence_source": null,
       "evidence_url": null,
@@ -9361,7 +9463,7 @@
         "pmid:42603145"
       ],
       "discovered_at": "2026-09-17T05:57:05.953232Z",
-      "updated_at": "2026-10-25T01:09:03.238668Z",
+      "updated_at": "2026-10-26T01:08:28.787388Z",
       "status": "processed",
       "attempts": 3,
       "last_error": null,
@@ -9526,7 +9628,7 @@
         "pmid:42600650"
       ],
       "discovered_at": "2026-09-17T05:57:05.960409Z",
-      "updated_at": "2026-10-25T01:09:05.045352Z",
+      "updated_at": "2026-10-26T01:08:30.399546Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -9564,7 +9666,7 @@
         "pmid:42600647"
       ],
       "discovered_at": "2026-09-17T05:57:05.963246Z",
-      "updated_at": "2026-10-25T01:09:05.045020Z",
+      "updated_at": "2026-10-26T01:08:30.399090Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -9602,7 +9704,7 @@
         "pmid:42600645"
       ],
       "discovered_at": "2026-09-17T05:57:05.966215Z",
-      "updated_at": "2026-10-25T01:09:05.044845Z",
+      "updated_at": "2026-10-26T01:08:30.398845Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -9754,7 +9856,7 @@
         "pmid:42590805"
       ],
       "discovered_at": "2026-09-17T05:57:05.976807Z",
-      "updated_at": "2026-10-25T01:09:05.045855Z",
+      "updated_at": "2026-10-26T01:08:30.400237Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -9927,7 +10029,7 @@
         "pmid:42590798"
       ],
       "discovered_at": "2026-09-17T05:57:05.982149Z",
-      "updated_at": "2026-10-25T01:09:05.045693Z",
+      "updated_at": "2026-10-26T01:08:30.400012Z",
       "status": "processed",
       "attempts": 5,
       "last_error": null,
@@ -10048,7 +10150,7 @@
         "pmid:42590789"
       ],
       "discovered_at": "2026-09-17T05:57:05.987704Z",
-      "updated_at": "2026-10-25T01:09:05.045181Z",
+      "updated_at": "2026-10-26T01:08:30.399322Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -10124,7 +10226,7 @@
         "pmid:42590787"
       ],
       "discovered_at": "2026-09-17T05:57:05.992467Z",
-      "updated_at": "2026-10-25T01:09:05.045512Z",
+      "updated_at": "2026-10-26T01:08:30.399769Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -10793,7 +10895,7 @@
         "pmid:42571871"
       ],
       "discovered_at": "2026-09-17T05:57:06.031404Z",
-      "updated_at": "2026-10-25T01:09:03.240772Z",
+      "updated_at": "2026-10-26T01:08:28.789888Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -10869,7 +10971,7 @@
         "pmid:42567836"
       ],
       "discovered_at": "2026-09-17T05:57:06.036760Z",
-      "updated_at": "2026-10-25T01:09:03.239338Z",
+      "updated_at": "2026-10-26T01:08:28.788300Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -10945,7 +11047,7 @@
         "pmid:42567191"
       ],
       "discovered_at": "2026-09-17T05:57:06.041991Z",
-      "updated_at": "2026-10-25T01:09:05.046006Z",
+      "updated_at": "2026-10-26T01:08:30.400461Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -11038,7 +11140,7 @@
         "pmid:42567187"
       ],
       "discovered_at": "2026-09-17T05:57:06.044383Z",
-      "updated_at": "2026-10-25T01:09:05.046177Z",
+      "updated_at": "2026-10-26T01:08:30.400683Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -11076,7 +11178,7 @@
         "pmid:42563273"
       ],
       "discovered_at": "2026-09-17T05:57:06.047321Z",
-      "updated_at": "2026-10-25T01:09:03.238842Z",
+      "updated_at": "2026-10-26T01:08:28.787611Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -11359,7 +11461,7 @@
         "pmid:42556420"
       ],
       "discovered_at": "2026-09-17T05:57:06.064064Z",
-      "updated_at": "2026-10-25T01:09:05.046335Z",
+      "updated_at": "2026-10-26T01:08:30.401805Z",
       "status": "processed",
       "attempts": 3,
       "last_error": null,
@@ -11478,9 +11580,9 @@
       "discovered_at": "2026-09-17T05:57:06.070102Z",
       "updated_at": "2026-09-20T23:24:52.553143Z",
       "status": "processed",
-      "attempts": 6,
+      "attempts": 7,
       "last_error": "Unsupported number in summary prose",
-      "last_attempt_at": "2026-10-25T01:09:41.334319Z",
+      "last_attempt_at": "2026-10-26T01:09:20.661938Z",
       "analysis": {
         "clinical_relevance": "direct",
         "relevance_reason": "본 연구는 공격성을 보이는 보호소 개를 대상으로 고용량 경구 펜토바르비탈을 사용한 무의식 유도 효과 및 안락사 전 진정제로서의 적용 가능성을 평가하였으며, 임상에서 행동 문제로 직접 조작이 어려운 개에게 적용할 수 있는 구체적 방법을 탐구함.",
@@ -11713,7 +11815,7 @@
         "pmid:42544489"
       ],
       "discovered_at": "2026-09-17T05:57:06.085407Z",
-      "updated_at": "2026-10-25T01:09:03.243196Z",
+      "updated_at": "2026-10-26T01:08:28.792713Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -11827,7 +11929,7 @@
         "pmid:42529923"
       ],
       "discovered_at": "2026-09-17T05:57:06.093834Z",
-      "updated_at": "2026-10-25T01:09:03.239673Z",
+      "updated_at": "2026-10-26T01:08:28.788750Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -12093,7 +12195,7 @@
         "pmid:42492062"
       ],
       "discovered_at": "2026-09-17T05:57:06.114627Z",
-      "updated_at": "2026-10-25T01:09:03.243513Z",
+      "updated_at": "2026-10-26T01:08:28.792936Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "schema_tags:value_error",
@@ -13327,10 +13429,10 @@
       ],
       "discovered_at": "2026-09-17T05:57:10.286016Z",
       "updated_at": "2026-09-30T23:25:18.972130Z",
-      "status": "pending",
-      "attempts": 0,
-      "last_error": null,
-      "last_attempt_at": null,
+      "status": "failed",
+      "attempts": 1,
+      "last_error": "Unsupported number in summary prose",
+      "last_attempt_at": "2026-10-26T01:09:28.127957Z",
       "analysis": null,
       "evidence_source": null,
       "evidence_url": null,
@@ -13744,7 +13846,7 @@
         "pmid:42315194"
       ],
       "discovered_at": "2026-09-17T05:57:10.324016Z",
-      "updated_at": "2026-10-25T01:09:03.245981Z",
+      "updated_at": "2026-10-26T01:08:28.796580Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -14010,7 +14112,7 @@
         "pmid:42302765"
       ],
       "discovered_at": "2026-09-17T05:57:10.348908Z",
-      "updated_at": "2026-10-25T01:09:03.246982Z",
+      "updated_at": "2026-10-26T01:08:28.797936Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -14238,7 +14340,7 @@
         "pmid:42269678"
       ],
       "discovered_at": "2026-09-17T05:57:10.370016Z",
-      "updated_at": "2026-10-25T01:09:07.022890Z",
+      "updated_at": "2026-10-26T01:08:32.029578Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -14314,7 +14416,7 @@
         "pmid:42248204"
       ],
       "discovered_at": "2026-09-17T05:57:10.377722Z",
-      "updated_at": "2026-10-25T01:09:08.818623Z",
+      "updated_at": "2026-10-26T01:08:33.692053Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -14352,7 +14454,7 @@
         "pmid:42248188"
       ],
       "discovered_at": "2026-09-17T05:57:10.381049Z",
-      "updated_at": "2026-10-25T01:09:08.813608Z",
+      "updated_at": "2026-10-26T01:08:33.684671Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -14466,7 +14568,7 @@
         "pmid:42242283"
       ],
       "discovered_at": "2026-09-17T05:57:10.392813Z",
-      "updated_at": "2026-10-25T01:09:08.812939Z",
+      "updated_at": "2026-10-26T01:08:33.683685Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -14504,7 +14606,7 @@
         "pmid:42242281"
       ],
       "discovered_at": "2026-09-17T05:57:10.395865Z",
-      "updated_at": "2026-10-25T01:09:08.812770Z",
+      "updated_at": "2026-10-26T01:08:33.683447Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -14542,7 +14644,7 @@
         "pmid:42234464"
       ],
       "discovered_at": "2026-09-17T05:57:10.399541Z",
-      "updated_at": "2026-10-25T01:09:03.246149Z",
+      "updated_at": "2026-10-26T01:08:28.796802Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -14960,7 +15062,7 @@
         "pmid:42177638"
       ],
       "discovered_at": "2026-09-17T05:57:10.439618Z",
-      "updated_at": "2026-10-25T01:09:03.246475Z",
+      "updated_at": "2026-10-26T01:08:28.797267Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -14998,7 +15100,7 @@
         "pmid:42173154"
       ],
       "discovered_at": "2026-09-17T05:57:10.444029Z",
-      "updated_at": "2026-10-25T01:09:08.814276Z",
+      "updated_at": "2026-10-26T01:08:33.685616Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -15036,7 +15138,7 @@
         "pmid:42173153"
       ],
       "discovered_at": "2026-09-17T05:57:10.447744Z",
-      "updated_at": "2026-10-25T01:09:08.814104Z",
+      "updated_at": "2026-10-26T01:08:33.685394Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -15188,7 +15290,7 @@
         "pmid:42161306"
       ],
       "discovered_at": "2026-09-17T05:57:10.462534Z",
-      "updated_at": "2026-10-25T01:09:08.815117Z",
+      "updated_at": "2026-10-26T01:08:33.686757Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -15226,7 +15328,7 @@
         "pmid:42161303"
       ],
       "discovered_at": "2026-09-17T05:57:10.466338Z",
-      "updated_at": "2026-10-25T01:09:08.814954Z",
+      "updated_at": "2026-10-26T01:08:33.686534Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -15264,7 +15366,7 @@
         "pmid:42160751"
       ],
       "discovered_at": "2026-09-17T05:57:10.469817Z",
-      "updated_at": "2026-10-25T01:09:03.246308Z",
+      "updated_at": "2026-10-26T01:08:28.797041Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -15416,7 +15518,7 @@
         "pmid:42140270"
       ],
       "discovered_at": "2026-09-17T05:57:10.485190Z",
-      "updated_at": "2026-10-25T01:09:08.815286Z",
+      "updated_at": "2026-10-26T01:08:33.687002Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -15492,7 +15594,7 @@
         "pmid:42136051"
       ],
       "discovered_at": "2026-09-17T05:57:10.492657Z",
-      "updated_at": "2026-10-25T01:09:03.244456Z",
+      "updated_at": "2026-10-26T01:08:28.794532Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -16062,7 +16164,7 @@
         "pmid:42061462"
       ],
       "discovered_at": "2026-09-17T05:57:14.677114Z",
-      "updated_at": "2026-10-25T01:09:08.817862Z",
+      "updated_at": "2026-10-26T01:08:33.690854Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -16100,7 +16202,7 @@
         "pmid:42061445"
       ],
       "discovered_at": "2026-09-17T05:57:14.680852Z",
-      "updated_at": "2026-10-25T01:09:08.817025Z",
+      "updated_at": "2026-10-26T01:08:33.689599Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -16176,7 +16278,7 @@
         "pmid:42060494"
       ],
       "discovered_at": "2026-09-17T05:57:14.688352Z",
-      "updated_at": "2026-10-25T01:09:05.048450Z",
+      "updated_at": "2026-10-26T01:08:30.405786Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -16214,7 +16316,7 @@
         "pmid:42059463"
       ],
       "discovered_at": "2026-09-17T05:57:14.692004Z",
-      "updated_at": "2026-10-25T01:09:05.047641Z",
+      "updated_at": "2026-10-26T01:08:30.403242Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -16252,7 +16354,7 @@
         "pmid:42059462"
       ],
       "discovered_at": "2026-09-17T05:57:14.696396Z",
-      "updated_at": "2026-10-25T01:09:05.050982Z",
+      "updated_at": "2026-10-26T01:08:30.407674Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -16366,7 +16468,7 @@
         "pmid:42043980"
       ],
       "discovered_at": "2026-09-17T05:57:14.709843Z",
-      "updated_at": "2026-10-25T01:09:07.015657Z",
+      "updated_at": "2026-10-26T01:08:32.019486Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -17506,7 +17608,7 @@
         "pmid:41962563"
       ],
       "discovered_at": "2026-09-17T05:57:14.849533Z",
-      "updated_at": "2026-10-25T01:09:08.819462Z",
+      "updated_at": "2026-10-26T01:08:33.693196Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -17658,7 +17760,7 @@
         "pmid:41950947"
       ],
       "discovered_at": "2026-09-17T05:57:14.868064Z",
-      "updated_at": "2026-10-25T01:09:08.819632Z",
+      "updated_at": "2026-10-26T01:08:33.693424Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -18418,7 +18520,7 @@
         "pmid:41869908"
       ],
       "discovered_at": "2026-09-17T05:57:16.602243Z",
-      "updated_at": "2026-10-25T01:09:05.049968Z",
+      "updated_at": "2026-10-26T01:08:30.405327Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -19824,7 +19926,7 @@
         "pmid:41742581"
       ],
       "discovered_at": "2026-09-17T05:57:16.802821Z",
-      "updated_at": "2026-10-25T01:09:07.024924Z",
+      "updated_at": "2026-10-26T01:08:32.032809Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -19900,7 +20002,7 @@
         "pmid:41742579"
       ],
       "discovered_at": "2026-09-17T05:57:16.814387Z",
-      "updated_at": "2026-10-25T01:09:07.026018Z",
+      "updated_at": "2026-10-26T01:08:33.681562Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -19976,7 +20078,7 @@
         "pmid:41742577"
       ],
       "discovered_at": "2026-09-17T05:57:16.824983Z",
-      "updated_at": "2026-10-25T01:09:07.023699Z",
+      "updated_at": "2026-10-26T01:08:32.031877Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -20052,7 +20154,7 @@
         "pmid:41742575"
       ],
       "discovered_at": "2026-09-17T05:57:16.836366Z",
-      "updated_at": "2026-10-25T01:09:07.025089Z",
+      "updated_at": "2026-10-26T01:08:32.033054Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -20280,7 +20382,7 @@
         "pmid:41742569"
       ],
       "discovered_at": "2026-09-17T05:57:16.869106Z",
-      "updated_at": "2026-10-25T01:09:07.025240Z",
+      "updated_at": "2026-10-26T01:08:32.033290Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -20584,7 +20686,7 @@
         "pmid:41742561"
       ],
       "discovered_at": "2026-09-17T05:57:27.534676Z",
-      "updated_at": "2026-10-25T01:09:08.811341Z",
+      "updated_at": "2026-10-26T01:08:33.681801Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -20622,7 +20724,7 @@
         "pmid:41742560"
       ],
       "discovered_at": "2026-09-17T05:57:27.540659Z",
-      "updated_at": "2026-10-25T01:09:07.023202Z",
+      "updated_at": "2026-10-26T01:08:32.030043Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -20660,7 +20762,7 @@
         "pmid:41742559"
       ],
       "discovered_at": "2026-09-17T05:57:27.546286Z",
-      "updated_at": "2026-10-25T01:09:07.023852Z",
+      "updated_at": "2026-10-26T01:08:32.032117Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -20812,7 +20914,7 @@
         "pmid:41742555"
       ],
       "discovered_at": "2026-09-17T05:57:27.571141Z",
-      "updated_at": "2026-10-25T01:09:08.811702Z",
+      "updated_at": "2026-10-26T01:08:33.682045Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -20850,7 +20952,7 @@
         "pmid:41742554"
       ],
       "discovered_at": "2026-09-17T05:57:27.577001Z",
-      "updated_at": "2026-10-25T01:09:07.023372Z",
+      "updated_at": "2026-10-26T01:08:32.030276Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -20888,7 +20990,7 @@
         "pmid:41742553"
       ],
       "discovered_at": "2026-09-17T05:57:27.582538Z",
-      "updated_at": "2026-10-25T01:09:07.024001Z",
+      "updated_at": "2026-10-26T01:08:32.032348Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -20926,7 +21028,7 @@
         "pmid:41742552"
       ],
       "discovered_at": "2026-09-17T05:57:27.588632Z",
-      "updated_at": "2026-10-25T01:09:07.024297Z",
+      "updated_at": "2026-10-26T01:08:32.030730Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -21002,7 +21104,7 @@
         "pmid:41742550"
       ],
       "discovered_at": "2026-09-17T05:57:27.600526Z",
-      "updated_at": "2026-10-25T01:09:07.022059Z",
+      "updated_at": "2026-10-26T01:08:32.028413Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -21040,7 +21142,7 @@
         "pmid:41742549"
       ],
       "discovered_at": "2026-09-17T05:57:27.606193Z",
-      "updated_at": "2026-10-25T01:09:08.811878Z",
+      "updated_at": "2026-10-26T01:08:33.682280Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -21078,7 +21180,7 @@
         "pmid:41742548"
       ],
       "discovered_at": "2026-09-17T05:57:27.611714Z",
-      "updated_at": "2026-10-25T01:09:07.023532Z",
+      "updated_at": "2026-10-26T01:08:32.030503Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -21116,7 +21218,7 @@
         "pmid:41742547"
       ],
       "discovered_at": "2026-09-17T05:57:27.617657Z",
-      "updated_at": "2026-10-25T01:09:07.024150Z",
+      "updated_at": "2026-10-26T01:08:32.032572Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -21154,7 +21256,7 @@
         "pmid:41742546"
       ],
       "discovered_at": "2026-09-17T05:57:27.624379Z",
-      "updated_at": "2026-10-25T01:09:07.024449Z",
+      "updated_at": "2026-10-26T01:08:32.030954Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -21458,7 +21560,7 @@
         "pmid:41742532"
       ],
       "discovered_at": "2026-09-17T05:57:27.671662Z",
-      "updated_at": "2026-10-25T01:09:07.022235Z",
+      "updated_at": "2026-10-26T01:08:32.028645Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -21838,7 +21940,7 @@
         "pmid:41742514"
       ],
       "discovered_at": "2026-09-17T05:57:27.732055Z",
-      "updated_at": "2026-10-25T01:09:07.022560Z",
+      "updated_at": "2026-10-26T01:08:32.029119Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -22104,7 +22206,7 @@
         "pmid:41742504"
       ],
       "discovered_at": "2026-09-17T05:57:27.774720Z",
-      "updated_at": "2026-10-25T01:09:07.024611Z",
+      "updated_at": "2026-10-26T01:08:32.031196Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -22332,7 +22434,7 @@
         "pmid:41742495"
       ],
       "discovered_at": "2026-09-17T05:57:27.813354Z",
-      "updated_at": "2026-10-25T01:09:08.812055Z",
+      "updated_at": "2026-10-26T01:08:33.682510Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -22408,7 +22510,7 @@
         "pmid:41742492"
       ],
       "discovered_at": "2026-09-17T05:57:27.825601Z",
-      "updated_at": "2026-10-25T01:09:07.024774Z",
+      "updated_at": "2026-10-26T01:08:32.031423Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -22636,7 +22738,7 @@
         "pmid:41742483"
       ],
       "discovered_at": "2026-09-17T05:57:27.865672Z",
-      "updated_at": "2026-10-25T01:09:08.812228Z",
+      "updated_at": "2026-10-26T01:08:33.682739Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -23548,7 +23650,7 @@
         "pmid:41482995"
       ],
       "discovered_at": "2026-09-17T05:57:28.021116Z",
-      "updated_at": "2026-10-25T01:09:07.017410Z",
+      "updated_at": "2026-10-26T01:08:32.021845Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -23586,7 +23688,7 @@
         "pmid:41482981"
       ],
       "discovered_at": "2026-09-17T05:57:28.027938Z",
-      "updated_at": "2026-10-25T01:09:07.017586Z",
+      "updated_at": "2026-10-26T01:08:32.022085Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -25182,7 +25284,7 @@
         "pmid:42541767"
       ],
       "discovered_at": "2026-09-17T05:57:33.754337Z",
-      "updated_at": "2026-10-25T01:09:03.240148Z",
+      "updated_at": "2026-10-26T01:08:28.789446Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -25312,7 +25414,7 @@
         "pmid:42542127"
       ],
       "discovered_at": "2026-09-17T05:57:37.709935Z",
-      "updated_at": "2026-10-25T01:09:05.047158Z",
+      "updated_at": "2026-10-26T01:08:30.402048Z",
       "status": "processed",
       "attempts": 2,
       "last_error": null,
@@ -25383,7 +25485,7 @@
         "pmid:42542130"
       ],
       "discovered_at": "2026-09-17T05:57:37.717810Z",
-      "updated_at": "2026-10-25T01:09:05.047310Z",
+      "updated_at": "2026-10-26T01:08:30.402292Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -26558,10 +26660,10 @@
       ],
       "discovered_at": "2026-09-17T05:57:45.650393Z",
       "updated_at": "2026-09-17T23:21:22.895116Z",
-      "status": "pending",
-      "attempts": 0,
-      "last_error": null,
-      "last_attempt_at": null,
+      "status": "failed",
+      "attempts": 1,
+      "last_error": "journal_unverified",
+      "last_attempt_at": "2026-10-26T01:10:23.391478Z",
       "analysis": null,
       "evidence_source": null,
       "evidence_url": null,
@@ -26596,10 +26698,10 @@
       ],
       "discovered_at": "2026-09-17T05:57:45.657953Z",
       "updated_at": "2026-09-17T23:21:22.895463Z",
-      "status": "pending",
-      "attempts": 0,
-      "last_error": null,
-      "last_attempt_at": null,
+      "status": "failed",
+      "attempts": 1,
+      "last_error": "journal_unverified",
+      "last_attempt_at": "2026-10-26T01:10:32.180902Z",
       "analysis": null,
       "evidence_source": null,
       "evidence_url": null,
@@ -35972,7 +36074,7 @@
         "pmid:42750239"
       ],
       "discovered_at": "2026-09-17T23:21:12.719211Z",
-      "updated_at": "2026-10-25T01:09:01.633646Z",
+      "updated_at": "2026-10-26T01:08:27.106193Z",
       "status": "failed",
       "attempts": 3,
       "last_error": "Finding quotation is not in evidence",
@@ -36010,11 +36112,11 @@
         "pmid:42751990"
       ],
       "discovered_at": "2026-09-18T01:46:59.562887Z",
-      "updated_at": "2026-10-25T01:09:01.634769Z",
+      "updated_at": "2026-10-26T01:08:27.107749Z",
       "status": "processed",
-      "attempts": 13,
+      "attempts": 14,
       "last_error": "Unsupported number in summary prose",
-      "last_attempt_at": "2026-10-25T01:09:14.308670Z",
+      "last_attempt_at": "2026-10-26T01:08:38.448846Z",
       "analysis": {
         "clinical_relevance": "direct",
         "relevance_reason": "The study involves a clinical population of client-owned Labrador retrievers and evaluates owner-reported dermatological symptoms relevant for breeding decisions, directly relating to veterinary clinical practice regarding hereditary dermatologic conditions.",
@@ -36098,7 +36200,7 @@
         "pmid:42751987"
       ],
       "discovered_at": "2026-09-18T01:46:59.571788Z",
-      "updated_at": "2026-10-25T01:09:01.634281Z",
+      "updated_at": "2026-10-26T01:08:27.107087Z",
       "status": "processed",
       "attempts": 3,
       "last_error": null,
@@ -36195,7 +36297,7 @@
         "pmid:42754359"
       ],
       "discovered_at": "2026-09-18T07:49:44.965837Z",
-      "updated_at": "2026-10-25T01:09:01.634601Z",
+      "updated_at": "2026-10-26T01:08:27.107530Z",
       "status": "failed",
       "attempts": 3,
       "last_error": "Finding quotation is not in evidence",
@@ -36233,7 +36335,7 @@
         "pmid:42753810"
       ],
       "discovered_at": "2026-09-18T07:49:44.977693Z",
-      "updated_at": "2026-10-25T01:09:07.016541Z",
+      "updated_at": "2026-10-26T01:08:32.020668Z",
       "status": "processed",
       "attempts": 2,
       "last_error": null,
@@ -36313,7 +36415,7 @@
         "pmid:42753794"
       ],
       "discovered_at": "2026-09-18T07:49:44.989495Z",
-      "updated_at": "2026-10-25T01:09:03.237057Z",
+      "updated_at": "2026-10-26T01:08:28.784868Z",
       "status": "processed",
       "attempts": 6,
       "last_error": null,
@@ -36410,7 +36512,7 @@
         "pmid:41223533"
       ],
       "discovered_at": "2026-09-18T23:24:05.797378Z",
-      "updated_at": "2026-10-25T01:09:08.826712Z",
+      "updated_at": "2026-10-26T01:08:35.441965Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -36448,7 +36550,7 @@
         "pmid:42760893"
       ],
       "discovered_at": "2026-09-19T23:22:09.679930Z",
-      "updated_at": "2026-10-25T01:09:01.633809Z",
+      "updated_at": "2026-10-26T01:08:27.106416Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "ValidationError",
@@ -36486,7 +36588,7 @@
         "pmid:42760474"
       ],
       "discovered_at": "2026-09-19T23:22:09.692156Z",
-      "updated_at": "2026-10-25T01:09:01.632948Z",
+      "updated_at": "2026-10-26T01:08:27.105286Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Unsupported numeric finding",
@@ -36524,7 +36626,7 @@
         "pmid:42760277"
       ],
       "discovered_at": "2026-09-19T23:22:09.703296Z",
-      "updated_at": "2026-10-25T01:09:01.632397Z",
+      "updated_at": "2026-10-26T01:08:27.104585Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "ValidationError",
@@ -36562,7 +36664,7 @@
         "pmid:42759535"
       ],
       "discovered_at": "2026-09-19T23:22:09.710967Z",
-      "updated_at": "2026-10-25T01:09:07.016360Z",
+      "updated_at": "2026-10-26T01:08:32.020442Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "missing_abstract",
@@ -36600,7 +36702,7 @@
         "pmid:42526506"
       ],
       "discovered_at": "2026-09-19T23:22:10.472202Z",
-      "updated_at": "2026-10-25T01:09:07.015238Z",
+      "updated_at": "2026-10-26T01:08:32.019115Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -36638,7 +36740,7 @@
         "pmid:42526493"
       ],
       "discovered_at": "2026-09-19T23:22:10.481429Z",
-      "updated_at": "2026-10-25T01:09:05.052400Z",
+      "updated_at": "2026-10-26T01:08:30.409761Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -36734,7 +36836,7 @@
         "pmid:42486172"
       ],
       "discovered_at": "2026-09-19T23:22:11.260880Z",
-      "updated_at": "2026-10-25T01:09:07.016719Z",
+      "updated_at": "2026-10-26T01:08:32.020911Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -36772,7 +36874,7 @@
         "pmid:42486153"
       ],
       "discovered_at": "2026-09-19T23:22:11.272636Z",
-      "updated_at": "2026-10-25T01:09:07.017760Z",
+      "updated_at": "2026-10-26T01:08:32.022312Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -36864,7 +36966,7 @@
         "pmid:42431236"
       ],
       "discovered_at": "2026-09-19T23:22:11.288157Z",
-      "updated_at": "2026-10-25T01:09:07.018893Z",
+      "updated_at": "2026-10-26T01:08:32.023914Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -36902,7 +37004,7 @@
         "pmid:42419388"
       ],
       "discovered_at": "2026-09-19T23:22:11.300583Z",
-      "updated_at": "2026-10-25T01:09:07.019571Z",
+      "updated_at": "2026-10-26T01:08:32.024841Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -36940,7 +37042,7 @@
         "pmid:42419384"
       ],
       "discovered_at": "2026-09-19T23:22:11.310747Z",
-      "updated_at": "2026-10-25T01:09:07.019753Z",
+      "updated_at": "2026-10-26T01:08:32.025081Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -36978,7 +37080,7 @@
         "pmid:42419368"
       ],
       "discovered_at": "2026-09-19T23:22:11.323695Z",
-      "updated_at": "2026-10-25T01:09:07.019063Z",
+      "updated_at": "2026-10-26T01:08:32.024165Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -37016,11 +37118,11 @@
         "pmid:42385773"
       ],
       "discovered_at": "2026-09-19T23:22:11.338830Z",
-      "updated_at": "2026-10-25T01:09:07.020244Z",
-      "status": "pending",
-      "attempts": 0,
-      "last_error": null,
-      "last_attempt_at": null,
+      "updated_at": "2026-10-26T01:09:55.382102Z",
+      "status": "failed",
+      "attempts": 1,
+      "last_error": "missing_abstract",
+      "last_attempt_at": "2026-10-26T01:09:55.295784Z",
       "analysis": null,
       "evidence_source": null,
       "evidence_url": null,
@@ -37054,7 +37156,7 @@
         "pmid:42385772"
       ],
       "discovered_at": "2026-09-19T23:22:11.357063Z",
-      "updated_at": "2026-10-25T01:09:07.020082Z",
+      "updated_at": "2026-10-26T01:08:32.025529Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37092,7 +37194,7 @@
         "pmid:42361384"
       ],
       "discovered_at": "2026-09-19T23:22:11.373657Z",
-      "updated_at": "2026-10-25T01:09:07.020721Z",
+      "updated_at": "2026-10-26T01:08:32.026465Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37130,7 +37232,7 @@
         "pmid:42361375"
       ],
       "discovered_at": "2026-09-19T23:22:11.386586Z",
-      "updated_at": "2026-10-25T01:09:07.020395Z",
+      "updated_at": "2026-10-26T01:08:32.026011Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37168,7 +37270,7 @@
         "pmid:42361369"
       ],
       "discovered_at": "2026-09-19T23:22:11.399967Z",
-      "updated_at": "2026-10-25T01:09:07.020545Z",
+      "updated_at": "2026-10-26T01:08:32.026237Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37206,7 +37308,7 @@
         "pmid:42361364"
       ],
       "discovered_at": "2026-09-19T23:22:11.410234Z",
-      "updated_at": "2026-10-25T01:09:07.021219Z",
+      "updated_at": "2026-10-26T01:08:32.027209Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37244,7 +37346,7 @@
         "pmid:42361361"
       ],
       "discovered_at": "2026-09-19T23:22:11.420444Z",
-      "updated_at": "2026-10-25T01:09:07.020884Z",
+      "updated_at": "2026-10-26T01:08:32.026699Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37282,7 +37384,7 @@
         "pmid:42320522"
       ],
       "discovered_at": "2026-09-19T23:22:11.434953Z",
-      "updated_at": "2026-10-25T01:09:07.021733Z",
+      "updated_at": "2026-10-26T01:08:32.027915Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37320,7 +37422,7 @@
         "pmid:42314738"
       ],
       "discovered_at": "2026-09-19T23:22:11.448597Z",
-      "updated_at": "2026-10-25T01:09:07.021564Z",
+      "updated_at": "2026-10-26T01:08:32.027686Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37358,7 +37460,7 @@
         "pmid:42314735"
       ],
       "discovered_at": "2026-09-19T23:22:11.460414Z",
-      "updated_at": "2026-10-25T01:09:07.021901Z",
+      "updated_at": "2026-10-26T01:08:32.028177Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37396,7 +37498,7 @@
         "pmid:42285146"
       ],
       "discovered_at": "2026-09-19T23:22:11.472994Z",
-      "updated_at": "2026-10-25T01:09:07.022733Z",
+      "updated_at": "2026-10-26T01:08:32.029350Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37434,7 +37536,7 @@
         "pmid:42269682"
       ],
       "discovered_at": "2026-09-19T23:22:11.484202Z",
-      "updated_at": "2026-10-25T01:09:07.025535Z",
+      "updated_at": "2026-10-26T01:08:32.031651Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37472,7 +37574,7 @@
         "pmid:42269667"
       ],
       "discovered_at": "2026-09-19T23:22:11.495076Z",
-      "updated_at": "2026-10-25T01:09:08.812591Z",
+      "updated_at": "2026-10-26T01:08:33.683209Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37510,7 +37612,7 @@
         "pmid:42269666"
       ],
       "discovered_at": "2026-09-19T23:22:11.505454Z",
-      "updated_at": "2026-10-25T01:09:07.023043Z",
+      "updated_at": "2026-10-26T01:08:32.029804Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37548,7 +37650,7 @@
         "pmid:42242286"
       ],
       "discovered_at": "2026-09-19T23:22:11.515670Z",
-      "updated_at": "2026-10-25T01:09:08.813275Z",
+      "updated_at": "2026-10-26T01:08:33.684193Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37586,7 +37688,7 @@
         "pmid:42242285"
       ],
       "discovered_at": "2026-09-19T23:22:11.526673Z",
-      "updated_at": "2026-10-25T01:09:08.813104Z",
+      "updated_at": "2026-10-26T01:08:33.683911Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37624,7 +37726,7 @@
         "pmid:42242282"
       ],
       "discovered_at": "2026-09-19T23:22:11.538537Z",
-      "updated_at": "2026-10-25T01:09:08.813435Z",
+      "updated_at": "2026-10-26T01:08:33.684434Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37662,7 +37764,7 @@
         "pmid:42202865"
       ],
       "discovered_at": "2026-09-19T23:22:12.245788Z",
-      "updated_at": "2026-10-25T01:09:08.813942Z",
+      "updated_at": "2026-10-26T01:08:33.685158Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37700,7 +37802,7 @@
         "pmid:42173143"
       ],
       "discovered_at": "2026-09-19T23:22:12.261396Z",
-      "updated_at": "2026-10-25T01:09:08.814437Z",
+      "updated_at": "2026-10-26T01:08:33.685838Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37738,7 +37840,7 @@
         "pmid:42161311"
       ],
       "discovered_at": "2026-09-19T23:22:12.274024Z",
-      "updated_at": "2026-10-25T01:09:08.814617Z",
+      "updated_at": "2026-10-26T01:08:33.686080Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37776,7 +37878,7 @@
         "pmid:42161302"
       ],
       "discovered_at": "2026-09-19T23:22:12.284681Z",
-      "updated_at": "2026-10-25T01:09:08.814782Z",
+      "updated_at": "2026-10-26T01:08:33.686311Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37814,7 +37916,7 @@
         "pmid:42102861"
       ],
       "discovered_at": "2026-09-19T23:22:12.299685Z",
-      "updated_at": "2026-10-25T01:09:08.815909Z",
+      "updated_at": "2026-10-26T01:08:33.687932Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37852,7 +37954,7 @@
         "pmid:42091085"
       ],
       "discovered_at": "2026-09-19T23:22:12.309228Z",
-      "updated_at": "2026-10-25T01:09:08.816705Z",
+      "updated_at": "2026-10-26T01:08:33.689151Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37890,7 +37992,7 @@
         "pmid:42091083"
       ],
       "discovered_at": "2026-09-19T23:22:12.318237Z",
-      "updated_at": "2026-10-25T01:09:08.816227Z",
+      "updated_at": "2026-10-26T01:08:33.688406Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37928,7 +38030,7 @@
         "pmid:42091070"
       ],
       "discovered_at": "2026-09-19T23:22:12.330003Z",
-      "updated_at": "2026-10-25T01:09:08.816853Z",
+      "updated_at": "2026-10-26T01:08:33.689376Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -37966,7 +38068,7 @@
         "pmid:42055043"
       ],
       "discovered_at": "2026-09-19T23:22:12.345634Z",
-      "updated_at": "2026-10-25T01:09:08.818022Z",
+      "updated_at": "2026-10-26T01:08:33.691109Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38004,7 +38106,7 @@
         "pmid:42055040"
       ],
       "discovered_at": "2026-09-19T23:22:12.358039Z",
-      "updated_at": "2026-10-25T01:09:08.817527Z",
+      "updated_at": "2026-10-26T01:08:33.690401Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38042,7 +38144,7 @@
         "pmid:41999738"
       ],
       "discovered_at": "2026-09-19T23:22:12.374516Z",
-      "updated_at": "2026-10-25T01:09:08.818953Z",
+      "updated_at": "2026-10-26T01:08:33.692510Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38080,7 +38182,7 @@
         "pmid:41999724"
       ],
       "discovered_at": "2026-09-19T23:22:13.185164Z",
-      "updated_at": "2026-10-25T01:09:08.819293Z",
+      "updated_at": "2026-10-26T01:08:33.692956Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38118,7 +38220,7 @@
         "pmid:41916396"
       ],
       "discovered_at": "2026-09-19T23:22:13.202556Z",
-      "updated_at": "2026-10-25T01:09:10.514819Z",
+      "updated_at": "2026-10-26T01:08:35.444261Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38156,7 +38258,7 @@
         "pmid:41628647"
       ],
       "discovered_at": "2026-09-19T23:22:15.721313Z",
-      "updated_at": "2026-10-25T01:09:10.515153Z",
+      "updated_at": "2026-10-26T01:08:35.444705Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38194,7 +38296,7 @@
         "pmid:41617189"
       ],
       "discovered_at": "2026-09-19T23:22:15.732307Z",
-      "updated_at": "2026-10-25T01:09:10.515312Z",
+      "updated_at": "2026-10-26T01:08:35.444924Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38232,7 +38334,7 @@
         "pmid:41576962"
       ],
       "discovered_at": "2026-09-19T23:22:15.744787Z",
-      "updated_at": "2026-10-25T01:09:10.515621Z",
+      "updated_at": "2026-10-26T01:08:35.445376Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38270,7 +38372,7 @@
         "pmid:41500262"
       ],
       "discovered_at": "2026-09-19T23:22:15.755956Z",
-      "updated_at": "2026-10-25T01:09:10.515770Z",
+      "updated_at": "2026-10-26T01:08:35.445594Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38308,7 +38410,7 @@
         "pmid:41485465"
       ],
       "discovered_at": "2026-09-19T23:22:15.769349Z",
-      "updated_at": "2026-10-25T01:09:10.515938Z",
+      "updated_at": "2026-10-26T01:08:35.445809Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38346,7 +38448,7 @@
         "pmid:41468900"
       ],
       "discovered_at": "2026-09-19T23:22:15.782402Z",
-      "updated_at": "2026-10-25T01:09:10.516278Z",
+      "updated_at": "2026-10-26T01:08:35.446265Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38384,7 +38486,7 @@
         "pmid:41468899"
       ],
       "discovered_at": "2026-09-19T23:22:15.794566Z",
-      "updated_at": "2026-10-25T01:09:10.516105Z",
+      "updated_at": "2026-10-26T01:08:35.446041Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38422,7 +38524,7 @@
         "pmid:40306313"
       ],
       "discovered_at": "2026-09-19T23:22:16.106401Z",
-      "updated_at": "2026-10-25T01:09:10.514647Z",
+      "updated_at": "2026-10-26T01:08:35.444032Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38460,7 +38562,7 @@
         "pmid:42762832"
       ],
       "discovered_at": "2026-09-20T23:23:27.184644Z",
-      "updated_at": "2026-10-25T01:09:03.237375Z",
+      "updated_at": "2026-10-26T01:08:28.785564Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Unsupported numeric finding",
@@ -38498,7 +38600,7 @@
         "pmid:42762831"
       ],
       "discovered_at": "2026-09-20T23:23:27.193455Z",
-      "updated_at": "2026-10-25T01:09:03.234669Z",
+      "updated_at": "2026-10-26T01:08:28.782112Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "missing_abstract",
@@ -38574,7 +38676,7 @@
         "pmid:42762828"
       ],
       "discovered_at": "2026-09-20T23:23:27.209521Z",
-      "updated_at": "2026-10-25T01:09:03.236520Z",
+      "updated_at": "2026-10-26T01:08:28.784419Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Finding quotation is not in evidence",
@@ -38612,7 +38714,7 @@
         "pmid:42762824"
       ],
       "discovered_at": "2026-09-20T23:23:27.218272Z",
-      "updated_at": "2026-10-25T01:09:03.236886Z",
+      "updated_at": "2026-10-26T01:08:28.784645Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Unsupported numeric finding",
@@ -38688,7 +38790,7 @@
         "pmid:38205735"
       ],
       "discovered_at": "2026-09-20T23:23:34.076086Z",
-      "updated_at": "2026-10-25T01:09:10.516623Z",
+      "updated_at": "2026-10-26T01:08:35.446718Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38726,7 +38828,7 @@
         "pmid:37915112"
       ],
       "discovered_at": "2026-09-20T23:23:34.084289Z",
-      "updated_at": "2026-10-25T01:09:10.516784Z",
+      "updated_at": "2026-10-26T01:08:35.446938Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -38764,7 +38866,7 @@
         "pmid:42765742"
       ],
       "discovered_at": "2026-09-21T23:24:34.217525Z",
-      "updated_at": "2026-10-25T01:09:01.642360Z",
+      "updated_at": "2026-10-26T01:08:27.116650Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Unsupported numeric finding",
@@ -38802,7 +38904,7 @@
         "pmid:42765741"
       ],
       "discovered_at": "2026-09-21T23:24:34.228946Z",
-      "updated_at": "2026-10-25T01:09:01.643268Z",
+      "updated_at": "2026-10-26T01:08:28.775567Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "schema_tags:value_error",
@@ -38840,7 +38942,7 @@
         "pmid:42765740"
       ],
       "discovered_at": "2026-09-21T23:24:34.240093Z",
-      "updated_at": "2026-10-25T01:09:01.642507Z",
+      "updated_at": "2026-10-26T01:08:27.116871Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Summary number missing from displayed findings",
@@ -38878,7 +38980,7 @@
         "pmid:42765739"
       ],
       "discovered_at": "2026-09-21T23:24:34.252528Z",
-      "updated_at": "2026-10-25T01:09:01.638167Z",
+      "updated_at": "2026-10-26T01:08:27.113921Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Finding quotation is not in evidence",
@@ -38916,7 +39018,7 @@
         "pmid:42765738"
       ],
       "discovered_at": "2026-09-21T23:24:34.262797Z",
-      "updated_at": "2026-10-25T01:09:01.637369Z",
+      "updated_at": "2026-10-26T01:08:27.112554Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -38954,7 +39056,7 @@
         "pmid:42765737"
       ],
       "discovered_at": "2026-09-21T23:24:34.274545Z",
-      "updated_at": "2026-10-25T01:09:01.643119Z",
+      "updated_at": "2026-10-26T01:08:28.775180Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -39026,7 +39128,7 @@
         "pmid:37861061"
       ],
       "discovered_at": "2026-09-21T23:24:44.482195Z",
-      "updated_at": "2026-10-25T01:09:10.526551Z",
+      "updated_at": "2026-10-26T01:08:35.460114Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -39064,7 +39166,7 @@
         "pmid:42770669"
       ],
       "discovered_at": "2026-09-22T23:22:59.349831Z",
-      "updated_at": "2026-10-25T01:09:01.631974Z",
+      "updated_at": "2026-10-26T01:08:27.104094Z",
       "status": "processed",
       "attempts": 2,
       "last_error": null,
@@ -39147,7 +39249,7 @@
         "pmid:42770651"
       ],
       "discovered_at": "2026-09-22T23:22:59.361665Z",
-      "updated_at": "2026-10-25T01:09:01.632220Z",
+      "updated_at": "2026-10-26T01:08:27.104351Z",
       "status": "processed",
       "attempts": 3,
       "last_error": null,
@@ -39231,7 +39333,7 @@
         "pmid:42770278"
       ],
       "discovered_at": "2026-09-22T23:22:59.373755Z",
-      "updated_at": "2026-10-25T01:09:01.641920Z",
+      "updated_at": "2026-10-26T01:08:27.115965Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Unsupported sample size",
@@ -39269,7 +39371,7 @@
         "pmid:42770277"
       ],
       "discovered_at": "2026-09-22T23:22:59.384845Z",
-      "updated_at": "2026-10-25T01:09:03.231619Z",
+      "updated_at": "2026-10-26T01:08:28.777901Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -39355,7 +39457,7 @@
         "pmid:42770276"
       ],
       "discovered_at": "2026-09-22T23:22:59.394554Z",
-      "updated_at": "2026-10-25T01:09:01.642066Z",
+      "updated_at": "2026-10-26T01:08:27.116207Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -39393,7 +39495,7 @@
         "pmid:42767961"
       ],
       "discovered_at": "2026-09-22T23:22:59.404086Z",
-      "updated_at": "2026-10-25T01:09:01.635556Z",
+      "updated_at": "2026-10-26T01:08:27.108651Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "missing_abstract",
@@ -39431,7 +39533,7 @@
         "pmid:42767940"
       ],
       "discovered_at": "2026-09-22T23:22:59.414715Z",
-      "updated_at": "2026-10-25T01:09:01.635737Z",
+      "updated_at": "2026-10-26T01:08:27.108876Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "missing_abstract",
@@ -39469,7 +39571,7 @@
         "pmid:42767796"
       ],
       "discovered_at": "2026-09-22T23:22:59.426090Z",
-      "updated_at": "2026-10-25T01:09:01.628462Z",
+      "updated_at": "2026-10-26T01:08:27.098955Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Unsupported number in summary prose",
@@ -39507,7 +39609,7 @@
         "pmid:42767761"
       ],
       "discovered_at": "2026-09-22T23:22:59.435838Z",
-      "updated_at": "2026-10-25T01:09:01.633963Z",
+      "updated_at": "2026-10-26T01:08:27.106634Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "ValidationError",
@@ -39545,7 +39647,7 @@
         "pmid:42767266"
       ],
       "discovered_at": "2026-09-22T23:22:59.447407Z",
-      "updated_at": "2026-10-25T01:09:05.052571Z",
+      "updated_at": "2026-10-26T01:08:30.409999Z",
       "status": "processed",
       "attempts": 3,
       "last_error": null,
@@ -39630,7 +39732,7 @@
         "pmid:42766861"
       ],
       "discovered_at": "2026-09-22T23:22:59.456503Z",
-      "updated_at": "2026-10-25T01:09:01.642213Z",
+      "updated_at": "2026-10-26T01:08:27.116430Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -39668,7 +39770,7 @@
         "pmid:38240346"
       ],
       "discovered_at": "2026-09-22T23:23:06.463932Z",
-      "updated_at": "2026-10-25T01:09:10.516441Z",
+      "updated_at": "2026-10-26T01:08:35.446497Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -39706,7 +39808,7 @@
         "pmid:38064361"
       ],
       "discovered_at": "2026-09-22T23:23:06.475140Z",
-      "updated_at": "2026-10-25T01:09:10.526380Z",
+      "updated_at": "2026-10-26T01:08:35.459868Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -39744,7 +39846,7 @@
         "pmid:42773789"
       ],
       "discovered_at": "2026-09-23T23:21:39.990408Z",
-      "updated_at": "2026-10-25T01:09:01.631397Z",
+      "updated_at": "2026-10-26T01:08:27.103601Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -39782,7 +39884,7 @@
         "pmid:41742520"
       ],
       "discovered_at": "2026-09-23T23:21:45.814619Z",
-      "updated_at": "2026-10-25T01:09:07.022399Z",
+      "updated_at": "2026-10-26T01:08:32.028874Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -39820,7 +39922,7 @@
         "pmid:39434560"
       ],
       "discovered_at": "2026-09-23T23:21:47.531480Z",
-      "updated_at": "2026-10-25T01:09:10.514340Z",
+      "updated_at": "2026-10-26T01:08:35.443576Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -39858,7 +39960,7 @@
         "pmid:39268979"
       ],
       "discovered_at": "2026-09-23T23:21:47.548352Z",
-      "updated_at": "2026-10-25T01:09:10.514490Z",
+      "updated_at": "2026-10-26T01:08:35.443796Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -39896,7 +39998,7 @@
         "pmid:38752421"
       ],
       "discovered_at": "2026-09-23T23:21:47.558441Z",
-      "updated_at": "2026-10-25T01:09:10.514984Z",
+      "updated_at": "2026-10-26T01:08:35.444483Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -39934,7 +40036,7 @@
         "pmid:42778163"
       ],
       "discovered_at": "2026-09-24T23:23:51.993070Z",
-      "updated_at": "2026-10-25T01:09:01.634126Z",
+      "updated_at": "2026-10-26T01:08:27.106852Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Unsupported number in summary prose",
@@ -39972,7 +40074,7 @@
         "pmid:42777771"
       ],
       "discovered_at": "2026-09-24T23:23:52.004235Z",
-      "updated_at": "2026-10-25T01:09:03.236370Z",
+      "updated_at": "2026-10-26T01:08:28.784193Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -40046,7 +40148,7 @@
         "pmid:41742545"
       ],
       "discovered_at": "2026-09-24T23:23:58.375471Z",
-      "updated_at": "2026-10-25T01:09:07.025388Z",
+      "updated_at": "2026-10-26T01:08:32.033514Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40084,7 +40186,7 @@
         "pmid:40757981"
       ],
       "discovered_at": "2026-09-24T23:24:02.771566Z",
-      "updated_at": "2026-10-25T01:09:08.820528Z",
+      "updated_at": "2026-10-26T01:08:33.694765Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40122,7 +40224,7 @@
         "pmid:40526210"
       ],
       "discovered_at": "2026-09-24T23:24:02.783951Z",
-      "updated_at": "2026-10-25T01:09:08.825656Z",
+      "updated_at": "2026-10-26T01:08:33.702459Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40160,7 +40262,7 @@
         "pmid:40525629"
       ],
       "discovered_at": "2026-09-24T23:24:02.796871Z",
-      "updated_at": "2026-10-25T01:09:08.823855Z",
+      "updated_at": "2026-10-26T01:08:33.699672Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40198,7 +40300,7 @@
         "pmid:40525557"
       ],
       "discovered_at": "2026-09-24T23:24:02.809483Z",
-      "updated_at": "2026-10-25T01:09:08.825210Z",
+      "updated_at": "2026-10-26T01:08:33.701964Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40236,7 +40338,7 @@
         "pmid:40524652"
       ],
       "discovered_at": "2026-09-24T23:24:02.821535Z",
-      "updated_at": "2026-10-25T01:09:08.825355Z",
+      "updated_at": "2026-10-26T01:08:33.702229Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40274,7 +40376,7 @@
         "pmid:40317952"
       ],
       "discovered_at": "2026-09-24T23:24:02.831952Z",
-      "updated_at": "2026-10-25T01:09:08.826556Z",
+      "updated_at": "2026-10-26T01:08:35.441728Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40312,7 +40414,7 @@
         "pmid:40235194"
       ],
       "discovered_at": "2026-09-24T23:24:02.845680Z",
-      "updated_at": "2026-10-25T01:09:08.826116Z",
+      "updated_at": "2026-10-26T01:08:33.703138Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40350,7 +40452,7 @@
         "pmid:40207935"
       ],
       "discovered_at": "2026-09-24T23:24:02.856705Z",
-      "updated_at": "2026-10-25T01:09:08.826263Z",
+      "updated_at": "2026-10-26T01:08:33.703359Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40388,7 +40490,7 @@
         "pmid:40186417"
       ],
       "discovered_at": "2026-09-24T23:24:02.868186Z",
-      "updated_at": "2026-10-25T01:09:08.826409Z",
+      "updated_at": "2026-10-26T01:08:35.441321Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40426,7 +40528,7 @@
         "pmid:40122139"
       ],
       "discovered_at": "2026-09-24T23:24:02.878561Z",
-      "updated_at": "2026-10-25T01:09:08.826876Z",
+      "updated_at": "2026-10-26T01:08:35.442217Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40464,7 +40566,7 @@
         "pmid:40109253"
       ],
       "discovered_at": "2026-09-24T23:24:02.889120Z",
-      "updated_at": "2026-10-25T01:09:10.513275Z",
+      "updated_at": "2026-10-26T01:08:35.442441Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40502,7 +40604,7 @@
         "pmid:40033521"
       ],
       "discovered_at": "2026-09-24T23:24:02.900686Z",
-      "updated_at": "2026-10-25T01:09:10.513677Z",
+      "updated_at": "2026-10-26T01:08:35.442668Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40540,7 +40642,7 @@
         "pmid:39778887"
       ],
       "discovered_at": "2026-09-24T23:24:02.913611Z",
-      "updated_at": "2026-10-25T01:09:10.514031Z",
+      "updated_at": "2026-10-26T01:08:35.443129Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40578,7 +40680,7 @@
         "pmid:39679821"
       ],
       "discovered_at": "2026-09-24T23:24:02.926915Z",
-      "updated_at": "2026-10-25T01:09:10.513860Z",
+      "updated_at": "2026-10-26T01:08:35.442890Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40616,7 +40718,7 @@
         "pmid:27859753"
       ],
       "discovered_at": "2026-09-24T23:24:02.942237Z",
-      "updated_at": "2026-10-25T01:09:12.666617Z",
+      "updated_at": "2026-10-26T01:08:36.851035Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40654,7 +40756,7 @@
         "pmid:42785750"
       ],
       "discovered_at": "2026-09-25T23:23:29.846869Z",
-      "updated_at": "2026-10-25T01:09:01.628157Z",
+      "updated_at": "2026-10-26T01:08:27.098498Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Korean prose requirement",
@@ -40692,7 +40794,7 @@
         "pmid:42785358"
       ],
       "discovered_at": "2026-09-25T23:23:29.856922Z",
-      "updated_at": "2026-10-25T01:09:03.236215Z",
+      "updated_at": "2026-10-26T01:08:28.783951Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Summary number missing from displayed findings",
@@ -40730,7 +40832,7 @@
         "pmid:42781880"
       ],
       "discovered_at": "2026-09-25T23:23:29.867435Z",
-      "updated_at": "2026-10-25T01:09:01.628312Z",
+      "updated_at": "2026-10-26T01:08:27.098728Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "Summary number missing from displayed findings",
@@ -40768,7 +40870,7 @@
         "pmid:42781877"
       ],
       "discovered_at": "2026-09-25T23:23:29.876977Z",
-      "updated_at": "2026-10-25T01:09:01.627990Z",
+      "updated_at": "2026-10-26T01:08:27.098268Z",
       "status": "failed",
       "attempts": 2,
       "last_error": "missing_abstract",
@@ -40806,7 +40908,7 @@
         "pmid:41616485"
       ],
       "discovered_at": "2026-09-25T23:23:38.791389Z",
-      "updated_at": "2026-10-25T01:09:08.823552Z",
+      "updated_at": "2026-10-26T01:08:33.699224Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40844,7 +40946,7 @@
         "pmid:41070729"
       ],
       "discovered_at": "2026-09-25T23:23:39.755169Z",
-      "updated_at": "2026-10-25T01:09:08.818171Z",
+      "updated_at": "2026-10-26T01:08:33.691344Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40882,7 +40984,7 @@
         "pmid:41055229"
       ],
       "discovered_at": "2026-09-25T23:23:39.768267Z",
-      "updated_at": "2026-10-25T01:09:08.818790Z",
+      "updated_at": "2026-10-26T01:08:33.692288Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40920,7 +41022,7 @@
         "pmid:41001835"
       ],
       "discovered_at": "2026-09-25T23:23:39.781635Z",
-      "updated_at": "2026-10-25T01:09:08.819127Z",
+      "updated_at": "2026-10-26T01:08:33.692732Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40958,7 +41060,7 @@
         "pmid:40996370"
       ],
       "discovered_at": "2026-09-25T23:23:39.793080Z",
-      "updated_at": "2026-10-25T01:09:08.818320Z",
+      "updated_at": "2026-10-26T01:08:33.691574Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -40996,7 +41098,7 @@
         "pmid:40966314"
       ],
       "discovered_at": "2026-09-25T23:23:39.806348Z",
-      "updated_at": "2026-10-25T01:09:08.820089Z",
+      "updated_at": "2026-10-26T01:08:33.694103Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41034,7 +41136,7 @@
         "pmid:40966305"
       ],
       "discovered_at": "2026-09-25T23:23:39.818578Z",
-      "updated_at": "2026-10-25T01:09:08.821272Z",
+      "updated_at": "2026-10-26T01:08:33.696094Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41072,7 +41174,7 @@
         "pmid:40960428"
       ],
       "discovered_at": "2026-09-25T23:23:39.829087Z",
-      "updated_at": "2026-10-25T01:09:08.821423Z",
+      "updated_at": "2026-10-26T01:08:33.696312Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41110,7 +41212,7 @@
         "pmid:40944960"
       ],
       "discovered_at": "2026-09-25T23:23:39.842229Z",
-      "updated_at": "2026-10-25T01:09:08.822362Z",
+      "updated_at": "2026-10-26T01:08:33.697432Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41148,7 +41250,7 @@
         "pmid:40944928"
       ],
       "discovered_at": "2026-09-25T23:23:39.853133Z",
-      "updated_at": "2026-10-25T01:09:08.822966Z",
+      "updated_at": "2026-10-26T01:08:33.698326Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41186,7 +41288,7 @@
         "pmid:40927962"
       ],
       "discovered_at": "2026-09-25T23:23:39.865546Z",
-      "updated_at": "2026-10-25T01:09:08.821568Z",
+      "updated_at": "2026-10-26T01:08:33.696529Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41224,7 +41326,7 @@
         "pmid:40923554"
       ],
       "discovered_at": "2026-09-25T23:23:39.879020Z",
-      "updated_at": "2026-10-25T01:09:08.820836Z",
+      "updated_at": "2026-10-26T01:08:33.695214Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41262,7 +41364,7 @@
         "pmid:40911440"
       ],
       "discovered_at": "2026-09-25T23:23:39.893673Z",
-      "updated_at": "2026-10-25T01:09:08.821725Z",
+      "updated_at": "2026-10-26T01:08:33.696746Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41300,7 +41402,7 @@
         "pmid:40910653"
       ],
       "discovered_at": "2026-09-25T23:23:39.905396Z",
-      "updated_at": "2026-10-25T01:09:08.821896Z",
+      "updated_at": "2026-10-26T01:08:33.696969Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41338,7 +41440,7 @@
         "pmid:40884536"
       ],
       "discovered_at": "2026-09-25T23:23:39.916790Z",
-      "updated_at": "2026-10-25T01:09:08.823112Z",
+      "updated_at": "2026-10-26T01:08:33.698549Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41376,7 +41478,7 @@
         "pmid:40884532"
       ],
       "discovered_at": "2026-09-25T23:23:39.928153Z",
-      "updated_at": "2026-10-25T01:09:08.822510Z",
+      "updated_at": "2026-10-26T01:08:33.697648Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41414,7 +41516,7 @@
         "pmid:40884430"
       ],
       "discovered_at": "2026-09-25T23:23:39.938465Z",
-      "updated_at": "2026-10-25T01:09:08.820235Z",
+      "updated_at": "2026-10-26T01:08:33.694325Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41452,7 +41554,7 @@
         "pmid:40864877"
       ],
       "discovered_at": "2026-09-25T23:23:39.948777Z",
-      "updated_at": "2026-10-25T01:09:08.822212Z",
+      "updated_at": "2026-10-26T01:08:33.695862Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41490,7 +41592,7 @@
         "pmid:40853201"
       ],
       "discovered_at": "2026-09-25T23:23:39.959311Z",
-      "updated_at": "2026-10-25T01:09:08.823259Z",
+      "updated_at": "2026-10-26T01:08:33.698770Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41528,7 +41630,7 @@
         "pmid:40842246"
       ],
       "discovered_at": "2026-09-25T23:23:39.973423Z",
-      "updated_at": "2026-10-25T01:09:08.819937Z",
+      "updated_at": "2026-10-26T01:08:33.693870Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41566,7 +41668,7 @@
         "pmid:40833185"
       ],
       "discovered_at": "2026-09-25T23:23:39.986268Z",
-      "updated_at": "2026-10-25T01:09:08.820982Z",
+      "updated_at": "2026-10-26T01:08:33.695431Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41604,7 +41706,7 @@
         "pmid:40833232"
       ],
       "discovered_at": "2026-09-25T23:23:39.997673Z",
-      "updated_at": "2026-10-25T01:09:08.822057Z",
+      "updated_at": "2026-10-26T01:08:33.697205Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41642,7 +41744,7 @@
         "pmid:40810386"
       ],
       "discovered_at": "2026-09-25T23:23:40.010163Z",
-      "updated_at": "2026-10-25T01:09:08.821126Z",
+      "updated_at": "2026-10-26T01:08:33.695646Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41680,7 +41782,7 @@
         "pmid:40810341"
       ],
       "discovered_at": "2026-09-25T23:23:40.021547Z",
-      "updated_at": "2026-10-25T01:09:08.822668Z",
+      "updated_at": "2026-10-26T01:08:33.697869Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41718,7 +41820,7 @@
         "pmid:40802537"
       ],
       "discovered_at": "2026-09-25T23:23:40.032341Z",
-      "updated_at": "2026-10-25T01:09:08.820381Z",
+      "updated_at": "2026-10-26T01:08:33.694551Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41756,7 +41858,7 @@
         "pmid:40802493"
       ],
       "discovered_at": "2026-09-25T23:23:40.044325Z",
-      "updated_at": "2026-10-25T01:09:08.822816Z",
+      "updated_at": "2026-10-26T01:08:33.698103Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41794,7 +41896,7 @@
         "pmid:40765239"
       ],
       "discovered_at": "2026-09-25T23:23:40.055524Z",
-      "updated_at": "2026-10-25T01:09:08.820685Z",
+      "updated_at": "2026-10-26T01:08:33.694995Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41832,7 +41934,7 @@
         "pmid:40682369"
       ],
       "discovered_at": "2026-09-25T23:23:40.066746Z",
-      "updated_at": "2026-10-25T01:09:08.824915Z",
+      "updated_at": "2026-10-26T01:08:33.701512Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41870,7 +41972,7 @@
         "pmid:40650501"
       ],
       "discovered_at": "2026-09-25T23:23:40.077551Z",
-      "updated_at": "2026-10-25T01:09:08.824294Z",
+      "updated_at": "2026-10-26T01:08:33.700803Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41908,7 +42010,7 @@
         "pmid:40622077"
       ],
       "discovered_at": "2026-09-25T23:23:40.088783Z",
-      "updated_at": "2026-10-25T01:09:08.824001Z",
+      "updated_at": "2026-10-26T01:08:33.699890Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41946,7 +42048,7 @@
         "pmid:40588816"
       ],
       "discovered_at": "2026-09-25T23:23:40.098955Z",
-      "updated_at": "2026-10-25T01:09:08.823404Z",
+      "updated_at": "2026-10-26T01:08:33.699003Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -41984,7 +42086,7 @@
         "pmid:40586330"
       ],
       "discovered_at": "2026-09-25T23:23:40.111793Z",
-      "updated_at": "2026-10-25T01:09:08.824441Z",
+      "updated_at": "2026-10-26T01:08:33.701038Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42022,7 +42124,7 @@
         "pmid:40577334"
       ],
       "discovered_at": "2026-09-25T23:23:40.124521Z",
-      "updated_at": "2026-10-25T01:09:08.823708Z",
+      "updated_at": "2026-10-26T01:08:33.699453Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42060,7 +42162,7 @@
         "pmid:40577200"
       ],
       "discovered_at": "2026-09-25T23:23:40.136851Z",
-      "updated_at": "2026-10-25T01:09:08.824147Z",
+      "updated_at": "2026-10-26T01:08:33.700126Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42098,7 +42200,7 @@
         "pmid:40577055"
       ],
       "discovered_at": "2026-09-25T23:23:40.149960Z",
-      "updated_at": "2026-10-25T01:09:08.824598Z",
+      "updated_at": "2026-10-26T01:08:33.701280Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42136,7 +42238,7 @@
         "pmid:40570160"
       ],
       "discovered_at": "2026-09-25T23:23:40.160460Z",
-      "updated_at": "2026-10-25T01:09:08.825064Z",
+      "updated_at": "2026-10-26T01:08:33.701727Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42174,7 +42276,7 @@
         "pmid:40432548"
       ],
       "discovered_at": "2026-09-25T23:23:40.172887Z",
-      "updated_at": "2026-10-25T01:09:08.825501Z",
+      "updated_at": "2026-10-26T01:08:33.700561Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42211,7 +42313,7 @@
         "pmid:11023132"
       ],
       "discovered_at": "2026-09-25T23:23:40.799751Z",
-      "updated_at": "2026-10-25T01:09:13.509310Z",
+      "updated_at": "2026-10-26T01:08:37.484722Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42249,11 +42351,11 @@
         "pmid:42791227"
       ],
       "discovered_at": "2026-09-26T23:23:52.260431Z",
-      "updated_at": "2026-10-25T01:09:01.633304Z",
+      "updated_at": "2026-10-26T01:08:27.105733Z",
       "status": "failed",
-      "attempts": 1,
+      "attempts": 2,
       "last_error": "Unsupported sample size",
-      "last_attempt_at": "2026-09-26T23:24:42.816068Z",
+      "last_attempt_at": "2026-10-26T01:09:55.877833Z",
       "analysis": null,
       "evidence_source": null,
       "evidence_url": null,
@@ -42287,7 +42389,7 @@
         "pmid:42790529"
       ],
       "discovered_at": "2026-09-26T23:23:52.274306Z",
-      "updated_at": "2026-10-25T01:09:05.047463Z",
+      "updated_at": "2026-10-26T01:08:30.402518Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -42380,11 +42482,11 @@
         "pmid:42790500"
       ],
       "discovered_at": "2026-09-26T23:23:52.288265Z",
-      "updated_at": "2026-10-25T01:09:03.236063Z",
+      "updated_at": "2026-10-26T01:08:28.783728Z",
       "status": "failed",
-      "attempts": 1,
-      "last_error": "Unsupported numeric finding",
-      "last_attempt_at": "2026-09-26T23:25:03.554858Z",
+      "attempts": 2,
+      "last_error": "Summary number missing from displayed findings",
+      "last_attempt_at": "2026-10-26T01:10:15.290819Z",
       "analysis": null,
       "evidence_source": null,
       "evidence_url": null,
@@ -42418,7 +42520,7 @@
         "pmid:42801332"
       ],
       "discovered_at": "2026-09-27T23:24:18.533882Z",
-      "updated_at": "2026-10-25T01:09:01.637871Z",
+      "updated_at": "2026-10-26T01:08:27.113468Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -42456,7 +42558,7 @@
         "pmid:42801331"
       ],
       "discovered_at": "2026-09-27T23:24:18.540792Z",
-      "updated_at": "2026-10-25T01:09:01.640447Z",
+      "updated_at": "2026-10-26T01:08:27.119363Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -42494,7 +42596,7 @@
         "pmid:42800046"
       ],
       "discovered_at": "2026-09-27T23:24:18.548172Z",
-      "updated_at": "2026-10-25T01:09:03.231231Z",
+      "updated_at": "2026-10-26T01:08:28.777679Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -42532,7 +42634,7 @@
         "pmid:42800045"
       ],
       "discovered_at": "2026-09-27T23:24:18.556829Z",
-      "updated_at": "2026-10-25T01:09:01.638020Z",
+      "updated_at": "2026-10-26T01:08:27.113696Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -42570,7 +42672,7 @@
         "pmid:42803610"
       ],
       "discovered_at": "2026-09-28T23:25:35.022818Z",
-      "updated_at": "2026-10-25T01:09:01.641772Z",
+      "updated_at": "2026-10-26T01:08:27.115745Z",
       "status": "processed",
       "attempts": 3,
       "last_error": null,
@@ -42663,7 +42765,7 @@
         "pmid:42803393"
       ],
       "discovered_at": "2026-09-28T23:25:35.031309Z",
-      "updated_at": "2026-10-25T01:09:01.631048Z",
+      "updated_at": "2026-10-26T01:08:27.103100Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -42701,7 +42803,7 @@
         "pmid:42803133"
       ],
       "discovered_at": "2026-09-28T23:25:35.040500Z",
-      "updated_at": "2026-10-25T01:09:01.630600Z",
+      "updated_at": "2026-10-26T01:08:27.102410Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -42739,7 +42841,7 @@
         "pmid:42802545"
       ],
       "discovered_at": "2026-09-28T23:25:35.047617Z",
-      "updated_at": "2026-10-25T01:09:01.633460Z",
+      "updated_at": "2026-10-26T01:08:27.105956Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -42777,7 +42879,7 @@
         "pmid:42802502"
       ],
       "discovered_at": "2026-09-28T23:25:35.056429Z",
-      "updated_at": "2026-10-25T01:09:01.631714Z",
+      "updated_at": "2026-10-26T01:08:27.103831Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -42815,7 +42917,7 @@
         "pmid:33739491"
       ],
       "discovered_at": "2026-09-28T23:25:42.454273Z",
-      "updated_at": "2026-10-25T01:09:12.661466Z",
+      "updated_at": "2026-10-26T01:08:36.843512Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42852,7 +42954,7 @@
         "pmid:10225596"
       ],
       "discovered_at": "2026-09-28T23:25:42.462519Z",
-      "updated_at": "2026-10-25T01:09:13.509494Z",
+      "updated_at": "2026-10-26T01:08:37.484947Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42889,7 +42991,7 @@
         "title:8bc802b13cb7b5c9ee9dccee"
       ],
       "discovered_at": "2026-09-28T23:28:56.152024Z",
-      "updated_at": "2026-10-25T01:09:13.509099Z",
+      "updated_at": "2026-10-26T01:08:37.484488Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42926,7 +43028,7 @@
         "title:313b4a1edbedcc0a4f85df44"
       ],
       "discovered_at": "2026-09-28T23:28:56.160412Z",
-      "updated_at": "2026-10-25T01:09:13.517580Z",
+      "updated_at": "2026-10-26T01:08:37.495680Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -42964,7 +43066,7 @@
         "pmid:42806282"
       ],
       "discovered_at": "2026-09-29T23:24:44.682455Z",
-      "updated_at": "2026-10-25T01:09:01.642973Z",
+      "updated_at": "2026-10-26T01:08:27.120043Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -43002,7 +43104,7 @@
         "pmid:42814655"
       ],
       "discovered_at": "2026-09-30T23:25:09.483447Z",
-      "updated_at": "2026-10-25T01:09:01.641623Z",
+      "updated_at": "2026-10-26T01:08:27.115521Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -43040,7 +43142,7 @@
         "pmid:42813598"
       ],
       "discovered_at": "2026-09-30T23:25:09.491943Z",
-      "updated_at": "2026-10-25T01:09:01.632558Z",
+      "updated_at": "2026-10-26T01:08:27.104811Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -43123,7 +43225,7 @@
         "pmid:34096090"
       ],
       "discovered_at": "2026-09-30T23:25:14.462095Z",
-      "updated_at": "2026-10-25T01:09:12.661319Z",
+      "updated_at": "2026-10-26T01:08:36.843292Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -43161,7 +43263,7 @@
         "pmid:42817829"
       ],
       "discovered_at": "2026-10-01T23:24:26.361977Z",
-      "updated_at": "2026-10-25T01:09:01.630754Z",
+      "updated_at": "2026-10-26T01:08:27.102630Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -43199,7 +43301,7 @@
         "pmid:42815545"
       ],
       "discovered_at": "2026-10-01T23:24:26.372465Z",
-      "updated_at": "2026-10-25T01:09:03.235461Z",
+      "updated_at": "2026-10-26T01:08:28.783054Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -43237,7 +43339,7 @@
         "pmid:42815535"
       ],
       "discovered_at": "2026-10-01T23:24:26.381580Z",
-      "updated_at": "2026-10-25T01:09:03.235901Z",
+      "updated_at": "2026-10-26T01:08:28.783510Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -43275,7 +43377,7 @@
         "pmid:42815532"
       ],
       "discovered_at": "2026-10-01T23:24:26.393773Z",
-      "updated_at": "2026-10-25T01:09:03.234980Z",
+      "updated_at": "2026-10-26T01:08:28.782477Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -43313,7 +43415,7 @@
         "pmid:42815526"
       ],
       "discovered_at": "2026-10-01T23:24:26.404212Z",
-      "updated_at": "2026-10-25T01:09:03.235231Z",
+      "updated_at": "2026-10-26T01:08:28.782759Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -43401,7 +43503,7 @@
         "pmid:42815456"
       ],
       "discovered_at": "2026-10-01T23:24:26.413981Z",
-      "updated_at": "2026-10-25T01:09:01.637217Z",
+      "updated_at": "2026-10-26T01:08:27.112330Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -43439,7 +43541,7 @@
         "pmid:42815455"
       ],
       "discovered_at": "2026-10-01T23:24:26.424224Z",
-      "updated_at": "2026-10-25T01:09:01.644376Z",
+      "updated_at": "2026-10-26T01:08:28.777454Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -43477,7 +43579,7 @@
         "pmid:42461253"
       ],
       "discovered_at": "2026-10-01T23:24:27.899942Z",
-      "updated_at": "2026-10-25T01:09:03.236716Z",
+      "updated_at": "2026-10-26T01:08:28.785109Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -43515,7 +43617,7 @@
         "pmid:40231788"
       ],
       "discovered_at": "2026-10-01T23:24:29.802893Z",
-      "updated_at": "2026-10-25T01:09:08.825966Z",
+      "updated_at": "2026-10-26T01:08:33.702899Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -43553,7 +43655,7 @@
         "pmid:39739353"
       ],
       "discovered_at": "2026-10-01T23:24:29.814760Z",
-      "updated_at": "2026-10-25T01:09:10.514188Z",
+      "updated_at": "2026-10-26T01:08:35.443354Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -43591,7 +43693,7 @@
         "pmid:38838709"
       ],
       "discovered_at": "2026-10-01T23:24:30.528644Z",
-      "updated_at": "2026-10-25T01:09:10.526895Z",
+      "updated_at": "2026-10-26T01:08:35.460560Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -43629,7 +43731,7 @@
         "pmid:38553798"
       ],
       "discovered_at": "2026-10-01T23:24:30.539968Z",
-      "updated_at": "2026-10-25T01:09:10.515463Z",
+      "updated_at": "2026-10-26T01:08:35.445156Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -43667,7 +43769,7 @@
         "pmid:37746913"
       ],
       "discovered_at": "2026-10-01T23:24:30.553301Z",
-      "updated_at": "2026-10-25T01:09:10.526733Z",
+      "updated_at": "2026-10-26T01:08:35.460341Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -43705,7 +43807,7 @@
         "pmid:37191021"
       ],
       "discovered_at": "2026-10-01T23:24:30.564611Z",
-      "updated_at": "2026-10-25T01:09:10.527048Z",
+      "updated_at": "2026-10-26T01:08:36.841486Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -43743,7 +43845,7 @@
         "pmid:36860138"
       ],
       "discovered_at": "2026-10-01T23:24:30.576367Z",
-      "updated_at": "2026-10-25T01:09:12.660848Z",
+      "updated_at": "2026-10-26T01:08:36.842606Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -43781,7 +43883,7 @@
         "pmid:42825706"
       ],
       "discovered_at": "2026-10-02T23:23:59.035496Z",
-      "updated_at": "2026-10-25T01:09:01.627811Z",
+      "updated_at": "2026-10-26T01:08:27.098031Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -43819,7 +43921,7 @@
         "pmid:42823621"
       ],
       "discovered_at": "2026-10-02T23:23:59.048705Z",
-      "updated_at": "2026-10-25T01:09:01.629986Z",
+      "updated_at": "2026-10-26T01:08:27.101501Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -43857,7 +43959,7 @@
         "pmid:42820725"
       ],
       "discovered_at": "2026-10-02T23:23:59.060823Z",
-      "updated_at": "2026-10-25T01:09:01.641466Z",
+      "updated_at": "2026-10-26T01:08:27.115301Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -43895,7 +43997,7 @@
         "pmid:42823068"
       ],
       "discovered_at": "2026-10-02T23:23:59.072315Z",
-      "updated_at": "2026-10-25T01:09:01.640296Z",
+      "updated_at": "2026-10-26T01:08:27.119139Z",
       "status": "processed",
       "attempts": 4,
       "last_error": null,
@@ -43988,7 +44090,7 @@
         "pmid:42127999"
       ],
       "discovered_at": "2026-10-02T23:24:01.317623Z",
-      "updated_at": "2026-10-25T01:09:08.815444Z",
+      "updated_at": "2026-10-26T01:08:33.687231Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -44026,7 +44128,7 @@
         "pmid:42091078"
       ],
       "discovered_at": "2026-10-02T23:24:01.332389Z",
-      "updated_at": "2026-10-25T01:09:08.816546Z",
+      "updated_at": "2026-10-26T01:08:33.688891Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -44064,7 +44166,7 @@
         "pmid:42061443"
       ],
       "discovered_at": "2026-10-02T23:24:01.347218Z",
-      "updated_at": "2026-10-25T01:09:08.817186Z",
+      "updated_at": "2026-10-26T01:08:33.689825Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -44102,7 +44204,7 @@
         "pmid:35113800"
       ],
       "discovered_at": "2026-10-02T23:24:06.421461Z",
-      "updated_at": "2026-10-25T01:09:12.661794Z",
+      "updated_at": "2026-10-26T01:08:36.843949Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -44140,7 +44242,7 @@
         "pmid:34897811"
       ],
       "discovered_at": "2026-10-02T23:24:06.432987Z",
-      "updated_at": "2026-10-25T01:09:12.661166Z",
+      "updated_at": "2026-10-26T01:08:36.843067Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -44178,7 +44280,7 @@
         "pmid:34598302"
       ],
       "discovered_at": "2026-10-02T23:24:06.445119Z",
-      "updated_at": "2026-10-25T01:09:12.665628Z",
+      "updated_at": "2026-10-26T01:08:36.849641Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -44216,7 +44318,7 @@
         "pmid:33638176"
       ],
       "discovered_at": "2026-10-02T23:24:06.458467Z",
-      "updated_at": "2026-10-25T01:09:12.661623Z",
+      "updated_at": "2026-10-26T01:08:36.843730Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -44254,7 +44356,7 @@
         "pmid:33021455"
       ],
       "discovered_at": "2026-10-02T23:24:06.471730Z",
-      "updated_at": "2026-10-25T01:09:12.662552Z",
+      "updated_at": "2026-10-26T01:08:36.845104Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -44292,7 +44394,7 @@
         "pmid:27195763"
       ],
       "discovered_at": "2026-10-02T23:24:06.486122Z",
-      "updated_at": "2026-10-25T01:09:12.665943Z",
+      "updated_at": "2026-10-26T01:08:36.850115Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -44330,7 +44432,7 @@
         "pmid:42826754"
       ],
       "discovered_at": "2026-10-04T03:00:16.298936Z",
-      "updated_at": "2026-10-25T01:09:03.233718Z",
+      "updated_at": "2026-10-26T01:08:28.780885Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -44368,7 +44470,7 @@
         "pmid:42826750"
       ],
       "discovered_at": "2026-10-04T03:00:16.311865Z",
-      "updated_at": "2026-10-25T01:09:03.233408Z",
+      "updated_at": "2026-10-26T01:08:28.780440Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -44406,7 +44508,7 @@
         "pmid:42826748"
       ],
       "discovered_at": "2026-10-04T03:00:16.324482Z",
-      "updated_at": "2026-10-25T01:09:03.233889Z",
+      "updated_at": "2026-10-26T01:08:28.781123Z",
       "status": "processed",
       "attempts": 2,
       "last_error": null,
@@ -44494,7 +44596,7 @@
         "pmid:42826746"
       ],
       "discovered_at": "2026-10-04T03:00:16.335584Z",
-      "updated_at": "2026-10-25T01:09:03.234381Z",
+      "updated_at": "2026-10-26T01:08:28.781778Z",
       "status": "processed",
       "attempts": 2,
       "last_error": null,
@@ -44596,7 +44698,7 @@
         "pmid:42826745"
       ],
       "discovered_at": "2026-10-04T03:00:16.346854Z",
-      "updated_at": "2026-10-25T01:09:03.234220Z",
+      "updated_at": "2026-10-26T01:08:28.781562Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -44634,7 +44736,7 @@
         "pmid:42826744"
       ],
       "discovered_at": "2026-10-04T03:00:16.359585Z",
-      "updated_at": "2026-10-25T01:09:03.233559Z",
+      "updated_at": "2026-10-26T01:08:28.780659Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -44672,7 +44774,7 @@
         "pmid:42826743"
       ],
       "discovered_at": "2026-10-04T03:00:16.370064Z",
-      "updated_at": "2026-10-25T01:09:03.235728Z",
+      "updated_at": "2026-10-26T01:08:28.783289Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -44751,7 +44853,7 @@
         "pmid:42826742"
       ],
       "discovered_at": "2026-10-04T03:00:16.382589Z",
-      "updated_at": "2026-10-25T01:09:03.234050Z",
+      "updated_at": "2026-10-26T01:08:28.781346Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -44789,7 +44891,7 @@
         "pmid:42828555"
       ],
       "discovered_at": "2026-10-04T23:25:17.141431Z",
-      "updated_at": "2026-10-25T01:09:01.644226Z",
+      "updated_at": "2026-10-26T01:08:28.777223Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -44827,7 +44929,7 @@
         "pmid:42832652"
       ],
       "discovered_at": "2026-10-05T23:24:57.617403Z",
-      "updated_at": "2026-10-25T01:09:04.838104Z",
+      "updated_at": "2026-10-26T01:08:30.106597Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -44865,7 +44967,7 @@
         "pmid:42831799"
       ],
       "discovered_at": "2026-10-05T23:24:57.629554Z",
-      "updated_at": "2026-10-25T01:09:04.938829Z",
+      "updated_at": "2026-10-26T01:08:30.286553Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -44953,7 +45055,7 @@
         "pmid:42458232"
       ],
       "discovered_at": "2026-10-05T23:24:59.090290Z",
-      "updated_at": "2026-10-25T01:09:03.241220Z",
+      "updated_at": "2026-10-26T01:08:28.790371Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -44991,7 +45093,7 @@
         "pmid:42420192"
       ],
       "discovered_at": "2026-10-05T23:24:59.103283Z",
-      "updated_at": "2026-10-25T01:09:03.241540Z",
+      "updated_at": "2026-10-26T01:08:28.791088Z",
       "status": "processed",
       "attempts": 2,
       "last_error": null,
@@ -45083,11 +45185,11 @@
         "pmid:42384572"
       ],
       "discovered_at": "2026-10-05T23:24:59.115940Z",
-      "updated_at": "2026-10-25T01:09:03.241712Z",
-      "status": "pending",
-      "attempts": 0,
-      "last_error": null,
-      "last_attempt_at": null,
+      "updated_at": "2026-10-26T01:08:28.791314Z",
+      "status": "failed",
+      "attempts": 1,
+      "last_error": "Summary number missing from displayed findings",
+      "last_attempt_at": "2026-10-26T01:10:04.497162Z",
       "analysis": null,
       "evidence_source": null,
       "evidence_url": null,
@@ -45121,7 +45223,7 @@
         "pmid:42348344"
       ],
       "discovered_at": "2026-10-05T23:24:59.132255Z",
-      "updated_at": "2026-10-25T01:09:03.242217Z",
+      "updated_at": "2026-10-26T01:08:28.791537Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45159,7 +45261,7 @@
         "pmid:42338289"
       ],
       "discovered_at": "2026-10-05T23:24:59.143914Z",
-      "updated_at": "2026-10-25T01:09:03.242533Z",
+      "updated_at": "2026-10-26T01:08:28.791775Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45197,7 +45299,7 @@
         "pmid:42311163"
       ],
       "discovered_at": "2026-10-05T23:24:59.158146Z",
-      "updated_at": "2026-10-25T01:09:03.242867Z",
+      "updated_at": "2026-10-26T01:08:28.792264Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45235,7 +45337,7 @@
         "pmid:42290482"
       ],
       "discovered_at": "2026-10-05T23:24:59.168907Z",
-      "updated_at": "2026-10-25T01:09:03.242709Z",
+      "updated_at": "2026-10-26T01:08:28.792027Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45273,7 +45375,7 @@
         "pmid:42244488"
       ],
       "discovered_at": "2026-10-05T23:24:59.184014Z",
-      "updated_at": "2026-10-25T01:09:03.244307Z",
+      "updated_at": "2026-10-26T01:08:28.794303Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45311,7 +45413,7 @@
         "pmid:42210038"
       ],
       "discovered_at": "2026-10-05T23:24:59.196931Z",
-      "updated_at": "2026-10-25T01:09:03.244783Z",
+      "updated_at": "2026-10-26T01:08:28.794996Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45349,7 +45451,7 @@
         "pmid:42191661"
       ],
       "discovered_at": "2026-10-05T23:24:59.210467Z",
-      "updated_at": "2026-10-25T01:09:03.244615Z",
+      "updated_at": "2026-10-26T01:08:28.794759Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45387,7 +45489,7 @@
         "pmid:42186907"
       ],
       "discovered_at": "2026-10-05T23:24:59.222808Z",
-      "updated_at": "2026-10-25T01:09:03.244943Z",
+      "updated_at": "2026-10-26T01:08:28.795219Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45425,7 +45527,7 @@
         "pmid:42178139"
       ],
       "discovered_at": "2026-10-05T23:24:59.236484Z",
-      "updated_at": "2026-10-25T01:09:03.245100Z",
+      "updated_at": "2026-10-26T01:08:28.795666Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45463,7 +45565,7 @@
         "pmid:32133646"
       ],
       "discovered_at": "2026-10-05T23:25:01.257475Z",
-      "updated_at": "2026-10-25T01:09:12.661956Z",
+      "updated_at": "2026-10-26T01:08:36.844188Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45501,7 +45603,7 @@
         "pmid:32003012"
       ],
       "discovered_at": "2026-10-05T23:25:01.269480Z",
-      "updated_at": "2026-10-25T01:09:12.662111Z",
+      "updated_at": "2026-10-26T01:08:36.844415Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45539,7 +45641,7 @@
         "pmid:30549049"
       ],
       "discovered_at": "2026-10-05T23:25:01.283902Z",
-      "updated_at": "2026-10-25T01:09:12.662707Z",
+      "updated_at": "2026-10-26T01:08:36.845348Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45576,7 +45678,7 @@
         "title:41253e4cf20d1d98537b968e"
       ],
       "discovered_at": "2026-10-05T23:25:16.427366Z",
-      "updated_at": "2026-10-25T01:09:12.677699Z",
+      "updated_at": "2026-10-26T01:08:36.866226Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -45614,7 +45716,7 @@
         "pmid:42836378"
       ],
       "discovered_at": "2026-10-06T23:27:00.706148Z",
-      "updated_at": "2026-10-25T01:09:01.629458Z",
+      "updated_at": "2026-10-26T01:08:27.100773Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -45652,7 +45754,7 @@
         "pmid:42836268"
       ],
       "discovered_at": "2026-10-06T23:27:00.720799Z",
-      "updated_at": "2026-10-25T01:09:01.631203Z",
+      "updated_at": "2026-10-26T01:08:27.103352Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -45690,7 +45792,7 @@
         "pmid:42834597"
       ],
       "discovered_at": "2026-10-06T23:27:00.732645Z",
-      "updated_at": "2026-10-25T01:09:01.629657Z",
+      "updated_at": "2026-10-26T01:08:27.101040Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -45728,7 +45830,7 @@
         "pmid:42833272"
       ],
       "discovered_at": "2026-10-06T23:27:00.747016Z",
-      "updated_at": "2026-10-25T01:09:03.233253Z",
+      "updated_at": "2026-10-26T01:08:28.780220Z",
       "status": "processed",
       "attempts": 2,
       "last_error": null,
@@ -45813,7 +45915,7 @@
         "pmid:42842766"
       ],
       "discovered_at": "2026-10-07T23:25:02.526932Z",
-      "updated_at": "2026-10-25T01:09:05.044062Z",
+      "updated_at": "2026-10-26T01:08:30.397877Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -45851,7 +45953,7 @@
         "pmid:42842765"
       ],
       "discovered_at": "2026-10-07T23:25:02.539574Z",
-      "updated_at": "2026-10-25T01:09:04.965511Z",
+      "updated_at": "2026-10-26T01:08:30.212878Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -45889,7 +45991,7 @@
         "pmid:42842764"
       ],
       "discovered_at": "2026-10-07T23:25:02.551967Z",
-      "updated_at": "2026-10-25T01:09:04.930678Z",
+      "updated_at": "2026-10-26T01:08:30.274678Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -45927,7 +46029,7 @@
         "pmid:42842763"
       ],
       "discovered_at": "2026-10-07T23:25:02.565011Z",
-      "updated_at": "2026-10-25T01:09:04.956850Z",
+      "updated_at": "2026-10-26T01:08:30.200330Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -45965,7 +46067,7 @@
         "pmid:42842762"
       ],
       "discovered_at": "2026-10-07T23:25:02.580502Z",
-      "updated_at": "2026-10-25T01:09:05.034500Z",
+      "updated_at": "2026-10-26T01:08:30.384727Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -46003,7 +46105,7 @@
         "pmid:42842761"
       ],
       "discovered_at": "2026-10-07T23:25:02.592111Z",
-      "updated_at": "2026-10-25T01:09:04.922157Z",
+      "updated_at": "2026-10-26T01:08:30.262354Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -46041,7 +46143,7 @@
         "pmid:42535405"
       ],
       "discovered_at": "2026-10-07T23:25:03.892317Z",
-      "updated_at": "2026-10-25T01:09:03.239504Z",
+      "updated_at": "2026-10-26T01:08:28.788524Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -46079,7 +46181,7 @@
         "pmid:42529899"
       ],
       "discovered_at": "2026-10-07T23:25:03.904728Z",
-      "updated_at": "2026-10-25T01:09:03.240923Z",
+      "updated_at": "2026-10-26T01:08:28.790129Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -46117,7 +46219,7 @@
         "pmid:42522234"
       ],
       "discovered_at": "2026-10-07T23:25:03.916230Z",
-      "updated_at": "2026-10-25T01:09:03.239827Z",
+      "updated_at": "2026-10-26T01:08:28.788973Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46155,7 +46257,7 @@
         "pmid:42359489"
       ],
       "discovered_at": "2026-10-07T23:25:03.932969Z",
-      "updated_at": "2026-10-25T01:09:03.241389Z",
+      "updated_at": "2026-10-26T01:08:28.790846Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46193,7 +46295,7 @@
         "pmid:42047465"
       ],
       "discovered_at": "2026-10-07T23:25:04.629861Z",
-      "updated_at": "2026-10-25T01:09:03.245612Z",
+      "updated_at": "2026-10-26T01:08:28.796131Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46231,7 +46333,7 @@
         "pmid:27859752"
       ],
       "discovered_at": "2026-10-07T23:25:07.015716Z",
-      "updated_at": "2026-10-25T01:09:12.666113Z",
+      "updated_at": "2026-10-26T01:08:36.850797Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46269,7 +46371,7 @@
         "pmid:42847738"
       ],
       "discovered_at": "2026-10-08T23:27:48.901540Z",
-      "updated_at": "2026-10-25T01:09:01.629296Z",
+      "updated_at": "2026-10-26T01:08:27.100473Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -46307,7 +46409,7 @@
         "pmid:42843409"
       ],
       "discovered_at": "2026-10-08T23:27:48.911797Z",
-      "updated_at": "2026-10-25T01:09:03.233089Z",
+      "updated_at": "2026-10-26T01:08:28.779997Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -46345,7 +46447,7 @@
         "pmid:42849502"
       ],
       "discovered_at": "2026-10-09T23:27:08.929367Z",
-      "updated_at": "2026-10-25T01:09:03.232627Z",
+      "updated_at": "2026-10-26T01:08:28.779317Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -46383,7 +46485,7 @@
         "pmid:31758868"
       ],
       "discovered_at": "2026-10-09T23:27:13.392755Z",
-      "updated_at": "2026-10-25T01:09:12.662261Z",
+      "updated_at": "2026-10-26T01:08:36.844636Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46421,7 +46523,7 @@
         "pmid:31025713"
       ],
       "discovered_at": "2026-10-09T23:27:13.406055Z",
-      "updated_at": "2026-10-25T01:09:12.662407Z",
+      "updated_at": "2026-10-26T01:08:36.844859Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46459,7 +46561,7 @@
         "pmid:42855437"
       ],
       "discovered_at": "2026-10-10T23:25:53.009026Z",
-      "updated_at": "2026-10-25T01:09:04.974519Z",
+      "updated_at": "2026-10-26T01:08:30.298405Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46497,7 +46599,7 @@
         "pmid:42855436"
       ],
       "discovered_at": "2026-10-10T23:25:53.021797Z",
-      "updated_at": "2026-10-25T01:09:04.883231Z",
+      "updated_at": "2026-10-26T01:08:30.171511Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46535,7 +46637,7 @@
         "pmid:42855435"
       ],
       "discovered_at": "2026-10-10T23:25:53.036012Z",
-      "updated_at": "2026-10-25T01:09:04.830114Z",
+      "updated_at": "2026-10-26T01:08:30.094973Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46573,7 +46675,7 @@
         "pmid:42855434"
       ],
       "discovered_at": "2026-10-10T23:25:53.049257Z",
-      "updated_at": "2026-10-25T01:09:04.913751Z",
+      "updated_at": "2026-10-26T01:08:30.250304Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46611,7 +46713,7 @@
         "pmid:42855433"
       ],
       "discovered_at": "2026-10-10T23:25:53.061079Z",
-      "updated_at": "2026-10-25T01:09:05.023264Z",
+      "updated_at": "2026-10-26T01:08:30.368685Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -46649,7 +46751,7 @@
         "pmid:42854722"
       ],
       "discovered_at": "2026-10-10T23:25:53.076632Z",
-      "updated_at": "2026-10-25T01:09:03.232779Z",
+      "updated_at": "2026-10-26T01:08:28.779541Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -46687,7 +46789,7 @@
         "pmid:42854719"
       ],
       "discovered_at": "2026-10-10T23:25:53.088154Z",
-      "updated_at": "2026-10-25T01:09:03.232293Z",
+      "updated_at": "2026-10-26T01:08:28.778838Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -46725,7 +46827,7 @@
         "pmid:42854718"
       ],
       "discovered_at": "2026-10-10T23:25:53.102441Z",
-      "updated_at": "2026-10-25T01:09:03.232456Z",
+      "updated_at": "2026-10-26T01:08:28.779089Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -46763,7 +46865,7 @@
         "pmid:42854717"
       ],
       "discovered_at": "2026-10-10T23:25:53.114739Z",
-      "updated_at": "2026-10-25T01:09:03.232927Z",
+      "updated_at": "2026-10-26T01:08:28.779761Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "ValidationError",
@@ -46801,7 +46903,7 @@
         "pmid:42858362"
       ],
       "discovered_at": "2026-10-11T23:27:07.370914Z",
-      "updated_at": "2026-10-25T01:09:04.855602Z",
+      "updated_at": "2026-10-26T01:08:30.131814Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Finding quotation is not in evidence",
@@ -46839,7 +46941,7 @@
         "pmid:42858361"
       ],
       "discovered_at": "2026-10-11T23:27:07.380736Z",
-      "updated_at": "2026-10-25T01:09:04.874732Z",
+      "updated_at": "2026-10-26T01:08:30.159604Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -46930,7 +47032,7 @@
         "pmid:42858360"
       ],
       "discovered_at": "2026-10-11T23:27:07.390333Z",
-      "updated_at": "2026-10-25T01:09:04.865109Z",
+      "updated_at": "2026-10-26T01:08:30.145584Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -46968,7 +47070,7 @@
         "pmid:42858359"
       ],
       "discovered_at": "2026-10-11T23:27:07.399072Z",
-      "updated_at": "2026-10-25T01:09:04.895241Z",
+      "updated_at": "2026-10-26T01:08:30.225909Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -47006,7 +47108,7 @@
         "pmid:42858358"
       ],
       "discovered_at": "2026-10-11T23:27:07.407173Z",
-      "updated_at": "2026-10-25T01:09:04.904880Z",
+      "updated_at": "2026-10-26T01:08:30.237792Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -47044,7 +47146,7 @@
         "pmid:42860568"
       ],
       "discovered_at": "2026-10-12T23:29:21.982330Z",
-      "updated_at": "2026-10-25T01:09:01.630433Z",
+      "updated_at": "2026-10-26T01:08:27.102187Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported numeric finding",
@@ -47082,7 +47184,7 @@
         "pmid:36975043"
       ],
       "discovered_at": "2026-10-12T23:29:26.246454Z",
-      "updated_at": "2026-10-25T01:09:12.660258Z",
+      "updated_at": "2026-10-26T01:08:36.842144Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -47120,7 +47222,7 @@
         "pmid:42866960"
       ],
       "discovered_at": "2026-10-13T23:23:01.963011Z",
-      "updated_at": "2026-10-25T01:09:01.630287Z",
+      "updated_at": "2026-10-26T01:08:27.101949Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -47158,7 +47260,7 @@
         "pmid:42863523"
       ],
       "discovered_at": "2026-10-13T23:23:01.979822Z",
-      "updated_at": "2026-10-25T01:09:01.630902Z",
+      "updated_at": "2026-10-26T01:08:27.102853Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -47196,7 +47298,7 @@
         "pmid:42869068"
       ],
       "discovered_at": "2026-10-14T08:47:32.168425Z",
-      "updated_at": "2026-10-25T01:09:04.838337Z",
+      "updated_at": "2026-10-26T01:08:30.106854Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Korean prose requirement",
@@ -47234,7 +47336,7 @@
         "pmid:42867939"
       ],
       "discovered_at": "2026-10-14T08:47:32.180085Z",
-      "updated_at": "2026-10-25T01:09:05.003798Z",
+      "updated_at": "2026-10-26T01:08:30.340345Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -47331,7 +47433,7 @@
         "pmid:42867938"
       ],
       "discovered_at": "2026-10-14T08:47:32.195825Z",
-      "updated_at": "2026-10-25T01:09:05.015413Z",
+      "updated_at": "2026-10-26T01:08:30.357197Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -47369,7 +47471,7 @@
         "pmid:42873829"
       ],
       "discovered_at": "2026-10-14T23:35:55.266848Z",
-      "updated_at": "2026-10-25T01:09:04.820793Z",
+      "updated_at": "2026-10-26T01:08:30.081450Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -47407,7 +47509,7 @@
         "pmid:42873828"
       ],
       "discovered_at": "2026-10-14T23:35:55.276456Z",
-      "updated_at": "2026-10-25T01:09:04.947613Z",
+      "updated_at": "2026-10-26T01:08:30.186848Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -47445,7 +47547,7 @@
         "pmid:42873827"
       ],
       "discovered_at": "2026-10-14T23:35:55.286182Z",
-      "updated_at": "2026-10-25T01:09:04.983647Z",
+      "updated_at": "2026-10-26T01:08:30.311681Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -47483,7 +47585,7 @@
         "pmid:42872920"
       ],
       "discovered_at": "2026-10-14T23:35:55.295545Z",
-      "updated_at": "2026-10-25T01:09:04.847198Z",
+      "updated_at": "2026-10-26T01:08:30.119608Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -47521,7 +47623,7 @@
         "pmid:42872590"
       ],
       "discovered_at": "2026-10-14T23:35:55.305773Z",
-      "updated_at": "2026-10-25T01:09:01.629124Z",
+      "updated_at": "2026-10-26T01:08:27.099949Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -47559,7 +47661,7 @@
         "pmid:42870559"
       ],
       "discovered_at": "2026-10-14T23:35:55.317556Z",
-      "updated_at": "2026-10-25T01:09:04.995700Z",
+      "updated_at": "2026-10-26T01:08:30.328930Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -47597,7 +47699,7 @@
         "pmid:37562779"
       ],
       "discovered_at": "2026-10-14T23:35:59.830016Z",
-      "updated_at": "2026-10-25T01:09:12.661012Z",
+      "updated_at": "2026-10-26T01:08:36.842830Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -47635,7 +47737,7 @@
         "pmid:42876319"
       ],
       "discovered_at": "2026-10-15T23:35:42.238936Z",
-      "updated_at": "2026-10-25T01:09:01.627461Z",
+      "updated_at": "2026-10-26T01:08:27.097554Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -47719,7 +47821,7 @@
         "pmid:42874668"
       ],
       "discovered_at": "2026-10-15T23:35:42.251575Z",
-      "updated_at": "2026-10-25T01:09:01.643440Z",
+      "updated_at": "2026-10-26T01:08:28.775805Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -47757,7 +47859,7 @@
         "pmid:42874659"
       ],
       "discovered_at": "2026-10-15T23:35:42.265836Z",
-      "updated_at": "2026-10-25T01:09:03.232123Z",
+      "updated_at": "2026-10-26T01:08:28.778611Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -47795,7 +47897,7 @@
         "pmid:42874658"
       ],
       "discovered_at": "2026-10-15T23:35:42.281226Z",
-      "updated_at": "2026-10-25T01:09:03.231966Z",
+      "updated_at": "2026-10-26T01:08:28.778384Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -47833,7 +47935,7 @@
         "pmid:42885408"
       ],
       "discovered_at": "2026-10-16T23:35:04.433504Z",
-      "updated_at": "2026-10-25T01:09:01.629831Z",
+      "updated_at": "2026-10-26T01:08:27.101273Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -47871,7 +47973,7 @@
         "pmid:42881568"
       ],
       "discovered_at": "2026-10-16T23:35:04.444275Z",
-      "updated_at": "2026-10-25T01:09:01.627651Z",
+      "updated_at": "2026-10-26T01:08:27.097779Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -47956,7 +48058,7 @@
         "pmid:42878493"
       ],
       "discovered_at": "2026-10-16T23:35:04.455849Z",
-      "updated_at": "2026-10-25T01:09:01.630136Z",
+      "updated_at": "2026-10-26T01:08:27.101726Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -48057,7 +48159,7 @@
         "pmid:27149650"
       ],
       "discovered_at": "2026-10-16T23:35:18.693911Z",
-      "updated_at": "2026-10-25T01:09:12.667989Z",
+      "updated_at": "2026-10-26T01:08:36.853085Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48095,7 +48197,7 @@
         "pmid:26971876"
       ],
       "discovered_at": "2026-10-16T23:35:18.702976Z",
-      "updated_at": "2026-10-25T01:09:12.668654Z",
+      "updated_at": "2026-10-26T01:08:36.854043Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48133,7 +48235,7 @@
         "pmid:26118695"
       ],
       "discovered_at": "2026-10-16T23:35:18.721655Z",
-      "updated_at": "2026-10-25T01:09:12.679002Z",
+      "updated_at": "2026-10-26T01:08:36.868144Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48171,7 +48273,7 @@
         "pmid:26118793"
       ],
       "discovered_at": "2026-10-16T23:35:18.732437Z",
-      "updated_at": "2026-10-25T01:09:12.679150Z",
+      "updated_at": "2026-10-26T01:08:36.868375Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48209,7 +48311,7 @@
         "pmid:24479657"
       ],
       "discovered_at": "2026-10-16T23:35:18.742936Z",
-      "updated_at": "2026-10-25T01:09:13.502407Z",
+      "updated_at": "2026-10-26T01:08:37.475641Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48247,7 +48349,7 @@
         "pmid:42526508"
       ],
       "discovered_at": "2026-10-18T01:01:13.145436Z",
-      "updated_at": "2026-10-25T01:09:05.050643Z",
+      "updated_at": "2026-10-26T01:08:30.404397Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48285,7 +48387,7 @@
         "pmid:42526504"
       ],
       "discovered_at": "2026-10-18T01:01:13.161747Z",
-      "updated_at": "2026-10-25T01:09:05.050306Z",
+      "updated_at": "2026-10-26T01:08:30.402758Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -48323,7 +48425,7 @@
         "pmid:42526502"
       ],
       "discovered_at": "2026-10-18T01:01:13.176045Z",
-      "updated_at": "2026-10-25T01:09:05.050819Z",
+      "updated_at": "2026-10-26T01:08:30.404628Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -48361,7 +48463,7 @@
         "pmid:42526498"
       ],
       "discovered_at": "2026-10-18T01:01:13.193440Z",
-      "updated_at": "2026-10-25T01:09:05.050476Z",
+      "updated_at": "2026-10-26T01:08:30.403003Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48399,7 +48501,7 @@
         "pmid:42486166"
       ],
       "discovered_at": "2026-10-18T01:01:13.210551Z",
-      "updated_at": "2026-10-25T01:09:07.016892Z",
+      "updated_at": "2026-10-26T01:08:32.021147Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported sample size",
@@ -48437,7 +48539,7 @@
         "pmid:42486164"
       ],
       "discovered_at": "2026-10-18T01:01:13.224332Z",
-      "updated_at": "2026-10-25T01:09:07.017071Z",
+      "updated_at": "2026-10-26T01:08:32.021394Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48475,7 +48577,7 @@
         "pmid:42486157"
       ],
       "discovered_at": "2026-10-18T01:01:13.240208Z",
-      "updated_at": "2026-10-25T01:09:07.017934Z",
+      "updated_at": "2026-10-26T01:08:32.022540Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -48513,7 +48615,7 @@
         "pmid:42486150"
       ],
       "discovered_at": "2026-10-18T01:01:13.256271Z",
-      "updated_at": "2026-10-25T01:09:07.017238Z",
+      "updated_at": "2026-10-26T01:08:32.021616Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -48591,7 +48693,7 @@
         "pmid:42468570"
       ],
       "discovered_at": "2026-10-18T01:01:13.272095Z",
-      "updated_at": "2026-10-25T01:09:07.018265Z",
+      "updated_at": "2026-10-26T01:08:32.023004Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -48671,7 +48773,7 @@
         "pmid:42468557"
       ],
       "discovered_at": "2026-10-18T01:01:13.287816Z",
-      "updated_at": "2026-10-25T01:09:07.018106Z",
+      "updated_at": "2026-10-26T01:08:32.022767Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -48709,7 +48811,7 @@
         "pmid:42456750"
       ],
       "discovered_at": "2026-10-18T01:01:13.305318Z",
-      "updated_at": "2026-10-25T01:09:07.018415Z",
+      "updated_at": "2026-10-26T01:08:32.023230Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -48794,7 +48896,7 @@
         "pmid:42456746"
       ],
       "discovered_at": "2026-10-18T01:01:13.320858Z",
-      "updated_at": "2026-10-25T01:09:07.018564Z",
+      "updated_at": "2026-10-26T01:08:32.023462Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -48878,7 +48980,7 @@
         "pmid:42419365"
       ],
       "discovered_at": "2026-10-18T01:01:13.336150Z",
-      "updated_at": "2026-10-25T01:09:07.018722Z",
+      "updated_at": "2026-10-26T01:08:32.023693Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -48916,7 +49018,7 @@
         "pmid:42419362"
       ],
       "discovered_at": "2026-10-18T01:01:13.350095Z",
-      "updated_at": "2026-10-25T01:09:07.019237Z",
+      "updated_at": "2026-10-26T01:08:32.024390Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48954,7 +49056,7 @@
         "pmid:42419360"
       ],
       "discovered_at": "2026-10-18T01:01:13.364695Z",
-      "updated_at": "2026-10-25T01:09:07.019913Z",
+      "updated_at": "2026-10-26T01:08:32.025305Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -48992,7 +49094,7 @@
         "pmid:42419356"
       ],
       "discovered_at": "2026-10-18T01:01:13.381586Z",
-      "updated_at": "2026-10-25T01:09:07.019401Z",
+      "updated_at": "2026-10-26T01:08:32.024611Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49030,7 +49132,7 @@
         "pmid:42361374"
       ],
       "discovered_at": "2026-10-18T01:01:13.397854Z",
-      "updated_at": "2026-10-25T01:09:07.021046Z",
+      "updated_at": "2026-10-26T01:08:32.026925Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49068,7 +49170,7 @@
         "pmid:42314755"
       ],
       "discovered_at": "2026-10-18T01:01:13.412681Z",
-      "updated_at": "2026-10-25T01:09:07.021392Z",
+      "updated_at": "2026-10-26T01:08:32.027458Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49106,7 +49208,7 @@
         "pmid:42285129"
       ],
       "discovered_at": "2026-10-18T01:01:13.428446Z",
-      "updated_at": "2026-10-25T01:09:07.025695Z",
+      "updated_at": "2026-10-26T01:08:32.033736Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49144,7 +49246,7 @@
         "pmid:42269679"
       ],
       "discovered_at": "2026-10-18T01:01:13.444283Z",
-      "updated_at": "2026-10-25T01:09:08.812400Z",
+      "updated_at": "2026-10-26T01:08:33.682965Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49182,7 +49284,7 @@
         "pmid:42242287"
       ],
       "discovered_at": "2026-10-18T01:01:13.458312Z",
-      "updated_at": "2026-10-25T01:09:08.813768Z",
+      "updated_at": "2026-10-26T01:08:33.684900Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49220,7 +49322,7 @@
         "pmid:42019545"
       ],
       "discovered_at": "2026-10-18T01:01:14.200757Z",
-      "updated_at": "2026-10-25T01:09:08.818466Z",
+      "updated_at": "2026-10-26T01:08:33.691806Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49258,7 +49360,7 @@
         "pmid:42892318"
       ],
       "discovered_at": "2026-10-19T01:14:45.036960Z",
-      "updated_at": "2026-10-25T01:09:03.238027Z",
+      "updated_at": "2026-10-26T01:08:28.786474Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -49296,7 +49398,7 @@
         "pmid:42892317"
       ],
       "discovered_at": "2026-10-19T01:14:45.049515Z",
-      "updated_at": "2026-10-25T01:09:03.239008Z",
+      "updated_at": "2026-10-26T01:08:28.787836Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -49334,7 +49436,7 @@
         "pmid:42892315"
       ],
       "discovered_at": "2026-10-19T01:14:45.060901Z",
-      "updated_at": "2026-10-25T01:09:03.238508Z",
+      "updated_at": "2026-10-26T01:08:28.787157Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -49372,7 +49474,7 @@
         "pmid:42892314"
       ],
       "discovered_at": "2026-10-19T01:14:45.071659Z",
-      "updated_at": "2026-10-25T01:09:03.238357Z",
+      "updated_at": "2026-10-26T01:08:28.786920Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -49410,7 +49512,7 @@
         "pmid:42892311"
       ],
       "discovered_at": "2026-10-19T01:14:45.083133Z",
-      "updated_at": "2026-10-25T01:09:03.239178Z",
+      "updated_at": "2026-10-26T01:08:28.788074Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -49448,7 +49550,7 @@
         "pmid:42892310"
       ],
       "discovered_at": "2026-10-19T01:14:45.093292Z",
-      "updated_at": "2026-10-25T01:09:03.238198Z",
+      "updated_at": "2026-10-26T01:08:28.786696Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "missing_abstract",
@@ -49486,7 +49588,7 @@
         "pmid:42893846"
       ],
       "discovered_at": "2026-10-20T01:48:53.929283Z",
-      "updated_at": "2026-10-25T01:09:01.627029Z",
+      "updated_at": "2026-10-26T01:08:27.097315Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -49576,7 +49678,7 @@
         "title:b8dd9fbe39d956156bdf0d5d"
       ],
       "discovered_at": "2026-10-20T01:49:07.590040Z",
-      "updated_at": "2026-10-25T01:09:10.526184Z",
+      "updated_at": "2026-10-26T01:08:35.459631Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49614,7 +49716,7 @@
         "pmid:38382191"
       ],
       "discovered_at": "2026-10-21T01:34:03.003510Z",
-      "updated_at": "2026-10-25T01:09:10.527220Z",
+      "updated_at": "2026-10-26T01:08:36.841889Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49652,7 +49754,7 @@
         "pmid:40546083"
       ],
       "discovered_at": "2026-10-21T01:34:19.614665Z",
-      "updated_at": "2026-10-25T01:09:08.824744Z",
+      "updated_at": "2026-10-26T01:08:33.700345Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49690,7 +49792,7 @@
         "pmid:40265314"
       ],
       "discovered_at": "2026-10-21T01:34:19.629136Z",
-      "updated_at": "2026-10-25T01:09:08.825802Z",
+      "updated_at": "2026-10-26T01:08:33.702678Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49728,7 +49830,7 @@
         "pmid:25581880"
       ],
       "discovered_at": "2026-10-21T01:34:20.806537Z",
-      "updated_at": "2026-10-25T01:09:12.679947Z",
+      "updated_at": "2026-10-26T01:08:36.869497Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49766,7 +49868,7 @@
         "pmid:25581576"
       ],
       "discovered_at": "2026-10-21T01:34:20.818634Z",
-      "updated_at": "2026-10-25T01:09:12.680103Z",
+      "updated_at": "2026-10-26T01:08:36.869716Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49804,7 +49906,7 @@
         "pmid:25327962"
       ],
       "discovered_at": "2026-10-21T01:34:20.831941Z",
-      "updated_at": "2026-10-25T01:09:12.680250Z",
+      "updated_at": "2026-10-26T01:08:36.869935Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49842,7 +49944,7 @@
         "pmid:25312453"
       ],
       "discovered_at": "2026-10-21T01:34:20.845863Z",
-      "updated_at": "2026-10-25T01:09:12.680396Z",
+      "updated_at": "2026-10-26T01:08:36.870168Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49880,7 +49982,7 @@
         "pmid:24965833"
       ],
       "discovered_at": "2026-10-21T01:34:20.858674Z",
-      "updated_at": "2026-10-25T01:09:12.680709Z",
+      "updated_at": "2026-10-26T01:08:36.870606Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49918,7 +50020,7 @@
         "pmid:24684670"
       ],
       "discovered_at": "2026-10-21T01:34:20.871561Z",
-      "updated_at": "2026-10-25T01:09:12.681186Z",
+      "updated_at": "2026-10-26T01:08:37.474484Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49956,7 +50058,7 @@
         "pmid:24611973"
       ],
       "discovered_at": "2026-10-21T01:34:20.884638Z",
-      "updated_at": "2026-10-25T01:09:13.501523Z",
+      "updated_at": "2026-10-26T01:08:37.474944Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -49994,7 +50096,7 @@
         "pmid:24512390"
       ],
       "discovered_at": "2026-10-21T01:34:20.897850Z",
-      "updated_at": "2026-10-25T01:09:13.502047Z",
+      "updated_at": "2026-10-26T01:08:37.475185Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50032,7 +50134,7 @@
         "pmid:24433284"
       ],
       "discovered_at": "2026-10-21T01:34:20.912335Z",
-      "updated_at": "2026-10-25T01:09:13.502232Z",
+      "updated_at": "2026-10-26T01:08:37.475418Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50070,7 +50172,7 @@
         "pmid:42902546"
       ],
       "discovered_at": "2026-10-22T01:30:08.619666Z",
-      "updated_at": "2026-10-25T01:09:01.628967Z",
+      "updated_at": "2026-10-26T01:08:27.099723Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50108,7 +50210,7 @@
         "pmid:38244268"
       ],
       "discovered_at": "2026-10-23T01:29:53.902009Z",
-      "updated_at": "2026-10-25T01:09:12.660661Z",
+      "updated_at": "2026-10-26T01:08:36.842376Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50146,7 +50248,7 @@
         "pmid:36395778"
       ],
       "discovered_at": "2026-10-23T01:29:53.916926Z",
-      "updated_at": "2026-10-25T01:09:12.662854Z",
+      "updated_at": "2026-10-26T01:08:36.845567Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50184,7 +50286,7 @@
         "pmid:31841093"
       ],
       "discovered_at": "2026-10-23T01:29:53.929766Z",
-      "updated_at": "2026-10-25T01:09:12.662998Z",
+      "updated_at": "2026-10-26T01:08:36.845787Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50222,7 +50324,7 @@
         "pmid:31687899"
       ],
       "discovered_at": "2026-10-23T01:29:53.940715Z",
-      "updated_at": "2026-10-25T01:09:12.663169Z",
+      "updated_at": "2026-10-26T01:08:36.846021Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50260,7 +50362,7 @@
         "pmid:31573866"
       ],
       "discovered_at": "2026-10-23T01:29:53.951383Z",
-      "updated_at": "2026-10-25T01:09:12.663339Z",
+      "updated_at": "2026-10-26T01:08:36.846243Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50298,7 +50400,7 @@
         "pmid:31478813"
       ],
       "discovered_at": "2026-10-23T01:29:53.962090Z",
-      "updated_at": "2026-10-25T01:09:12.663499Z",
+      "updated_at": "2026-10-26T01:08:36.846470Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50336,7 +50438,7 @@
         "pmid:31429660"
       ],
       "discovered_at": "2026-10-23T01:29:53.973343Z",
-      "updated_at": "2026-10-25T01:09:12.663661Z",
+      "updated_at": "2026-10-26T01:08:36.846695Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50374,7 +50476,7 @@
         "pmid:31355730"
       ],
       "discovered_at": "2026-10-23T01:29:53.983934Z",
-      "updated_at": "2026-10-25T01:09:12.663811Z",
+      "updated_at": "2026-10-26T01:08:36.846915Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50412,7 +50514,7 @@
         "pmid:31298644"
       ],
       "discovered_at": "2026-10-23T01:29:53.994569Z",
-      "updated_at": "2026-10-25T01:09:12.663958Z",
+      "updated_at": "2026-10-26T01:08:36.847152Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50450,7 +50552,7 @@
         "pmid:31260402"
       ],
       "discovered_at": "2026-10-23T01:29:54.005153Z",
-      "updated_at": "2026-10-25T01:09:12.664104Z",
+      "updated_at": "2026-10-26T01:08:36.847383Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50488,7 +50590,7 @@
         "pmid:31194658"
       ],
       "discovered_at": "2026-10-23T01:29:54.015800Z",
-      "updated_at": "2026-10-25T01:09:12.664250Z",
+      "updated_at": "2026-10-26T01:08:36.847606Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50526,7 +50628,7 @@
         "pmid:31149885"
       ],
       "discovered_at": "2026-10-23T01:29:54.026436Z",
-      "updated_at": "2026-10-25T01:09:12.664541Z",
+      "updated_at": "2026-10-26T01:08:36.848064Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50564,7 +50666,7 @@
         "pmid:31067182"
       ],
       "discovered_at": "2026-10-23T01:29:54.037017Z",
-      "updated_at": "2026-10-25T01:09:12.664394Z",
+      "updated_at": "2026-10-26T01:08:36.847826Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50602,7 +50704,7 @@
         "pmid:31039093"
       ],
       "discovered_at": "2026-10-23T01:29:54.047665Z",
-      "updated_at": "2026-10-25T01:09:12.664847Z",
+      "updated_at": "2026-10-26T01:08:36.848514Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50640,7 +50742,7 @@
         "pmid:30986164"
       ],
       "discovered_at": "2026-10-23T01:29:54.058700Z",
-      "updated_at": "2026-10-25T01:09:12.664703Z",
+      "updated_at": "2026-10-26T01:08:36.848292Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50678,7 +50780,7 @@
         "pmid:30938613"
       ],
       "discovered_at": "2026-10-23T01:29:54.069409Z",
-      "updated_at": "2026-10-25T01:09:12.664990Z",
+      "updated_at": "2026-10-26T01:08:36.848738Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50716,7 +50818,7 @@
         "pmid:30888278"
       ],
       "discovered_at": "2026-10-23T01:29:54.080095Z",
-      "updated_at": "2026-10-25T01:09:12.665135Z",
+      "updated_at": "2026-10-26T01:08:36.848960Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50754,7 +50856,7 @@
         "pmid:30835173"
       ],
       "discovered_at": "2026-10-23T01:29:54.090773Z",
-      "updated_at": "2026-10-25T01:09:12.665305Z",
+      "updated_at": "2026-10-26T01:08:36.849198Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50792,7 +50894,7 @@
         "pmid:30451611"
       ],
       "discovered_at": "2026-10-23T01:29:54.101817Z",
-      "updated_at": "2026-10-25T01:09:12.665467Z",
+      "updated_at": "2026-10-26T01:08:36.849420Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50830,7 +50932,7 @@
         "pmid:30398428"
       ],
       "discovered_at": "2026-10-23T01:29:54.112469Z",
-      "updated_at": "2026-10-25T01:09:12.665777Z",
+      "updated_at": "2026-10-26T01:08:36.849864Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50868,7 +50970,7 @@
         "pmid:30272522"
       ],
       "discovered_at": "2026-10-23T01:29:54.123259Z",
-      "updated_at": "2026-10-25T01:09:12.666276Z",
+      "updated_at": "2026-10-26T01:08:36.850349Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50906,7 +51008,7 @@
         "pmid:30211641"
       ],
       "discovered_at": "2026-10-23T01:29:54.133924Z",
-      "updated_at": "2026-10-25T01:09:12.666447Z",
+      "updated_at": "2026-10-26T01:08:36.850574Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50944,7 +51046,7 @@
         "pmid:30179089"
       ],
       "discovered_at": "2026-10-23T01:29:54.144594Z",
-      "updated_at": "2026-10-25T01:09:12.666781Z",
+      "updated_at": "2026-10-26T01:08:36.851259Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -50982,7 +51084,7 @@
         "pmid:30058974"
       ],
       "discovered_at": "2026-10-23T01:29:54.155317Z",
-      "updated_at": "2026-10-25T01:09:12.667091Z",
+      "updated_at": "2026-10-26T01:08:36.851706Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51020,7 +51122,7 @@
         "pmid:30020010"
       ],
       "discovered_at": "2026-10-23T01:29:54.166066Z",
-      "updated_at": "2026-10-25T01:09:12.666940Z",
+      "updated_at": "2026-10-26T01:08:36.851484Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51058,7 +51160,7 @@
         "pmid:29963952"
       ],
       "discovered_at": "2026-10-23T01:29:54.176755Z",
-      "updated_at": "2026-10-25T01:09:12.667238Z",
+      "updated_at": "2026-10-26T01:08:36.851927Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51096,7 +51198,7 @@
         "pmid:29911948"
       ],
       "discovered_at": "2026-10-23T01:29:54.187491Z",
-      "updated_at": "2026-10-25T01:09:12.667384Z",
+      "updated_at": "2026-10-26T01:08:36.852163Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51134,7 +51236,7 @@
         "pmid:29889639"
       ],
       "discovered_at": "2026-10-23T01:29:54.198276Z",
-      "updated_at": "2026-10-25T01:09:12.667688Z",
+      "updated_at": "2026-10-26T01:08:36.852614Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51172,7 +51274,7 @@
         "pmid:29772979"
       ],
       "discovered_at": "2026-10-23T01:29:54.209023Z",
-      "updated_at": "2026-10-25T01:09:12.667530Z",
+      "updated_at": "2026-10-26T01:08:36.852389Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51210,7 +51312,7 @@
         "pmid:29701526"
       ],
       "discovered_at": "2026-10-23T01:29:54.219832Z",
-      "updated_at": "2026-10-25T01:09:12.667841Z",
+      "updated_at": "2026-10-26T01:08:36.852849Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51248,7 +51350,7 @@
         "pmid:29595385"
       ],
       "discovered_at": "2026-10-23T01:29:54.230576Z",
-      "updated_at": "2026-10-25T01:09:12.668154Z",
+      "updated_at": "2026-10-26T01:08:36.853312Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51274,7 +51376,7 @@
         "publication_date_raw": "2026-Sep-01",
         "doi": "10.1093/jvimsj/aalag262",
         "pmid": "42912657",
-        "pmcid": null,
+        "pmcid": "PMC13693600",
         "publisher_url": "https://doi.org/10.1093/jvimsj/aalag262",
         "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42912657/",
         "abstract": "BACKGROUND: Platelet transfusion can be lifesaving in dogs with severe thrombocytopenia and hemorrhage, but platelet products are limited by short shelf life and contamination risk. Cold-stored platelets (CSP) may provide a practical alternative, but in vivo hemostatic efficacy in dogs is unknown. HYPOTHESIS/OBJECTIVES: Evaluate the clinical hemostatic efficacy and safety of CSP transfusions in thrombocytopenic dogs. ANIMALS: Twenty-four thrombocytopenic dogs from a veterinary teaching hospital population that received CSP transfusions between March 2022 and October 2024. METHODS: Retrospective cohort study. Medical records of dogs receiving platelet concentrate stored at 4 °C for up to 21 days were reviewed. Hemorrhage severity was assessed using a modified Daily Canine Bleeding Assessment Tool (DOGiBAT) score before transfusion and at 1 and 4 h post-transfusion. Primary outcomes included change in bleeding score, clinical response, transfusion reactions, and survival to discharge. RESULTS: Twenty-four dogs received 27 CSP transfusions. Mean pre-transfusion platelet count was 23 × 103/μL (range, 2-107 × 103/μL) and mean post-transfusion count was 28 × 103/μL (range, 2-100 × 103/μL; P = .84). Mean DOGiBAT score decreased from 3.15 ± 2.4 at baseline to 2.21 ± 2.1 at 4 (mean change, -0.94; P = .002). Clinical improvement occurred in 19 of 27 transfusions (70%). No transfusion reactions were documented. Nineteen of 24 dogs (79%) survived to discharge. CONCLUSIONS AND CLINICAL IMPORTANCE: Cold-stored platelets were well-tolerated and associated with decreased bleeding severity in thrombocytopenic dogs, supporting CSP as a practical platelet transfusion option for clinical hemostatic support.",
@@ -51286,7 +51388,7 @@
         "pmid:42912657"
       ],
       "discovered_at": "2026-10-24T01:34:30.306495Z",
-      "updated_at": "2026-10-25T01:09:01.637527Z",
+      "updated_at": "2026-10-26T01:08:27.113015Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -51324,7 +51426,7 @@
         "pmid:42906618"
       ],
       "discovered_at": "2026-10-24T01:34:30.317548Z",
-      "updated_at": "2026-10-25T01:09:01.636389Z",
+      "updated_at": "2026-10-26T01:08:27.111172Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Unsupported number in summary prose",
@@ -51362,7 +51464,7 @@
         "pmid:42906617"
       ],
       "discovered_at": "2026-10-24T01:34:30.327022Z",
-      "updated_at": "2026-10-25T01:09:01.636221Z",
+      "updated_at": "2026-10-26T01:08:27.110941Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51400,7 +51502,7 @@
         "pmid:42906601"
       ],
       "discovered_at": "2026-10-24T01:34:30.336992Z",
-      "updated_at": "2026-10-25T01:09:04.811146Z",
+      "updated_at": "2026-10-26T01:08:30.067931Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -51480,7 +51582,7 @@
         "pmid:29553893"
       ],
       "discovered_at": "2026-10-24T01:34:34.903438Z",
-      "updated_at": "2026-10-25T01:09:12.668308Z",
+      "updated_at": "2026-10-26T01:08:36.853535Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51518,7 +51620,7 @@
         "pmid:29504854"
       ],
       "discovered_at": "2026-10-24T01:34:34.911175Z",
-      "updated_at": "2026-10-25T01:09:12.668813Z",
+      "updated_at": "2026-10-26T01:08:36.854281Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51556,7 +51658,7 @@
         "pmid:29461168"
       ],
       "discovered_at": "2026-10-24T01:34:35.302593Z",
-      "updated_at": "2026-10-25T01:09:12.668476Z",
+      "updated_at": "2026-10-26T01:08:36.853758Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51594,7 +51696,7 @@
         "pmid:29393739"
       ],
       "discovered_at": "2026-10-24T01:34:35.310583Z",
-      "updated_at": "2026-10-25T01:09:12.668966Z",
+      "updated_at": "2026-10-26T01:08:36.854505Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51632,7 +51734,7 @@
         "pmid:29319450"
       ],
       "discovered_at": "2026-10-24T01:34:35.318430Z",
-      "updated_at": "2026-10-25T01:09:12.669115Z",
+      "updated_at": "2026-10-26T01:08:36.854728Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51670,7 +51772,7 @@
         "pmid:29244603"
       ],
       "discovered_at": "2026-10-24T01:34:35.326260Z",
-      "updated_at": "2026-10-25T01:09:12.677910Z",
+      "updated_at": "2026-10-26T01:08:36.866467Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51708,7 +51810,7 @@
         "pmid:29190190"
       ],
       "discovered_at": "2026-10-24T01:34:35.334080Z",
-      "updated_at": "2026-10-25T01:09:12.678086Z",
+      "updated_at": "2026-10-26T01:08:36.866703Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51746,7 +51848,7 @@
         "pmid:29099257"
       ],
       "discovered_at": "2026-10-24T01:34:35.342015Z",
-      "updated_at": "2026-10-25T01:09:12.678400Z",
+      "updated_at": "2026-10-26T01:08:36.867214Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51784,7 +51886,7 @@
         "pmid:29035651"
       ],
       "discovered_at": "2026-10-24T01:34:35.349855Z",
-      "updated_at": "2026-10-25T01:09:12.678247Z",
+      "updated_at": "2026-10-26T01:08:36.866929Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51822,7 +51924,7 @@
         "pmid:28967815"
       ],
       "discovered_at": "2026-10-24T01:34:35.357685Z",
-      "updated_at": "2026-10-25T01:09:12.678550Z",
+      "updated_at": "2026-10-26T01:08:36.867452Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51860,7 +51962,7 @@
         "pmid:28959933"
       ],
       "discovered_at": "2026-10-24T01:34:35.365570Z",
-      "updated_at": "2026-10-25T01:09:12.678708Z",
+      "updated_at": "2026-10-26T01:08:36.867675Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51898,7 +52000,7 @@
         "pmid:28703665"
       ],
       "discovered_at": "2026-10-24T01:34:35.373614Z",
-      "updated_at": "2026-10-25T01:09:12.678856Z",
+      "updated_at": "2026-10-26T01:08:36.867895Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51936,7 +52038,7 @@
         "pmid:28569641"
       ],
       "discovered_at": "2026-10-24T01:34:35.381543Z",
-      "updated_at": "2026-10-25T01:09:12.679443Z",
+      "updated_at": "2026-10-26T01:08:36.868821Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -51974,7 +52076,7 @@
         "pmid:28509636"
       ],
       "discovered_at": "2026-10-24T01:34:35.389389Z",
-      "updated_at": "2026-10-25T01:09:12.679296Z",
+      "updated_at": "2026-10-26T01:08:36.868597Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52012,7 +52114,7 @@
         "pmid:28467744"
       ],
       "discovered_at": "2026-10-24T01:34:35.397233Z",
-      "updated_at": "2026-10-25T01:09:12.679625Z",
+      "updated_at": "2026-10-26T01:08:36.869058Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52050,7 +52152,7 @@
         "pmid:28414593"
       ],
       "discovered_at": "2026-10-24T01:34:35.405109Z",
-      "updated_at": "2026-10-25T01:09:12.679790Z",
+      "updated_at": "2026-10-26T01:08:36.869280Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52088,7 +52190,7 @@
         "pmid:27901457"
       ],
       "discovered_at": "2026-10-24T01:34:35.412931Z",
-      "updated_at": "2026-10-25T01:09:12.680544Z",
+      "updated_at": "2026-10-26T01:08:36.870388Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52126,7 +52228,7 @@
         "pmid:27585094"
       ],
       "discovered_at": "2026-10-24T01:34:35.421296Z",
-      "updated_at": "2026-10-25T01:09:12.680878Z",
+      "updated_at": "2026-10-26T01:08:37.473709Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52164,7 +52266,7 @@
         "pmid:27379588"
       ],
       "discovered_at": "2026-10-24T01:34:35.429180Z",
-      "updated_at": "2026-10-25T01:09:12.681335Z",
+      "updated_at": "2026-10-26T01:08:37.474717Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52202,7 +52304,7 @@
         "pmid:27308877"
       ],
       "discovered_at": "2026-10-24T01:34:35.437074Z",
-      "updated_at": "2026-10-25T01:09:12.681036Z",
+      "updated_at": "2026-10-26T01:08:37.474233Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52240,7 +52342,7 @@
         "pmid:42920205"
       ],
       "discovered_at": "2026-10-25T01:08:54.166743Z",
-      "updated_at": "2026-10-25T01:08:54.166743Z",
+      "updated_at": "2026-10-26T01:08:27.100212Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52278,7 +52380,7 @@
         "pmid:42918624"
       ],
       "discovered_at": "2026-10-25T01:08:54.178267Z",
-      "updated_at": "2026-10-25T01:08:54.178267Z",
+      "updated_at": "2026-10-26T01:08:27.096868Z",
       "status": "processed",
       "attempts": 1,
       "last_error": null,
@@ -52384,7 +52486,7 @@
         "pmid:42915570"
       ],
       "discovered_at": "2026-10-25T01:08:54.190697Z",
-      "updated_at": "2026-10-25T01:08:54.190697Z",
+      "updated_at": "2026-10-26T01:08:27.110258Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52422,7 +52524,7 @@
         "pmid:42915496"
       ],
       "discovered_at": "2026-10-25T01:08:54.200343Z",
-      "updated_at": "2026-10-25T01:08:54.200343Z",
+      "updated_at": "2026-10-26T01:08:27.110486Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52460,7 +52562,7 @@
         "pmid:42915380"
       ],
       "discovered_at": "2026-10-25T01:08:54.209387Z",
-      "updated_at": "2026-10-25T01:08:54.209387Z",
+      "updated_at": "2026-10-26T01:08:27.110710Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52498,7 +52600,7 @@
         "pmid:42915224"
       ],
       "discovered_at": "2026-10-25T01:08:54.221725Z",
-      "updated_at": "2026-10-25T01:08:54.221725Z",
+      "updated_at": "2026-10-26T01:08:27.109569Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -52536,7 +52638,7 @@
         "pmid:42915095"
       ],
       "discovered_at": "2026-10-25T01:08:54.231201Z",
-      "updated_at": "2026-10-25T01:08:54.231201Z",
+      "updated_at": "2026-10-26T01:08:27.109792Z",
       "status": "pending",
       "attempts": 0,
       "last_error": null,
@@ -52574,7 +52676,7 @@
         "pmid:42915069"
       ],
       "discovered_at": "2026-10-25T01:08:54.244013Z",
-      "updated_at": "2026-10-25T01:08:54.244013Z",
+      "updated_at": "2026-10-26T01:08:27.110027Z",
       "status": "failed",
       "attempts": 1,
       "last_error": "Summary number missing from displayed findings",
@@ -52588,10 +52690,124 @@
       "input_tokens": 0,
       "output_tokens": 0,
       "analysis_version": 0
+    },
+    {
+      "id": "doi:10.1093/jvimsj/aalag259",
+      "metadata": {
+        "title": "Risk factors and long-term prognosis of catheter-associated thrombophlebitis in neonatal foals.",
+        "journal": "Journal of Veterinary Internal Medicine",
+        "journal_id": "jvim",
+        "publication_date": "2026-09-01",
+        "online_publication_date": null,
+        "publication_date_raw": "2026-Sep-01",
+        "doi": "10.1093/jvimsj/aalag259",
+        "pmid": "42925543",
+        "pmcid": "PMC13695448",
+        "publisher_url": "https://doi.org/10.1093/jvimsj/aalag259",
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42925543/",
+        "abstract": "BACKGROUND: Thrombophlebitis is a possible complication of the use of indwelling catheters in hospitalized neonatal foals. Limited data are available concerning associated risk factors, and long-term prognosis regarding vein patency is currently unknown. HYPOTHESIS/OBJECTIVES: Identify risk factors for catheter-associated thrombophlebitis in neonatal foals and assess long-term prognosis in a small subset. ANIMALS: Two hundred twenty-three foals < 31 days of age, hospitalized in Utrecht University Equine Hospital between 2019 and 2024. METHODS: Retrospective review of medical records. Foals that received an indwelling intravenous catheter and lived for at least two subsequent days were included. Odds ratios were determined, using logistic regression, for factors potentially associated with thrombophlebitis. Owners of affected horses were contacted, and horses available for follow-up were visited for clinical evaluation. RESULTS: Twenty-one foals (9.4%) developed catheter-associated thrombophlebitis. In a multivariable model, hospitalization in the neonatal intensive care unit (NICU, OR 5.2, 95%CI 1.5-19.7), diarrhea (OR 4.6, 95%CI 1.4-17.3), Friesian breed (OR 4.1, 95%CI 1.1-13.9) and dwell time over four days (OR 3.9, 95%CI 1.3-14.8) were significantly associated with thrombophlebitis development. Seventeen affected foals survived to discharge. Eight horses, aged five months to five years, were available for follow-up by clinical evaluation and demonstrated appropriate blood flow. CONCLUSIONS AND CLINICAL IMPORTANCE: Risk factors for developing catheter-associated thrombophlebitis in hospitalized neonatal foals were identified. This knowledge can aid in implementation of preventive measures.",
+        "source": "pubmed",
+        "source_id": "42925543"
+      },
+      "aliases": [
+        "doi:10.1093/jvimsj/aalag259",
+        "pmid:42925543"
+      ],
+      "discovered_at": "2026-10-26T01:08:21.733788Z",
+      "updated_at": "2026-10-26T01:08:28.776056Z",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "last_attempt_at": null,
+      "analysis": null,
+      "evidence_source": null,
+      "evidence_url": null,
+      "evidence_sha256": null,
+      "summary_generated_at": null,
+      "model": null,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "analysis_version": 0
+    },
+    {
+      "id": "doi:10.1093/jvimsj/aalag215",
+      "metadata": {
+        "title": "Ability of intravenous small-volume hypertonic sodium bicarbonate, sodium chloride, and glucose solutions to rapidly reverse electrocardiographic abnormalities in hyperkalemic calves with neonatal diarrhea.",
+        "journal": "Journal of Veterinary Internal Medicine",
+        "journal_id": "jvim",
+        "publication_date": "2026-09-01",
+        "online_publication_date": null,
+        "publication_date_raw": "2026-Sep-01",
+        "doi": "10.1093/jvimsj/aalag215",
+        "pmid": "42921833",
+        "pmcid": "PMC13695147",
+        "publisher_url": "https://doi.org/10.1093/jvimsj/aalag215",
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42921833/",
+        "abstract": "BACKGROUND: Hyperkalemia is common in dehydrated calves with neonatal diarrhea and can result in life-threatening cardiac conduction abnormalities. HYPOTHESIS/OBJECTIVES: Compare the effects of IV small-volume hypertonic solutions of NaHCO3, NaCl, and glucose in correcting electrocardiographic abnormalities. ANIMALS: Twenty-two neonatal diarrheic calves with plasma potassium concentrations (cK) > 5.8 mmol/L. METHODS: Prospective randomized clinical trial. Calves randomly received either 8.4% NaHCO3 (6.4 mL/kg; n = 7), 7.5% NaCl (5 mL/kg; n = 8), or 46.2% glucose (5 mL/kg; n = 7) IV over 5 min and were subsequently allowed to suckle 2 L of an oral electrolyte solution. Lead II ECG variables were determined before the infusion, during infusion, and 7, 15, 30, 60, 90, and 120 min after the start of infusion. RESULTS: Seven minutes after initiation of infusions, administration of hypertonic sodium solutions but not glucose resulted in a significant (P < .05) increase in heart rate and ST segment duration as well as a decrease in heart rate variability, QRS duration, and T wave amplitude. Generalized linear mixed model analysis identified cK, the interaction between cK and plasma sodium concentrations, or both, as significant predictors of most electrocardiographic variables. Posttreatment increase in cK in 2 calves in group NaCl was associated with the loss of P waves, prolonged QRS duration, and increased T wave amplitude. CONCLUSIONS AND CLINICAL IMPORTANCE: Hypertonic sodium solutions allow for a rapid reversal of the cardiotoxic effect of hyperkalemia. Hypertonic NaHCO3 should be preferred over hypertonic NaCl or glucose.",
+        "source": "pubmed",
+        "source_id": "42921833"
+      },
+      "aliases": [
+        "doi:10.1093/jvimsj/aalag215",
+        "pmid:42921833"
+      ],
+      "discovered_at": "2026-10-26T01:08:21.751064Z",
+      "updated_at": "2026-10-26T01:08:27.112776Z",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "last_attempt_at": null,
+      "analysis": null,
+      "evidence_source": null,
+      "evidence_url": null,
+      "evidence_sha256": null,
+      "summary_generated_at": null,
+      "model": null,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "analysis_version": 0
+    },
+    {
+      "id": "doi:10.1093/jvimsj/aalag261",
+      "metadata": {
+        "title": "Prospective evaluation of the prevalence and characteristics of heart murmurs and gallop sounds in anemic cats.",
+        "journal": "Journal of Veterinary Internal Medicine",
+        "journal_id": "jvim",
+        "publication_date": "2026-09-01",
+        "online_publication_date": null,
+        "publication_date_raw": "2026-Sep-01",
+        "doi": "10.1093/jvimsj/aalag261",
+        "pmid": "42921832",
+        "pmcid": "PMC13695151",
+        "publisher_url": "https://doi.org/10.1093/jvimsj/aalag261",
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42921832/",
+        "abstract": "BACKGROUND: Heart murmurs and gallop sounds are common in anemic cats; however, their association with underlying cardiac disease is unclear. HYPOTHESIS/OBJECTIVES: Determine the prevalence of murmurs and gallops in anemic cats. Investigate the association of auscultatory abnormalities with anemia severity and heart disease. Investigate whether change in anemia severity affects the audibility of murmurs and gallop sounds. ANIMALS: Sixty-four anemic cats (packed cell volume [PCV] below 30%) presenting to a referral hospital. METHODS: Single-center prospective observational study. On presentation, cats were examined and had PCV measurement. Each cat underwent echocardiography. Cats had PCV checks and daily auscultation to document heart sounds. RESULTS: Fifty-eight percent (37/64) had a murmur and 23% (15/64) had a gallop. Mean PCV at enrollment was 18% (±6). Lower PCV was associated with the presence of a murmur (P = .03) and gallop (P = .016). Cardiac disease was present in 34% (22/64) of cats. After adjusting for anemia severity, murmur presence showed no statistically significant association with cardiac disease (P = .636 (OR: 1.31, 95% CI, 0.43-3.95)). A gallop sound was associated with greater odds of cardiac disease (P = .037 (OR: 3.97, 95% CI, 1.09-14.5)). Murmur intensity (P = .001) and likelihood of a gallop sound (P = .022) were lower in individuals when their PCVs increased. CONCLUSIONS AND CLINICAL IMPORTANCE: Murmurs and gallop sounds are common in anemic cats with and without cardiac disease. Anemic cats with gallops are more likely to have underlying cardiac disease than anemic cats without gallops.",
+        "source": "pubmed",
+        "source_id": "42921832"
+      },
+      "aliases": [
+        "doi:10.1093/jvimsj/aalag261",
+        "pmid:42921832"
+      ],
+      "discovered_at": "2026-10-26T01:08:21.765257Z",
+      "updated_at": "2026-10-26T01:08:27.117107Z",
+      "status": "failed",
+      "attempts": 1,
+      "last_error": "Unsupported number in summary prose",
+      "last_attempt_at": "2026-10-26T01:08:57.475118Z",
+      "analysis": null,
+      "evidence_source": null,
+      "evidence_url": null,
+      "evidence_sha256": null,
+      "summary_generated_at": null,
+      "model": null,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "analysis_version": 0
     }
   ],
-  "last_successful_collection": "2026-10-25T01:08:52.481045Z",
-  "last_attempt": "2026-10-25T01:08:52.481045Z",
-  "ai_budget_date": "2026-10-25",
+  "last_successful_collection": "2026-10-26T01:08:20.340805Z",
+  "last_attempt": "2026-10-26T01:08:20.340805Z",
+  "ai_budget_date": "2026-10-26",
   "ai_budget_used": 12
 }
