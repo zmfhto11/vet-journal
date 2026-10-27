@@ -1,9 +1,89 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T01:10:41.468946+00:00",
-  "last_successful_collection": "2026-10-26T01:08:20.340805Z",
+  "generated_at": "2026-10-27T02:07:30.131088+00:00",
+  "last_successful_collection": "2026-10-27T02:04:23.904012Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Comparative Effectiveness of COP and CHOP Chemotherapy Protocols in Feline Intermediate- to Large-Cell Lymphoma: A Systematic Review and Meta-Analysis.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-10-25",
+      "online_publication_date": "2026-10-25",
+      "publication_date_raw": "2026-Oct-25",
+      "doi": "10.1111/vco.70126",
+      "pmid": "42928650",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70126",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42928650/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 feline intermediate- to large-cell lymphoma 환자에서 COP와 CHOP 화학요법 프로토콜의 효능을 직접 비교하였으며, 반려묘를 대상으로 임상 반응률 및 생존 기간에 대해 체계적 문헌고찰과 메타분석을 시행했으므로 수의 임상에 직접적으로 적용할 수 있는 증거임.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "feline intermediate- to large-cell lymphoma",
+      "study_design": "systematic_review",
+      "sample_size": 1054,
+      "sample_size_quote": "we included 21 studies comprising 1054 cats",
+      "objective": "고양이 중간에서 대형 세포림프종에 대해 COP와 CHOP 화학요법 프로토콜의 반응률과 생존기간을 비교 평가하기 위해 체계적 문헌고찰 및 메타분석을 실시하였다.",
+      "study_methods": "2000년부터 2024년까지 PubMed, Scopus, CAB Abstracts 데이터베이스에서 관련 연구 21편을 포함하여 총 1054마리의 고양이를 분석하였다. 제한 최대우도법(REML)를 사용하는 무작위 효과 모델 메타분석으로 전체 반응률(ORR), 완전 반응률(CR), 부분 반응률(PR)을 평가하였다. 치료 반응 및 생존기간과 관련한 데이터를 종합했으며, FeLV 감염 상태와 해부학적 아형에 따른 이질성 및 보고 기준의 일관성 부족을 분석하였다.",
+      "one_sentence_summary": "고양이 중간에서 대형 세포림프종 환자 1054마리를 포함한 21개 연구를 체계적으로 검토 및 메타분석하여 COP와 CHOP 프로토콜의 치료 반응률을 비교하였다. 전체 ORR은 81.0%였으며, COP(83.0%)와 CHOP(77.0%) 간에 통계적으로 유의한 차이가 없었다(p=0.360). 완전 반응률과 부분 반응률도 유의한 차이를 보이지 않았고, 중증 이질성과 FeLV 상태 등 교란 요인이 많아 장기 생존율에 대한 명확한 결론은 도출되지 않았다.",
+      "key_results": [
+        {
+          "result": "전체 병합된 전체 반응률(ORR)은 81.0%였다.",
+          "evidence_quote": "The overall pooled ORR was 81.0%."
+        },
+        {
+          "result": "COP 치료군과 CHOP 치료군의 전체 반응률은 각각 83.0%와 77.0%로 통계학적 차이가 없었다(p = 0.360).",
+          "evidence_quote": "Subgroup meta-regression revealed no statistically significant differences between COP and CHOP for ORR (83.0% vs. 77.0%, p = 0.360)"
+        },
+        {
+          "result": "완전 반응률도 COP 57.0%, CHOP 49.0%로 차이가 통계적으로 유의하지 않았다(p = 0.350).",
+          "evidence_quote": "CR (57.0% vs. 49.0%, p = 0.350)"
+        },
+        {
+          "result": "부분 반응률 또한 COP 28.0%, CHOP 22.0%로 유의한 차이가 없었다(p = 0.468).",
+          "evidence_quote": "PR (28.0% vs. 22.0%, p = 0.468)"
+        },
+        {
+          "result": "연구들 간 이질성이 매우 높았으며(전체 I² 85.4%-89.6%), FeLV 상태와 해부학적 아형 차이가 주된 원인이었다.",
+          "evidence_quote": "Profound heterogeneity (overall I 2 = 85.4%-89.6%) persisted across all analyses, driven primarily by the pooling of diverse anatomical subtypes and uncontrolled confounding by Feline Leukaemia Virus (FeLV) status."
+        },
+        {
+          "result": "COP 치료군의 보고된 중앙 생존 시간 범위는 108일에서 610일까지였고, CHOP 치료군은 62일에서 973일까지로 양자 간 생존기간 우열을 확인하기 어려웠다.",
+          "evidence_quote": "Descriptively, reported median survival times ranged broadly (COP: 108-610 days; CHOP: 62-973 days) without a clear advantage for CHOP."
+        },
+        {
+          "result": "연구의 혼합적인 방법론과 비표준화된 치료 반응기준으로 인해 생존률에 대한 공식적인 메타분석은 불가능했다.",
+          "evidence_quote": "inadequate variance reporting and a widespread lack of standardized response criteria (e.g., VCOG-RECIST) precluded a formal meta-analysis of survival outcomes"
+        }
+      ],
+      "authors_conclusion": "CHOP 프로토콜에서 사용하는 doxorubicin의 추가 투여가 COP 프로토콜 대비 고양이 중간-대형 세포 림프종의 전체, 완전, 부분 반응률에서 통계적으로 유의한 향상을 보지 못했다. 연구간 심각한 이질성과 후향적 편향의 존재로 장기 생존에 대한 명확한 결론을 내리기 어렵고, 향후 동질적인 대상과 표준화된 평가 기준을 가진 전향적 무작위 연구가 필요하다.",
+      "clinical_takeaway": "고양이 중간에서 대형 세포림프종 환자에서 COP와 CHOP 프로토콜 간에 치료 반응률에서 차이가 없음을 시사한다. CHOP 프로토콜에 포함된 doxorubicin 투여의 부작용과 비용을 고려하면, 현 시점에서는 두 프로토콜 간 우열을 확정하기 어렵고 치료 선택 시 부작용 위험 및 환자 상태를 고려해야 한다. 다만 연구들 간 이질성이 크고 FeLV 감염 여부 등 교란 변수 통제가 미비해, 생존 기간에 관한 확실한 판단 기반이 부족한 점에 유의해야 한다. 따라서 임상에서는 개별 환자 상황과 부작용을 면밀히 평가하며, 아직 무작위전향적 연구 결과를 기다리는 것이 합당하다.",
+      "limitations": [
+        "모든 연구가 후향적 분석에 기반하여 선택 편향 가능성이 큼",
+        "FeLV 상태와 다양한 해부학적 아형이 통제되지 않아 결과 해석에 어려움 있음",
+        "치료 반응 평가 기준의 비표준화로 생존율에 대한 메타분석 불가능",
+        "중증 이질성이 매우 커 결과의 일반화 한계 존재",
+        "대부분 연구에서 분산 및 상세 통계 보고가 부적절함",
+        "단일 무작위 임상시험이 없어 근거 강도가 낮음",
+        "초록 수준 자료가 많아 상세한 개별 데이터 분석 제한"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70126",
+      "discovered_at": "2026-10-27 02:04:25.706990+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42928650/",
+      "summary_generated_at": "2026-10-27 02:05:41.224046+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Retrospective Application of the Current International Myeloma Working Group Disease Definitions in 20 Cats With Immunoglobulin Secreting Neoplasms.",
       "journal": "Veterinary and Comparative Oncology",
@@ -1955,6 +2035,149 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Long-term thyroid outcomes and survival in hyperthyroid cats treated with radioiodine: association with overt and subclinical hypothyroidism and levothyroxine treatment.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag233",
+      "pmid": "42800045",
+      "pmcid": "PMC13615730",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag233",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42800045/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 방사성 요오드(131I) 치료를 받은 갑상선기능항진증 고양이 1,344마리를 대상으로 장기 갑상선 기능 상태와 생존기간을 전향적 코호트 연구로 평가하여, 갑상선 기능 저하증(명이학적/잠재적)과 levothyroxine 치료가 생존에 미치는 영향을 분석한 것이며, 이는 임상 현장에서 hyperthyroid 고양이 치료 후 추적 관리 및 치료 전략 결정에 직접적으로 적용 가능한 근거임.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "hyperthyroidism in cats and post-radioiodine hypothyroidism",
+      "study_design": "prospective",
+      "sample_size": 1344,
+      "sample_size_quote": "This study included 1344 hyperthyroid cats successfully treated with 131I.",
+      "objective": "방사성 요오드 치료를 받은 갑상선기능항진증 고양이의 장기 갑상선 기능 결과와 생존율을 평가하고, 초기 갑상선 상태, hypothyroid remission, levothyroxine 치료 및 생존과의 연관성을 분석하였다.",
+      "study_methods": "2013년부터 2020년까지 1344마리의 hyperthyroid 고양이를 131I 치료 후 6-12개월 시점에 갑상선 상태와 신기능(혈중 creatinine)을 평가하였으며, 이후 6-12개월 간격으로 혈청 T4, TSH, creatinine을 측정하며 갑상선 상태를 재분류하고, levothyroxine 치료 여부와 생존 기간을 추적하였다. Kaplan-Meier 및 Cox 회귀분석을 통해 치료 후 갑상선 상태와 생존과의 연관성을 평가하였다.",
+      "one_sentence_summary": "131I 치료를 받은 1344마리 갑상선기능항진증 고양이를 6-12개월 시점에 euthyroid(77.9%), subclinical hypothyroid(17.9%), overt hypothyroid(4.2%)로 분류 후 장기 추적하였다. Euthyroid 고양이 중 89.2%는 장기간 euthyroid 상태를 유지하였으나 일부는 late-onset hypothyroidism(4.1%)이나 재발(6.7%)을 보였다. Subclinical hypothyroidism의 42.5%는 후에 정상회복(remission)을 보였고, overt hypothyroidism은 대부분 지속되었다. Untreated persistent hypothyroidism은 생존기간 단축과 연관되었으며, levothyroxine 치료 시 생존율은 euthyroid 고양이와 유사하였다.",
+      "key_results": [
+        {
+          "result": "6-12개월 시점에 1047/1344 (77.9%) 고양이가 euthyroid였고, 240/1344 (17.9%)는 subclinical hypothyroid, 57/1344 (4.2%)는 overt hypothyroid였다.",
+          "evidence_quote": "At 6-12 months, 1047/1344 cats (77.9%) were euthyroid, 240/1344 (17.9%) were subclinically hypothyroid, and 57/1344 (4.2%) were overtly hypothyroid."
+        },
+        {
+          "result": "처음 euthyroid였던 고양이 1047마리 중 934마리(89.2%)는 장기간 euthyroid 유지, 43마리(4.1%)에서는 late-onset hypothyroidism 발생, 70마리(6.7%)에서는 재발이 관찰되었다.",
+          "evidence_quote": "Among initially euthyroid cats, 934/1047 (89.2%) remained euthyroid, 43 (4.1%) developed late-onset hypothyroidism, and 70 (6.7%) developed recurrent hyperthyroidism."
+        },
+        {
+          "result": "처음 subclinical hypothyroid이었던 고양이 240마리 중 102마리(42.5%)에서 hypothyroid remission으로 euthyroid로 전환되었다.",
+          "evidence_quote": "Among initially subclinically hypothyroid cats, 102/240 (42.5%) underwent remission to become euthyroid."
+        },
+        {
+          "result": "euthyroid 고양이의 중위 생존기간은 49.7개월, subclinical hypothyroid는 44.6개월, overt hypothyroid는 36.1개월이었다.",
+          "evidence_quote": "Median survival was 49.7 months in euthyroid cats, 44.6 months in subclinically hypothyroid cats, and 36.1 months in overtly hypothyroid cats."
+        },
+        {
+          "result": "최종 분석에서 untreated subclinical 및 overt hypothyroidism은 사망 위험 증가와 독립적으로 연관되었으나, levothyroxine 치료를 받은 고양이는 사망 위험과 연관이 없었다.",
+          "evidence_quote": "In final-outcome models, untreated subclinical and overt hypothyroidism were independently associated with an increased hazard of death, whereas hypothyroidism in cats treated with levothyroxine was not."
+        },
+        {
+          "result": "over hypothyroid 고양이 57마리 중 46마리가 levothyroxine 치료를 받았고, 치료받은 고양이의 중위 생존기간이 42.3개월, 미치료군은 25.1개월이었다.",
+          "evidence_quote": "Comparison of survival of cats with overt hypothyroidism based on treatment with levothyroxine or not Among the 57 cats classified as overtly hypothyroid at the 6- to 12-month evaluation, 46 received levothyroxine treatment and 11 did not. Kaplan–Meier analysis indicated that levothyroxine-treated cats survived longer than untreated cats (median, 42.3 months; 95% CI, 32.6-51.9 months vs 25.1 months; 95% CI, 13.3-36.0 months; P = .031; Figure 3A)."
+        },
+        {
+          "result": "최종 갑상선 상태 분류에서 untreated overt 및 subclinical hypothyroidism 고양이군은 euthyroid 고양이군 대비 사망 위험이 증가하였으나, levothyroxine 치료군은 사망 위험이 유의하게 다르지 않았다.",
+          "evidence_quote": "In the multivariable Cox proportional hazards model adjusted for age, sex, and posttreatment serum concentrations of creatinine, T4, and TSH, both untreated subclinical and overt hypothyroid groups remained independently associated with an increased hazard of death, compared with euthyroid cats (Table 5). In contrast, neither levothyroxine-treated subclinical nor overt hypothyroidism was associated with a different hazard of death compared with euthyroidism."
+        }
+      ],
+      "authors_conclusion": "131I 치료 후 고양이의 갑상선 상태는 동적이며 장기 추적이 필요하다. 대부분 6-12개월 시점의 euthyroid 고양이는 장기간 정상 상태를 유지하지만 일부는 late-onset hypothyroidism 또는 재발을 보인다. subclinical hypothyroidism은 자주 회복되나 overt hypothyroidism은 지속되는 경향이다. untreated persistent hypothyroidism은 생존기간 단축과 연관되지만, levothyroxine 치료는 이러한 부정적 영향을 경감시키는 것으로 보인다.",
+      "clinical_takeaway": "131I 치료 후 고양이의 갑상선 기능은 시간이 지남에 따라 변할 수 있으므로 6-12개월 이후에도 정기적인 혈청 T4, TSH 및 신기능 검사가 필수적입니다. 대부분 euthyroid 상태의 고양이는 장기적으로 정상 갑상선 기능을 유지하지만, 일부에서는 이후 subclinical 또는 overt hypothyroidism이 발생하거나 재발할 수 있습니다. 특히 untreated hypothyroidism 고양이는 생존기간이 단축되므로, 갑상선 호르몬 결핍이 지속적이고 악화되는 경우 levothyroxine 보충 요법을 권장합니다. subclinical hypothyroidism은 자발 회복하는 경우가 많으나, TSH 상승이나 신기능 악화가 동반되면 치료를 고려해야 합니다. 또한, 나이, 성별, 신기능 변화도 예후에 중요한 영향을 미치므로 포괄적인 평가를 통한 개별화된 관리가 필요합니다.",
+      "limitations": [
+        "levothyroxine 치료가 무작위 배정되지 않아 치료 선택 편향과 혼란 요인의 가능성이 있다.",
+        "사망 원인이나 안정적 추적 검사 자료가 완전하지 않아 생존 분석에 제한점이 있다.",
+        "추적 기간과 검사 빈도에 따른 자료 수집 편차가 있을 수 있다.",
+        "subclinical hypothyroidism remission 분석은 장기 생존한 억류된 생존자 편향(survivor bias)의 영향을 받을 수 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 대규모 전향적 코호트에서 131I 치료 후 고양이 갑상선 기능과 생존을 장기간 추적하여, untreated hypothyroidism이 생존에 부정적 영향을 미치고 levothyroxine 치료가 생존을 개선할 수 있음을 명확히 하였음. 이로 인해 임상가에게 치료와 추적 관리 방향에 구체적인 근거를 제공하는 직접 임상 적용 가능한 중요한 연구이다.",
+      "id": "doi:10.1093/jvimsj/aalag233",
+      "discovered_at": "2026-09-27 23:24:18.556829+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13615730",
+      "summary_generated_at": "2026-10-27 02:07:28.802990+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Idiopathic cholesterol pericarditis in a dog presenting with cardiac tamponade.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag219",
+      "pmid": "42801331",
+      "pmcid": "PMC13616114",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag219",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42801331/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 개에서 idiopathic cholesterol pericarditis가 cardiac tamponade와 함께 나타난 드문 임상 사례를 상세히 보고하고 있어, 유사 임상 증례를 접하는 수의사에게 직접적인 참고 자료가 된다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "cardiology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "idiopathic cholesterol pericarditis with cardiac tamponade",
+      "study_design": "case_report",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "Idiopathic cholesterol pericarditis로 진단된 개에서 cardiac tamponade 임상 양상과 진단, 치료 과정 및 경과를 보고한다.",
+      "study_methods": "7년 6개월령 수컷 중성화 Pug견이 lethargy, hyporexia, polydipsia, 복부 팽만 및 dyspnea를 주소로 내원하였다. Point-of-care ultrasonography로 tricavitary effusions와 cardiac tamponade를 확인하고 pericardiocentesis를 시행하여 83 mL sanguineous scintillating fluid를 채취하였다. 혈액 검사, 심초음파, 심전도, CT 스캔 및 pericardial fluid 분석(배양 및 감수성 포함)을 통해 심혈관, 내분비, 종양, 감염성 원인을 배제하였다. Pericardial fluid cytology에서 많은 cholesterol crystals를 확인하여 cholesterol pericarditis로 진단하였다. 이후 7주 후 subtotal pericardiectomy를 진행하였으며, 조직학적 검사는 pericarditis를 확인하였다. 4개월 후 재발성 pleural effusion 치료를 위해 pleural port를 설치하였다. 10주 후 악화된 호흡곤란으로 인해 안락사를 시행하였다.",
+      "one_sentence_summary": "7년 6개월령 중성화된 암컷 Pug견이 lethargy, hyporexia, polydipsia, 복부 팽만, dyspnea로 내원하여 심장 tamponade를 동반한 tricavitary effusions가 확인되었다. 83 mL의 sanguineous scintillating pericardial fluid가 pericardiocentesis로 배출되었으며, 다각적 검사에서 심혈관, 내분비, 종양 및 감염 원인이 배제된 후 pericardial fluid 내 고농도의 cholesterol와 다수의 cholesterol crystals를 확인하여 idiopathic cholesterol pericarditis로 진단되었다. 7주 후 subtotal pericardiectomy를 시행하였으나 4개월 후 pleural effusion의 재발로 pleural port를 설치하였으며, 10주 후 dyspnea 악화로 안락사를 하였다.",
+      "key_results": [
+        {
+          "result": "심초음파와 초음파 검사에서 cardiac tamponade 및 tricavitary effusion 확인, pericardiocentesis로 83 mL의 sanguineous scintillating fluid가 채취되었다.",
+          "evidence_quote": "Point-of-care ultrasonography identified tricavitary effusions and cardiac tamponade. Pericardiocentesis yielded 83 mL of sanguineous scintillating fluid."
+        },
+        {
+          "result": "혈액 검사, 심초음파, 심전도, CT 스캔 및 pericardial fluid 배양 검사에서 심혈관, 내분비, 종양 및 감염성 원인이 없음을 확인하였다.",
+          "evidence_quote": "Clinical examination, bloodwork, echocardiography, electrocardiography, thoracic and abdominal computed tomography scans, and pericardial fluid analysis including culture and sensitivity did not identify any cardiovascular, endocrine, neoplastic, or infectious causes of the pericardial effusion."
+        },
+        {
+          "result": "수술 후 4개월 후 재발성 pleural effusion이 발생하여 pleural port를 설치하였다.",
+          "evidence_quote": "A pleural port was placed 4 months later to address recurring dyspneic episodes secondary to pleural effusion"
+        },
+        {
+          "result": "원발 진단 후 8.5개월 만에 dyspnea 악화로 인해 안락사를 시행하였다.",
+          "evidence_quote": "The dog was euthanized 10 weeks later, 8.5 months after the original diagnosis, due to a compromised quality of life from increasingly frequent bouts of dyspnea."
+        }
+      ],
+      "authors_conclusion": "idiopathic cholesterol pericarditis는 개에서 매우 드문 원인으로 cardiac tamponade의 원인이 될 수 있으며, 원인 질환이 확인되지 않은 재발성 pericardial effusion 환자에서 감별 진단으로 고려되어야 한다고 결론지었다.",
+      "clinical_takeaway": "이 증례는 idiopathic cholesterol pericarditis가 개에서 cardiac tamponade를 유발할 수 있는 드문 질환임을 보여준다. 심혈관, 내분비, 종양, 감염 등의 원인이 배제된 재발성 pericardial effusion을 보이는 개에서 cholesterol pericarditis를 감별해야 하며, pericardial fluid의 cholesterol 농도 및 cholesterol crystals 검사가 진단에 중요하다. subtotal pericardiectomy는 tamponade 증상의 완화에 도움을 줄 수 있으나 재발과 pleural effusion 발생 가능성 및 최종적으로 삶의 질 저하로 인한 안락사를 초래할 수 있어 장기 예후는 불량할 수 있다. 이로 인해 추가 연구와 증례 축적이 필요하며, 본 증례는 idiopathic cholesterol pericarditis 진단과 관리에 참고할 수 있다.",
+      "limitations": [
+        "단일 증례 보고로 일반화에 제한이 있다.",
+        "후향적이며 대조군이 없어 치료 효과를 확정하기 어렵다.",
+        "장기 추적 관찰 기간이 제한되어 장기 예후 판단이 어렵다.",
+        "혈청과 pericardial fluid의 콜레스테롤 및 중성지방 수치 기준이 명확하지 않아 진단 기준에 한계가 있다.",
+        "치료 중 약물 치료에 대한 고려가 없었다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "희귀하지만 심각한 idiopathic cholesterol pericarditis의 임상적 특징을 상세히 보고하여 유사 증례 진단 및 치료에 실질적 도움을 줄 수 있기 때문에 직접 임상 적용 가능성이 높아 권장한다.",
+      "id": "doi:10.1093/jvimsj/aalag219",
+      "discovered_at": "2026-09-27 23:24:18.540792+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13616114",
+      "summary_generated_at": "2026-10-27 02:06:51.583243+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Combination of Hypofractionated Radiation Therapy and Gilvetmab for the Treatment of Cutaneous or Subcutaneous Mast Cell Tumours in Dogs.",
       "journal": "Veterinary and Comparative Oncology",
       "journal_id": "vco",
@@ -2225,6 +2448,72 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42648350/",
       "summary_generated_at": "2026-10-23 01:31:48.261288+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Feasibility of bone-targeted electrochemotherapy for palliation of bone tumors in dogs and cats.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-21",
+      "online_publication_date": "2026-08-21",
+      "publication_date_raw": "2026-Aug-21",
+      "doi": "10.2460/javma.26.06.0439",
+      "pmid": "42633775",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.06.0439",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42633775/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 canine과 feline 환자에서 bone-targeted electrochemotherapy(ECT)의 적용 가능성을 평가하고 있으나, 현재까지 수의진료에서의 근거는 매우 제한적이고 4예의 사례 보고에 국한되어 있어 직접적인 임상 근거보다는 간접적 자료로 분류됩니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "bone tumors",
+      "study_design": "case_series",
+      "sample_size": 4,
+      "sample_size_quote": "an original 4-case series",
+      "objective": "본 리뷰는 전임상, 인간 임상자료 및 초기 수의 임상 경험을 통합하여 canine과 feline의 bone tumors에 대한 electrochemotherapy의 번역 가능성을 평가하는 것을 목표로 하였습니다.",
+      "study_methods": "본 고찰은 전임상 연구, 인간 임상 연구, 그리고 수의학 초기 경험 자료와 함께 해당 기술을 canine과 feline 4예에 적용한 사례 시리즈를 포함하여 ECT의 골종양에 대한 적용 가능성을 평가하였습니다.",
+      "one_sentence_summary": "Electrochemotherapy(ECT)는 reversible electroporation과 세포독성 약물을 결합한 최소 침습 국소 치료법으로, 골종양에의 적용 가능성을 평가하기 위해 인간과 전임상 데이터, 그리고 수의학 4예의 사례가 통합 분석되었습니다. 전임상 연구에서는 골 내의 종양 제거와 동시에 세포외기질 보존 및 골조직 재생이 확인되었고, 인간 임상에서는 통증 완화 및 국소적 종양 조절 효과가 보고되었으나, 수의학 임상 증거는 아직 제한적입니다. 본 보고는 ECT가 일부 골종양에서 기능 보존 대안이 될 수 있음을 시사하나, 수의 임상에서의 역할 정의를 위한 추가 연구가 필요합니다.",
+      "key_results": [
+        {
+          "result": "전임상 연구에서 골 내 종양의 효과적인 제거와 동시에 세포외기질 보존 및 골조직 재생이 가능함을 확인하였다.",
+          "evidence_quote": "Preclinical studies demonstrate effective tumor ablation within bone while preserving extracellular matrix integrity and enabling bone tissue regeneration."
+        },
+        {
+          "result": "인간 임상 연구에서 일관된 통증 완화, 의미 있는 국소 종양 조절 및 허용 가능한 안전성 프로필이 보고되었다.",
+          "evidence_quote": "Clinical studies in humans report consistent pain relief, meaningful local tumor control, and acceptable safety profiles, including in complex scenarios, such as radiotherapy-resistant metastatic epidural spinal cord compression."
+        },
+        {
+          "result": "수의학 분야에서는 제한적이며 isolated case report 형태로만 보고되었고, 관련 기술의 제약으로 광범위한 임상 적용은 어려운 상황이다.",
+          "evidence_quote": "In contrast, veterinary evidence remains limited to isolated case reports, in part due to limited dedicated technologies."
+        },
+        {
+          "result": "본 리뷰에 포함된 canine과 feline에서의 4예 사례 시리즈가 최초로 수의학에서의 bone-targeted ECT 적용 가능성을 평가하였다.",
+          "evidence_quote": "This narrative review integrates preclinical evidence, human clinical data, and early veterinary experience with an original 4-case series to evaluate the translational potential of ECT in bone oncology."
+        }
+      ],
+      "authors_conclusion": "본 연구는 ECT가 일부 선택된 골종양에서 기능 보존 대안이 될 가능성을 제시하지만, 수의 임상에서의 임상 역할을 확정하기 위해 전향적 연구가 필요하다고 결론 내렸습니다.",
+      "clinical_takeaway": "본 연구는 bone-targeted electrochemotherapy가 canine과 feline에서 골종양 치료에 기능 보존적 대안이 될 수 있는 잠재력을 처음으로 제시합니다. 인간 임상과 전임상 데이터는 골 내 종양 조절과 골재생 가능성을 보여주며, 통증 완화에도 긍정적 결과를 나타냅니다. 그러나 수의학 임상 데이터는 단 4예의 사례에 한정되어 있으므로 이를 근거로 임상적 적용을 확장하기에는 아직 불충분합니다. 따라서 bone tumors의 치료 옵션으로 ECT 도입을 고려할 때는 이 제한된 증거를 신중히 해석하고, 향후 대규모 전향적 연구 결과를 기대하는 것이 합당합니다.",
+      "limitations": [
+        "해당 연구는 4예의 사례 시리즈에 기반하여 매우 제한된 수의 증거만을 제시한다.",
+        "수의학 분야에서는 전임상 및 인간 임상 데이터를 바탕으로 한 간접적인 근거가 주를 이루고 있다.",
+        "기술적 제한으로 인하여 수의 임상에서의 광범위한 적용이 어렵다.",
+        "본 고찰은 초록 자료에 기반하여 상세한 연구 방법이나 장기 추적 결과가 부재하다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.06.0439",
+      "discovered_at": "2026-09-17 05:57:03.754189+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42633775/",
+      "summary_generated_at": "2026-10-27 02:05:49.587042+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -3512,19 +3801,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 499
+        "received": 506
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 563
+        "received": 557
       }
     },
-    "started_at": "2026-10-26T01:08:20.340850+00:00",
-    "since": "2026-09-11",
-    "processed": 2,
+    "started_at": "2026-10-27T02:04:23.904061+00:00",
+    "since": "2026-09-12",
+    "processed": 4,
     "refreshed": 0,
-    "failed": 13,
-    "deferred": 999,
-    "finished_at": "2026-10-26T01:10:41.369580+00:00"
+    "failed": 9,
+    "deferred": 1006,
+    "finished_at": "2026-10-27T02:07:30.029230+00:00"
   }
 }
