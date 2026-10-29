@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T02:16:47.551166+00:00",
-  "last_successful_collection": "2026-10-28T02:13:57.020411Z",
+  "generated_at": "2026-10-29T02:28:07.594496+00:00",
+  "last_successful_collection": "2026-10-29T02:25:46.943723Z",
   "mode": "live",
   "papers": [
     {
@@ -1887,6 +1887,75 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Outcomes of a 42-day course of molnupiravir in cats with feline infectious peritonitis: a prospective descriptive study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag268",
+      "pmid": "42949438",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag268",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42949438/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 고양이 FIP 환자를 대상으로 molnupiravir의 42일간 경구 치료 효과를 전향적으로 평가하여 임상에서 바로 적용 가능한 직접적인 치료 지침 정보를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "feline infectious peritonitis",
+      "study_design": "prospective",
+      "sample_size": 19,
+      "sample_size_quote": "Nineteen client-owned cats with newly diagnosed FIP.",
+      "objective": "고양이 FIP의 molnupiravir 42일 경구 치료가 얼마나 효과적인지를 평가하였다.",
+      "study_methods": "고양이 19마리를 대상으로 molnupiravir를 경구로 12시간마다, 중간용량 11.5 mg/kg (IQR 10.2-12.5 mg/kg)로 42일간 투여하였다. 안구 또는 신경학적 증상이 있는 고양이는 제외했다. 치료 중과 종료 후 6개월 동안 임상 평가를 실시하였다.",
+      "one_sentence_summary": "19마리의 새로 진단된 FIP 환자 고양이를 대상으로 molnupiravir를 42일간 중간용량으로 경구 투여하였다. 치료를 완료한 17마리 중 14마리(82%)는 치료 종료 후 최소 6개월 동안 관해 상태를 유지하였다. 두 마리는 치료 중 조기 사망 또는 지속 증상으로 치료를 완료하지 못했으며, 3마리는 치료 종료 후 재발하였으나 동일 용량 molnupiravir 84일 재치료에 반응하였다. 안구 및 신경학적 증상을 보인 환자는 연구에서 제외되었다.",
+      "key_results": [
+        {
+          "result": "42일 molnupiravir 치료를 완료한 17마리 중 14마리(82%; 95% CI, 57-96)는 6개월 이상 관해 상태를 유지했다.",
+          "evidence_quote": "among the 17 cats reaching day 42, 14 (82%; 95% CI, 57-96) remained in remission for at least 6 months."
+        },
+        {
+          "result": "전체 대상 19마리 고양이 중 14마리(74%; 95% CI, 49-91)가 intention-to-treat 기준으로 지속 관해에 성공했다.",
+          "evidence_quote": "Fourteen of 19 cats (74%; 95% CI, 49-91) achieved sustained remission on an intention-to-treat basis."
+        },
+        {
+          "result": "안구 또는 신경학적 증상이 있던 고양이는 연구에서 제외되었다.",
+          "evidence_quote": "Cats with ocular or neurological involvement were excluded."
+        },
+        {
+          "result": "3마리 고양이가 치료 종료 후 재발하였으나, 동일 용량의 molnupiravir 84일 재치료에 모두 반응하였다.",
+          "evidence_quote": "Three cats relapsed after treatment cessation; all responded to retreatment with molnupiravir at the same dosage extended to 84 days."
+        },
+        {
+          "result": "2마리 고양이는 치료 중 사망하거나 지속되는 임상 증상으로 치료를 완료하지 못했다.",
+          "evidence_quote": "Two cats failed to complete treatment because of death or persistent clinical signs."
+        }
+      ],
+      "authors_conclusion": "이 전향적 연구는 안구 및 신경학적 증상이 없는 선택된 FIP 고양이에서 molnupiravir의 42일 단축 치료 과정이 가능하며 효과적일 수 있음을 시사한다.",
+      "clinical_takeaway": "이 연구는 안구 및 신경증상이 없는 자연 발생 FIP 고양이에서 molnupiravir를 42일간 경구 투여하는 단축 치료가 6개월 이상 관해 유지에 충분히 효과적일 수 있음을 보여준다. 총 19마리 중 14마리(74%)가 intention-to-treat 기준으로 지속 관해를 달성했으며, 42일까지 치료를 완료한 17마리 중 82%가 관해 상태를 유지하였다. 재발 시 동일 용량으로 84일간 재치료가 효과적임을 확인하였으나, 신경학적 또는 안구 증상이 있는 환자는 본 연구에서 제외되어 이들에 대한 적용은 제한적이다. 따라서 신경학적 증상 없는 FIP 환자에서는 84일 치료 대신 42일 치료도 고려할 수 있으나, 무작위 대조군 연구 등 추가 연구가 필요하다.",
+      "limitations": [
+        "안구 또는 신경학적 증상이 있는 환자는 본 연구에서 제외되어 이들에 대한 치료 효과를 평가하지 못함.",
+        "샘플 크기가 19마리로 비교적 적으며 단일 기관 또는 환경 특성에 한정되었을 가능성.",
+        "대조군이 없어 42일과 기존 84일 치료의 직접 비교가 이루어지지 않음.",
+        "장기 추적 평가는 6개월로 제한되어 매우 장기 효과와 부작용 평가는 어려움."
+      ],
+      "recommended": true,
+      "recommendation_reason": "고양이 FIP 대상으로 한 직접 임상 연구이며, 42일 molnupiravir 투여가 높은 비율의 관해 달성과 유지를 보여 임상적용 가능성을 시사하여 권고된다.",
+      "id": "doi:10.1093/jvimsj/aalag268",
+      "discovered_at": "2026-10-29 02:25:48.424082+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42949438/",
+      "summary_generated_at": "2026-10-29 02:27:20.662768+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Phenotypic characterization of presumptive propriospinal myoclonus in young dogs (2013-2025).",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -2589,6 +2658,71 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42617659/",
       "summary_generated_at": "2026-10-19 01:16:52.212638+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "The impact of changing living conditions, pollutants, and climate change on allergic skin disease in our pets: highlighting our interconnectedness.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-19",
+      "online_publication_date": "2026-08-19",
+      "publication_date_raw": "2026-Aug-19",
+      "doi": "10.2460/javma.26.06.0472",
+      "pmid": "42617660",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.06.0472",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617660/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 환경 변화가 애완동물의 알레르기성 피부 질환에 미치는 영향을 다루고 있으나, 구체적인 임상 연구 데이터나 치료 결과를 제시하지 않고, 주로 환경 인자와 질환 발생 간의 연관성을 개념적으로 서술하고 있어 직접적인 임상 적용은 제한적입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "allergic skin disease",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "환경 변화, 오염물질, 그리고 기후 변화가 반려동물의 알레르기성 피부 질환에 미치는 영향을 종합적으로 검토하여, 인간과 동물, 환경 건강 간의 상호연관성을 강조하는 것입니다.",
+      "study_methods": "본 리뷰는 최근 수십 년간 생활환경의 변화, 화학물질과 오염에 대한 노출 증가, 도시화 및 기후변화가 개와 고양이에서 발생하는 알레르기성 피부질환에 미치는 영향을 문헌 및 현황을 통해 고찰하였습니다. 특히 대기오염, 미생물 다양성 감소, 기후변화에 따른 꽃가루 증가와 알레르기 유발력 강화 등의 환경 인자가 면역체계 및 상피장벽에 미치는 복합적인 영향을 중심으로 해석하였습니다.",
+      "one_sentence_summary": "이 논문은 반려동물이 인간과 함께 도시화, 화학오염, 기후변화 등 환경 변화에 노출되어 알레르기성 피부질환이 증가하고 있음을 개념적으로 고찰했습니다. 개와 고양이 모두에서 상피 손상과 장내 미생물 불균형이 아토피성 피부염과 관련이 있음을 제시하며, 고탄소배출로 인한 꽃가루 생산 및 알레르기원 강화가 질환 악화를 유발한다고 설명합니다. 본 고찰은 반려동물 건강과 환경 변화의 상호연관성을 강조했으나 구체적인 임상 연구 데이터는 포함하지 않았습니다.",
+      "key_results": [
+        {
+          "result": "환경 변화로 인해 반려동물의 아토피성 피부염과 같은 알레르기성 피부질환의 발생률과 중증도가 증가하였다.",
+          "evidence_quote": "These changes contribute to the rising incidence of allergic diseases and their increased severity."
+        },
+        {
+          "result": "고농도의 이산화탄소는 꽃가루 생산과 알레르기 유발력을 증가시킨다.",
+          "evidence_quote": "Higher carbon dioxide levels have intensified pollen production and allergenicity"
+        },
+        {
+          "result": "대기 오염과 화학물질은 상피를 손상시키고 투과성을 증가시켜, 반려동물 면역체계에 영향을 끼친다.",
+          "evidence_quote": "pollution and chemicals damage epithelia, increasing their permeability."
+        },
+        {
+          "result": "반려동물은 도시생활과 실내 생활 증가로 식물과 미생물 다양성 손실 및 오염물질 노출 증가를 경험하였다.",
+          "evidence_quote": "Our pets have left a rural environment to join our urban lifestyle, with a loss of plant and microbial diversity; increased exposure to pollution from car traffic, plastics, and chemicals; and more time spent indoors."
+        }
+      ],
+      "authors_conclusion": "본 고찰은 환경 조건의 변화가 인간과 마찬가지로 반려동물의 알레르기성 및 염증성 피부질환 증가에 영향을 미치며, 동물과 인간, 환경의 건강이 긴밀히 연결되어 있음을 확인하였다. 다만, 임상적 근거가 제한적이므로 보다 구체적인 연구가 필요하다.",
+      "clinical_takeaway": "이 논문은 현대 반려동물이 인간과 비슷한 환경 변화에 노출되어 알레르기성 피부질환 발생이 증가하고 있음을 알립니다. 특히 이산화탄소 증가에 따른 꽃가루 알레르기 강화와 대기오염으로 인한 상피 손상 등 환경 인자가 질병 악화에 기여할 수 있음을 시사합니다. 임상적으로는 환경 개선과 오염 노출 감소가 중요한 관리 요소임을 시사하나, 직접적인 치료법이나 예후 개선을 위한 근거는 부족합니다. 따라서 현재 연구 결과는 예방적 접근과 동물-인간-환경 건강 연계를 인식하는 데 도움이 되며, 구체적인 임상 지침으로 확대 적용하기에는 한계가 있습니다.",
+      "limitations": [
+        "해당 논문은 개념적 고찰이 주를 이루어 구체적 임상 연구나 통계적 데이터 부족.",
+        "직접적인 인과관계 증명 없이 환경 변화와 질병 증가 간 상관성 중심 서술.",
+        "초록 기반 정보만 제공되어 세부 연구방법 및 표본크기 불명.",
+        "반려동물별 혹은 종별 위험 요인 차이에 대한 상세 분석 부족."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.06.0472",
+      "discovered_at": "2026-09-17 05:57:05.936572+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42617660/",
+      "summary_generated_at": "2026-10-29 02:26:52.910312+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -3718,6 +3852,141 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Large-bore thoracostomy tube placement in small animals.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-10-01",
+      "online_publication_date": "2026-06-26",
+      "publication_date_raw": "2026-Oct-01",
+      "doi": "10.2460/javma.26.01.0046",
+      "pmid": "42361364",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.01.0046",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42361364/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 소동물에서 재발성 흉수, 기흉 또는 화농흉과 같은 환자에서 치료적 흉강 배액이 필요한 경우에 large-bore thoracostomy tube placement 절차를 상세히 설명하였으며, 이는 임상 현장에서 반드시 숙지해야 하는 기술을 다루고 있어 직접적인 임상 관련성이 매우 높습니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "emergency_critical_care",
+        "surgery"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "large-bore thoracostomy tube placement in small animals",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "소동물에서 large-bore thoracostomy tube placement의 기술적 절차를 자세히 안내하고, 안전한 술기 습득과 실습을 돕기 위해 수의학 시뮬레이션 모델을 사용해 시연하는 것입니다.",
+      "study_methods": "재발성 흉수, 기흉, 화농흉 등 흉강 배액이 필요한 개나 고양이를 대상으로, large-bore thoracostomy tube placement를 시행하는 절차를 시뮬레이션 모델에서 시연하였습니다. 절차에는 피하조직과 늑간근의 둔성 박리를 통한 피하 터널 형성, curved hemostatic forceps와 trocar를 이용한 흉강 진입 조절, fenestrated thoracic drain 삽입, 그리고 적절한 튜브 고정 및 붕대 감기 과정이 포함됩니다.",
+      "one_sentence_summary": "재발성 흉수, 기흉 또는 화농흉 등의 흉강 배액이 필요한 개와 고양이를 대상으로, large-bore thoracostomy tube placement 절차를 수의학 시뮬레이션 모델에서 단계별로 시연하였습니다. 시뮬레이션을 통해 피하 터널 형성, 흉강 진입, 흉강 배액관 삽입 및 고정 기술을 상세히 설명하여, 실무에서 안전하고 정확한 시술 수행에 도움을 주고자 하였습니다.",
+      "key_results": [
+        {
+          "result": "large-bore thoracostomy tube placement 절차에 대해 단계별로 명확한 지침을 제공하여 정확한 시술 수행 능력 향상에 기여할 수 있음을 보였습니다.",
+          "evidence_quote": "This tutorial provides a clear, step-by-step guide to performing the technique, with the aim of facilitating practice of the critical procedural skills required for accurate execution while minimizing potential complications."
+        },
+        {
+          "result": "적절한 시술 수행은 폐 실질 손상과 늑골 골절 같은 합병증을 줄여 소동물 환자의 호흡 기능 악화를 방지할 수 있습니다.",
+          "evidence_quote": "Performing the technique correctly helps reduce complications such as iatrogenic pulmonary parenchymal injury and rib fractures, which may further compromise patient ventilation."
+        }
+      ],
+      "authors_conclusion": "본 튜토리얼은 small animal emergency and critical care 분야에서 수의사가 반드시 이해하고 숙달해야 할 중요한 large-bore thoracostomy tube placement 절차의 기술적 세부사항을 체계적으로 제시하며, 정확한 시술 수행이 환자 합병증 감소에 도움이 됨을 시사합니다.",
+      "clinical_takeaway": "이 연구는 재발성 흉수, 기흉, 화농흉 등으로 흉강 배액이 필요한 개와 고양이 환자에서 large-bore thoracostomy tube placement의 올바른 시술법을 구체적으로 안내합니다. 시뮬레이션 모델로 단계별 절차를 상세히 설명함으로써 수의사들이 실제 임상에서 정확한 술기를 안전하게 익히도록 돕는 점이 중요합니다. 특히 흉강 진입 시 폐 조직 손상이나 늑골 골절 같은 시술 관련 합병증을 줄이는 데 기여할 수 있어 중환자 관리에 필수적인 기술임을 강조합니다. 다만 본 연구는 시뮬레이션 모델을 기반으로 한 기술 안내로 실제 환자 대상 임상 결과나 장기 예후 데이터는 포함하지 않으므로, 임상 적용 시 환자별 조건과 경험을 고려해야 합니다.",
+      "limitations": [
+        "본 연구는 수의학 시뮬레이션 모델을 활용한 기술 튜토리얼로, 실제 환자 대상 임상 시험이나 추적 관찰 결과가 포함되지 않았습니다.",
+        "임상 효과 및 시술 후 합병증 발생률에 관한 객관적 데이터가 제공되지 않았습니다.",
+        "적은 증례나 비교군 없이 작성된 기술 안내이므로, 임상적 효용과 위험도에 대한 평가가 제한적입니다.",
+        "논문 전문이 제공되지 않아 세부 방법론과 평가 척도 등에 대한 추가 정보가 부족합니다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 논문은 소동물 임상에서 흉강 배액이 필요한 다양한 상황을 다루며, 응급 및 중환자 진료에서 반드시 요구되는 수술적 술기의 정확한 수행법을 단계별로 구체적으로 제시하였습니다. 시뮬레이션 모델을 통한 실습 교육에 초점을 맞춰 안전성과 숙련도 향상에 기여할 수 있어 소동물 임상의들에게 실질적으로 유용한 자료로 판단됩니다.",
+      "id": "doi:10.2460/javma.26.01.0046",
+      "discovered_at": "2026-09-19 23:22:11.410234+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42361364/",
+      "summary_generated_at": "2026-10-29 02:28:06.225008+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Ultrasonographic features of gastric mucosal hypertrophy in dogs receiving chronic omeprazole: a retrospective case series.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-10-01",
+      "online_publication_date": "2026-06-26",
+      "publication_date_raw": "2026-Oct-01",
+      "doi": "10.2460/javma.26.04.0297",
+      "pmid": "42361369",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.04.0297",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42361369/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 만성 omeprazole 투여를 받고 복부 초음파 검사를 시행한 실제 임상 견 (medium to large breed) 9마리를 대상으로 하였으며, omeprazole로 인한 위 점막 비대와 관련된 특이적인 초음파 소견을 기술하여 임상 진단에 직접적으로 적용할 수 있습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "gastroenterology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "gastric mucosal hypertrophy associated with chronic omeprazole",
+      "study_design": "retrospective",
+      "sample_size": 9,
+      "sample_size_quote": "Nine dogs met the inclusion criteria.",
+      "objective": "만성 omeprazole 투여를 받은 개들의 위 점막 이상 소견의 복부 초음파 특징을 기술하는 것.",
+      "study_methods": "수의학 교육 병원에서 2020년부터 2026년까지 만성(≥ 5개월) omeprazole 투여 이력이 있으며 abdominal ultrasonography가 시행된 환자 견 기록을 후향적으로 검토하였다. 위벽 이상 소견이 특정 패턴과 일치하는 경우에 포함하였으며, 총 9마리의 medium to large breed 개가 포함되었다. 해당견들은 portosystemic shunting, 위궤양, 만성 장질환 관리를 위해 omeprazole을 투여받았다. 초음파 소견을 기술적으로 검토하고, 이용 가능한 조직병리 결과도 평가하였다.",
+      "one_sentence_summary": "중간에서 대형견 9마리를 대상으로 후향적 연구를 진행하였으며, 모두 만성 omeprazole (≥5개월) 투여 중 abdominal ultrasonography를 시행받았다. 모든 개에서 위 몸통과 fundus 부위 점막 비대가 주된 이상 소견으로 확인되었고, 4마리에서는 점막 내 저에코 및 무에코의 원형 구조물이 관찰되었다. 조직병리학적 검사(4마리 시행)는 PPI 관련 mucous neck cell hyperplasia를 특징으로 하는 hypertrophic mucosal phenotype을 지지하였다.",
+      "key_results": [
+        {
+          "result": "9마리 모두에서 gastric body와 fundus에 주로 mucosal involvement가 있는 gastric wall 변화가 관찰되었다.",
+          "evidence_quote": "All 9 dogs demonstrated gastric wall changes characterized by predominantly mucosal involvement. Abnormalities were localized to the gastric body and fundus in all dogs"
+        },
+        {
+          "result": "7마리는 위벽 변화가 circumferential하게 나타났고, 2마리는 focal하게 나타났다.",
+          "evidence_quote": "were circumferential in 7 and focal in 2"
+        },
+        {
+          "result": "점막이 hyperechoic하며 약간 heterogeneous하고 undulating margins와 두꺼워진 rugal folds를 보였다.",
+          "evidence_quote": "The mucosa was hyperechoic and mildly heterogeneous with undulating margins and thickened rugal folds."
+        },
+        {
+          "result": "4마리에서는 점막 내 작은 hypoechoic to anechoic 원형 구조가 확인되었다.",
+          "evidence_quote": "Small intramucosal hypoechoic to anechoic round structures were identified in 4 dogs."
+        },
+        {
+          "result": "8마리에서는 gastric wall layering이 보존되었고 regional lymphadenopathy나 perigastric abnormalities는 없었다.",
+          "evidence_quote": "Gastric wall layering was preserved in 8 dogs, with no regional lymphadenopathy or perigastric abnormalities."
+        },
+        {
+          "result": "이상 소견의 감별진단에는 중증 gastritis, infiltrative gastric neoplasia, mural hemorrhage, hypertrophic gastropathies가 포함되었다.",
+          "evidence_quote": "Differential diagnoses included severe gastritis, infiltrative gastric neoplasia, mural hemorrhage, and hypertrophic gastropathies."
+        },
+        {
+          "result": "조직병리학 결과 4마리에서 mucous neck cell hyperplasia를 특징으로 하는 PPI 관련 hypertrophic mucosal phenotype이 확인되었다.",
+          "evidence_quote": "Histopathology, available in 4 dogs, supported a PPI-associated hypertrophic mucosal phenotype characterized by mucous neck cell hyperplasia."
+        }
+      ],
+      "authors_conclusion": "만성 omeprazole 투여를 받은 개들에서 위 점막이 우세하게 변화하는 일관된 초음파 패턴이 확인되었다.",
+      "clinical_takeaway": "만성 omeprazole 투여는 개에서 위 점막의 hypertrophic 변화를 초음파로 확인할 수 있는 특징적인 패턴과 연관되어 있습니다. 이러한 초음파 소견을 인지하면 심각한 위염, 위암 또는 출혈과 같은 공격적 질환과 구별하여 임상적 의사결정에 도움을 줄 수 있습니다. 그러나 이 연구는 후향적이고 표본이 적어 모든 품종이나 다른 임상 상황에 일반화하기 어렵습니다. 따라서 omeprazole 장기 투여 시 위벽 변화가 관찰된다면 이 연구의 소견을 참고하되, 조직검사 등 추가 평가가 필요할 수 있습니다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인과관계 확정에 한계가 있음.",
+        "전체 개체수가 9마리로 표본 크기가 작음.",
+        "조직병리 확인은 4마리에 국한되어 일반화에 제약이 있음.",
+        "abstract만 제공되어 상세 연구 절차와 통계 분석 정보 부족."
+      ],
+      "recommended": true,
+      "recommendation_reason": "만성 omeprazole을 투여하는 임상 수의사에게 실제 진료에서 관찰 가능한 구체적인 초음파 소견과 이로 인한 감별진단에 관한 정보 제공을 통해 진단 정확도 향상에 실질적인 도움을 주기 때문입니다.",
+      "id": "doi:10.2460/javma.26.04.0297",
+      "discovered_at": "2026-09-19 23:22:11.399967+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42361369/",
+      "summary_generated_at": "2026-10-29 02:27:47.792010+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Myoclonus as a neurologic manifestation of hypoglycemia in dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -3801,19 +4070,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 509
+        "received": 514
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 566
+        "received": 562
       }
     },
-    "started_at": "2026-10-28T02:13:57.020458+00:00",
-    "since": "2026-09-13",
-    "processed": 0,
+    "started_at": "2026-10-29T02:25:46.943769+00:00",
+    "since": "2026-09-14",
+    "processed": 4,
     "refreshed": 0,
-    "failed": 17,
-    "deferred": 1001,
-    "finished_at": "2026-10-28T02:16:47.450689+00:00"
+    "failed": 10,
+    "deferred": 1009,
+    "finished_at": "2026-10-29T02:28:07.486502+00:00"
   }
 }
