@@ -1,9 +1,70 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T02:37:55.310736+00:00",
-  "last_successful_collection": "2026-10-30T02:35:12.575157Z",
+  "generated_at": "2026-10-31T02:22:30.499236+00:00",
+  "last_successful_collection": "2026-10-31T02:20:11.425161Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Neurokinin-1 receptor antagonist (maropitant) for treatment of chronic idiopathic rhinitis in dogs: a pilot study.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-10-30",
+      "online_publication_date": "2026-10-30",
+      "publication_date_raw": "2026-Oct-30",
+      "doi": "10.1111/jsap.70218",
+      "pmid": "42960540",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70218",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42960540/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 만성 특발성 비염 진단을 받은 반려견 환자 18마리를 대상으로 실시된 무작위 이중맹검, 위약 대조 임상시험으로, 치료 효과를 직접 평가한 결과이며 급성 실험 동물 연구가 아니라 실제 환자에서 maropitant의 치료 효과를 검증했다는 점에서 임상적 관련성이 높다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "chronic idiopathic rhinitis",
+      "study_design": "randomized_controlled_trial",
+      "sample_size": 18,
+      "sample_size_quote": "Eighteen privately owned dogs diagnosed with chronic idiopathic rhinitis",
+      "objective": "만성 특발성 비염 반려견에서 neurokinin-1 receptor antagonist인 maropitant 2 mg/kg의 경구 투여가 위약과 비교하여 임상 증상에 미치는 효과를 평가하고자 함.",
+      "study_methods": "임상 증상, CT, 비내시경 및 조직병리학적 소견을 기준으로 만성 특발성 비염으로 진단된 반려견 18마리를 무작위로 maropitant 2 mg/kg 투여군(n=9)과 위약군(n=9)으로 배정하였다. 두 군 모두 4주 동안 격일로 경구 투여하였으며, 연구자 및 대상자는 이중맹검 상태였다. 비염 및 위장관 임상 증상 평가는 주관적 설문지 점수로 매주 시행되었고, CT 및 조직병리학 점수는 베이스라인에 평가되었다. 각 점수의 군 간 차이와 치료 전후 변화를 통계적으로 비교하였다.",
+      "one_sentence_summary": "만성 특발성 비염으로 진단된 반려견 18마리를 대상으로 maropitant 2 mg/kg을 격일 경구 투여한 군(9마리)과 위약군(9마리)으로 무작위 배정하여 4주간 임상 증상 변화를 평가하였다. 치료 4주 후 nasal score의 군 간 차이(-0.59, 95% CI -2.9 to 1.7)는 통계적으로 유의하지 않았으며, maropitant 투여군의 점수 역시 유의한 호전 없이 5.7(1~11)에서 4.9(0~12)로 약간 감소하는 수준에 그쳤다. 이 결과는 maropitant 2 mg/kg을 격일 투여한 것이 만성 특발성 비염 반려견의 임상 증상을 임상적으로 의미 있게 완화시키지 못함을 보여준다.",
+      "key_results": [
+        {
+          "result": "Baseline에서 maropitant 투여군과 위약군 간에 비염 severity score는 유의하게 차이 없었다.",
+          "evidence_quote": "Severity scores were similar between groups at baseline."
+        },
+        {
+          "result": "치료 4주 후 nasal score는 maropitant 투여군과 위약군 간에 통계적으로 유의한 차이가 없었다 (difference in least square means: -0.59, 95% CI -2.9 to 1.7).",
+          "evidence_quote": "Nasal scores did not differ significantly between treatment and placebo groups at the end of the trial [week 4; difference in least square means: -0.59, 95% CI -2.9 to 1.7]."
+        },
+        {
+          "result": "maropitant 투여군의 nasal score는 치료 전 5.7 (범위 1~11)에서 치료 4주 후 4.9 (범위 0~12)로 감소했으나 통계적으로 유의하지 않았다 (least square means: -0.9, 95% CI -2.6 to 0.74).",
+          "evidence_quote": "The treatment group's mean score was 5.7 (range 1 to 11) at week 0 and 4.9 (range 0 to 12) at week 4, with no statistically significant change (least square means: -0.9, 95% CI -2.6 to 0.74)."
+        }
+      ],
+      "authors_conclusion": "만성 특발성 비염 반려견에서 maropitant 2 mg/kg을 격일 경구 투여해도 임상 증상의 유의한 감소를 보이지 않았다.",
+      "clinical_takeaway": "만성 특발성 비염으로 진단된 반려견에게 neurokinin-1 receptor antagonist인 maropitant 2 mg/kg을 격일 경구 투여한 결과 4주간 임상 증상에 큰 호전을 기대하기 어렵다는 근거를 제공한다. 이는 이 약물이 비염 환자에서 임상적으로 의미 있는 효과를 나타내지 못함을 시사하며, 반려견 만성 특발성 비염 치료에 maropitant 단독 요법의 유용성은 제한적임을 알 수 있다. 다만 소규모 파일럿 연구이며, 평가 기간과 용량, 다른 병용요법 가능성 등 임상 적용을 위한 추가 연구가 요구된다.",
+      "limitations": [
+        "소규모 파일럿 연구로 대상견 수가 적어 통계적 검출력이 제한적임",
+        "치료 기간이 4주로 짧아 장기 효과 평가에 한계가 있음",
+        "임상 증상 평가가 설문 기반으로 주관적인 요소가 포함될 수 있음",
+        "파일럿 연구로 다른 용량, 투여 간격, 병용치료 비교 등 추가 연구 필요함",
+        "초록만 제공되어 상세한 자료와 통계 분석 정보 부족에 따른 해석 제한"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/jsap.70218",
+      "discovered_at": "2026-10-31 02:20:12.917802+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42960540/",
+      "summary_generated_at": "2026-10-31 02:21:04.512835+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Extreme morphologies compromise canine health and welfare and require evidence-based breeding reform.",
       "journal": "Journal of the American Veterinary Medical Association",
@@ -1216,6 +1277,88 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Retrospective evaluation of outcomes in dogs with non-associative immune-mediated haemolytic anaemia treated with rivaroxaban as a sole or adjunctive thromboprophylaxis agent: 34 cases (2018-2024).",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-09-16",
+      "online_publication_date": "2026-09-16",
+      "publication_date_raw": "2026-Sep-16",
+      "doi": "10.1111/jsap.70202",
+      "pmid": "42750239",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70202",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42750239/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 비연관성 immune-mediated haemolytic anaemia로 진단받은 개들에게 rivaroxaban을 단독 또는 보조 혈전예방제로 사용한 임상 결과를 후향적으로 평가하여, 실제 임상에서의 치료 효과와 부작용에 대한 직접적인 근거를 제공하였습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "non-associative immune-mediated haemolytic anaemia",
+      "study_design": "retrospective",
+      "sample_size": 34,
+      "sample_size_quote": "Thirty-four dogs met inclusion criteria.",
+      "objective": "비연관성 immune-mediated haemolytic anaemia를 가진 개에서 rivaroxaban 단독 또는 보조 혈전예방제로서 사용 시 임상 결과, 혈전색전증 및 출혈 합병증을 평가하고 치료 특성을 기술하는 것.",
+      "study_methods": "2018년 1월부터 2024년 7월까지 UK 의뢰 병원에서 비연관성 immune-mediated haemolytic anaemia 진단을 받고 rivaroxaban을 치료 프로토콜에 포함시킨 개들을 후향적으로 기술하였습니다. 기본 치료는 corticosteroids였으며, 일부는 mycophenolate mofetil, azathioprine, 또는 leflunomide를 병용하였습니다. rivaroxaban은 1.03~1.97 mg/kg/일 용량으로 처방되었고, 85.3%는 clopidogrel과 병용 투여하였습니다. 임상 경과에서 생존, 혈전색전증 발생, 출혈 사건 및 관해율을 평가하였습니다.",
+      "one_sentence_summary": "UK referral 병원에서 비연관성 immune-mediated haemolytic anaemia로 진단된 34마리 개에서 rivaroxaban을 단독 또는 다른 면역억제제와 병용 혈전예방제로 사용한 후향적 연구입니다. 이들 개 중 모두 corticosteroids를 사용했으며 rivaroxaban은 보통 1.2 mg/kg/일 용량으로 투여되었습니다. 혈전색전증은 7마리(20.6%)에서 발생했고, 위장관 출혈은 5마리(14.7%)에서 나타났으며 2건은 중대한 부작용, 1건은 사망에 이르렀습니다. 총 26마리(76.5%)가 퇴원했으며, 19마리(73.1%)에서 중간 33일 후 관해가 확인되었고 재발은 2마리(10.5%)에서 발생했습니다. 추후 추적 가능한 21마리 중 20마리가 생존했습니다.",
+      "key_results": [
+        {
+          "result": "34마리 개가 포함되었고, 모든 개는 corticosteroids를 기본 치료로 사용했다.",
+          "evidence_quote": "Primary management of immune-mediated haemolytic anaemia was with corticosteroids (34/34; 100%)"
+        },
+        {
+          "result": "rivaroxaban은 1.2 mg/kg/일 (범위 1.03~1.97) 용량으로 투여되었으며, 85.3%는 clopidogrel과 병용했다.",
+          "evidence_quote": "Rivaroxaban was administered at a median total daily dose of 1.2 mg/kg/day (range 1.03 to 1.97 mg/kg/day); 29/34 dogs (85.3%) received concurrent clopidogrel."
+        },
+        {
+          "result": "혈전색전증은 7/34마리(20.6%)에서 발생했고 모두 입원 초기 기간에 나타났다.",
+          "evidence_quote": "Confirmed or suspected thromboembolic events occurred in 7/34 dogs (20.6%), all during initial hospitalisation."
+        },
+        {
+          "result": "위장관 출혈은 5/34마리(14.7%)에서 발생했고 모두 corticosteroids, mycophenolate mofetil, rivaroxaban 병용 투여 중이었다.",
+          "evidence_quote": "Gastrointestinal bleeding occurred in 5/34 dogs (14.7%); all five were receiving concurrent corticosteroids, mycophenolate mofetil and rivaroxaban."
+        },
+        {
+          "result": "출혈 사건 중 2건은 중대한 부작용으로 분류되었고 1건은 사망에 이르렀다.",
+          "evidence_quote": "Two bleeding events were classified as major adverse events, including one fatal case."
+        },
+        {
+          "result": "26마리(76.5%)가 퇴원에 성공했고, 19마리(73.1%)에서 중간 33일 후에 관해가 확인되었다.",
+          "evidence_quote": "Overall, 26 dogs (76.5%) survived to discharge. Remission was confirmed in 19/26 discharged dogs (73.1%) at a median of 33 days (range 15 to 156)."
+        },
+        {
+          "result": "관해 후 재발은 2/19마리(10.5%)에서 발생했다.",
+          "evidence_quote": "Relapse occurred in 2/19 dogs (10.5%) post-remission."
+        },
+        {
+          "result": "21마리의 추적 관찰에서 20마리(95.2%)가 마지막 확인 시점에 생존했다.",
+          "evidence_quote": "Of 21 dogs with follow-up available, 20 (95.2%) were alive at last known contact."
+        }
+      ],
+      "authors_conclusion": "UK 기반 비연관성 immune-mediated haemolytic anaemia 개에서 rivaroxaban을 포함한 혈전예방 프로토콜은 받아들일 수 있는 생존율과 관해율을 보였다. 위장관 출혈은 corticosteroids, mycophenolate mofetil 및 rivaroxaban 병용 투여 시에만 나타나 중요한 안전성 신호로 추가 연구가 필요하다.",
+      "clinical_takeaway": "비연관성 immune-mediated haemolytic anaemia 환자에서 rivaroxaban을 포함한 혈전예방 치료는 적절한 생존 및 관해율을 기대할 수 있으나, corticosteroids와 mycophenolate mofetil과 병용 시 위장관 출혈 위험이 증가함을 의미합니다. 따라서 이러한 병용 치료를 받는 환자에서는 출혈 징후를 면밀히 모니터링 해야 하며, 출혈 위험과 혈전예방 효과 사이에서 균형 잡힌 임상 결정을 내려야 합니다. 본 연구는 후향적이므로, 더 많은 전향적 연구가 병용 요법의 안전성과 유효성을 확인하는 데 필요합니다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인한 인과관계 한계",
+        "표본 크기가 34마리로 제한적임",
+        "연구가 단일 UK referral 병원에서 진행되어 일반화에 제한이 있을 수 있음",
+        "임상 및 추적 관찰 기간의 다양성으로 일부 장기 결과 평가의 한계 존재",
+        "구체적인 혈전예방 효과 비교군이 없어 rivaroxaban 단독 효과 평가가 제한적임"
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상적으로 비연관성 immune-mediated haemolytic anaemia 개에 rivaroxaban을 포함한 혈전예방 치료를 고려할 때 본 연구 결과는 실제 임상 적용 및 부작용 경고에 중요한 근거를 제공하므로 추천한다.",
+      "id": "doi:10.1111/jsap.70202",
+      "discovered_at": "2026-09-17 23:21:12.719211+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42750239/",
+      "summary_generated_at": "2026-10-31 02:22:21.722487+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical evaluation of a luteolin-based dental gel on dental plaque accumulation and gingival inflammation in dogs.",
       "journal": "Journal of Small Animal Practice",
       "journal_id": "jsap",
@@ -1947,156 +2090,60 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
-      "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
+      "title": "Novel liquid biopsy based on comprehensive small RNA profiling for screening of cancer in dogs utilizing machine learning.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
       "publication_date": "2026-09-01",
       "online_publication_date": null,
       "publication_date_raw": "2026-Sep-01",
-      "doi": "10.1093/jvimsj/aalag278",
-      "pmid": "42955824",
+      "doi": "10.1093/jvimsj/aalag270",
+      "pmid": "42960979",
       "pmcid": null,
-      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag278",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955824/",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag270",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42960979/",
       "source": "pubmed",
-      "clinical_relevance": "direct",
-      "relevance_reason": "coccidioidomycosis가 새로 진단된 개 환자에서 disseminated 형태와 pulmonary 형태를 임상 및 혈청학적 지표를 사용해 구분하는 연구이며, 실제 임상에서 진단적 보조 역할을 할 수 있어 임상적 관련성이 직접적이다.",
-      "primary_category": "internal_medicine",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 dog의 혈액 내 small RNA 프로파일링을 통한 암 선별 성능 향상을 목적으로 하며, 개별 환자의 진단 또는 치료 지침 제시보다는 머신러닝 모델의 성능 평가에 중점을 두어 직접적인 임상 적용 가능성은 제한적입니다.",
+      "primary_category": "oncology",
       "tags": [
         "internal_medicine",
-        "infectious_disease"
+        "oncology"
       ],
       "species": [
         "dog"
       ],
-      "disease_or_topic": "coccidioidomycosis",
+      "disease_or_topic": "cancer screening in dogs using small RNA profiling",
       "study_design": "retrospective",
-      "sample_size": 214,
-      "sample_size_quote": "Two hundred fourteen client-owned dogs with newly diagnosed coccidioidomycosis.",
-      "objective": "Disseminated coccidioidomycosis와 pulmonary disease 구분을 위해 임상 및 혈청학적 변수와 antibody 크기 차이 평가.",
-      "study_methods": "214마리의 임상에서 새로 진단된 coccidioidomycosis를 가진 개를 대상으로 후향적 연구로, Anti-Coccidioides spp. immunoglobulin (Ig)G를 enzyme immunoassay (EIA)와 agar gel immunodiffusion (AGID)로 측정하였다. 질병은 pulmonary (148마리, 69%)와 disseminated (66마리, 31%)로 분류되었으며 혈청 IgG 수치와 질병 확산 여부 간 연관성을 조사하였다.",
-      "one_sentence_summary": "214마리 client-owned 개에서 새로 진단된 coccidioidomycosis를 후향적으로 분석하였다. 148마리는 pulmonary 형태, 66마리는 disseminated 형태로 분류되었고, EIA와 AGID를 이용한 IgG 혈청농도와 혈청역가가 disseminated 질환과 유의한 연관성을 보였다. EIA IgG는 질환 확산 구별에 AUC 0.81을 보여 비교적 우수하였으며, AGID는 AUC 0.74로 통계적 차이는 없었다. Pulmonary 감염은 봄에 가장 낮고 가을과 겨울에 증가하는 계절적 경향도 관찰되었다.",
+      "sample_size": 389,
+      "sample_size_quote": "A total of 389 dogs were enrolled: 85 with cancer, 77 with nonmalignant diseases, and 227 healthy controls.",
+      "objective": "개에서 miRNAs와 기타 small RNA들을 통합한 머신러닝 모델 구축을 통해 암 선별 정확도를 향상시키는지 평가하였다.",
+      "study_methods": "389마리의 개를 대상으로 암 환자 85마리, 비악성 질환 환자 77마리, 건강한 대조군 227마리의 혈액 샘플에서 small RNA를 시퀀싱하였다. miRNAs는 miRBase를 이용해 프로파일링하였고, 기타 small RNAs는 사용자 정의 데이터베이스를 통해 분류하였다. 이 데이터를 기반으로 miRNA만 포함된 집합과 miRNA 및 기타 small RNA가 결합된 집합 2개를 구성하였다. 각 집합에 대해 12개의 분류 모델을 동일한 방법으로 구축하고 5겹 교차검증과 ROC 곡선 아래 영역(AUC)을 주요 성능 지표로 사용하여 모델 성능을 비교하였다.",
+      "one_sentence_summary": "암, 비악성 질환 및 건강한 개 389마리를 대상으로 혈중 small RNA 시퀀싱 후 miRNA만 사용한 모델과 miRNA를 포함한 다양한 small RNA를 통합한 머신러닝 분류 모델 12개씩을 비교하였다. 5겹 교차검증을 통해 miRNA 및 기타 small RNAs를 통합한 모델이 미만 모델보다 유의하게 높은 AUC(0.926 vs 0.881)를 나타내 암 선별 성능 향상을 확인하였다. 본 연구는 아직 독립 코호트에 대한 전향적 검증은 필요하지만 다양한 small RNA 종 통합이 개에서 머신러닝 기반 암 분류 모델의 성능을 향상시킴을 시사한다.",
       "key_results": [
         {
-          "result": "질병은 pulmonary 148/214 (69%), disseminated 66/214 (31%)로 분류되었다.",
-          "evidence_quote": "Disease was classified as pulmonary in 148/214 (69%) and disseminated in 66/214 (31%)."
+          "result": "miRNAs와 기타 small RNAs를 통합한 모델의 median AUC는 0.926으로 miRNA만 사용한 모델의 0.881보다 유의하게 높았다.",
+          "evidence_quote": "The model that integrated both miRNAs and other small RNAs yielded a significantly higher AUC compared with the miRNA-only model (median AUC: 0.926 [95% CI, 0.911-0.944] vs 0.881 [0.860-0.897]; Wilcoxon signed-rank test, P < .001)"
         },
         {
-          "result": "Higher EIA IgG concentration과 AGID IgG titer가 독립적으로 dissemination과 연관이 있었다.",
-          "evidence_quote": "Higher EIA IgG concentration and AGID IgG titer were independently associated with dissemination."
-        },
-        {
-          "result": "EIA IgG는 disseminated와 pulmonary 구분에서 AUC 0.81 (95% CI, 0.74-0.87)의 진단 성능을 보였다.",
-          "evidence_quote": "Enzyme immunoassay discriminated disseminated from pulmonary disease well (area under the curve [AUC]: 0.81; 95% confidence interval [CI], 0.74-0.87)"
-        },
-        {
-          "result": "AGID의 AUC는 0.74 (95% CI, 0.67-0.82)로 EIA와 유의한 차이가 없었다.",
-          "evidence_quote": "Agar gel immunodiffusion performance was not statistically distinguishable (AUC: 0.74; 95% CI, 0.67-0.82; P = .65)."
-        },
-        {
-          "result": "EIA IgG 37 units 이상에서 sensitivity 86%, specificity 63%였고, AGID IgG 1:32 이상에서 sensitivity 48%, specificity 86%였다.",
-          "evidence_quote": "Exploratory cutpoints included an EIA IgG threshold of 37 enzyme immunoassay units (sensitivity 86%, specificity 63%) and an AGID IgG threshold of ≥1:32 (sensitivity 48%, specificity 86%)."
-        },
-        {
-          "result": "Pulmonary 질환 진단은 봄에 가장 적고 가을과 겨울에 최고조에 달했다.",
-          "evidence_quote": "Pulmonary diagnoses were least common in spring and peaked in late fall and winter."
+          "result": "전체 연구 대상 개는 389마리로 암 환자 85마리, 비악성 질환 환자 77마리, 건강한 대조군 227마리로 구성되었다.",
+          "evidence_quote": "A total of 389 dogs were enrolled: 85 with cancer, 77 with nonmalignant diseases, and 227 healthy controls."
         }
       ],
-      "authors_conclusion": "Coccidioidal IgG serology는 개에서 disseminated coccidioidomycosis를 평가할 때 임상적 보조 정보로 유용할 수 있으나, 혈청학 결과가 pulmonary 및 disseminated 형태 사이에 중첩되므로 혈청학 단독으로 병변 범위를 결정하는 데는 한계가 있다고 결론내렸다. 따라서 임상 소견 및 적절한 진단 평가와 함께 해석해야 한다.",
-      "clinical_takeaway": "coccidioidomycosis가 새로 진단된 개에서 disseminated 형태와 pulmonary 형태를 구분하는 것은 임상적으로 중요하지만 쉽지 않다. 이 연구는 EIA 및 AGID IgG 혈청학적 검사가 각각 특정 민감도와 특이도를 가지면서 두 형태 구별에 보조적인 역할을 할 수 있음을 보여준다. 예를 들어 EIA IgG 37 units 이상의 경우 높은 민감도(86%)와 중간 특이도(63%)를 보여 환자에서 disseminated 가능성을 시사한다. 그러나 두 질환 형태 간 혈청 결과가 겹칠 수 있어 이 검사만으로 병변 범위를 확정하기는 어렵고, 임상 및 추가 진단검사와 함께 종합적으로 평가하는 것이 필요하다. 이는 계절별 발병 양상 차이도 고려할 때 환자 모니터링 및 진단 타이밍 설정에 참고가 될 수 있다. 결과 해석 시 후향적 연구 한계와 혈청 검사 일부가 사례 분류에 기여한 점을 함께 감안해야 한다.",
+      "authors_conclusion": "우리는 miRNAs를 넘어 다양한 small RNA 종을 통합하는 머신러닝 기반 방법을 통해 개의 암 스크리닝 모델 성능을 개선할 수 있음을 확인하였다. 다만 독립 코호트를 통한 전향적 검증 연구가 추가로 필요하다.",
+      "clinical_takeaway": "본 연구는 개의 혈액에서 miRNAs뿐만 아니라 다양한 small RNA를 포함한 프로파일링을 이용해 머신러닝 기반 암 선별 모델을 개발한 결과, 단일 miRNA 기반 모델보다 우수한 성능을 보임을 확인하였다. 이는 개의 암 조기 진단을 위한 새로운 바이오마커 발굴과 진단법 개발에 유용한 정보가 될 수 있으나, 아직 임상 적용을 위한 독립적이고 전향적 검증 연구가 필요하다. 따라서 이 결과는 연구 단계에서의 가능성을 제시할 뿐이며, 실제 임상 진단에 적용하기 전에는 추가적인 검증이 필수적임을 인지해야 한다.",
       "limitations": [
-        "후향적 연구 설계로 인과관계 확립에 제한이 있다.",
-        "혈청 검사 결과가 사례 분류에 사용되어 진단 성능이 일부 과대 추정되었을 수 있다.",
-        "단일 참조 실험실에서 검사 시행, 일반화에 제한 가능성 존재",
-        "추가 임상 및 영상 진단과 연계한 비교가 부족하다.",
-        "전체 환자 집단 외 다른 지역이나 환경에서의 적용 가능성은 불명이다."
+        "후향적 연구 디자인으로 인과관계를 명확히 하기 어렵다.",
+        "추가적인 전향적 및 독립 코호트 검증이 이루어지지 않았다.",
+        "혈액 내 small RNA 프로파일링의 임상 적용 가능성 및 비용 효율성에 대한 평가는 포함되지 않았다.",
+        "암 종류별 성능 평가 세부 결과가 Abstract에 명시되지 않아 특정 암에 대한 성능 적용 범위가 불명확하다."
       ],
-      "recommended": true,
-      "recommendation_reason": "실제 client-owned 개 214마리를 포함한 직접 임상 연구로, disseminated와 pulmonary coccidioidomycosis 구분에 유용한 혈청학적 보조 도구의 성능을 구체적 수치와 함께 제시하여 일상 임상 의사 결정에 실질적 도움을 줄 수 있기 때문이다.",
-      "id": "doi:10.1093/jvimsj/aalag278",
-      "discovered_at": "2026-10-30 02:35:14.472840+00:00",
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1093/jvimsj/aalag270",
+      "discovered_at": "2026-10-31 02:20:12.909394+00:00",
       "evidence_source": "abstract",
-      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42955824/",
-      "summary_generated_at": "2026-10-30 02:37:43.209726+00:00",
-      "analysis_model": "gpt-4.1-mini"
-    },
-    {
-      "title": "Multimodal imaging characteristics and case management of intraspinal Spirocerca lupi infection in a dog.",
-      "journal": "Journal of Veterinary Internal Medicine",
-      "journal_id": "jvim",
-      "publication_date": "2026-09-01",
-      "online_publication_date": null,
-      "publication_date_raw": "2026-Sep-01",
-      "doi": "10.1093/jvimsj/aalag286",
-      "pmid": "42955826",
-      "pmcid": null,
-      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag286",
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955826/",
-      "source": "pubmed",
-      "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 Spirocerca lupi 감염이 의심되는 1년령 혼합견에서의 임상 증상과 다중영상기법(multi-modal imaging)을 통한 진단, 수술적 치료 및 약물치료 경과를 상세히 다루어, 같은 질환을 가진 강아지 임상에서 직접적인 참고가 됩니다.",
-      "primary_category": "internal_medicine",
-      "tags": [
-        "internal_medicine",
-        "neurology",
-        "surgery",
-        "infectious_disease"
-      ],
-      "species": [
-        "dog"
-      ],
-      "disease_or_topic": "intraspinal Spirocerca lupi infection",
-      "study_design": "case_report",
-      "sample_size": 1,
-      "sample_size_quote": "A 1-year-old female spayed mixed breed dog",
-      "objective": "강아지에서 intraspinal Spirocerca lupi 감염의 임상증상과 다중영상기법을 이용한 영상 특징을 분석하고, 수술과 약물 치료를 포함한 사례 관리 결과를 보고하는 것.",
-      "study_methods": "1년령 혼합견 한 마리가 T3-L3 신경병리학적 국소화를 가진 paraparesis 및 proprioceptive ataxia와 척추 통증으로 내원하였다. 흉부 방사선검사, MRI, 초음파 등 다중영상기법을 시행해 흉부 후중격 종괴, pneumothorax, pleural effusion, 척추관 압박 및 척수내 병변, 식도 확장 및 압박, 대동맥류 등을 관찰하였다. T5-T8 부위 hemilaminectomy를 실시하고 기생충학적 검사를 통해 Spirocerca lupi 감염을 확인하였다. 치료로 ivermectin, prednisone, clindamycin을 처방하였고 임상 경과를 추적하였다.",
-      "one_sentence_summary": "1년령 혼합견에서 paraparesis 및 proprioceptive ataxia로 내원한 환자에서 다중영상기법(흉부 방사선, MRI, 초음파)을 통해 척추 내 스피로세르카 루피 감염으로 인한 병변을 진단하고, T5-T8 hemilaminectomy와 ivermectin, prednisone, clindamycin 치료를 시행하였다. 치료 후 2개월 만에 독립적 보행이 회복되었으며, CT에서는 흉부 및 식도 결절이 소실되었으나 대동맥류는 진행되는 양상을 보였다. 본 증례는 척추 스피로세르카증 관리에 다중영상기법의 중요성을 시사한다.",
-      "key_results": [
-        {
-          "result": "환자는 paraparesis, proprioceptive ataxia, 후지의 의식성 고유감각 소실, T3-L3 국소화된 척추 통증을 보였다.",
-          "evidence_quote": "A 1-year-old female spayed mixed breed dog was ambulatory with paraparesis and proprioceptive ataxia, absent conscious proprioception in pelvic limbs, and spinal pain with a T3-L3 neurolocalization on presentation."
-        },
-        {
-          "result": "흉부 방사선에서 caudal mediastinal mass, pneumothorax, pleural effusion이 확인되었다.",
-          "evidence_quote": "Thoracic radiographs revealed caudal mediastinal mass, pneumothorax, and pleural effusion."
-        },
-        {
-          "result": "MRI에서는 다수의 흉부 중격 종괴, T5-T6 부위 척추관 외압박, T5와 T9 부위의 척수내 T2 고신호, 식도 압박 및 확장, 대동맥류 확장이 관찰되었다.",
-          "evidence_quote": "Magnetic resonance imaging revealed multiple mediastinal masses with vertebral canal extension, extradural compression at T5-T6, intramedullary T2 hyperintensities at T5 and T9, esophageal compression and dilation, and aortic aneurysmal dilation."
-        },
-        {
-          "result": "초음파에서 기생충 감염 소견을 시사하는 소견이 관찰되었다.",
-          "evidence_quote": "Transdiaphragmatic ultrasonography was suggestive of parasitic involvement."
-        },
-        {
-          "result": "수술로 T5-T8 hemilaminectomy를 시행하고 기생충학 검사로 Spirocerca lupi 감염을 확진하였다.",
-          "evidence_quote": "A right T5-T8 hemilaminectomy and parasitology confirmed Spirocerca lupi."
-        },
-        {
-          "result": "치료 2개월 후에는 독립적 보행이 회복되었다.",
-          "evidence_quote": "Recovery of independent ambulation occurred 2 months after treatment."
-        },
-        {
-          "result": "CT에서 흉부 중격 및 식도 결절 소실과 대동맥류 진행 소견을 확인하였다.",
-          "evidence_quote": "Computed tomography revealed resolution of mediastinal and esophageal nodules with progressive aortic aneurysmal dilation."
-        }
-      ],
-      "authors_conclusion": "본 사례에서 척추 내 Spirocerca lupi 감염은 다중영상기법을 이용한 정밀 진단과 외과적 및 약물치료를 통한 치료가 이루어졌으며, 이는 임상 경과 및 영상학적 변화를 평가하는 데 필수적이었다고 저자들은 결론지었다.",
-      "clinical_takeaway": "이 증례는 척추 부위에 Spirocerca lupi 감염이 있을 때, 다중영상기법이 진단 및 치료 계획 수립에서 매우 중요함을 보여준다. 특히 MRI와 CT를 통해 병변의 범위와 진행 상황을 구체적으로 확인할 수 있어 수술 영역 결정과 치료 반응 판단에 도움이 된다. 또한 적절한 약물 치료와 수술의 조합이 2개월 내에 기능적 보행 회복을 가능하게 할 수 있음을 시사한다. 다만 대동맥류가 지속해서 진행하는 점은 장기 추적과 추가 치료 연구가 필요함을 뜻한다. 이 증례 결과는 다른 Spirocerca lupi 감염 강아지 치료에 참고 가능하나 단일 증례라는 점에서 일반화에는 주의가 요구된다.",
-      "limitations": [
-        "본 연구는 단일 증례 보고로 일반화에 한계가 있다.",
-        "무작위 대조군이 없어 치료 효과 판단에 제한이 있다.",
-        "장기 추적 관찰 데이터가 부족하다.",
-        "단편적 자료(Abstract)로 상세한 임상 및 영상 데이터가 제한적이다."
-      ],
-      "recommended": true,
-      "recommendation_reason": "척추 내 Spirocerca lupi 감염 환자에서 다중영상기법을 통한 정밀 진단과 병합 치료의 실제 임상 적용 예를 구체적으로 제시하여, 유사 임상 상황에서 유용한 참고 자료가 되기 때문에 추천한다.",
-      "id": "doi:10.1093/jvimsj/aalag286",
-      "discovered_at": "2026-10-30 02:35:14.444825+00:00",
-      "evidence_source": "abstract",
-      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42955826/",
-      "summary_generated_at": "2026-10-30 02:37:22.357538+00:00",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42960979/",
+      "summary_generated_at": "2026-10-31 02:21:19.885114+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -3070,6 +3117,75 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42604724/",
       "summary_generated_at": "2026-10-19 01:17:00.309150+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Long-term outcome after resection and reconstruction using vaginourethroplasty for distal urethral leiomyosarcoma in a female dog.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-08-15",
+      "online_publication_date": "2026-08-15",
+      "publication_date_raw": "2026-Aug-15",
+      "doi": "10.1111/vsu.70149",
+      "pmid": "42603142",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70149",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42603142/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 증례 연구는 female dog에서 발생한 distal urethral leiomyosarcoma의 수술적 절제 후 재건을 다뤘으며, 구체적 수술법(vaginourethroplasty 기반 절제 및 재건)과 장기간 임상 경과를 평가하여 수의 임상에 직접적인 근거를 제공합니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "distal urethral leiomyosarcoma",
+      "study_design": "case_report",
+      "sample_size": 1,
+      "sample_size_quote": "One 10-year-old spayed female mixed-breed dog",
+      "objective": "distal urethral leiomyosarcoma가 진단된 female dog에서 vaginourethroplasty 기반 절제 및 재건술의 장기 결과를 보고하기 위함이다.",
+      "study_methods": "10살 중성화 암컷 믹스견 1마리가 대상이며, retrograde urethrovaginography와 contrast-enhanced CT로 17 × 17 × 24 mm 크기의 distal urethral mass가 확인되었다. 전신 마취 하에 blind biopsy를 시도했으나 진단적 의미 없었고, stranguria 진행으로 인해 도착 20일 후 단일 전신마취 내에서 ventral approach로 proximal urethra를 vaginal stump에 end-to-end anastomosis하고 bladder neck cystopexy를 동시 시행하였다. 이어 perineal approach로 distal urethra, 종양, 인접 vaginal mucosa를 en bloc 제거 후 vaginal reconstruction 및 vulvoplasty를 진행하였다. 수술 후 종양은 초기 undifferentiated sarcoma로 진단되었으나 면역조직화학 재평가로 leiomyosarcoma로 분류되었으며, 재발 여부와 기타 전이 관찰을 위해 장기간 추적 관찰하였다.",
+      "one_sentence_summary": "한 10살 중성화 암컷 믹스견에서 distal urethral leiomyosarcoma가 확진되어, vaginourethroplasty 기반 절제 및 재건술을 1회의 전신 마취 하에 ventral과 perineal 접근법으로 시행하였다. 수술 후 13개월째 우측 서혜부 림프절 전이 병변을 절제하였고, 49개월간 국소 재발이나 새로운 원격 전이는 관찰되지 않았다. 수술 후 자발적 요 저장 및 배뇨 기능은 유지되었고, 경미한 요실금은 의학적 관리로 조절되었다.",
+      "key_results": [
+        {
+          "result": "수술 후 종양은 초기 undifferentiated sarcoma로 진단되었으나 면역조직화학 재평가를 통해 leiomyosarcoma로 확정되었다.",
+          "evidence_quote": "The mass was initially diagnosed as undifferentiated sarcoma and later classified as leiomyosarcoma after immunohistochemical reevaluation."
+        },
+        {
+          "result": "종양의 mitotic count는 10 high-power fields 당 12였고, distal margin은 minimal이었다.",
+          "evidence_quote": "The mitotic count was 12 per 10 high-power fields, and the distal margin was minimal."
+        },
+        {
+          "result": "자발적 요 저장과 배뇨는 유지되었으며, 경미한 요실금은 의학적으로 관리되었다.",
+          "evidence_quote": "Voluntary urine storage and voiding were maintained; mild urinary incontinence was managed medically."
+        },
+        {
+          "result": "수술 13개월경 우측 서혜부 림프절에 종전에 발생한 urethral mesenchymal malignancy와 형태학적으로 일치하는 전이 병변이 절제되었다.",
+          "evidence_quote": "Approximately 13 months after surgery, a right inguinal lymph node lesion morphologically compatible with metastasis from the prior urethral mesenchymal malignancy was excised."
+        },
+        {
+          "result": "발표 시점으로부터 49개월 동안 국소 재발이나 새로운 원격 전이가 관찰되지 않았다.",
+          "evidence_quote": "At 49 months after presentation, no local recurrence or new distant metastasis attributable to the urethral lesion had been detected."
+        }
+      ],
+      "authors_conclusion": "distal urethral leiomyosarcoma를 가진 female dog에서 ventral과 perineal를 병합한 수술 접근법이 요 기능 보존에 유리하였으며, 49개월간 국소 재발이 관찰되지 않았다.",
+      "clinical_takeaway": "이 연구는 distal urethral leiomyosarcoma로 진단된 한 female dog에서 ventral과 perineal 접근을 통한 vaginourethroplasty 기반 절제 및 재건술이 장기간 요 기능을 보존하며 국소 재발 없이 수행될 수 있음을 보여준다. 수술 후 경미한 요실금이 있었으나 의학적 관리로 조절 가능했고, 49개월 간 새로운 국소적 재발이나 원격 전이 없이 안정적인 상태를 유지하였다. 다만 단례 보고로 임상 적용 시 증례 수가 적고, 전향적 비교 연구의 부재로 일반화에는 한계가 있으므로, 유사 증례에서 신중한 계획과 활발한 장기 추적 관찰이 필요하다.",
+      "limitations": [
+        "단일 증례 보고로 일반화에 제한이 있다.",
+        "blind biopsy가 진단적 유용성이 제한적이었다.",
+        "전향적 대조군이 없는 사례 연구라는 점.",
+        "abstract만으로 전체 임상 세부사항 확인이 불가하다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vsu.70149",
+      "discovered_at": "2026-09-17 05:57:05.955738+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42603142/",
+      "summary_generated_at": "2026-10-31 02:21:29.416056+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -4270,6 +4386,304 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Clinical outcomes of lateral ear canal resection performed in routine clinical practice for chronic otitis externa in dogs: a retrospective descriptive study of 58 ears (2016-2025).",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": null,
+      "online_publication_date": "2026-06-25",
+      "publication_date_raw": "2026-Oct",
+      "doi": "10.1111/jsap.70156",
+      "pmid": "42348344",
+      "pmcid": "PMC13634691",
+      "publisher_url": "https://doi.org/10.1111/jsap.70156",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42348344/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 40마리 개, 58개의 귀를 대상으로 만성 otitis externa 환자에서 lateral ear canal resection(LECR)의 장기 임상 결과를 후향적으로 평가하였으며, 실제 임상 상황에서 LECR의 치료적 유용성을 길게 관찰한 직접적인 수의 임상 연구이다.",
+      "primary_category": "surgery",
+      "tags": [
+        "internal_medicine",
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "chronic otitis externa",
+      "study_design": "retrospective",
+      "sample_size": 40,
+      "sample_size_quote": "A retrospective descriptive study was conducted involving 40 dogs (58 ears) that underwent lateral ear canal resection",
+      "objective": "만성 otitis externa 환자에서, 의료적 치료만으로 관리가 어렵다고 판단된 경우에 시행된 lateral ear canal resection의 장기 임상 결과 및 현재 치료 목표에 부합하는 LECR의 실제 임상적 유용성을 재평가하는 것이다.",
+      "study_methods": "2016년 5월부터 2025년 3월까지, 단일 1차 의료기관에서 수술 전문의 자격이 없는 단일 수의사가 수행한 lateral ear canal resection을 받은 40마리 개(58개 귀)를 대상으로 후향적 서술적 연구를 수행하였다. 최소 12개월 이상의 수술 후 추적관찰이 이루어졌고, 수술 전후 연간 귀 세척 빈도 변화 및 수술 후 최소 12개월 시점에서 소유자 평가를 실시하였다. 수술은 만성 otitis externa가 의료적 치료만으로 관리가 어렵다고 판단될 때 시행하였으며, 명확한 병기 기준 없이 진행되었다. 주요 자료로는 연간 귀 세척 빈도, 수술 전후 소양증 변화, 심각한 수술 합병증 발생률, 추가 마취나 재수술 필요성, 소유자 만족도 설문 결과 등이 포함되었다.",
+      "one_sentence_summary": "만성 otitis externa를 앓는 40마리 개(58개의 귀)를 대상으로 2016년부터 2025년까지 단일 의료기관에서 단일 비전문의 수의사가 수행한 lateral ear canal resection의 장기 임상 결과를 후향적으로 조사하였다. 중앙값 952일의 추적관찰 동안 0%가 말기 귀관 질환으로 진행하거나 total ear canal ablation with lateral bulla osteotomy(TECA/LBO)로 전환되었으며, 진지한 수술 합병증은 없었다. 수술 전 연간 귀 세척 횟수 중앙값은 6.74회에서 수술 후 1.58회로 크게 감소했고, 소양증 점수는 100%에서 20%로 현저히 개선되었다. 소유자 만족도는 전 항목에서 평균 3.89 이상을 기록하며 전반적으로 높았다.",
+      "key_results": [
+        {
+          "result": "중앙값 952일(중간범위 589.5~1617일)의 추적관찰 동안 말기 귀관 질환으로 진행되거나 TECA/LBO로 전환된 사례는 없었다.",
+          "evidence_quote": "Over a median follow-up period of 952 days (interquartile range 589.5 to 1617), no case progressed to end-stage ear canal disease or required conversion to total ear canal ablation with lateral bulla osteotomy."
+        },
+        {
+          "result": "수술 전 연간 귀 세척 빈도 중앙값은 6.74회(중간범위 2.06~14.30)에서 수술 후 1.58회(중간범위 0.42~3.77)로 크게 감소하였다.",
+          "evidence_quote": "The median annual ear-cleaning frequency decreased markedly from 6.74 (interquartile range 2.06 to 14.30) before surgery to 1.58 (interquartile range 0.42 to 3.77) after surgery."
+        },
+        {
+          "result": "수술 후 소양증 점수 중앙값은 수술 전 100%에서 20%(중간범위 10~35)로 크게 개선되었다.",
+          "evidence_quote": "The median postoperative pruritus score improved from 100% preoperatively to 20% (interquartile range 10 to 35)."
+        },
+        {
+          "result": "수술 결과는 Excellent 28귀(48.3%), Good 12귀(20.7%), Fair 18귀(31.0%), Poor 0%로 Acceptable 비율은 69.0%였다.",
+          "evidence_quote": "Postoperative outcomes were classified as Excellent in 28 ears (48.3%), Good in 12 ears (20.7%), Fair in 18 ears (31.0%) and Poor in 0 ears, resulting in an Acceptable rate (Excellent and Good combined) of 69.0%."
+        },
+        {
+          "result": "수술과 관련된 심각한 합병증은 없었으며, 경미한 합병증들은 모두 단기간 치료 또는 자연 회복되었다.",
+          "evidence_quote": "Minor complications included mild discharge in three cases between 5 and 32 days postoperatively, minor bleeding due to self‐trauma in three cases between 7 and 28 days postoperatively, retained suture material in two cases, and a small amount of purulent material identified at bandage removal in one case. All of these resolved spontaneously or with short‐term treatment."
+        },
+        {
+          "result": "수술 후 12개월 이상 시점에서 실시한 소유자 평가에서, 모든 항목에서 평균 만족도가 3.89 이상이었고 특히 수술 부위 외관 만족도, 전반적 수술 만족도 및 재수술 선택 의사가 높았다.",
+          "evidence_quote": "These free‐text responses were broadly consistent with the quantitative Likert scale assessment results. Table 3 Owner assessment scores using a five‐point Likert scale, obtained at the final follow‐up visit at least 12 months postoperatively | Assessment item | | n | | Mean ± SD | | 5 | | 4 | | 3 | | 2 | | 1 | | Change in pruritus and clinical signs | | 57 | | 4.56 ± 0.66 | | 37 | | 15 | | 5 | | 0 | | 0 | | Discomfort during the perioperative period | | 56 | | 3.89 ± 0.87 | | 12 | | 32 | | 6 | | 6 | | 0 | | Satisfaction with postoperative appearance | | 57 | | 4.81 ± 0.44 | | 47 | | 9 | | 1 | | 0 | | 0 | | Perceived value relative to cost | | 58 | | 4.38 ± 0.79 | | 31 | | 20 | | 5 | | 2 | | 0 | | Willingness to recommend LECR to other owners | | 56 | | 4.34 ± 0.67 | | 25 | | 25 | | 6 | | 0 | | 0 | | Overall satisfaction with the procedure | | 56 | | 4.77 ± 0.50 | | 45 | | 9 | | 2 | | 0 | | 0 | | Willingness to choose the same procedure again | | 56 | | 4.75 ± 0.44 | | 42 | | 14 | | 0 | | 0 | | 0 | | Preference for earlier surgical intervention | | 56 | | 4.14 ± 0.90 | | 25 | | 16 | | 13 | | 2 | | 0 | For all items, 5 represents the most favourable response and 1 represents the least favourable response."
+        }
+      ],
+      "authors_conclusion": "LECR는 말기 귀관 질환이 명확히 진행되기 전에 일상적인 임상 환경에서 시행될 경우 만성 otitis externa의 진행을 억제하고 장기적으로 관리 가능한 상태 유지를 지원할 수 있다고 결론내렸다. 또한 본 연구에서 LECR는 전문의 자격 없이 1차 진료 환경에서도 시행 가능하며, 적절한 증례 선별 하에 TECA/LBO로의 진행을 회피하는 데 기여할 수 있다고 제시하였다. 따라서 LECR는 구제술뿐 아니라 질병 초기 단계에서 고려할 수 있는 치료 옵션으로 재평가되어야 함을 강조하였다.",
+      "clinical_takeaway": "이 연구는 만성 otitis externa로 의료적 치료만으로 관리가 어려운 경우, 전문 수술 기구나 영상 진단 없이도 1차 진료 환경에서 비전문 수의사가 시행한 lateral ear canal resection(LECR)이 장기적으로 귀 건강을 유지하며 심각한 합병증 없이 말기 질환으로의 진행과 total ear canal ablation with lateral bulla osteotomy(TECA/LBO) 필요성을 회피할 수 있음을 보여준다. 수술 후 연간 귀 세척 빈도가 크게 줄고, 소양증과 임상 증상도 현저히 호전되어 장기 관리 부담을 경감시킨 점이 임상적으로 중요한 의미를 가진다. 또한 소유자 만족도가 높고 재수술 의사가 높은 점은 충분한 사전 설명을 통한 현실적 치료 목표 설정과 기대 조절이 효과적임을 시사한다. 다만, 본 연구는 후향적 단일 기관 보고로서 LECR의 최적 시기 및 적용 기준 설정에 한계가 있으므로, 적용 시에는 개별 증례의 총체적 평가가 필요하며, 보다 엄격한 전향적 연구의 추가 검증이 필요하다.",
+      "limitations": [
+        "단일 기관 비전문가 단일 수의사에서 후향적으로 이루어진 서술적 연구로, 엄격한 포함/제외 기준과 대조군이 없어 선별 편향의 가능성이 존재한다.",
+        "수술 전 귀관 협착 정도, 이경 및 조직학 기록이 체계적으로 확보되지 않아 수술 전 중증도와 예후와의 관계 분석이 불가능하다.",
+        "수술 후 추적관찰이 구조적으로 계획되지 않고, 임상 증상 발생 시 방문에 의존하여 미세한 증상이나 개입 시점을 놓칠 위험이 있다.",
+        "귀 세척 및 이경 검사는 시행되었으나 고해상도 영상기법(비디오 이경) 및 CT 검사가 제한적으로만 사용되어 귀관 내 상세 평가가 부족하다.",
+        "소유자 평가 설문은 주관적이며 답변 편향 가능성이 있다.",
+        "본 연구 결과는 단일 기관 및 특정 환경에 제한적이며, 다기관 및 전향적 연구를 통한 일반화 검증이 필요하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 실제 임상 상황에서 만성 otitis externa로 의료적 관리가 어려운 개 40마리를 대상으로 9년에 걸친 장기 추적관찰을 통해 lateral ear canal resection(LECR)이 말기 귀 질환 진행과 이어지는 total ear canal ablation with lateral bulla osteotomy(TECA/LBO)로의 전환 없이 안전하고 효과적으로 질병 관리를 돕는 점을 체계적으로 보고하고 있다. 수술 전후 객관적 지표(귀 세척빈도, 소양증 점수)와 소유자 만족도 그리고 낮은 합병증률 등 임상적으로 의미 있는 유용한 근거들을 포함한다는 점에서 1차 진료 환경에서 시행 가능한 외과적 대안으로서 중요한 근거를 제공한다.",
+      "id": "doi:10.1111/jsap.70156",
+      "discovered_at": "2026-10-05 23:24:59.132255+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13634691",
+      "summary_generated_at": "2026-10-31 02:22:10.839363+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "CT-confirmed complete duplication of the renal pelvis and ureter in a dog.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": null,
+      "online_publication_date": "2026-06-24",
+      "publication_date_raw": "2026-Oct",
+      "doi": "10.1111/jsap.70155",
+      "pmid": "42338289",
+      "pmcid": "PMC13634687",
+      "publisher_url": "https://doi.org/10.1111/jsap.70155",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42338289/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 증례는 개에서 CT를 이용하여 renal pelvis와 ureter의 complete duplication을 확진한 드문 선천성 기형을 다루며, 임상적으로 무증상인 경우의 영상 진단 중요성을 보여줌으로써 실제 임상 진단에 직접적인 관련이 있다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "complete duplication of the renal pelvis and ureter",
+      "study_design": "case_report",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "CT를 이용하여 개에서 renal pelvis와 ureter의 complete duplication 여부 및 형태를 영상학적으로 평가하였다.",
+      "study_methods": "10세 스페인 프렌치 불독 암컷 한 마리를 대상으로 contrast-enhanced CT를 시행하였으며, 복부 CT에서 우측 신장에서 두 개의 독립된 renal pelvis와 각기 다른 두 개의 ureter가 방광까지 별도로 연결됨을 확인하였다. 영상 소견으로 완전한 요관 중복(complete ureteral duplication)을 진단하였다. 임상 증상은 없었으며 추가적인 외과적·사후 검증은 시행하지 않았다.",
+      "one_sentence_summary": "10세 암컷 프렌치 불독 한 마리를 대상으로 시행한 contrast-enhanced CT에서 우측 신장에 두 개의 독립적인 renal pelvis와 각기 연결된 별도의 두 ureter가 발견되었으며, 둘 다 정상적인 해부학적 위치의 요관방광접합부에 독립적으로 종결되어 complete ureteral duplication으로 진단되었다. 임상적으로는 무증상으로, CT 소견을 통해 드물지만 완전한 신우 및 요관 중복을 정확히 진단할 수 있음을 보여준다.",
+      "key_results": [
+        {
+          "result": "CT 영상에서 우측 신장 내에 두 개의 독립된 renal pelves가 관찰되었고 각기 다른 두 개의 ureter가 방광까지 별도로 연결되어 있었다.",
+          "evidence_quote": "Abdominal CT demonstrated two separate renal pelves within the right kidney, each giving rise to an independent ureter. The ureters coursed separately to the urinary bladder."
+        },
+        {
+          "result": "두 ureter는 정상 해부학 위치에서 별도의 요관방광접합부에 독립적으로 종결되어 완전 요관 중복이 확인되었다.",
+          "evidence_quote": "Both ureters terminated independently at an anatomically normal, separate right ureterovesical junction within the urinary bladder, consistent with complete ureteral duplication."
+        },
+        {
+          "result": "요관 내 조영 증강도는 cranial renal pelvis에서 기원한 ureter가 caudal renal pelvis ureter보다 약간 낮았다.",
+          "evidence_quote": "The ureter arising from the cranial renal pelvis showed slightly lower attenuation within its contrast‐enhanced lumen than the ureter arising from the caudal renal pelvis"
+        },
+        {
+          "result": "임상 증상은 없었으며 신우 또는 요관의 확장이나 이상 소견은 없었다.",
+          "evidence_quote": "There was no renal pelvic or ureteral dilatation."
+        },
+        {
+          "result": "양쪽 신장에 최대 1.5 mm 크기의 다발성 renal parenchymal mineralisation이 관찰되었다.",
+          "evidence_quote": "Multiple renal parenchymal mineralisation in both kidneys (up to 1.5 mm in diameter) was noted."
+        }
+      ],
+      "authors_conclusion": "개에서 complete duplication of the renal pelvis and ureter는 극히 드물며, 기존 문헌에서는 주로 partial duplication이나 ectopic insertion 및 임상 증상과 관련된 보고가 많다. 이 증례는 무증상 상태에서 CT를 활용하여 완전 요관 중복을 확진한 희귀 사례로서 CT가 비증상 요로 선천성 기형 진단에 유용함을 시사한다.",
+      "clinical_takeaway": "본 증례는 10세 암컷 프렌치 불독에서 임상 증상 없이도 CT를 통해 renal pelvis와 ureter의 complete duplication을 진단할 수 있음을 보여준다. 이는 개에서 매우 희귀한 선천성 기형으로, 임상적으로 무증상인 경우도 있어 단순 영상검사를 통한 우연 소견이 중요하다. 영상 진단 시 두 요관의 독립적 경로와 정상 위치의 요관방광접합부 존재를 확인하는 것이 핵심이며, 본 환자에서는 신우나 요관의 확장이나 기능 이상이 없어 치료는 필요하지 않았다. 다만 단일 증례 보고이므로, 이 기형의 임상적 영향이나 장기 예후에 대한 일반화는 제한적이다.",
+      "limitations": [
+        "단일 증례 보고로 일반화가 어렵다.",
+        "수술적 혹은 부검을 통한 확진이 없어 CT 영상 소견에만 의존하였다.",
+        "무증상 환자 한정으로 임상적 영향을 평가하지 않았다.",
+        "장기간 추적관찰 데이터가 없어 예후를 알 수 없다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "개에서 드문 요로 선천성 기형의 무증상 상태에서의 정확한 진단에 CT 이용 가능성을 입증한 점이 임상적 진단 과정에 중요한 정보를 제공하기 때문에 추천한다.",
+      "id": "doi:10.1111/jsap.70155",
+      "discovered_at": "2026-10-05 23:24:59.143914+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13634687",
+      "summary_generated_at": "2026-10-31 02:22:29.805513+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-01-01",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag278",
+      "pmid": "42955824",
+      "pmcid": "PMC13718431",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag278",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955824/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "coccidioidomycosis가 새로 진단된 개 환자에서 disseminated 형태와 pulmonary 형태를 임상 및 혈청학적 지표를 사용해 구분하는 연구이며, 실제 임상에서 진단적 보조 역할을 할 수 있어 임상적 관련성이 직접적이다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "coccidioidomycosis",
+      "study_design": "retrospective",
+      "sample_size": 214,
+      "sample_size_quote": "Two hundred fourteen client-owned dogs with newly diagnosed coccidioidomycosis.",
+      "objective": "Disseminated coccidioidomycosis와 pulmonary disease 구분을 위해 임상 및 혈청학적 변수와 antibody 크기 차이 평가.",
+      "study_methods": "214마리의 임상에서 새로 진단된 coccidioidomycosis를 가진 개를 대상으로 후향적 연구로, Anti-Coccidioides spp. immunoglobulin (Ig)G를 enzyme immunoassay (EIA)와 agar gel immunodiffusion (AGID)로 측정하였다. 질병은 pulmonary (148마리, 69%)와 disseminated (66마리, 31%)로 분류되었으며 혈청 IgG 수치와 질병 확산 여부 간 연관성을 조사하였다.",
+      "one_sentence_summary": "214마리 client-owned 개에서 새로 진단된 coccidioidomycosis를 후향적으로 분석하였다. 148마리는 pulmonary 형태, 66마리는 disseminated 형태로 분류되었고, EIA와 AGID를 이용한 IgG 혈청농도와 혈청역가가 disseminated 질환과 유의한 연관성을 보였다. EIA IgG는 질환 확산 구별에 AUC 0.81을 보여 비교적 우수하였으며, AGID는 AUC 0.74로 통계적 차이는 없었다. Pulmonary 감염은 봄에 가장 낮고 가을과 겨울에 증가하는 계절적 경향도 관찰되었다.",
+      "key_results": [
+        {
+          "result": "질병은 pulmonary 148/214 (69%), disseminated 66/214 (31%)로 분류되었다.",
+          "evidence_quote": "Disease was classified as pulmonary in 148/214 (69%) and disseminated in 66/214 (31%)."
+        },
+        {
+          "result": "Higher EIA IgG concentration과 AGID IgG titer가 독립적으로 dissemination과 연관이 있었다.",
+          "evidence_quote": "Higher EIA IgG concentration and AGID IgG titer were independently associated with dissemination."
+        },
+        {
+          "result": "EIA IgG는 disseminated와 pulmonary 구분에서 AUC 0.81 (95% CI, 0.74-0.87)의 진단 성능을 보였다.",
+          "evidence_quote": "Enzyme immunoassay discriminated disseminated from pulmonary disease well (area under the curve [AUC]: 0.81; 95% confidence interval [CI], 0.74-0.87)"
+        },
+        {
+          "result": "AGID의 AUC는 0.74 (95% CI, 0.67-0.82)로 EIA와 유의한 차이가 없었다.",
+          "evidence_quote": "Agar gel immunodiffusion performance was not statistically distinguishable (AUC: 0.74; 95% CI, 0.67-0.82; P = .65)."
+        },
+        {
+          "result": "EIA IgG 37 units 이상에서 sensitivity 86%, specificity 63%였고, AGID IgG 1:32 이상에서 sensitivity 48%, specificity 86%였다.",
+          "evidence_quote": "Exploratory cutpoints included an EIA IgG threshold of 37 enzyme immunoassay units (sensitivity 86%, specificity 63%) and an AGID IgG threshold of ≥1:32 (sensitivity 48%, specificity 86%)."
+        },
+        {
+          "result": "Pulmonary 질환 진단은 봄에 가장 적고 가을과 겨울에 최고조에 달했다.",
+          "evidence_quote": "Pulmonary diagnoses were least common in spring and peaked in late fall and winter."
+        }
+      ],
+      "authors_conclusion": "Coccidioidal IgG serology는 개에서 disseminated coccidioidomycosis를 평가할 때 임상적 보조 정보로 유용할 수 있으나, 혈청학 결과가 pulmonary 및 disseminated 형태 사이에 중첩되므로 혈청학 단독으로 병변 범위를 결정하는 데는 한계가 있다고 결론내렸다. 따라서 임상 소견 및 적절한 진단 평가와 함께 해석해야 한다.",
+      "clinical_takeaway": "coccidioidomycosis가 새로 진단된 개에서 disseminated 형태와 pulmonary 형태를 구분하는 것은 임상적으로 중요하지만 쉽지 않다. 이 연구는 EIA 및 AGID IgG 혈청학적 검사가 각각 특정 민감도와 특이도를 가지면서 두 형태 구별에 보조적인 역할을 할 수 있음을 보여준다. 예를 들어 EIA IgG 37 units 이상의 경우 높은 민감도(86%)와 중간 특이도(63%)를 보여 환자에서 disseminated 가능성을 시사한다. 그러나 두 질환 형태 간 혈청 결과가 겹칠 수 있어 이 검사만으로 병변 범위를 확정하기는 어렵고, 임상 및 추가 진단검사와 함께 종합적으로 평가하는 것이 필요하다. 이는 계절별 발병 양상 차이도 고려할 때 환자 모니터링 및 진단 타이밍 설정에 참고가 될 수 있다. 결과 해석 시 후향적 연구 한계와 혈청 검사 일부가 사례 분류에 기여한 점을 함께 감안해야 한다.",
+      "limitations": [
+        "후향적 연구 설계로 인과관계 확립에 제한이 있다.",
+        "혈청 검사 결과가 사례 분류에 사용되어 진단 성능이 일부 과대 추정되었을 수 있다.",
+        "단일 참조 실험실에서 검사 시행, 일반화에 제한 가능성 존재",
+        "추가 임상 및 영상 진단과 연계한 비교가 부족하다.",
+        "전체 환자 집단 외 다른 지역이나 환경에서의 적용 가능성은 불명이다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "실제 client-owned 개 214마리를 포함한 직접 임상 연구로, disseminated와 pulmonary coccidioidomycosis 구분에 유용한 혈청학적 보조 도구의 성능을 구체적 수치와 함께 제시하여 일상 임상 의사 결정에 실질적 도움을 줄 수 있기 때문이다.",
+      "id": "doi:10.1093/jvimsj/aalag278",
+      "discovered_at": "2026-10-30 02:35:14.472840+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42955824/",
+      "summary_generated_at": "2026-10-30 02:37:43.209726+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Multimodal imaging characteristics and case management of intraspinal Spirocerca lupi infection in a dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-01-01",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag286",
+      "pmid": "42955826",
+      "pmcid": "PMC13718424",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag286",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955826/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 Spirocerca lupi 감염이 의심되는 1년령 혼합견에서의 임상 증상과 다중영상기법(multi-modal imaging)을 통한 진단, 수술적 치료 및 약물치료 경과를 상세히 다루어, 같은 질환을 가진 강아지 임상에서 직접적인 참고가 됩니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology",
+        "surgery",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "intraspinal Spirocerca lupi infection",
+      "study_design": "case_report",
+      "sample_size": 1,
+      "sample_size_quote": "A 1-year-old female spayed mixed breed dog",
+      "objective": "강아지에서 intraspinal Spirocerca lupi 감염의 임상증상과 다중영상기법을 이용한 영상 특징을 분석하고, 수술과 약물 치료를 포함한 사례 관리 결과를 보고하는 것.",
+      "study_methods": "1년령 혼합견 한 마리가 T3-L3 신경병리학적 국소화를 가진 paraparesis 및 proprioceptive ataxia와 척추 통증으로 내원하였다. 흉부 방사선검사, MRI, 초음파 등 다중영상기법을 시행해 흉부 후중격 종괴, pneumothorax, pleural effusion, 척추관 압박 및 척수내 병변, 식도 확장 및 압박, 대동맥류 등을 관찰하였다. T5-T8 부위 hemilaminectomy를 실시하고 기생충학적 검사를 통해 Spirocerca lupi 감염을 확인하였다. 치료로 ivermectin, prednisone, clindamycin을 처방하였고 임상 경과를 추적하였다.",
+      "one_sentence_summary": "1년령 혼합견에서 paraparesis 및 proprioceptive ataxia로 내원한 환자에서 다중영상기법(흉부 방사선, MRI, 초음파)을 통해 척추 내 스피로세르카 루피 감염으로 인한 병변을 진단하고, T5-T8 hemilaminectomy와 ivermectin, prednisone, clindamycin 치료를 시행하였다. 치료 후 2개월 만에 독립적 보행이 회복되었으며, CT에서는 흉부 및 식도 결절이 소실되었으나 대동맥류는 진행되는 양상을 보였다. 본 증례는 척추 스피로세르카증 관리에 다중영상기법의 중요성을 시사한다.",
+      "key_results": [
+        {
+          "result": "환자는 paraparesis, proprioceptive ataxia, 후지의 의식성 고유감각 소실, T3-L3 국소화된 척추 통증을 보였다.",
+          "evidence_quote": "A 1-year-old female spayed mixed breed dog was ambulatory with paraparesis and proprioceptive ataxia, absent conscious proprioception in pelvic limbs, and spinal pain with a T3-L3 neurolocalization on presentation."
+        },
+        {
+          "result": "흉부 방사선에서 caudal mediastinal mass, pneumothorax, pleural effusion이 확인되었다.",
+          "evidence_quote": "Thoracic radiographs revealed caudal mediastinal mass, pneumothorax, and pleural effusion."
+        },
+        {
+          "result": "MRI에서는 다수의 흉부 중격 종괴, T5-T6 부위 척추관 외압박, T5와 T9 부위의 척수내 T2 고신호, 식도 압박 및 확장, 대동맥류 확장이 관찰되었다.",
+          "evidence_quote": "Magnetic resonance imaging revealed multiple mediastinal masses with vertebral canal extension, extradural compression at T5-T6, intramedullary T2 hyperintensities at T5 and T9, esophageal compression and dilation, and aortic aneurysmal dilation."
+        },
+        {
+          "result": "초음파에서 기생충 감염 소견을 시사하는 소견이 관찰되었다.",
+          "evidence_quote": "Transdiaphragmatic ultrasonography was suggestive of parasitic involvement."
+        },
+        {
+          "result": "수술로 T5-T8 hemilaminectomy를 시행하고 기생충학 검사로 Spirocerca lupi 감염을 확진하였다.",
+          "evidence_quote": "A right T5-T8 hemilaminectomy and parasitology confirmed Spirocerca lupi."
+        },
+        {
+          "result": "치료 2개월 후에는 독립적 보행이 회복되었다.",
+          "evidence_quote": "Recovery of independent ambulation occurred 2 months after treatment."
+        },
+        {
+          "result": "CT에서 흉부 중격 및 식도 결절 소실과 대동맥류 진행 소견을 확인하였다.",
+          "evidence_quote": "Computed tomography revealed resolution of mediastinal and esophageal nodules with progressive aortic aneurysmal dilation."
+        }
+      ],
+      "authors_conclusion": "본 사례에서 척추 내 Spirocerca lupi 감염은 다중영상기법을 이용한 정밀 진단과 외과적 및 약물치료를 통한 치료가 이루어졌으며, 이는 임상 경과 및 영상학적 변화를 평가하는 데 필수적이었다고 저자들은 결론지었다.",
+      "clinical_takeaway": "이 증례는 척추 부위에 Spirocerca lupi 감염이 있을 때, 다중영상기법이 진단 및 치료 계획 수립에서 매우 중요함을 보여준다. 특히 MRI와 CT를 통해 병변의 범위와 진행 상황을 구체적으로 확인할 수 있어 수술 영역 결정과 치료 반응 판단에 도움이 된다. 또한 적절한 약물 치료와 수술의 조합이 2개월 내에 기능적 보행 회복을 가능하게 할 수 있음을 시사한다. 다만 대동맥류가 지속해서 진행하는 점은 장기 추적과 추가 치료 연구가 필요함을 뜻한다. 이 증례 결과는 다른 Spirocerca lupi 감염 강아지 치료에 참고 가능하나 단일 증례라는 점에서 일반화에는 주의가 요구된다.",
+      "limitations": [
+        "본 연구는 단일 증례 보고로 일반화에 한계가 있다.",
+        "무작위 대조군이 없어 치료 효과 판단에 제한이 있다.",
+        "장기 추적 관찰 데이터가 부족하다.",
+        "단편적 자료(Abstract)로 상세한 임상 및 영상 데이터가 제한적이다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "척추 내 Spirocerca lupi 감염 환자에서 다중영상기법을 통한 정밀 진단과 병합 치료의 실제 임상 적용 예를 구체적으로 제시하여, 유사 임상 상황에서 유용한 참고 자료가 되기 때문에 추천한다.",
+      "id": "doi:10.1093/jvimsj/aalag286",
+      "discovered_at": "2026-10-30 02:35:14.444825+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42955826/",
+      "summary_generated_at": "2026-10-30 02:37:22.357538+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Myoclonus as a neurologic manifestation of hypoglycemia in dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -4357,15 +4771,15 @@
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 571
+        "received": 573
       }
     },
-    "started_at": "2026-10-30T02:35:12.575207+00:00",
-    "since": "2026-09-15",
-    "processed": 4,
+    "started_at": "2026-10-31T02:20:11.425212+00:00",
+    "since": "2026-09-16",
+    "processed": 6,
     "refreshed": 0,
-    "failed": 10,
-    "deferred": 1012,
-    "finished_at": "2026-10-30T02:37:55.205536+00:00"
+    "failed": 12,
+    "deferred": 1006,
+    "finished_at": "2026-10-31T02:22:30.425096+00:00"
   }
 }
