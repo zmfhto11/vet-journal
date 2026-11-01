@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T02:22:30.499236+00:00",
-  "last_successful_collection": "2026-10-31T02:20:11.425161Z",
+  "generated_at": "2026-11-01T02:15:11.895008+00:00",
+  "last_successful_collection": "2026-11-01T02:12:50.034895Z",
   "mode": "live",
   "papers": [
     {
@@ -2098,7 +2098,7 @@
       "publication_date_raw": "2026-Sep-01",
       "doi": "10.1093/jvimsj/aalag270",
       "pmid": "42960979",
-      "pmcid": null,
+      "pmcid": "PMC13720721",
       "publisher_url": "https://doi.org/10.1093/jvimsj/aalag270",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42960979/",
       "source": "pubmed",
@@ -3256,6 +3256,81 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
       "summary_generated_at": "2026-10-20 01:50:45.792918+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Medetomidine-vatinoxan (Zenalpha) results in reduction of systolic function, blood pressure, and heart rate with prolongation of electrocardiographic intervals in healthy dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-11-01",
+      "online_publication_date": "2026-08-14",
+      "publication_date_raw": "2026-Nov-01",
+      "doi": "10.2460/javma.26.03.0210",
+      "pmid": "42600645",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.03.0210",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42600645/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 건강한 개를 대상으로 medetomidine-vatinoxan(MVZ) 투여 후 심초음파, 혈압, 심전도 변화를 평가하여 심혈관계 영향을 직접적으로 확인하였으므로 수의 임상에 직접적으로 관련된다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "cardiology",
+        "anesthesia"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "cardiovascular effects of medetomidine-vatinoxan sedation",
+      "study_design": "prospective",
+      "sample_size": 21,
+      "sample_size_quote": "21 dogs were enrolled in the study.",
+      "objective": "건강한 개에서 medetomidine-vatinoxan(MVZ) 투여가 심초음파 지표, 혈압, 심장리듬에 미치는 영향을 평가하였다.",
+      "study_methods": "본 연구는 건강한 고객 소유 개 21두를 대상으로 한 전향적 사전/사후 비교 연구이다. 심질환이나 연구 변수에 영향을 줄 수 있는 약물 복용이 있는 경우는 제외하였다. MVZ는 제조사의 지침에 따라 투여되었으며, 투여 전과 투여 후에 심초음파, 혈압 측정, 1시간 Holter 모니터링을 실시하였다. 주요 비교 변수로는 심초음파에서 측정한 수축기 기능 지표들, 혈압, 심장 리듬 변화 점수 등이 포함되었다.",
+      "one_sentence_summary": "건강한 21두의 개를 대상으로 medetomidine-vatinoxan(MVZ) 투여 전후 심초음파, 혈압, Holter 모니터 변화를 비교하였다. MVZ 투여 후 박출률(ejection fraction), fractional shortening, end-systolic volume index, stroke volume index, fractional area change 같은 수축기 기능 지표들의 유의한 감소와 혈압, 심박수 감소가 관찰되었다. 또한 PR 간격과 QT 간격이 연장되었으며, 62%의 개에서 방실결절 전도 이상이 새로 발생하거나 악화되었고 9.5%에서 심방 또는 심실성 조기 수축이 발생 혹은 악화되었다.",
+      "key_results": [
+        {
+          "result": "MVZ 투여 후 ejection fraction, fractional shortening, end-systolic volume index, stroke volume index, fractional area change 등 여러 수축기 기능 지표가 유의하게 감소하였다.",
+          "evidence_quote": "MVZ resulted in significant reduction in multiple echocardiography-derived systolic function parameters (including ejection fraction, fractional shortening, end-systolic volume index, stroke volume index, and fractional area change)"
+        },
+        {
+          "result": "MVZ 투여 후 혈압과 심박수가 유의하게 감소하였다.",
+          "evidence_quote": "Compared to baseline, MVZ resulted in significant reduction in multiple echocardiography-derived systolic function parameters (including ejection fraction, fractional shortening, end-systolic volume index, stroke volume index, and fractional area change), blood pressure, and heart rate, along with prolongation in PR and absolute QT intervals; there were nonsignificant increases in corrected QT interval and arrhythmic burden scores."
+        },
+        {
+          "result": "MVZ 투여 후 PR 간격과 절대 QT 간격이 연장되었다.",
+          "evidence_quote": "prolongation in PR and absolute QT intervals"
+        },
+        {
+          "result": "교정 QT 간격과 부정맥 부담 점수는 증가했으나 통계적으로 유의하지 않았다.",
+          "evidence_quote": "nonsignificant increases in corrected QT interval and arrhythmic burden scores"
+        },
+        {
+          "result": "21마리 중 13마리(62%)에서 Holter 모니터상 방실결절 전도 이상이 새로 발생하거나 악화되었고, 2마리(9.5%)에서 심방 또는 심실 조기 수축이 새로 발생하거나 악화되었다.",
+          "evidence_quote": "Thirteen of 21 dogs (62%) developed or had worsening of atrioventricular nodal conduction on Holter monitor, while 2 of 21 (9.5%) developed or had worsening atrial or ventricular ectopic activity"
+        },
+        {
+          "result": "21마리 중 15마리(71.4%)가 MVZ 투여 시 2개 이상의 심초음파 수축기 기능 지표가 기준 범위 이하로 감소하였다.",
+          "evidence_quote": "15 of 21 dogs (71.4%) had 2 or more parameters below reference range with MVZ sedation"
+        }
+      ],
+      "authors_conclusion": "MVZ로 인한 진정은 여러 심혈관 및 혈역학적 변수에 유의미한 변화를 초래한다.",
+      "clinical_takeaway": "본 연구는 건강한 개에서 medetomidine-vatinoxan(MVZ) 진정제가 심초음파상 수축기 기능 저하, 혈압 및 심박수 감소, 심전도 간격 연장 등을 유발함을 밝혀냈다. 특히, 62% 개에서 방실결절 전도 장애가 확인되어 심혈관 질환이 있거나 심장 상태 평가를 받는 개에 진정제를 사용할 때 신중한 접근이 필요함을 시사한다. 그러나 연구 대상이 건강한 개로 제한되고 진단적 유용성 또는 임상적 결과까지는 평가하지 않아 심혈관 질환이 있는 대상에서 효과나 안전성은 추가 연구가 필요하다. 이 점을 고려하여 임상에서는 MVZ 진정제 사용 시 심혈관 상태를 면밀히 모니터링하고 심장질환 의심 환자에서는 대안 진정법 검토가 요구된다.",
+      "limitations": [
+        "건강한 개만 포함되어 있어 심혈관 질환이 있는 환자에 대한 적용성에 제한이 있다.",
+        "심혈관계 기능 변화의 장기적 영향은 평가되지 않았다.",
+        "1시간 Holter 모니터링만 실시되어 장기 부정맥 발생 여부는 알 수 없다.",
+        "대조군이 없는 전향적 사전/사후 비교 연구라 인과관계 해석에 주의가 필요하다.",
+        "초록 정보만 제공되어 상세한 통계 방법이나 데이터는 확인할 수 없다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 임상 대상군(건강한 개)의 검사와 명백한 심혈관계 영향, 구체적인 수치 및 변화 양상을 제시하였고, 심장질환이 의심되거나 있는 환자에 대한 진정제 선택 시 유의할 점을 제공하여 임상적 적용 가능성이 높기 때문이다.",
+      "id": "doi:10.2460/javma.26.03.0210",
+      "discovered_at": "2026-09-17 05:57:05.966215+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42600645/",
+      "summary_generated_at": "2026-11-01 02:14:20.965821+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -4531,6 +4606,71 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Raman Spectroscopy for Differentiating High- and Low-Grade Canine Cutaneous Mast Cell Tumours.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": null,
+      "online_publication_date": "2026-06-23",
+      "publication_date_raw": "2026-Sep",
+      "doi": "10.1111/vco.70083",
+      "pmid": "42337642",
+      "pmcid": "PMC13456598",
+      "publisher_url": "https://doi.org/10.1111/vco.70083",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42337642/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 canine cutaneous mast cell tumour (MCT)의 grading에 있어서 Raman spectroscopy (RS)의 생화학적 패턴 차이를 탐색하여 grade 구분 가능성을 평가했습니다. 하지만 임상적 결과나 예후와의 직접 연관성, 치료 결정에의 활용 가능성은 본 abstract만으로는 평가할 수 없어 간접적 관련성으로 분류했습니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "oncology",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine cutaneous mast cell tumour grading",
+      "study_design": "case_series",
+      "sample_size": 18,
+      "sample_size_quote": "Eighteen canine cutaneous mast cell tumours were graded according to the Kiupel two-tier system, comprising 10 low-grade and 8 high-grade cases.",
+      "objective": "Canine cutaneous mast cell tumour에서 Raman spectroscopy를 이용해 low-grade와 high-grade를 구분할 수 있는지 평가했다.",
+      "study_methods": "Kiupel two-tier system에 따라 18개의 canine cutaneous MCT (low-grade 10개, high-grade 8개)의 formalin-fixed 조직 샘플에서 총 68개의 Raman spectra를 785 nm laser로 획득했다. 스펙트럼은 baseline 보정 및 1007 cm⁻¹ phenylalanine peak로 normalization했다. Shapiro-Wilk test로 정규성 검사를 수행하고 Mann-Whitney U test (α=0.05)로 그룹 간 차이를 분석했다.",
+      "one_sentence_summary": "18개 canine cutaneous mast cell tumour 샘플(10 low-grade, 8 high-grade)에서 Raman spectroscopy를 실시하여 68개의 spectra를 얻고, 1007 cm⁻¹ peak로 정규화 후 통계 분석을 통해 특정 스펙트럼 밴드에서 high-grade와 low-grade 간 유의한 차이를 확인했다. 특히 860 cm⁻¹ tyrosine-associated band가 고등급군에서 유의미하게 높았고, 여러 spectral 구간의 비율이 저등급군에서 더 높았다. 이는 RS가 MCT 등급 구분에 보조적 도구로 가능성을 보임을 시사한다.",
+      "key_results": [
+        {
+          "result": "1007 cm⁻¹ phenylalanine band는 low-grade와 high-grade 사이에 유의한 차이가 없어 normalization 기준으로 적절했다.",
+          "evidence_quote": "The 1007 cm -1 band showed no significant difference between Low- and High-Grade tumours (p = 0.068), validating its use for normalization."
+        },
+        {
+          "result": "860 cm⁻¹ tyrosine-associated band가 high-grade tumours에서 유의하게 더 높았다 (p = 0.033).",
+          "evidence_quote": "Conversely, the 860 cm -1 tyrosine-associated band was significantly higher in high-grade tumours (p = 0.033)."
+        },
+        {
+          "result": "1007/1299 및 1007/1301-1320 스펙트럼 비율이 low-grade tumours에서 유의하게 더 높았다 (모두 p < 0.05).",
+          "evidence_quote": "Ratios normalized to the 1007 cm -1 peak consistently discriminated between grades, with significantly higher values in low-grade tumours across multiple spectral regions-particularly 1007/1299 and 1007/1301-1320 (all p < 0.05"
+        },
+        {
+          "result": "RS는 amino acid, lipid, nucleic acid 관련 스펙트럼 구간에서 tumours의 grade별 뚜렷한 생화학적 fingerprint 차이를 확인했다.",
+          "evidence_quote": "Overall, RS identified distinct biochemical fingerprints between tumour grades in canine cutaneous MCTs, especially in spectral regions associated with amino acids, lipids, and nucleic acids."
+        }
+      ],
+      "authors_conclusion": "본 예비연구는 Raman spectroscopy가 canine cutaneous MCT의 low-grade와 high-grade를 구분할 수 있는 특징적 생화학적 패턴을 식별함을 보여주며, 임상 예후 자료가 포함된 대규모 코호트에서 추가 검증이 필요하다고 결론지었다.",
+      "clinical_takeaway": "Canine cutaneous mast cell tumour 환자의 조직 샘플에서 Raman spectroscopy를 이용한 분광학 분석이 low-grade와 high-grade MCT를 생화학적 수준에서 구분할 수 있음을 시사합니다. 특히 tyrosine 관련 860 cm⁻¹ 밴드와 특정 스펙트럼 비율에서 차이가 명확하여 보조 진단 도구로 잠재력을 가지나, 본 연구는 샘플 수가 적고 임상 결과와 직접 연관된 검증이 부족한 탐색적 단계임을 유념해야 합니다. 따라서 임상적으로 RS 결과만을 근거로 치료 결정에 적용하기에는 제한적이며, 추후 더 큰 규모와 임상 추적조사 포함 연구가 반드시 필요합니다.",
+      "limitations": [
+        "본 연구는 소규모 코호트를 대상으로 한 탐색적 case series이다.",
+        "조직은 formalin-fixed 상태였으며, 신선 조직이나 생체 내 적용 가능성은 평가되지 않았다.",
+        "임상 경과나 치료 결과와의 상관관계가 포함되어 있지 않다.",
+        "단일 기관에서 수집된 표본으로 외부 타당성이 제한될 수 있다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70083",
+      "discovered_at": "2026-09-17 05:57:10.312434+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42337642/",
+      "summary_generated_at": "2026-11-01 02:14:12.026012+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -4767,19 +4907,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 521
+        "received": 519
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 573
+        "received": 574
       }
     },
-    "started_at": "2026-10-31T02:20:11.425212+00:00",
-    "since": "2026-09-16",
-    "processed": 6,
+    "started_at": "2026-11-01T02:12:50.034947+00:00",
+    "since": "2026-09-17",
+    "processed": 2,
     "refreshed": 0,
-    "failed": 12,
-    "deferred": 1006,
-    "finished_at": "2026-10-31T02:22:30.425096+00:00"
+    "failed": 21,
+    "deferred": 996,
+    "finished_at": "2026-11-01T02:15:11.787571+00:00"
   }
 }
