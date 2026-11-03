@@ -1,9 +1,78 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T02:32:39.161663+00:00",
-  "last_successful_collection": "2026-11-02T02:29:37.139597Z",
+  "generated_at": "2026-11-03T03:58:08.009568+00:00",
+  "last_successful_collection": "2026-11-03T03:55:28.298670Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-11-02",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Nov-02",
+      "doi": "10.1093/jvimsj/aalag283",
+      "pmid": "42969556",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag283",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42969556/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 relapsed lymphoma를 앓고 있는 client-owned 개를 대상으로 bendamustine의 lymphodepleting 효과와 내약성을 전향적 임상시험으로 평가하였으며, 이는 개 임상에서 직접적으로 적용 가능한 결과를 제시한다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "lymphoma",
+      "study_design": "prospective",
+      "sample_size": 11,
+      "sample_size_quote": "A prospective rapid dose-escalation pilot trial was undertaken in 11 dogs with relapsed lymphoma to evaluate tolerability while tracking peripheral lymphocyte counts, serum cytokine concentrations, and lymph node measurements.",
+      "objective": "relapsed lymphoma 환 개에서 bendamustine의 peripheral lymphodepleting 활성과 내약성을 평가하고, 혈청 cytokine 변화와 단기 peripheral tumor burden 변화를 모니터링하였다.",
+      "study_methods": "11마리의 relapsed lymphoma 진단을 받은 client-owned 개들을 대상으로 전향적 rapid dose-escalation pilot trial을 진행하였다. bendamustine을 두 차례 투여하여 내약성을 평가하였고, 치료 전후의 peripheral lymphocyte counts, serum cytokine 농도, lymph node 크기를 측정하여 효과를 관찰하였다.",
+      "one_sentence_summary": "relapsed lymphoma를 가진 11마리 개를 대상으로 bendamustine의 lymphodepleting 활성을 전향적으로 평가한 연구이다. bendamustine은 90 mg/m2까지 내약성이 좋았고, peripheral lymphocyte 수를 치료 전 median 880 cells/μL에서 치료 후 310 cells/μL로 감소시켰다. 또한 circulating interleukin-6 농도가 치료 전 median 5.32 pg/mL에서 치료 후 1.33 pg/mL로 감소하고, 11마리 중 8마리에서 peripheral nodal burden이 단기적으로 감소하였다.",
+      "key_results": [
+        {
+          "result": "Bendamustine은 모든 개 림포이드 세포주에서 농도 의존적 세포독성을 유발했다.",
+          "evidence_quote": "Bendamustine induced concentration-dependent cytotoxicity in all cell lines tested."
+        },
+        {
+          "result": "90 mg/m2까지의 두 차례 bendamustine 투여는 내약성이 좋았고, 용량 제한 독성은 관찰되지 않았다.",
+          "evidence_quote": "Two-dose bendamustine regimens up to 90 mg/m2 were generally well tolerated, with no dose-limiting toxicities observed,"
+        },
+        {
+          "result": "bendamustine 투여 후 peripheral lymphocyte 수는 median 880 cells/μL에서 median 310 cells/μL로 감소하였다.",
+          "evidence_quote": "and resulted in peripheral lymphodepletion (pretreatment median, 880 cells/μL; posttreatment median, 310 cells/μL)"
+        },
+        {
+          "result": "circulating interleukin-6 농도는 median 5.32 pg/mL에서 median 1.33 pg/mL로 치료 후 감소가 관찰되었다.",
+          "evidence_quote": "an exploratory decrease in circulating interleukin-6 (pretreatment median, 5.32 pg/mL; posttreatment median, 1.33 pg/mL)"
+        },
+        {
+          "result": "11마리 개 중 8마리에서 peripheral nodal burden이 단기적으로 감소하였다.",
+          "evidence_quote": "and a short-term decrease in peripheral nodal burden in 8 of 11 dogs."
+        }
+      ],
+      "authors_conclusion": "Bendamustine은 relapsed lymphoma가 있는 개에서 일반적으로 내약성이 좋았으며 peripheral lymphodepletion을 유도하였다. 이러한 결과는 자가 canine CAR T-cell 주입 전 전처리제로서의 bendamustine 추가 연구를 지지한다.",
+      "clinical_takeaway": "relapsed lymphoma를 가진 개에서 bendamustine 투여는 안전하며 peripheral lymphodepletion 효과를 가진다. 특히 lymphodepletion은 CAR T-cell 치료 같은 면역세포 치료 전에 이식 성공과 항종양 활성 증진에 중요한 역할을 하므로, bendamustine을 전처리제 옵션으로 고려할 수 있다. 다만 본 연구는 소규모 전향적 임상시험으로, 장기적 효과와 최적 투여 용량, CAR T-cell 치료와의 임상적 연관성에 대한 후속 연구가 필요하다.",
+      "limitations": [
+        "전향적이지만 소규모 파일럿 연구로서 표본 수가 11마리에 불과하다.",
+        "장기 추적 관찰과 bendamustine 단독 투여 이후의 장기 임상 결과가 보고되지 않았다.",
+        "CAR T-cell 치료와의 실제 연계 연구 없이 lymphodepleting 효과만 평가하였다.",
+        "evidence_source가 초록(abstract)으로 전체 논문 상세 내용과 통계 분석이 부족할 수 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 canine lymphoma 환자 대상의 전향적 임상 데이터를 바탕으로 bendamustine의 안전성과 lymphodepleting 효과를 입증하여 개 임상에서 CAR T-cell 치료 전처리제 연구 및 임상 적용의 기초 자료로 활용 가능하기 때문에 추천한다.",
+      "id": "doi:10.1093/jvimsj/aalag283",
+      "discovered_at": "2026-11-03 03:55:29.848704+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42969556/",
+      "summary_generated_at": "2026-11-03 03:56:18.214384+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Neurokinin-1 receptor antagonist (maropitant) for treatment of chronic idiopathic rhinitis in dogs: a pilot study.",
       "journal": "Journal of Small Animal Practice",
@@ -854,6 +923,67 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42826748/",
       "summary_generated_at": "2026-10-14 23:36:31.136046+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "How should ethical, legal, and technical considerations be addressed to prevent iatrogenic complications in high-quality, high-volume, government-funded spay-and-neuter programs?",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-30",
+      "online_publication_date": "2026-09-30",
+      "publication_date_raw": "2026-Sep-30",
+      "doi": "10.2460/javma.26.05.0431",
+      "pmid": "42815532",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.05.0431",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815532/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "제공된 증거는 정부 지원 대량 중성화 프로그램에서의 윤리적, 법적, 기술적 고려사항과 그에 따른 부작용 예방에 관한 개념적 분석을 제시하지만, 임상적 연구 데이터나 구체적 수의학적 임상 결과를 포함하지 않아 직접적인 임상 적용은 어렵습니다.",
+      "primary_category": "other",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "surgical sterilization programs",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "이 연구는 대규모 정부 지원 중성화 프로그램에서 발생할 수 있는 의료과실 관련 부작용과 동물복지 문제를 윤리적, 법적, 기술적 관점에서 분석하여 예방하기 위한 방안을 모색하는 것을 목적으로 합니다.",
+      "study_methods": "콜롬비아 법률 2374호(2024년)를 중심으로, Medellín시의 연간 약 35,000마리 동물 중성화 경험을 기반으로 한 공공 대량 중성화 캠페인에서 발생 가능한 의료과실과 부작용, 동물 및 수의 인력의 안전 문제 등을 다각도로 이론적으로 검토하였습니다. 프로그램의 질 저하와 동물복지 저해 가능성을 논의하고, 안전한 동물 개체수 조절을 위한 엄격한 실행 기준을 제안하였습니다.",
+      "one_sentence_summary": "콜롬비아 법률 2374호(2024년)와 Medellín의 연간 35,000마리 동물 중성화 공공 프로그램을 중심으로, 대규모 중성화 캠페인에서 발생할 수 있는 의료적 부작용과 동물복지 문제를 윤리적·법적·기술적 관점에서 고찰하였다. 이 연구는 빈번한 수술과 대규모 운영이 동물 및 수의계에 미치는 부정적 영향을 논하고, 부작용 방지와 안전한 운영을 위한 엄격한 기준 마련의 필요성을 강조하였다.",
+      "key_results": [
+        {
+          "result": "Medellín 등 콜롬비아에서 연간 최대 35,000마리 동물을 중성화하는 대규모 공공 프로그램이 운영 중이다.",
+          "evidence_quote": "Medellín, Colombia, which have sterilized up to 35,000 animals annually."
+        },
+        {
+          "result": "빈번한 중성화 수술이 의료과실과 동물복지 저해 우려를 낳아, 대규모 공공 중성화 프로그램의 질 저하 가능성을 시사한다.",
+          "evidence_quote": "limited research on the effects of frequent sterilization sessions and potential injuries raises concerns that large-scale public programs may compromise care quality and animal welfare."
+        },
+        {
+          "result": "본 연구는 대량 중성화 캠페인에서 발생 가능한 의료과실과 부가적 고통을 윤리적·규제적·기술적 관점에서 분석하여 안전한 운영을 위한 실행 기준을 제안한다.",
+          "evidence_quote": "This Viewpoint examines iatrogenic harm and collateral suffering linked to high-volume spay-neuter campaigns from bioethical, regulatory, and technical perspectives. It analyzes structural factors that contribute to preventable harm to animals and veterinary personnel, assesses occupational safety measures, and proposes rigorous implementation criteria to ensure safe control of animal populations."
+        }
+      ],
+      "authors_conclusion": "대규모 정부 지원 중성화 프로그램에서 의료과실과 동물복지 부작용을 예방하기 위해 윤리적, 규제적, 기술적 요인을 면밀히 검토하고 엄격한 실행 기준 마련이 필수적이라고 결론지었다.",
+      "clinical_takeaway": "대규모 중성화 캠페인은 많은 동물을 대상으로 하기에 효율적이나, 빈번한 수술과 대량 시술은 의료과실과 동물복지 저해의 위험을 높일 수 있습니다. 따라서 이러한 프로그램을 운영할 때 윤리적 고려뿐 아니라 수의 인력의 안전과 동물의 부작용 최소화를 위한 명확한 실행 기준과 모니터링 체계가 반드시 필요합니다. 본 연구 결과는 대량 중성화 정책을 수립하거나 평가하는 수의사 및 정책 입안자에게 중요한 참고 자료가 될 수 있으나, 구체적 임상 데이터 부족으로 직접적인 치료 지침으로는 제한적입니다. 향후 임상 연구를 통한 근거 축적이 필요합니다.",
+      "limitations": [
+        "실증적 임상 데이터를 포함하지 않고 개념적·윤리적 분석에 기반한다.",
+        "단일 국가(콜롬비아) 및 특정 지역(메데인)의 사례에 한정된다.",
+        "추가 임상, 역학적 연구 없이 광범위한 일반화에 한계가 있다.",
+        "초록 정보만 제공되어 상세한 방법론과 결과 분석이 부족하다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.05.0431",
+      "discovered_at": "2026-10-01 23:24:26.393773+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42815532/",
+      "summary_generated_at": "2026-11-03 03:58:07.220698+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -3544,6 +3674,71 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Pituitary tumour shrinkage and diabetic remission in two cats with Cushing syndrome treated with cabergoline.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-08-10",
+      "online_publication_date": "2026-08-10",
+      "publication_date_raw": "2026-Aug-10",
+      "doi": "10.1111/jsap.70185",
+      "pmid": "42576538",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70185",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42576538/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 Cushing syndrome이 동반된 당뇨병을 가진 실제 환축 고양이 두 마리를 대상으로 cabergoline 치료 후 당뇨 관해와 뇌하수체 종양의 크기 감소를 관찰하여 임상적 의의를 직접적으로 보여주고 있습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "endocrinology"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "pituitary-dependent hypercortisolism in cats",
+      "study_design": "case_series",
+      "sample_size": 2,
+      "sample_size_quote": "two cats with diabetes mellitus and Cushing's syndrome",
+      "objective": "Cushing syndrome과 동반된 당뇨병 고양이에서 cabergoline 투여가 당뇨 관해 및 뇌하수체 종양 크기 변화에 미치는 영향을 평가함.",
+      "study_methods": "당뇨병과 Cushing syndrome이 의심된 두 마리의 고양이를 대상으로 인슐린 글라진 치료, 식이요법, 연속 혈당 모니터링을 시행하였으며, 내분비 검사로 비억제성 코르티솔, 상승된 내인성 ACTH, CT를 통한 뇌하수체 종양을 확인했다. 두 고양이 모두 cabergoline을 10 μg/kg 경구 48시간 간격으로 시작하고 Case 2에서는 용량을 10 μg/kg 12시간 간격까지 점진 증량했으며, 8개월 간 추적하며 당뇨 관해, ACTH 및 종양 크기 변화를 평가하였다.",
+      "one_sentence_summary": "두 마리의 당뇨병과 Cushing syndrome이 있는 고양이를 대상으로 cabergoline 치료를 시행하였으며, 각각 1개월과 6개월 이내에 당뇨 관해에 도달했다. 8개월간 추적에서 한 고양이에서는 내인성 ACTH 농도와 뇌하수체 부피가 29% 감소, 다른 고양이는 52% 감소하는 등 종양 크기 감소와 호르몬 변화가 관찰되었다. 이는 cabergoline이 고양이 pituitary-dependent hypercortisolism의 잠재적 약제임을 시사한다.",
+      "key_results": [
+        {
+          "result": "두 고양이 모두 cabergoline 치료 후 각각 1개월과 6개월 내에 당뇨 관해를 달성했다.",
+          "evidence_quote": "Both cats achieved diabetic remission within 1 and 6 months of treatment, respectively."
+        },
+        {
+          "result": "8개월 후 Case 1의 뇌하수체 종양 부피가 시작 시점 대비 29% 감소했다.",
+          "evidence_quote": "Serial monitoring demonstrated a decrease in endogenous ACTH concentrations and a reduction in pituitary volume of 29% of baseline (Case 1) and of 52% of baseline (Case 2) after 8 months of treatment."
+        },
+        {
+          "result": "8개월 후 Case 2의 뇌하수체 종양 부피가 시작 시점 대비 52% 감소했다.",
+          "evidence_quote": "Serial monitoring demonstrated a decrease in endogenous ACTH concentrations and a reduction in pituitary volume of 29% of baseline (Case 1) and of 52% of baseline (Case 2) after 8 months of treatment."
+        },
+        {
+          "result": "두 고양이에서 cabergoline 치료 기간 중 내인성 ACTH 농도가 감소했다.",
+          "evidence_quote": "Serial monitoring demonstrated a decrease in endogenous ACTH concentrations"
+        }
+      ],
+      "authors_conclusion": "연구진은 cabergoline이 고양이의 pituitary-dependent hypercortisolism 치료를 위한 잠재적인 약물 치료 옵션이 될 수 있음을 시사한다는 결론을 내렸다.",
+      "clinical_takeaway": "Cushing syndrome과 당뇨병이 복합된 고양이에서 cabergoline은 내인성 ACTH 농도를 낮추고 뇌하수체 종양 크기를 유의하게 줄이는 동시에 당뇨 관해를 유도할 수 있는 잠재적 치료법으로 보입니다. 이는 기존 치료에 반응하지 않는 케이스나 수술이 어려운 환축에서 유용할 수 있음을 시사합니다. 그러나 사례 수가 적고 후향적 관찰이라는 제한점으로, 더 많은 연구 없이 모든 고양이 환자에게 일반화하기에는 아직 근거가 부족합니다. 따라서 임상 적용 시 환축의 개별 상태를 고려하여 신중한 판단이 필요합니다.",
+      "limitations": [
+        "증례수가 두 마리로 매우 적어 일반화에 제한이 있다.",
+        "후향적 증례 보고로 치료 효과의 인과관계 확립에 한계가 있다.",
+        "추가 대조군이나 장기 추적 데이터가 미흡하다.",
+        "자료는 초록 수준이며, 완전한 본문 정보가 제공되지 않았다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "실제 Cushing syndrome과 당뇨를 동반한 고양이에서 cabergoline으로 관해 및 종양부피 감소를 확인한 직접적인 임상 증거가 제공되어, 임상적 도움이 될 가능성이 크므로 추천한다.",
+      "id": "doi:10.1111/jsap.70185",
+      "discovered_at": "2026-09-17 05:57:06.020730+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42576538/",
+      "summary_generated_at": "2026-11-03 03:57:29.712680+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Canine Femoral Trochlear Dysplasia: A Retrospective Study Assessing the Dejour Signs.",
       "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
       "journal_id": "vcot",
@@ -4817,6 +5012,74 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Liquid biopsy technologies offer new insights and approaches for canine cancer detection and management.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-06-10",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.2460/javma.26.02.0124",
+      "pmid": "42269671",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.02.0124",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269671/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 canine cancer detection에 관한 liquid biopsy 기술을 개괄적으로 소개하고 있으나, 직접적인 임상 연구 결과나  개 임상에서의 구체적 진단/치료 성과를 제공하지 않아 간접적 관련성을 가집니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine cancer detection",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개암 진단 및 관리에 있어 liquid biopsy 기술의 현황과 잠재적 임상 적용을 개괄적으로 제시하고 있습니다.",
+      "study_methods": "초록에 근거하면 본 연구는 liquid biopsy와 관련한 기술적 개념과 인간 및 수의학에서의 현재 적용 현황, 그리고 혈액 기반 검사 한계를 해결하기 위한 Urine Molecular Fingerprinting 새로운 검사 개발 동향을 기술적 개관으로서 설명하고 있습니다.",
+      "one_sentence_summary": "본 리뷰는 canine cancer detection 및 management를 위한 liquid biopsy(LBx) 기술에 대해 개략적으로 다루었습니다. LBx는 혈액, 소변, 타액 등 체액을 분석하여 암 바이오마커 및 순환 종양 세포를 탐지하는 비침습적 기술로, 인간 암 분야에서는 조사 도구로 점차 확산 중이나 수의학에서는 아직 제한적입니다. 현재 개 소유주와 수의사를 위한 상용 LBx 검사들이 존재하며, 최근 혈액 기반 한계를 보완하는 Urine Molecular Fingerprinting 검사가 개발되었습니다.",
+      "key_results": [
+        {
+          "result": "Liquid biopsy는 혈액, 소변, 타액 등의 체액을 분석하여 암 바이오마커와 순환 종양 세포를 탐지하는 기술이다.",
+          "evidence_quote": "Liquid biopsy (LBx) is the analysis of fluids such as blood, urine, saliva, or secretions to detect cancer biomarkers and circulating tumor cells."
+        },
+        {
+          "result": "인간 암 분야에서 LBx는 조사 도구로 사용되며 조직 생검보다 덜 침습적이고 합병증 위험이 적다.",
+          "evidence_quote": "It is becoming a common investigational tool in human oncology, but less so in veterinary medicine. Liquid biopsy is less invasive and has fewer complications than tissue biopsy, but it is not intended to replace tissue biopsy."
+        },
+        {
+          "result": "LBx는 조기 암 발견 가능성을 제시하지만 인간과 개에서 아직 증명되지 않았다.",
+          "evidence_quote": "Liquid biopsy may eventually provide early-stage cancer detection, but this has not been proven for humans or dogs."
+        },
+        {
+          "result": "현재 개 소유주와 수의사를 위한 여러 상용 LBx 검사가 이용 가능하다.",
+          "evidence_quote": "Several LBx tests are currently available commercially to dog owners and veterinarians."
+        },
+        {
+          "result": "혈액 기반 LBx 한계를 해결하기 위한 새로운 검사인 Urine Molecular Fingerprinting 기술이 개발되었다.",
+          "evidence_quote": "A new test, Urine Molecular Fingerprinting, has been developed and addresses the limitations of blood-based technologies."
+        }
+      ],
+      "authors_conclusion": "Liquid biopsy는 수의학 암 탐지와 관리를 위한 가능성 있는 비침습적 기법으로 유망하지만, 현재로서는 연구 단계이며 임상 적용과 조기 진단 능력은 확립되지 않았다.",
+      "clinical_takeaway": "개에서 liquid biopsy는 암 진단과 관리를 위한 비침습적 방법으로 기대되나, 아직 임상 연구가 부족하여 표준 진단법을 대체하지 못합니다. 본 기술은 혈액, 소변 등 다양한 체액에서 암 바이오마커를 감지하며, 혈액 기반 검사 한계를 극복하기 위한 새로운 소변 검사 개발도 진행 중입니다. 따라서 이러한 검사들은 향후 보조 진단 수단으로 활용 가능성을 가지지만, 현 시점에서는 진단 정확성과 조기 발견 효과가 확증되지 않아 임상에서 보조적 도구로 제한적으로 고려해야 합니다.",
+      "limitations": [
+        "초록만 제공되어 상세 연구 방법과 데이터가 부족하다.",
+        "임상 대상 개수와 구체적 진단 성능 지표가 보고되지 않았다.",
+        "추적관찰이나 비교군 연구가 없어 치료 효과에 관한 근거가 미흡하다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.02.0124",
+      "discovered_at": "2026-09-16 01:13:31.984544+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42269671/",
+      "summary_generated_at": "2026-11-03 03:57:59.284113+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -5053,19 +5316,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 512
+        "received": 499
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 573
+        "received": 565
       }
     },
-    "started_at": "2026-11-02T02:29:37.139645+00:00",
-    "since": "2026-09-18",
-    "processed": 2,
+    "started_at": "2026-11-03T03:55:28.298724+00:00",
+    "since": "2026-09-19",
+    "processed": 4,
     "refreshed": 0,
-    "failed": 14,
-    "deferred": 1003,
-    "finished_at": "2026-11-02T02:32:39.040745+00:00"
+    "failed": 17,
+    "deferred": 997,
+    "finished_at": "2026-11-03T03:58:07.927535+00:00"
   }
 }
