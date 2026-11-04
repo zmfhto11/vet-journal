@@ -1,9 +1,85 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T03:58:08.009568+00:00",
-  "last_successful_collection": "2026-11-03T03:55:28.298670Z",
+  "generated_at": "2026-11-04T03:02:28.714144+00:00",
+  "last_successful_collection": "2026-11-04T02:59:51.481152Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Therapeutic approaches to the companion animal pneumothorax: A review for veterinary practice.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-11-02",
+      "online_publication_date": "2026-11-02",
+      "publication_date_raw": "2026-Nov-02",
+      "doi": "10.1111/vsu.70171",
+      "pmid": "42971172",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70171",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42971172/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 문헌 리뷰는 개와 고양이의 pneumothorax 치료에 관한 최신 근거를 바탕으로 수술적 및 비수술적 치료 전략을 평가하여 임상적 의사결정을 지원하고 있어, 임상 현장에서 pneumothorax 환자 치료에 직접적으로 적용 가능한 내용을 담고 있습니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "internal_medicine",
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "pneumothorax",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개와 고양이에서 pneumothorax의 병태생리, 진단 및 치료법을 문헌 리뷰를 통해 비수술적 및 수술적 치료법에 따른 결과와 함께 종합적으로 평가하여 임상적 의사결정을 지원하고자 하였습니다.",
+      "study_methods": "기존에 발표된 개와 고양이 pneumothorax 관련 연구들을 검색 및 분석하여 병태생리, 진단, 치료 방법(수술적 및 비수술적) 그리고 치료 결과를 주로 병인에 따라 종합적으로 문헌 리뷰 형식으로 평가하였습니다. 치료 선택에 영향을 주는 요소인 질환 원인, 심각도, 환자 안정성, 가용 자원, 수의사의 전문성 등을 고려하여 근거 기반 임상 지침 마련을 목표로 하였습니다.",
+      "one_sentence_summary": "개와 고양이에서 pneumothorax의 관리에 관한 여러 문헌을 종합적으로 검토한 내러티브 리뷰입니다. 이 연구는 병인에 따른 비수술적 및 수술적 치료법과 그 결과를 분석하여, 적절한 선택 시 두 치료법 모두 낮은 재발률과 우수한 치료 결과를 달성할 수 있음을 밝혔습니다. 비수술적 치료는 선택된 환자에서 최소 침습적 방법으로 효과적이며, 수술은 직접적인 흉부 탐색과 병변 교정을 가능하게 하여 난치성이나 중증인 경우에 확실한 치료를 제공한다고 평가하였습니다. 치료법 선택 시 병인, 중증도, 환자 안정성, 자원과 전문성을 종합적으로 고려해야 한다고 강조하였습니다.",
+      "key_results": [
+        {
+          "result": "적절한 환자 선택 시 비수술적 치료와 수술적 치료 모두 낮은 재발률과 양호한 치료 결과를 나타냈다.",
+          "evidence_quote": "Current evidence indicates that both medical and surgical management can achieve favorable outcomes, with low reported recurrence rates when appropriately selected."
+        },
+        {
+          "result": "비수술적 치료는 선택된 경우에서 효과적인 최소 침습적 치료법으로 활용될 수 있다.",
+          "evidence_quote": "Nonsurgical approaches may provide effective, minimally invasive treatment in selected cases,"
+        },
+        {
+          "result": "수술적 치료는 직접 흉부를 탐색하고 폐 병변을 확인 및 교정하며 난치성 또는 중증 pneumothorax의 확실한 치료를 가능하게 한다.",
+          "evidence_quote": "whereas surgical intervention enables direct thoracic exploration, identification and correction of underlying pulmonary lesions, and definitive treatment of refractory or severe pneumothorax."
+        },
+        {
+          "result": "치료 선택은 병인, 중증도, 환자의 안정성, 가용 자원, 그리고 수의사의 전문성에 의해 결정되어야 한다.",
+          "evidence_quote": "Treatment selection should be guided by disease etiology, severity, patient stability, available resources, and clinician expertise."
+        },
+        {
+          "result": "치료를 근본 원인과 임상 양상에 맞게 맞춤형으로 계획하는 것이 결과 최적화에 중요하다.",
+          "evidence_quote": "Both surgical and nonsurgical treatments can be effective when tailored to the underlying cause and clinical presentation, highlighting the importance of individualized treatment planning to optimize outcomes."
+        },
+        {
+          "result": "장기적 결과 평가를 위한 고품질 연구가 추가적으로 요구된다.",
+          "evidence_quote": "This review synthesizes current evidence to guide clinical decision-making in the management of pneumothorax in dogs and cats and highlights the need for high-quality studies evaluating long-term outcomes to strengthen the evidence base."
+        }
+      ],
+      "authors_conclusion": "현재의 근거에 따르면 개와 고양이의 pneumothorax 치료에 있어서 비수술적 치료와 수술적 치료 모두 적절한 환자 선택 시 좋은 치료 결과와 낮은 재발률을 보여줍니다. 치료는 병인과 환자 임상 상태에 따라 개별화되어야 하며, 장기 결과를 평가하기 위한 추가적인 고품질 연구가 필요함을 강조합니다.",
+      "clinical_takeaway": "개와 고양이 pneumothorax 환자에서 치료법을 선택할 때는 병인과 심각도, 환자 상태를 가장 우선적으로 고려해야 하며, 수술적 치료와 비수술적 치료 모두 각자의 적응증에서 효과적일 수 있음을 알 수 있습니다. 특히 비수술적 치료는 중증도가 낮거나 최소 침습적 치료가 적합한 환자에서 유용하며, 수술은 폐 병변의 직접적 치료가 필요한 중증 또는 난치성 환자에서 필수적입니다. 따라서 임상에서는 각 환자의 개별 상황에 맞춘 맞춤형 치료 계획이 최적의 결과를 가져올 것으로 보입니다. 다만 이 분야의 장기 예후에 관한 근거가 아직 부족하므로 치료법 선택과 예후 예측에 신중을 기해야 합니다.",
+      "limitations": [
+        "이 연구는 내러티브 문헌 리뷰로 설계되어 체계적 리뷰나 메타분석보다 근거 수준이 낮을 수 있습니다.",
+        "원문 연구들의 이질성으로 인해 치료 효과에 관한 일반화가 제한적일 수 있습니다.",
+        "장기 추적관찰에 관한 데이터가 부족하여 장기 결과를 확실히 평가하기 어렵습니다.",
+        "임상적 치료법 결정에 영향을 미치는 다양한 요소가 개별 연구마다 상세히 기술되어 있지 않다는 점이 한계입니다.",
+        "본 리뷰는 개와 고양이 임상 실제 사례가 아니라 문헌 기반 결과임을 감안해야 합니다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "개와 고양이 pneumothorax 환자의 수술적 및 비수술적 치료 선택에 임상 현장에서 직접 적용 가능한 최신 문헌 근거를 종합적으로 제공하여 치료 계획 수립에 도움을 줄 수 있으므로 권장합니다.",
+      "id": "doi:10.1111/vsu.70171",
+      "discovered_at": "2026-11-04 02:59:53.250102+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42971172/",
+      "summary_generated_at": "2026-11-04 03:01:07.156139+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -13,7 +89,7 @@
       "publication_date_raw": "2026-Nov-02",
       "doi": "10.1093/jvimsj/aalag283",
       "pmid": "42969556",
-      "pmcid": null,
+      "pmcid": "PMC13725755",
       "publisher_url": "https://doi.org/10.1093/jvimsj/aalag283",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42969556/",
       "source": "pubmed",
@@ -2420,6 +2496,81 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Clinical and molecular genetic description of a Marfan-like syndrome in a Golden Retriever puppy.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag222",
+      "pmid": "42815455",
+      "pmcid": "PMC13626598",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag222",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815455/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 Marfan syndrome 의심 증상을 보인 Golden Retriever 강아지에서 whole-genome sequencing 을 이용해 FBN1 유전자 exon 24의 3618 bp 결실 변이를 확인하여 명확한 유전적 진단을 제시함으로써 임상 진단과 예후, 치료 가능성에 직접적인 임상적 의미를 갖습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "cardiology",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Marfan syndrome in dog",
+      "study_design": "case_report",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "Marfan syndrome (MFS)이 의심되는 Golden Retriever 강아지에서 whole-genome sequencing 을 이용해 유전적 원인과 임상적 특징을 규명하여 예후 및 치료 방향을 제시하고자 하였다.",
+      "study_methods": "10개월령 Golden Retriever 한 마리가 심장비대, pneumothorax 및 관절 이상 등 결체조직질환 의심 소견으로 내원하였고, 신체검사, 혈액검사, 방사선영상, 심초음파, CT 등 종합 검사 후 FBN1 유전자의 변이를 찾기 위해 whole-genome sequencing 이 수행되었다. 대조군으로는 비슷한 증상이 없는 160마리 Golden Retriever 및 다른 견종 DNA가 이용되었다. 변이 탐색은 SNV, indel, 구조변이 모두 포함하였고, PCR 및 Sanger sequencing으로 최종 변이를 확인하였다.",
+      "one_sentence_summary": "10개월령 Golden Retriever 강아지 한 마리가 심장비대, 관절 과운동성, 폐기종 등의 임상 증상으로 내원하였다. Whole-genome sequencing 을 통해 FBN1 유전자 1대립형에서 exon 24 전체를 포함하는 3618 bp 결실 변이(NC_049251.1:g.14998228_15001846del)를 확인하였다. 이 변이는 다른 160마리 Golden Retriever와 대조군에서 발견되지 않았으며, 변이로 인해 in-frame exon skipping이 발생하여 Marfan syndrome 의 임상 양상과 일치하는 소견을 보였다.",
+      "key_results": [
+        {
+          "result": "강아지는 심장비대, pneumothorax 및 관절 과운동성이 관찰되었다.",
+          "evidence_quote": "The dog was presented for cardiology consultation and had clinical signs of cardiac enlargement, pneumothorax, and joint hypermobility."
+        },
+        {
+          "result": "FBN1 유전자의 1대립형에서 exon 24 전체를 포함하는 3618 bp 결실이 확인되었다.",
+          "evidence_quote": "After genetic analysis, a 3618 base pair deletion encompassing exon 24 of the FBN1 gene on 1 allele was detected (NC_049251.1:g.14998228_15001846del), likely causing an in-frame deletion in the coding sequence."
+        },
+        {
+          "result": "이 결실은 빅데이터 대조군인 160마리 Golden Retriever에서는 확인되지 않았다.",
+          "evidence_quote": "Polymerase chain reaction was also performed on 160 additional DNA samples of non-affected Golden Retrievers, none of which showed presence of the deletion"
+        },
+        {
+          "result": "변이는 Mosaic 형태로, 일부 세포에서 결실이 없는 대립형도 관찰되었다.",
+          "evidence_quote": "WGS and Sanger sequencing data suggest that a subset of cells of the proband does not carry the deletion, consistent with localized mosaicism."
+        },
+        {
+          "result": "심초음파에서 확장된 aortic annulus 및 aortic root가 관찰되어 annuloaortic ectasia 가 의심되었다.",
+          "evidence_quote": "Echocardiography identified a markedly enlarged aortic annulus and aortic root. Annuloaortic ectasia secondary to a congenital connective tissue disorder was suspected."
+        },
+        {
+          "result": "CT 검사에서 오른쪽 폐엽에 선천성 폐기종이 확인되었다.",
+          "evidence_quote": "Computed tomography of the thorax was performed and confirmed the presence of right middle lung lobe emphysema causing displacement of the right caudal and accessory lung lobes"
+        }
+      ],
+      "authors_conclusion": "본 사례에서 Golden Retriever 강아지에게서 Marfan syndrome 과 임상 증상에 부합하는 FBN1 exon 24 결실 변이가 동반됨을 확인하였다. 이는 강아지에서 처음으로 whole-genome sequencing 으로 진단된 유전적 Marfan-like syndrome 사례로서 향후 진단 및 관리에 중요한 참고가 될 것이다. 그러나 가족력과 유전 양상은 확인하지 못한 한계가 있다.",
+      "clinical_takeaway": "Marfan syndrome 의심 증상을 보이는 young Golden Retriever 강아지에서 FBN1 유전자 exon 24의 큰 결실 변이가 발견되어 이 변이가 질환의 원인임을 시사합니다. 이에 따라 Marfan-like syndrome 의 진단 시 whole-genome sequencing 이 유용한 진단 도구가 될 수 있음을 보여줍니다. 본 증례는 mosaicism 가능성도 보여 유전적 다양성을 고려한 면밀한 분석이 필요함을 알립니다. 다만 단일 증례 연구이므로 다른 품종이나 연령대에 일반화하기 전에는 추가 연구가 요구됩니다.",
+      "limitations": [
+        "단일 증례 연구로 결과 일반화에 제한이 있다.",
+        "부모나 동료 견에 대한 유전 정보가 확보되지 않아 유전 양상을 추적하지 못했다.",
+        "임상적 조직검사 혹은 생검이 없어 변이가 단백질 수준에서 어떤 영향을 미쳤는지 확인하지 못했다.",
+        "전체 유전자의 발현 조절 영향과 같은 후성유전학적 영향은 평가하지 못했다.",
+        "해당 변이의 mosaicism 상태를 일부 세포에서만 관찰한 점으로 인해 변이의 세포 내 분포 불균형 가능성이 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "Golden Retriever에서 심장비대 및 결체조직 이상이 의심되는 Marfan syndrome-like 증례에 대해 whole-genome sequencing으로 FBN1 gene exon 24 결실 변이를 확인함으로써 진단을 명료하게 하고 예후 및 치료 방향 설정에 도움을 주므로 임상적 직접 적용이 가능한 가치 있는 증례로 판단됨.",
+      "id": "doi:10.1093/jvimsj/aalag222",
+      "discovered_at": "2026-10-01 23:24:26.424224+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13626598",
+      "summary_generated_at": "2026-11-04 03:01:18.771292+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Current knowledge of intermittent photic stimulation for electroencephalography in dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -3739,6 +3890,77 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Use of a cell saver device for perioperative autotransfusion in 102 dogs and one cat.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-08-07",
+      "online_publication_date": "2026-08-07",
+      "publication_date_raw": "2026-Oct",
+      "doi": "10.1111/vsu.70144",
+      "pmid": "42567836",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70144",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42567836/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 102마리의 client-owned 개와 1마리의 고양이를 대상으로 세포 세이버 장치를 이용한 perioperative autotransfusion의 적용과 안전성을 후향적으로 평가하여, 개의 수술 중 출혈 관리에 직접적으로 적용 가능한 임상적 근거를 제공합니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "internal_medicine",
+        "surgery"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "perioperative autotransfusion using cell saver device",
+      "study_design": "retrospective",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개의 수술 중 출혈을 관리하기 위해 autotransfusion을 수행할 때 세포 세이버 장치(CSD)의 사용과 관련 결과를 기술하고 안전성을 평가하고자 하였다.",
+      "study_methods": "후향적 연구로, CSD를 활용한 autotransfusion이 시행된 102마리의 개와 1마리의 고양이 사례를 의무기록을 통해 분석하였다. 신호, 수술 세부사항, 혈액검사 결과, 출혈 정도, 혈액 수집 방법, 수혈량, 수혈 시기, 추가적으로 사용된 혈액 제제, packed cell volume(PCV) 변화, 수혈 반응 발생률을 평가했으며, 단기 합병증과 전반적인 치료 결과는 전화 추적조사를 통해 확인하였다.",
+      "one_sentence_summary": "102마리의 client-owned 개와 1마리 고양이를 대상으로 세포 세이버 장치를 이용한 perioperative autotransfusion 103건을 후향적으로 분석하였다. 응급 수술 40건과 선택적 수술 63건에서 평균 14 mL/kg의 자가 수혈이 이뤄졌으며, 투여된 혈액 1 mL/kg 당 PCV가 약 0.6% 증가하였다. 전체의 14% 환자에서 자가 수혈과 함께 동종 혈액 제제가 사용되었고, 수혈 반응률은 1%였다. 단일 고양이 사례 포함으로 고양이 적용에 대한 추가 연구가 필요하다.",
+      "key_results": [
+        {
+          "result": "103건의 자가수혈이 진행되었으며, 응급 40건과 선별 수술 63건에 사용되었다.",
+          "evidence_quote": "There were 103 autotransfusions performed, during emergency (n = 40) and elective (n = 63) procedures."
+        },
+        {
+          "result": "평균 수혈량은 14 mL/kg이었다.",
+          "evidence_quote": "The mean transfusion volume was 14 mL/kg."
+        },
+        {
+          "result": "투여된 혈액 1 mL/kg 당 PCV가 약 0.6% 증가하였다.",
+          "evidence_quote": "For every 1 mL of blood transfused per kilogram of bodyweight, PCV increased by approximately 0.6%."
+        },
+        {
+          "result": "14%의 경우에서 자가혈액과 함께 동종 혈액 제제가 함께 사용되었다.",
+          "evidence_quote": "Allogeneic blood products (ABPs) were used in addition to autologous blood in 14% of cases."
+        },
+        {
+          "result": "자가수혈 관련 수혈 반응률은 1%로 낮았다.",
+          "evidence_quote": "The transfusion reaction rate associated with autotransfusion was 1%."
+        }
+      ],
+      "authors_conclusion": "CSD를 이용한 자가 수혈은 개에서 안전하고 다양한 수술 중 출혈 관리에 적용 가능함을 시사한다. 다만 본 연구에 포함된 고양이 사례가 단일로 제한적이므로, 고양이에 대한 안전성과 유효성을 평가하기 위한 추가 연구가 필요하다.",
+      "clinical_takeaway": "세포 세이버 장치를 이용한 perioperative autotransfusion은 다양한 응급 및 선별 수술에서 개의 출혈 관리에 효과적이고 안전하게 사용 가능하다는 점을 보여준다. 평균 14 mL/kg 수혈 시 PCV가 약 0.6% 증가하는 등 수혈 효과가 확인되었고, 수혈 반응률도 낮아 임상 적용에 유용하다. 다만 고양이는 연구 대상이 1마리에 불과해 해당 종에 대한 일반화는 아직 제한적이며, 추가 연구가 필요하다. 이 연구 결과는 개 환자에서 자가 수혈을 고려할 때 안전성 및 효과 측면에서 도움이 되나, 후향적 연구의 한계와 고양이 적용 미확인을 감안해야 한다.",
+      "limitations": [
+        "후향적 연구로서 통제군이 없고, 데이터 기록에 제한이 있을 수 있음.",
+        "고양이 대상은 단 1마리에 불과하여 고양이 적용에 대한 근거가 부족함.",
+        "단기 추적 관찰만 이루어져 장기 안전성 및 효과는 확인되지 않음.",
+        "동종 혈액 사용 여부 등 수혈 관리가 균일하지 않을 수 있음.",
+        "전체 수술 종류 및 출혈 정도 다양성으로 인한 결과 해석의 제한성."
+      ],
+      "recommended": true,
+      "recommendation_reason": "다수의 client-owned 개 환자를 대상으로 한 실제 임상 사례에 근거한 자가수혈 장치 사용의 안전성과 효과를 시사하는 결과로서, 개 수술 중 출혈 관리에 참고할 가치가 충분하기 때문이다.",
+      "id": "doi:10.1111/vsu.70144",
+      "discovered_at": "2026-09-17 05:57:06.036760+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42567836/",
+      "summary_generated_at": "2026-11-04 03:02:27.358799+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Canine Femoral Trochlear Dysplasia: A Retrospective Study Assessing the Dejour Signs.",
       "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
       "journal_id": "vcot",
@@ -4050,6 +4272,92 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Owners' perspective on using a continuous glucose monitoring system with their diabetic pet.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": null,
+      "online_publication_date": "2026-07-21",
+      "publication_date_raw": "2026-Nov",
+      "doi": "10.1111/jsap.70165",
+      "pmid": "42478480",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70165",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42478480/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 실제 당뇨가 진단된 반려견과 반려묘의 보호자를 대상으로 FreeStyle Libre® 연속 혈당 측정 시스템 사용 경험과 만족도를 평가하여, 임상에서 직접적으로 활용 가능한 유용성과 보호자 및 반려동물의 삶의 질 향상 가능성을 제시하였기 때문입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "diabetes mellitus",
+      "study_design": "retrospective",
+      "sample_size": 35,
+      "sample_size_quote": "An anonymous online survey was retrospectively distributed to 65 diabetic pet owners, with 35 responses received (18 cat and 17 dog owners)",
+      "objective": "FreeStyle Libre® 연속 혈당 측정 시스템 사용 시 반려동물 당뇨 환자 보호자의 관점에서 센서의 장단점, 사용 편의성에 대한 만족도, 반려동물의 삶의 질과 당뇨 조절에 미치는 영향을 평가하고자 하였습니다.",
+      "study_methods": "65명의 당뇨 반려동물 소유자를 대상으로 한 익명 온라인 설문조사를 후향적으로 시행하여 35명(반려묘 18명, 반려견 17명)의 응답을 분석하였습니다. 설문 내용은 센서의 사용 경험, 부착 지속 기간, 스트레스 수준, 비용 인식, 만족도 및 당뇨 조절 효과, 삶의 질 변화 등을 포함하였습니다.",
+      "one_sentence_summary": "본 연구는 당뇨가 있는 반려견과 반려묘 보호자 65명에게 FreeStyle Libre® 연속 혈당 측정 시스템 사용 경험에 관한 설문조사를 실시하여 35명의 응답을 분석하였습니다. 보호자의 77%는 당뇨 조절 개선을, 57%는 반려동물의 삶의 질 향상을 경험하였고, 91%는 재사용 의사, 94%는 타인에게 추천 의사를 밝혔습니다. 센서는 대부분 11~14일간 부착되었으며, 보호자 스트레스는 중간 수준, 비용은 다소 부담스러운 것으로 평가되었습니다.",
+      "key_results": [
+        {
+          "result": "77%의 환자에서 보호자들은 당뇨 조절이 개선되었다고 응답하였다.",
+          "evidence_quote": "In owners' opinion, enhanced diabetes control was observed in 77% of patients"
+        },
+        {
+          "result": "57%의 보호자가 반려동물의 삶의 질이 당뇨 진단 시점보다 향상되었다고 하였다.",
+          "evidence_quote": "with 57% indicating improved pet's quality of life (compared with quality of life at the time of diagnosis)"
+        },
+        {
+          "result": "센서는 63%의 반려동물에서 11~14일간 부착이 유지되었다.",
+          "evidence_quote": "In 63% of the pets, the sensor remained attached for 11 to 14 days."
+        },
+        {
+          "result": "응답자의 91%는 센서를 다시 사용할 의향이 있다고 답하였다.",
+          "evidence_quote": "Ninety-one percent would use the sensor again"
+        },
+        {
+          "result": "응답자의 94%는 센서 사용을 다른 보호자에게 추천할 것이라고 응답하였다.",
+          "evidence_quote": "and 94% would recommend it to other owners."
+        },
+        {
+          "result": "보호자의 스트레스 수준은 평균 4.57 (0~10 척도)로 중간 정도였다.",
+          "evidence_quote": "Owners reported a moderate stress level for themselves (mean 4.57 ± 3.58, 0 to 10 scale; 10 = highest stress) when using the sensor."
+        },
+        {
+          "result": "센서 비용은 평균 7.37 (0~10 척도)로 다소 높은 편으로 평가되었다.",
+          "evidence_quote": "Although the sensor cost was rated as moderately high (mean 7.37 ± 2.157, 0 to 10 scale; 10 = expensive)"
+        },
+        {
+          "result": "보호자 전체 만족도는 중앙값 8 (0~10 척도)로 높았다.",
+          "evidence_quote": "overall owner satisfaction was high as well (median 8, IQR = 2, 0 to 10 scale; 10 = very satisfied)"
+        },
+        {
+          "result": "31%의 보호자가 혈당 수치에 대해 자주 걱정한다고 응답하였다.",
+          "evidence_quote": "Thirty-one per cent of owners were often concerned about the glucose readings."
+        }
+      ],
+      "authors_conclusion": "FreeStyle Libre® 연속 혈당 모니터링 시스템은 사용자 친화적이며 보호자 만족도가 높고 반려동물과 보호자의 삶의 질 향상 및 당뇨 조절 개선 가능성이 있는 유용한 도구임을 시사합니다.",
+      "clinical_takeaway": "연속 혈당 측정 시스템 FreeStyle Libre®는 당뇨 반려동물 보호자에게 실질적인 당뇨 관리 향상과 반려동물 및 보호자의 삶의 질 개선을 가져올 수 있는 효과적인 모니터링 수단입니다. 다만 비용 부담과 일부 보호자의 혈당 수치에 대한 걱정 등은 고려해야 하며, 센서 부착 지속기간과 사용 중 스트레스 정도도 임상적 상담 시 참고할 만한 요소입니다. 이 연구 결과는 실제 임상 상황에서 이 기기를 사용함에 있어 보호자 만족도 및 당뇨 조절 개선 가능성에 대한 근거를 제공하나, 소규모 후향적 설문 연구라는 한계로 일반화에는 주의가 필요합니다.",
+      "limitations": [
+        "익명 온라인 설문 조사의 후향적 성격으로 인과관계 확인에 한계가 있음",
+        "응답률 53%로 비응답편향 가능성 존재",
+        "비교군이나 객관적 임상지표가 없어 주관적 평가에 의존함",
+        "소규모 표본 크기로 결과의 대표성 제한",
+        "전체 논문이 아닌 초록만 제공되어 상세 방법 및 결과 확인 불가"
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 실제 당뇨 반려동물 보호자를 대상으로 FreeStyle Libre®의 사용 경험과 만족도를 조사하여 임상에서 직접 활용 가능한 구체적이고 실용적인 정보를 제공했으며, 보호자 및 반려동물 삶의 질과 당뇨 조절 개선에 긍정적 영향을 시사하여 관련 임상 종사자에게 유익하기 때문입니다.",
+      "id": "doi:10.1111/jsap.70165",
+      "discovered_at": "2026-11-04 02:59:54.978798+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42478480/",
+      "summary_generated_at": "2026-11-04 03:01:30.840501+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Development of a predictive model for estimation of postoperative risk following brachycephalic obstructive airway syndrome surgery.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -4173,6 +4481,84 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42456746/",
       "summary_generated_at": "2026-10-21 01:36:41.951231+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Comparison of lingual oscillometric and invasive blood pressure measurement in dogs under general anaesthesia.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": null,
+      "online_publication_date": "2026-07-12",
+      "publication_date_raw": "2026-Nov",
+      "doi": "10.1111/jsap.70163",
+      "pmid": "42438176",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70163",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42438176/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 전신마취하에서 수의 임상 현장에 직접 적용 가능한 client-owned dog 89마리를 대상으로 진행된 전향적 관찰 연구로써, lingual oscillometric 혈압 측정법과 침습적 혈압 측정법 간의 정확도 비교와 임상적 타당성을 평가하였습니다. 임상에서 비침습적 혈압 측정법의 활용도와 한계를 구체적으로 제시하여 현장에 직접 도움이 됩니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "anesthesia"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "blood pressure monitoring",
+      "study_design": "prospective",
+      "sample_size": 89,
+      "sample_size_quote": "Prospective observational study of 89 client-owned dogs undergoing general anaesthesia.",
+      "objective": "전신마취 중인 개에서 혀를 이용한 oscillometric 혈압측정과 침습적 혈압 측정 간의 일치도를 평가하고, ACVIM과 AAMI/ESH/ISO의 검증 기준에 따른 성능 및 체중과 표현형에 따른 비례적 편향을 조사하는 것.",
+      "study_methods": "전신마취를 받은 89마리의 client-owned dog에서 혀 기반 oscillometric 혈압 측정과 동시침습적 동맥혈압(수축기, 평균, 이완기 혈압)을 5분 간격으로 1780쌍 관찰하였다. Bland-Altman 분석으로 일치도를 평가하고, ACVIM 및 AAMI/ESH/ISO 검증 기준과 비교하였다. 비례적 편향은 선형 혼합효과 모델로 평가하였으며, 체중(≤10 kg vs >10 kg)과 표현형(연골형성장애 여부)을 상호작용 항으로 포함하여 분석하였다.",
+      "one_sentence_summary": "전신마취 중인 89마리 개에서 혀 기반 oscillometric 혈압 측정과 침습적 동맥혈압 1780쌍을 5분 간격으로 기록하여 비교하였고, ACVIM 기준에는 평균 및 이완기 혈압에서 부합하였으나 수축기 혈압은 부합하지 않았다. AAMI/ESH/ISO 기준은 모든 혈압지표에서 충족하지 못했으며, 수축기 혈압은 혈압 값이 높을수록 과소평가 경향을 보였다. 체중이 10kg 초과하거나 비연골형성장애 개에서 수축기 혈압 과소평가는 더 두드러졌다.",
+      "key_results": [
+        {
+          "result": "ACVIM 기준을 기준으로 평균혈압과 이완기혈압의 일치도 기준을 충족했으나 수축기혈압은 충족하지 못했다.",
+          "evidence_quote": "American College of Veterinary Internal Medicine criteria were met for mean and diastolic but not systolic pressure"
+        },
+        {
+          "result": "AAMI/ESH/ISO 검증 기준은 평균, 수축기, 이완기 혈압 모두 충족하지 못했다.",
+          "evidence_quote": "no measure met Association for the Advancement of Medical Instrumentation/European Society of Hypertension/International Organization for Standardization thresholds"
+        },
+        {
+          "result": "평균혈압과 이완기혈압의 일치도는 넓은 한계를 보였다.",
+          "evidence_quote": "Limits of agreement for mean and diastolic pressures were wide."
+        },
+        {
+          "result": "수축기혈압은 혈압 크기에 따라 과소평가되는 편향을 보였으나, 평균혈압과 이완기혈압은 그렇지 않았다.",
+          "evidence_quote": "Systolic pressure showed magnitude-dependent underestimation, whereas mean and diastolic pressures did not."
+        },
+        {
+          "result": "10kg 초과 개와 비연골형성장애 개에서 수축기 혈압 과소평가 경향이 강했다.",
+          "evidence_quote": "Underestimation increased with systolic pressure in dogs >10 kg and in non-chondrodystrophic dogs"
+        },
+        {
+          "result": "10kg 이하 개 및 연골형성장애 가진 개에서는 혈압크기에 따른 명확한 경향성이 보이지 않았다.",
+          "evidence_quote": "no clear pressure-dependent trend was seen in dogs ≤10 kg or in chondrodystrophic dogs."
+        },
+        {
+          "result": "혀 부종은 1마리에서 일시적으로 발생하였으며 그 외 혀 관련 부작용은 관찰되지 않았다.",
+          "evidence_quote": "Transient tongue swelling occurred in one dog; no other tongue-related adverse events were recorded."
+        }
+      ],
+      "authors_conclusion": "혀 기반 oscillometric 혈압 측정은 ACVIM 기준에서는 평균과 이완기 혈압에서 허용 가능한 일치도를 보였으나, AAMI/ESH/ISO 기준은 충족하지 못했다. 따라서 넓은 일치도 한계를 가진 혀 기반 혈압 측정값은 임상에서 침습적 측정을 대체하기보다는 임상적 맥락과 함께 신중히 해석해야 한다.",
+      "clinical_takeaway": "전신마취된 개에서 혀를 이용한 oscillometric 혈압 측정법은 평균 및 이완기 혈압에서 ACVIM 기준을 만족하여, 침습적 측정이 불가능한 경우 혈압 추세 관찰에 유용할 수 있습니다. 그러나 수축기 혈압은 특히 체중이 10kg 초과하거나 비연골형성장애 개에서 고혈압 시 과소평가되는 경향이 있어 신중하게 해석해야 합니다. 또한 전체적으로 일치도의 한계가 넓어 절대적 수치보다는 임상 상황과 함께 고려하는 보조적 도구로 활용하는 것이 적절합니다.",
+      "limitations": [
+        "단일 센터에서 진행된 연구로 다양한 임상 환경과 장비에 대한 일반화가 제한적이다.",
+        "침습적 혈압 측정법을 기준으로 하였으나 혈압 측정 시 자세 및 기타 환경 변수에 따른 변동 가능성을 완전히 배제하지 않았다.",
+        "AAMI/ESH/ISO 기준 미충족에 따른 정확도 한계가 존재한다.",
+        "사지가 아닌 혀 혈압 측정을 사용하였으나 혀 혈관의 해부학적 다양성과 측정 조건에 따른 변수가 있을 수 있다.",
+        "연구는 전신마취 중 개만을 대상으로 하였기에 의식 있는 상태 또는 다른 상황에서는 결과 적용에 제한이 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 89마리의 임상개를 대상으로 전향적 디자인으로 혀 기반 oscillometric 혈압 측정과 침습적 혈압을 직접 비교하였고, 이를 ACVIM 및 AAMI/ESH/ISO 검증 기준과 체중 및 표현형 변수를 감안해 심층 분석함으로써 실제 임상에서 비침습적 혈압 측정법의 타당성과 한계를 구체적으로 제시하였습니다. 이 점에서 현장 임상의가 비침습적 혈압 측정을 해석하고 활용하는 데 실질적 근거를 제공하여 임상 적용 가치가 충분합니다.",
+      "id": "doi:10.1111/jsap.70163",
+      "discovered_at": "2026-11-04 02:59:54.993082+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42438176/",
+      "summary_generated_at": "2026-11-04 03:01:53.545087+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -5316,19 +5702,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 499
+        "received": 508
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 565
+        "received": 563
       }
     },
-    "started_at": "2026-11-03T03:55:28.298724+00:00",
-    "since": "2026-09-19",
-    "processed": 4,
+    "started_at": "2026-11-04T02:59:51.481201+00:00",
+    "since": "2026-09-20",
+    "processed": 5,
     "refreshed": 0,
-    "failed": 17,
-    "deferred": 997,
-    "finished_at": "2026-11-03T03:58:07.927535+00:00"
+    "failed": 12,
+    "deferred": 1012,
+    "finished_at": "2026-11-04T03:02:28.599767+00:00"
   }
 }
