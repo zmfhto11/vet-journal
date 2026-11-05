@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T03:02:28.714144+00:00",
-  "last_successful_collection": "2026-11-04T02:59:51.481152Z",
+  "generated_at": "2026-11-05T03:31:26.378876+00:00",
+  "last_successful_collection": "2026-11-05T03:28:33.950539Z",
   "mode": "live",
   "papers": [
     {
@@ -999,6 +999,72 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42826748/",
       "summary_generated_at": "2026-10-14 23:36:31.136046+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Comparison of an Anti-αvβ3 Integrin NIR Fluorescent Probe and Indocyanin Green for Precision Resection of Naturally Occurring Sarcomas in Dogs-A Randomized Blinded Case-Controlled Pilot Study.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-10-02",
+      "online_publication_date": "2026-10-02",
+      "publication_date_raw": "2026-Oct-02",
+      "doi": "10.1111/vco.70116",
+      "pmid": "42825706",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70116",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42825706/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 sarcoma 절제 수술을 받는 반려견 20마리를 대상으로 한 무작위 대조군 연구로, 반려견 환자에서 실질적인 수술 기법의 정확도를 비교하였기에 임상에서 직접적인 적용 가능성이 크다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "oncology",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "sarcoma surgical resection",
+      "study_design": "randomized_controlled_trial",
+      "sample_size": 20,
+      "sample_size_quote": "Dogs (n = 20) that were presented for sarcoma resection were prospectively enrolled and randomized to either receive indocyanine green (ICG, Group 1) or a targeted anti-α v β 3 integrin probe (Group 2) prior to surgery.",
+      "objective": "반려견 sarcoma 절제술에서 indocyanine green (ICG)과 targeted anti-αvβ3 integrin probe 사이의 종양 경계 시각화 및 수술 정확도 차이를 비교하는 것.",
+      "study_methods": "sarcoma 절제를 위해 내원한 개 20마리를 prospective로 등록 후 무작위로 두 집단(Group 1: ICG, Group 2: anti-αvβ3 integrin probe)으로 나누어 수술 전 형광 조영제를 투여했다. surgeon은 어떤 조영제를 받았는지 모르게 하여 형광 유도 수술(FGS)을 진행했다. false positive/negative 비율, tumour-to-background ratio(TBR), Dice Coefficient(형광 영역과 조직학적 종양 범위 상관도)를 계산했다. FGS가 수술 정확도에 미치는 영향은 추가 종양 조직 절제 빈도로 평가했다.",
+      "one_sentence_summary": "sarcoma 절제술을 받는 반려견 20마리를 대상으로 무작위 배정을 통해 기존의 indocyanine green (ICG)과 targeted anti-αvβ3 integrin fluorescent probe의 수술 전투여 효과를 비교했다. Group 2 (anti-αvβ3 probe)은 Group 1 (ICG) 대비 피부 표면과 formalin 고정 조직에서 더 높은 tumour-to-background ratio (4.5 및 5.3 vs 2.6)를 보였고, false positive 비율도 낮았다(3/10 vs 9/10). 두 조영제 모두 종양 조직과의 의미 있는 상관관계가 확인됐으며, FGS를 통한 추가 절제는 Group 2에서 더 빈번했다 (3/10 vs 1/10).",
+      "key_results": [
+        {
+          "result": "Group 1에서는 10마리 중 9마리에서 false positive 신호가 관찰된 반면, Group 2에서는 10마리 중 3마리에서만 false positive가 발견되었다.",
+          "evidence_quote": "False positive signal was detected in 9/10 dogs in group 1 and 3/10 dogs in group 2."
+        },
+        {
+          "result": "피부 표면에서의 tumour-to-background ratio (TBR)는 Group 2가 4.5-5.3으로 Group 1 보다 높았으며, formalin 고정 조직에서는 5.3 대 2.6으로 Group 2가 유의하게 우수했다(p = 0.016).",
+          "evidence_quote": "Mean TBR at skin level was higher in group 2 (4.5 and 5.3) compared to group 1, and this difference reached significance in formalin-fixed tissue (5.3 vs. 2.6, p = 0.016)."
+        },
+        {
+          "result": "두 그룹의 형광 신호와 조직학적 종양 범위의 상관관계(Dice Coefficient)는 Group 1에서 0.64, Group 2에서 0.78로 나타났다.",
+          "evidence_quote": "Correlation of fluorescent signal and histologic tumour extent was strong for both dyes (DC group 1 = 0.64; group 2 = 0.78)."
+        },
+        {
+          "result": "FGS를 기반으로 추가적인 종양 조직 절제가 필요한 비율은 Group 2가 3/10마리로 Group 1의 1/10마리보다 더 높았다.",
+          "evidence_quote": "Resection of additional neoplastic tissue based on FGS was more frequent in group 2 (3/10 dogs) compared to group 1 (1/10 dogs)."
+        }
+      ],
+      "authors_conclusion": "anti-αvβ3 integrin probe가 sarcoma 절제술에서 ICG보다 종양 선택성이 뛰어나 보다 정확한 종양 경계 식별이 가능하다는 초기 결과를 제시한다.",
+      "clinical_takeaway": "sarcoma 수술을 진행하는 수의 임상가에게, 종양 경계 시각화의 중요성을 고려할 때 anti-αvβ3 integrin fluorescent probe는 기존 ICG 대비 false positive가 적고 tumor-to-background ratio가 높아 경계 식별이 더욱 명확하다. 이로 인해 불필요한 정상 조직 제거 축소 및 종양 잔류를 줄일 가능성이 있으나, 표본 크기가 작고 예비 연구이므로 더 큰 규모와 장기 결과 관찰 연구가 필요하다. 본 결과가 기존 형광 가이드 수술의 한계를 개선할 수 있는 중요한 근거를 제공하며, 임상 적용 시 개별 종양의 특성 및 현장 접근성을 고려해야 한다.",
+      "limitations": [
+        "sample size가 20마리로 상대적으로 작은 편이며, 단일 센터 연구라는 점에서 결과의 일반화에 제한이 있을 수 있다.",
+        "blinding은 수술자에 한정되어 있으나, 전반적인 수술 후 추적 관찰 및 장기 재발률 데이터는 제공되지 않았다.",
+        "FGS 효과 비교에 있어 조영제 투여 시점, 용량 등 세부 프로토콜 차이가 잠재적 변수가 될 수 있다.",
+        "현재 논문은 초록 수준의 한정된 데이터로, 전체 논문 세부 데이터 확인이 제한적이다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "무작위 임상연구로 직접 반려견 sarcoma 환자에서 수술적 절제 정확도에 미치는 영향을 평가하였으며, anti-αvβ3 probe가 더 우수한 종양 경계 시각화 성능을 시사하여 임상적으로 참고할 가치가 크다.",
+      "id": "doi:10.1111/vco.70116",
+      "discovered_at": "2026-10-02 23:23:59.035496+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42825706/",
+      "summary_generated_at": "2026-11-05 03:30:27.027472+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2161,7 +2227,7 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42702204/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 개의 근위 경골 골단-골단선형 살터-해리스 골절에 대한 직접적인 진단 및 치료 결과를 다루고 있으며, 임상에서 유용한 수술적 고정 방법의 결과를 보고하고 있음.",
+      "relevance_reason": "이 연구는 개의 proximal tibial apophyseal-epiphyseal Salter-Harris 골절에 대해 apophyseal pin과 tension-band wire(APTBW)를 단독 고정법으로 사용한 치료 결과와 합병증을 평가하였기 때문에 임상적 관련성이 직접적입니다.",
       "primary_category": "surgery",
       "tags": [
         "orthopedics",
@@ -2170,51 +2236,46 @@
       "species": [
         "dog"
       ],
-      "disease_or_topic": "Canine proximal tibial apophyseal-epiphyseal Salter-Harris fractures",
+      "disease_or_topic": "proximal tibial apophyseal-epiphyseal Salter-Harris fractures",
       "study_design": "retrospective",
       "sample_size": 35,
       "sample_size_quote": "Thirty-six fractures in 35 dogs were included",
-      "objective": "근위 경골 골단-골단선형 살터-해리스 골절에서 단일 고정법인 골단 핀과 장력대 와이어(APTBW)를 이용한 수술 후 방사선학적 결과와 합병증 평가",
-      "study_methods": "골단 핀과 장력대 와이어(APTBW) 단독으로 치료받은 개들의 진료 기록과 방사선 사진을 후향적으로 검토하였다. 골절된 사지의 경골 평지각(TPA)과 내측 근위 경골 기계적 각도(mMPTA)를 수술 전, 수술 후 및 추적 검사 시점에서 동일한 측면의 대조 사지와 반복 측정 분산분석을 이용해 비교하였다. 유의한 분산분석 결과에 대해 본페로니 수정 쌍비교를 수행하였다.",
-      "one_sentence_summary": "35마리의 개에서 36개의 근위 경골 골단-골단선형 살터-해리스 골절을 단일 고정법인 골단 핀과 장력대 와이어(APTBW)를 사용해 수술 치료하였다. 골절부의 치유율은 94.4%로 높았고, 치유에 소요된 중앙값 기간은 4.1주였다. 수술 전 골절 사지의 경골 평지각은 대조 사지에 비해 평균 12.8도 높았지만(p < 0.001), 치유 시점에서는 유의미한 차이가 없었다(p = 0.735). 평균 내측 근위 경골 기계적 각도는 측정 시점별로 유의한 차이가 없었다. 3건의 중증 및 4건의 경증 합병증이 보고되었으며, 그중 2건은 고정구조 실패였다.",
+      "objective": "proximal tibial apophyseal-epiphyseal 골절에 대해 apophyseal pin과 tension-band wire 단독 고정술(APTBW)의 방사선학적 결과와 합병증을 보고하기 위함이다.",
+      "study_methods": "APTBW 단독 치료를 받은 35마리의 개 36건의 proximal tibial apophyseal-epiphyseal fractures 의 의무기록과 방사선 사진을 후향적으로 검토하였다. 수술 전, 수술 후 및 추적 관찰 시 fractured limb의 tibial plateau angle (TPA)과 mechanical medial proximal tibial angle (mMPTA)를 대조측 사지와 비교하였다. 반복측정 분산분석과 Bonferroni 보정 쌍비교를 사용하였다.",
+      "one_sentence_summary": "35마리 개 36건의 proximal tibial apophyseal-epiphyseal 골절을 가진 환자에서 apophyseal pin과 tension-band wire(APTBW)를 단독으로 사용해 수술한 결과, 94.4%인 34골절에서 평균 4.1주만에 골유합을 달성하였다. 골절 측 지방의 평균 TPA는 수술 전 대조측보다 12.8도 높았으나, 골유합 시에는 대조측과 유의미한 차이가 없었다. mMPTA는 측정 시점 간 차이가 없었다. 3건의 주요 합병증과 4건의 경미한 합병증이 있었고, 2건에서 고정장치 실패가 있었는데 각각 Kirschner wire의 이탈과 apophyseal shearing으로 인한 것이었다.",
       "key_results": [
         {
-          "result": "36개의 골절 중 34개(94.4%)가 중앙 4.1주 만에 골유합을 달성하였다.",
+          "result": "94.4%인 34건의 골절에서 골유합이 이루어졌으며, 골유합까지의 중앙값은 4.1주였다.",
           "evidence_quote": "Union was achieved in 34 of 36 (94.4%) fractures, at a median of 4.1 weeks."
         },
         {
-          "result": "골절 전 골절된 사지의 경골 평지각(TPA)은 대조 사지보다 평균 12.8도 높았으나(p < 0.001), 치유 시점에는 차이가 없었다(p = 0.735).",
+          "result": "수술 전 fractured limb의 평균 TPA가 대조측에 비해 12.8도 높았으나, 골유합 시에는 두 군간에 통계적으로 유의미한 차이가 없었다.",
           "evidence_quote": "Mean TPA of fractured limbs was 12.8 degrees higher than contralateral limbs preoperatively (p < 0.001), but no statistically significant difference was detected at union (p = 0.735)."
         },
         {
-          "result": "내측 근위 경골 기계적 각도(mMPTA)는 측정 시점별 유의미한 차이가 없었다.",
+          "result": "mMPTA는 수술 전, 후, 추적 시점 간 및 대조측과 통계적으로 유의미한 차이가 없었다.",
           "evidence_quote": "Mean mMPTA did not differ significantly across measurement conditions."
         },
         {
-          "result": "3건의 주요 합병증과 4건의 경미한 합병증이 있었으며, 2건은 치유 전 고정구조 실패였다.",
-          "evidence_quote": "Three major and four minor complications occurred, including two construct failures before union."
-        },
-        {
-          "result": "고정구조 실패는 Kirschner 와이어의 이동 1건과 골단 전위 1건에서 발생하였다.",
-          "evidence_quote": "Construct failures resulted from Kirschner wire migration (n = 1) and apophyseal shearing (n = 1)."
+          "result": "3건의 주요 합병증과 4건의 경미한 합병증이 발생했으며, 2건에서는 Kirschner wire migration과 apophyseal shearing으로 인한 고정장치 실패가 있었다.",
+          "evidence_quote": "Three major and four minor complications occurred, including two construct failures before union. Construct failures resulted from Kirschner wire migration (n = 1) and apophyseal shearing (n = 1)."
         }
       ],
-      "authors_conclusion": "골단 핀과 장력대 와이어(APTBW)를 단일 고정법으로 사용한 근위 경골 골단-골단선형 골절의 수복은 높은 골유합률과 정상적인 경골 평지각 및 내측 근위 경골 기계적 각도를 회복시켰다. 이 골절 유형에서는 상분절(골단부) 고정이 반드시 필요하지 않을 수 있다.",
-      "clinical_takeaway": "본 연구 결과는 어린 개의 근위 경골 골단-골단선형 살터-해리스 골절 치료 시, 골단 핀과 장력대 와이어를 단독 고정법으로 사용해도 높은 골유합률과 정상적인 골축 정렬을 회복할 수 있음을 시사한다. 따라서 이 골절에서는 추가적인 골단부 고정이 반드시 필요하지 않을 것으로 보인다. 다만, 일부 고정구조 실패 및 합병증 사례가 존재하므로 수술 후 정기적인 방사선 검사를 통한 고정구조 상태 확인이 권장된다. 본 연구는 후향적 사례 분석으로, 보다 강력한 근거를 위한 전향적 연구가 필요하다.",
+      "authors_conclusion": " proximal tibial apophyseal-epiphyseal fracture에서 APTBW 단독 고정법은 높은 골유합률과 정상 수준의 TPA와 mMPTA 회복을 가져왔다. 따라서 이 골절 유형에서 epiphysis의 추가 고정은 반드시 필요하지 않을 수 있다.",
+      "clinical_takeaway": "이 연구 결과는 어린 개에서 proximal tibial apophyseal-epiphyseal Salter-Harris 골절을 apophyseal pin과 tension-band wire 단독으로 수술 고정했을 때 매우 높은 골유합 성공률(94.4%)과 정상에 가까운 관절면 각도 회복을 보인다는 점을 알려준다. mMPTA는 변화가 없었고, 고정 실패는 드물며 두 가지 경우 모두 Kirschner wire 이탈 또는 apophyseal shearing으로 인해 발생했다. 따라서 이 골절에서는 epiphyseal 부분의 추가적인 고정이 반드시 필요하지 않을 수 있지만, 고정장치 관련 합병증 가능성에 주의해야 한다. 다만 후향적 디자인과 제한된 사례 수 때문에 결과를 광범위한 골절 유형에 일반화하려면 신중해야 한다.",
       "limitations": [
-        "후향적 연구 설계로 인과관계 확립에 한계가 있음",
-        "치료군에 대한 대조군 부재",
-        "합병증 및 결과 평가에 대한 객관적 표준화 부족",
-        "전체 임상 최신화와 다른 치료법과의 비교 정보 부족",
-        "초록 단독 제공으로 세부 데이터 확인 제한"
+        "후향적 연구 설계로 인과관계 평가에 한계가 있다.",
+        "표본 편중 가능성과 사례 수가 35마리에 불과한 제한점이 있다.",
+        "장기 추적 관찰 기간 또는 기능적 결과에 대한 정보가 부족하다.",
+        "해당 연구는 요약문 기반으로 전문 내용과 상세한 치료 프로토콜이 미보고 되었다."
       ],
       "recommended": true,
-      "recommendation_reason": "본 연구는 직접적인 임상 환자(소유견)를 대상으로 한 수술 치료 결과를 보고하며, 고정 방법 단독으로 우수한 골유합과 골축 정렬 회복을 보여 현재 임상 적용에 실질적 가이드라인을 제공하므로 추천함.",
+      "recommendation_reason": "35마리 개 임상 사례를 대상으로 직접적인 치료 결과와 합병증을 구체적으로 보고하였으며, 골절 치료에 중요한 골유합율과 관절면 각도의 회복 여부를 객관적으로 평가하여 수의 임상현장 적용에 가치가 있다고 판단된다.",
       "id": "doi:10.1055/a-2945-3836",
       "discovered_at": "2026-09-16 01:13:31.971749+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42702204/",
-      "summary_generated_at": "2026-09-30 23:26:53.796556+00:00",
+      "summary_generated_at": "2026-11-05 03:29:23.324166+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -2293,6 +2354,73 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
       "summary_generated_at": "2026-10-18 01:02:44.204580+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "World Small Animal Veterinary Association Global Dental Guidelines.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-09-02",
+      "online_publication_date": "2026-09-02",
+      "publication_date_raw": "2026-Oct",
+      "doi": "10.1111/jsap.70057",
+      "pmid": "42687403",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70057",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42687403/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 가이드라인은 소동물에서 치과 및 구강 질환의 진단과 치료에 관한 포괄적인 내용을 다루고 있으며, 전 세계적으로 소동물 환자의 건강과 복지를 개선하기 위한 교육 및 치료 표준을 제시합니다. 하지만, 직접적인 임상 연구 결과를 포함하지 않고 종합적인 권고와 교육적 목적으로 작성되어, 진단이나 치료법 평가에 대한 실증적 증거로서의 직접적 임상 적용은 제한적입니다.",
+      "primary_category": "other",
+      "tags": [
+        "internal_medicine",
+        "surgery",
+        "anesthesia"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "Dental, oral and maxillofacial diseases",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "소동물의 구강, 치과 및 악안면 질환에서의 진단 및 치료 표준을 제공하고, 교육과 임상 실천에 필요한 권고사항을 제시함으로써 전 세계적으로 환자의 건강 및 복지 향상을 목표로 함.",
+      "study_methods": "세계소동물수의사협회(World Small Animal Veterinary Association)의 3단계 교육 시스템을 바탕으로 전 세계 장비 및 치료 권고안을 제시하며, 마취, 통증 관리, 가정 치아 관리, 영양, 수의대 교육 역할 등을 포함한 포괄적 내용으로 구성됨. 치과 마취 없는 시술에 대한 부정적 영향과 치료되지 않은 치과 질병의 동물 복지 문제를 논의함. 2019년 가이드라인을 개정하여 진단과 치료의 진보를 반영하고, 외상, 간호사의 역할, 소아 병리, 인체공학, 방사선 판독 확대 내용 포함.",
+      "one_sentence_summary": "이 가이드라인은 소동물(개와 고양이)의 치과 및 구강 악안면 질환에 대한 전 세계적 치료 기준과 교육 권고를 종합한 문서입니다. 기존 2019년 지침을 개정하여 진단 및 치료의 최신 발전사항과 함께 외상, 간호사 역할, 소아 병리, 인체공학, 방사선 판독 등을 포함한 새로운 내용을 추가하였습니다. 마취, 통증 관리, 가정 치아 관리, 영양 정보도 상세히 다루어 동물 복지를 위한 금기 시술인 마취 없는 치과 시술의 위험성도 강조합니다.",
+      "key_results": [
+        {
+          "result": "치과 구강 악안면 질환은 소동물 임상에서 가장 흔한 질환이며, 적절한 치료가 이루어지지 않을 경우 심각한 통증과 감염을 초래한다.",
+          "evidence_quote": "Dental, oral and maxillofacial diseases are the most common conditions seen in small animal veterinary practice. They may not only create significant pain but also infection."
+        },
+        {
+          "result": "2019년 가이드라인 개정을 통해 외상, 간호사 역할, 소아 병리, 인체공학, 방사선 판독 확대에 관한 섹션이 신설되었으며, 치과 질환의 진단과 치료 최신 지견을 반영하였다.",
+          "evidence_quote": "The guidelines from 2019 have been revised to reflect the advances in diagnosis and treatment. New sections in this revision include sections on trauma, the nurses' role in veterinary dentistry, juvenile pathology, ergonomics and an extended section on radiographic interpretation."
+        },
+        {
+          "result": "치과 시술을 위한 마취 및 통증 관리, 가정 치아 관리, 영양 정보, 수의대 교육 개선에 관한 권고도 포함되어 있어, 전반적인 환자 관리와 수의사 교육에 대한 포괄적 접근을 제시한다.",
+          "evidence_quote": "This document contains information on common oral and dental disease as well as basic diagnostic procedures and treatments. Sections on anaesthesia and pain management for dental procedures, home dental care, nutritional information and recommendations on the role of the universities in improving veterinary dentistry are also included."
+        },
+        {
+          "result": "적절한 진단과 치료가 이루어지지 않은 치과 질환은 동물 복지 차원에서 심각한 문제로 인식되며, 이를 해결하기 위한 최소 치료 기준을 제시한다.",
+          "evidence_quote": "As such, the World Small Animal Veterinary Association believes that un- and undertreated oral and dental diseases pose a significant animal welfare concern."
+        }
+      ],
+      "authors_conclusion": "본 가이드라인은 소동물 치과 및 구강악안면 질환 치료의 기본 표준과 교육 필요성을 제시하여 전 세계 수의사의 임상역량 향상과 환자 복지 증진에 기여할 것으로 기대된다. 마취 없는 치과 시술의 위험성과 최저 치료 수준 기준 제시는 동물 복지 증진에 중요한 의미를 가진다.",
+      "clinical_takeaway": "소동물에서 흔한 치과 및 구강 악안면 질환은 적절한 진단과 치료가 필수적이며, 이 가이드라인은 전 세계 수의사에게 금기 시술과 올바른 마취, 통증 관리 방법, 그리고 치료 및 교육 표준을 제시합니다. 특히 마취 없는 치과 시술은 효과적이지 않고 동물 복지에 부정적 영향이 크므로 반드시 피해야 하며, 동물 복지 차원에서 치료되지 않은 치과 질환의 위험성 또한 강조됩니다. 본 지침은 임상가들이 환자 치료 전략을 개선하고, 수의대 교육을 강화하는 데 실질적 근거와 방향을 제공하므로 소동물 치과 의료 전반에 중요한 참고가 됩니다. 다만 본 문서는 가이드라인 성격으로 직접적인 임상 시험 자료가 아니므로, 구체적 치료법 결정에는 환자 개별 상황을 고려한 신중한 판단이 필요합니다.",
+      "limitations": [
+        "본 문서는 임상 시험이 아닌 가이드라인 개정문서로, 직접적 임상 증거 수준은 낮음.",
+        "전체 연구 설계나 데이터가 아닌 전문가 권고 기반임.",
+        "추가적인 실제 환자 결과 데이터가 포함되어 있지 않음.",
+        "초록만 제공되어 상세한 세부 사항 및 근거 자료 미확인 가능성 있음."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/jsap.70057",
+      "discovered_at": "2026-09-16 01:13:31.973748+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42687403/",
+      "summary_generated_at": "2026-11-05 03:29:35.671510+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -4492,7 +4620,7 @@
       "publication_date_raw": "2026-Nov",
       "doi": "10.1111/jsap.70163",
       "pmid": "42438176",
-      "pmcid": null,
+      "pmcid": "PMC13728962",
       "publisher_url": "https://doi.org/10.1111/jsap.70163",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42438176/",
       "source": "pubmed",
@@ -4632,6 +4760,67 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42420192/",
       "summary_generated_at": "2026-10-22 01:32:11.466372+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "The Animal Trauma Triage Score outperforms the VetCOT score in cats with high-rise syndrome.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": null,
+      "online_publication_date": "2026-07-02",
+      "publication_date_raw": "2026-Nov",
+      "doi": "10.1111/jsap.70166",
+      "pmid": "42393008",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70166",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42393008/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 고층 낙상 증후군을 가진 고양이 환자 60마리를 대상으로 하여 동물 외상 평가 점수(Animal Trauma Triage Score)와 개에서 개발된 Veterinary Committee on Trauma (VetCOT) 점수를 비교한 점에서, 실제 임상에서 고양이를 평가하고 예후를 예측하는 데 직접적으로 관련된 근거를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "high-rise syndrome in cats",
+      "study_design": "retrospective",
+      "sample_size": 60,
+      "sample_size_quote": "Retrospective observational study of 60 cats with high-rise syndrome.",
+      "objective": "고층 낙상 증후군을 가진 고양이에 대해 개에서 유래된 VetCOT 점수의 예후 예측 효용성을 평가하고 Animal Trauma Triage Score와 비교하는 것.",
+      "study_methods": "60마리의 고양이 고층 낙상 증후군 환자를 후향적으로 관찰하였으며, 입원 시 나이, 품종, 성별, 체중, 체중상태점수, 낙상 높이, 임상 병리 변수, Animal Trauma Triage Score, VetCOT 점수를 기록하였다. 사망률과 입원 기간도 수집하였고, 단변량 및 다변량 통계 분석과 ROC 곡선을 사용하여 점수별 예측력을 비교하였다.",
+      "one_sentence_summary": "후향적 관찰 연구에서 고층 낙상 증후군을 가진 고양이 60마리를 대상으로 Animal Trauma Triage Score와 VetCOT 점수의 예후 예측 능력을 비교하였다. 8마리(13%)가 퇴원 전 사망하였으며, Animal Trauma Triage Score가 ROC AUC 0.85로 VetCOT 점수(AUC 0.709)보다 유의하게 사망률 예측력이 뛰어났다. 높이 낙상, 혈중 락테이트 및 치료 시 혈관압 상승제 요법 필요성도 나쁜 예후와 연관되었다.",
+      "key_results": [
+        {
+          "result": "Animal Trauma Triage Score는 사망률 예측에서 AUC가 0.85로 VetCOT 점수의 0.709보다 유의하게 높았다.",
+          "evidence_quote": "The receiver operating characteristic curves showed that the Animal Trauma Triage Score predicted mortality significantly better (AUC = 0.85, P < .001, 95% CI 0.76 to 0.95) than the Veterinary Committee on Trauma score (AUC = 0.709, P = .038, 95% CI 0.51 to 0.91)."
+        },
+        {
+          "result": "60마리 고양이 중 8마리(13%)가 퇴원 전 사망하였다.",
+          "evidence_quote": "Sixty cats were included. Eight cats (13%) did not survive to discharge."
+        },
+        {
+          "result": "혈관압 상승제 요법 필요성, 높은 낙상 높이, 혈중 락테이트 및 Animal Trauma Triage Score가 나쁜 예후와 연관되었다.",
+          "evidence_quote": "Requirement for vasopressor therapy (P = .008, OR 0.10, 95% CI 0.02 to 0.56), higher height of fall (P < .005, OR 3.69, 95% CI 1.49 to 9.10), serum lactate (P = .013, OR 1.57, 95% CI 1.09 to 2.25) and the Animal Trauma Triage Score (P = .006, OR 1.90, 95% CI 1.20 to 3.00) were associated with a worse outcome."
+        }
+      ],
+      "authors_conclusion": "고층 낙상 증후군의 고양이에서 Animal Trauma Triage Score는 개에서 유래된 VetCOT 점수보다 예후 예측 성능이 유의하게 우수하며, 종별 생리적 차이가 점수 적용성에 영향을 미칠 수 있으므로 고양이에 특화된 추가 검증이 필요함을 시사한다.",
+      "clinical_takeaway": "고층 낙상 증후군으로 내원한 고양이 환자에서 Animal Trauma Triage Score가 VetCOT 점수보다 사망 예측에 더 적합한 도구임을 알려준다. 이는 고양이의 특성과 생리적 차이를 반영한 점수 체계가 임상적 예후 예측에 더욱 유리하다는 점을 시사한다. 임상가는 고양이 환자의 초기 평가 시 Animal Trauma Triage Score를 활용하여 중증도를 판단하고 치료 전략 수립에 참고할 수 있으나, 여전히 종별 특성에 맞춘 점수의 한계와 추가 데이터 필요성을 인지해야 한다.",
+      "limitations": [
+        "후향적 연구로서 환자 선정 및 자료 수집에 편향 가능성이 존재함",
+        "표본 크기가 60마리로 상대적으로 작아 일반화에 주의가 필요함",
+        "VetCOT 점수는 개에서 개발된 점수로 고양이에 직접 적용하는 데 제한점이 있음",
+        "임상 병리 변수 및 기타 잠재 예후 인자에 대한 상세한 분석 부족",
+        "전체 텍스트가 아닌 초록만 기반으로 한 정보 제공"
+      ],
+      "recommended": true,
+      "recommendation_reason": "이 연구는 고양이 고층 낙상 환자의 예후 예측에 Animal Trauma Triage Score가 기존 개 유래 VetCOT 점수보다 우수함을 구체적 수치와 통계로 입증하여 임상 적용에 실질적 가치를 제공하기 때문에 추천한다.",
+      "id": "doi:10.1111/jsap.70166",
+      "discovered_at": "2026-11-04 02:59:55.059228+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42393008/",
+      "summary_generated_at": "2026-11-05 03:30:37.285035+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -5702,19 +5891,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 508
+        "received": 473
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 563
+        "received": 558
       }
     },
-    "started_at": "2026-11-04T02:59:51.481201+00:00",
-    "since": "2026-09-20",
-    "processed": 5,
-    "refreshed": 0,
-    "failed": 12,
+    "started_at": "2026-11-05T03:28:33.950598+00:00",
+    "since": "2026-09-21",
+    "processed": 3,
+    "refreshed": 1,
+    "failed": 10,
     "deferred": 1012,
-    "finished_at": "2026-11-04T03:02:28.599767+00:00"
+    "finished_at": "2026-11-05T03:31:26.261093+00:00"
   }
 }
