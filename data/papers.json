@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T03:31:26.378876+00:00",
-  "last_successful_collection": "2026-11-05T03:28:33.950539Z",
+  "generated_at": "2026-11-06T03:28:04.092900+00:00",
+  "last_successful_collection": "2026-11-06T03:25:40.650350Z",
   "mode": "live",
   "papers": [
     {
@@ -1199,7 +1199,7 @@
       "journal_id": "vetsurg",
       "publication_date": "2026-09-22",
       "online_publication_date": "2026-09-22",
-      "publication_date_raw": "2026-Sep-22",
+      "publication_date_raw": "2026-Nov",
       "doi": "10.1111/vsu.70143",
       "pmid": "42770669",
       "pmcid": null,
@@ -1688,7 +1688,7 @@
       "journal_id": "vetsurg",
       "publication_date": "2026-09-15",
       "online_publication_date": "2026-09-15",
-      "publication_date_raw": "2026-Sep-15",
+      "publication_date_raw": "2026-Nov",
       "doi": "10.1111/vsu.70151",
       "pmid": "42744608",
       "pmcid": null,
@@ -1954,7 +1954,7 @@
       "journal_id": "vetsurg",
       "publication_date": "2026-09-09",
       "online_publication_date": "2026-09-09",
-      "publication_date_raw": "2026-Sep-09",
+      "publication_date_raw": "2026-Nov",
       "doi": "10.1111/vsu.70157",
       "pmid": "42717636",
       "pmcid": null,
@@ -3534,7 +3534,7 @@
       "journal_id": "vetsurg",
       "publication_date": "2026-08-15",
       "online_publication_date": "2026-08-15",
-      "publication_date_raw": "2026-Aug-15",
+      "publication_date_raw": "2026-Nov",
       "doi": "10.1111/vsu.70149",
       "pmid": "42603142",
       "pmcid": null,
@@ -5587,6 +5587,137 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Closure of a massive truncal defect post sarcoma resection by using the preserved skin from the amputated forelimb in a cat.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": null,
+      "online_publication_date": "2026-06-18",
+      "publication_date_raw": "2026-Nov",
+      "doi": "10.1111/vsu.70127",
+      "pmid": "42316973",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70127",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42316973/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 한 마리의 고양이에서 feline injection-site sarcoma(FISS) 절제 후 거대한 부위 결손부를 절단된 앞다리에서 채취한 피부를 이용하여 봉합하는 수술기법을 기술하여, 고양이 환자에서 직접적인 임상적 적용 가능성을 보였습니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "oncology",
+        "soft_tissue_surgery",
+        "surgery"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "feline injection-site sarcoma (FISS)",
+      "study_design": "case_report",
+      "sample_size": 1,
+      "sample_size_quote": "One cat diagnosed with a feline injection-site sarcoma involving the thoracic limb region.",
+      "objective": "FISS로 인한 광범위 절제술 후 절단된 앞다리에서 피부를 보존하여 봉합하는 새로운 수술 기법을 소개하는 것.",
+      "study_methods": "광범위 침습성 FISS 진단 후, 절단이 예정된 고양이의 앞다리에서 viable skin을 채취하여 'limb fillet flap' 기술을 적용, 추가 도너부위 없이 긴장 없는 상처 봉합을 시행하였다. 수술 후 경과 관찰을 통해 상처 치유 상태 및 기능적, 미용적 결과를 평가하였다.",
+      "one_sentence_summary": "한 마리의 고양이에서 thoracic limb 부위에 침습성 feline injection-site sarcoma가 진단되어 radial excision과 앞다리 절단을 시행하였다. 절단된 앞다리에서 viable skin을 채취해 limb fillet flap 방식으로 광범위 수술 부위를 무긴장으로 봉합하였다. 수술 후 합병증 없이 상처는 문제 없이 치유되었고, 미용적 및 기능적 결과 또한 만족스러웠다.",
+      "key_results": [
+        {
+          "result": "절단된 앞다리에서 채취한 피부를 이용한 limb fillet flap 수술법으로 광범위한 절제 부위를 무긴장으로 봉합하여 상처 치유가 문제없이 이루어졌다.",
+          "evidence_quote": "The wound healed uneventfully, with satisfactory cosmetic and functional outcomes."
+        },
+        {
+          "result": "수술 후 중대한 합병증은 관찰되지 않았다.",
+          "evidence_quote": "No major postoperative complications were observed"
+        },
+        {
+          "result": "함께 사용한 limb fillet flap 기법이 추가적인 donor site 없이 충분한 절제 부위 피복이 가능함을 보여주었다.",
+          "evidence_quote": "the use of filleted limb skin provided adequate coverage of the resection site."
+        }
+      ],
+      "authors_conclusion": "인간 종양 재건 수술에서 사용하는 limb fillet flap 기법을 FISS 절대 절제 후 상처 봉합에 성공적으로 적용하였으며, 본 방법은 고양이의 큰 암성 결손부 재건에 실용적인 옵션이 될 수 있다고 판단된다.",
+      "clinical_takeaway": "FISS로 인한 광범위 절제와 앞다리 절단이 필요한 고양이 환자에서, 절단된 다리의 피부를 보존해 재건에 사용하는 limb fillet flap 기법은 추가적인 도너 부위 없이도 큰 결손부를 효과적으로 봉합할 수 있는 실용적 방법임을 보여줍니다. 본 증례는 이 수술법이 고양이에서 성공적으로 활용될 수 있음을 시사하며, 향후 비슷한 임상 상황에서 고려가 가능하나 단일 증례인 점과 장기 추적 결과 부족 등으로 보편적 권고를 위해서는 추가 연구가 필요합니다.",
+      "limitations": [
+        "단일 증례 보고로 일반화에 제한이 있음",
+        "장기 추적 관찰 및 비교 연구 부재",
+        "수술 기법의 다양한 암종 및 환자 조건에 대한 적용 가능성 미검증",
+        "전체 논문 미산출, 초록만으로 자료 제한적"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vsu.70127",
+      "discovered_at": "2026-11-06 03:25:45.090052+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42316973/",
+      "summary_generated_at": "2026-11-06 03:27:26.511561+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Favorable short- and long-term outcomes reported for cats following surgical management of biliary cystadenomas.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-06-10",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.2460/javma.25.12.0795",
+      "pmid": "42269678",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.25.12.0795",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42269678/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 biliary cystadenomas를 가진 21마리 고양이에서 수술적 치료와 그 결과를 직접 평가하였으며, 이는 고양이 임상에서 직접 활용 가능한 근거를 제공합니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "biliary cystadenomas",
+      "study_design": "retrospective",
+      "sample_size": 21,
+      "sample_size_quote": "21 cats met inclusion criteria.",
+      "objective": "biliary cystadenomas를 가진 고양이에서 임상 양상, 수술 전후 변수, 수술적 치료 및 결과를 기술하고자 하였다.",
+      "study_methods": "2008년에서 2023년 사이에 biliary cystadenomas로 진단받고 수술을 받은 21마리의 고양이를 후향적으로 분석하였다. 종, 성별, 나이, 임상 증상, 수술 적응증, 수술 중 발생한 합병증, 조직병리학적 소견, 추적 관찰 결과 및 생존율을 평가하였다.",
+      "one_sentence_summary": "총 21마리의 biliary cystadenomas를 가진 고양이를 대상으로 후향적 분석을 실시했으며, 수술 후 주요 합병증은 드물었고 수술 사망률은 10%였다. 수술 후 추적관찰이 가능한 18마리 중 22%에서 재발이 관찰되었고, 악성 전환이 의심된 사례도 3마리 있었다. 생존 기간 중앙값은 570일이며, 1년, 2년, 3년 생존율은 각각 67%, 43%, 15%로 보고되었다.",
+      "key_results": [
+        {
+          "result": "수술 환자 21마리 중 2마리(10%)에서 수술 관련 사망이 발생하였다.",
+          "evidence_quote": "the perioperative mortality rate was 10% (2 of 21)"
+        },
+        {
+          "result": "추적관찰이 가능한 18마리 중 4마리(22%)에서 재발이 있었다.",
+          "evidence_quote": "The recurrence rate was 22% (4 of 18) for the cats with follow-up."
+        },
+        {
+          "result": "조직병리학에서 3마리에서 악성 전환 의심 소견을 보였다.",
+          "evidence_quote": "Three cats had concerns for malignant transformation on histopathology."
+        },
+        {
+          "result": "수술 후 중앙 생존 기간은 570일이었으며 1-, 2-, 3년 생존율은 각각 67%, 43%, 15%였다.",
+          "evidence_quote": "The median survival time was 570 days with 1-, 2-, and 3-year survival rates of 67%, 43%, and 15%, respectively."
+        },
+        {
+          "result": "수술 후 주요 합병증은 드물었다.",
+          "evidence_quote": "Major surgical complications were uncommon"
+        }
+      ],
+      "authors_conclusion": "고양이의 biliary cystadenomas에 대한 수술적 치료는 단기 및 장기적으로 긍정적인 결과를 보였으며, 확진과 관련된 이환율 개선을 위하여 수술을 고려하는 것이 바람직하나 악성 전환 가능성을 인지해야 한다고 결론 내렸다.",
+      "clinical_takeaway": "biliary cystadenomas를 가진 고양이에서 수술은 주요 합병증 없이 안전하게 시행 가능하며, 수술 사망률은 약 10%로 보고되었다. 수술 이후 재발률은 22%였고 일부에서는 악성 전환이 관찰되어 주의가 필요하다. 생존 기간 중앙값이 약 570일로 비교적 긴 장기 예후가 가능하므로, 임상 증상이나 간 종괴가 있으면 확진 및 증상 개선을 위해 수술적 치료를 신중히 고려할 가치가 있다. 다만 악성 전환 가능성을 배제할 수 없으므로 추적관찰이 필수적이며, 모든 환자에 일괄 적용은 제한된다.",
+      "limitations": [
+        "후향적 연구로 인과관계 확립에 제한이 있다.",
+        "표본 크기가 21마리로 비교적 작다.",
+        "추적 관찰 기간과 재발률 평가에 제한이 있을 수 있다.",
+        "악성 전환 소견에 대한 구체적 프로토콜이나 치료 경과가 상세히 기술되어 있지 않다.",
+        "초록만 제공되어 전체 연구 방법과 결과의 세부 분석에 제한이 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "고양이에서 biliary cystadenomas 수술 후 임상 증상 개선과 장기 생존 가능성을 직접 제시하는 구체적 보고이며, 재발 및 악성 전환 정보도 제공하여 임상적 의사결정에 도움이 되기 때문에 추천한다.",
+      "id": "doi:10.2460/javma.25.12.0795",
+      "discovered_at": "2026-09-17 05:57:10.370016+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42269678/",
+      "summary_generated_at": "2026-11-06 03:27:54.672735+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Liquid biopsy technologies offer new insights and approaches for canine cancer detection and management.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -5891,19 +6022,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 473
+        "received": 474
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 558
+        "received": 517
       }
     },
-    "started_at": "2026-11-05T03:28:33.950598+00:00",
-    "since": "2026-09-21",
-    "processed": 3,
-    "refreshed": 1,
-    "failed": 10,
-    "deferred": 1012,
-    "finished_at": "2026-11-05T03:31:26.261093+00:00"
+    "started_at": "2026-11-06T03:25:40.650398+00:00",
+    "since": "2026-09-22",
+    "processed": 2,
+    "refreshed": 0,
+    "failed": 14,
+    "deferred": 1014,
+    "finished_at": "2026-11-06T03:28:04.013977+00:00"
   }
 }
