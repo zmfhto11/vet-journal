@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T03:28:04.092900+00:00",
-  "last_successful_collection": "2026-11-06T03:25:40.650350Z",
+  "generated_at": "2026-11-07T02:51:26.252760+00:00",
+  "last_successful_collection": "2026-11-07T02:46:57.992918Z",
   "mode": "live",
   "papers": [
     {
@@ -1202,7 +1202,7 @@
       "publication_date_raw": "2026-Nov",
       "doi": "10.1111/vsu.70143",
       "pmid": "42770669",
-      "pmcid": null,
+      "pmcid": "PMC13736396",
       "publisher_url": "https://doi.org/10.1111/vsu.70143",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42770669/",
       "source": "pubmed",
@@ -1957,7 +1957,7 @@
       "publication_date_raw": "2026-Nov",
       "doi": "10.1111/vsu.70157",
       "pmid": "42717636",
-      "pmcid": null,
+      "pmcid": "PMC13736187",
       "publisher_url": "https://doi.org/10.1111/vsu.70157",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42717636/",
       "source": "pubmed",
@@ -4289,6 +4289,69 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Cadaveric Feasibility Study Describing Transarticular Drilling of the Canine Anconeal Process through a Cranial Arthroscopic Portal.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-08-04",
+      "online_publication_date": "2026-08-04",
+      "publication_date_raw": "2026-Aug-04",
+      "doi": "10.1055/a-2904-0023",
+      "pmid": "42551861",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2904-0023",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42551861/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 canine cadaveric elbow를 대상으로 한 cadaveric feasibility study로, 실제 임상에서의 안정성 및 임상적 효용성은 확인되지 않았습니다. 따라서 임상 진료에 직접 적용하기에는 제한적이며 추가 임상 연구가 필요합니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "minimally_invasive_surgery",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "ununited anconeal process repair",
+      "study_design": "other",
+      "sample_size": 8,
+      "sample_size_quote": "Cadaver elbows (n = 8) were instrumented through a cranial portal in the distal humerus using a NanoScope.",
+      "objective": "Canine cadaveric elbow에서 cranial arthroscopic portal을 통한 transarticular drilling의 수행 가능성과 정확성을 평가하는 것.",
+      "study_methods": "8마리 canine cadaveric elbow를 대상으로 distal humerus의 cranial portal을 이용하여 NanoScope으로 관절 내를 관찰하면서 supratrochlear foramen을 통과하여 anconeal process를 확인했다. 2.0mm 드릴을 이용해 ununited anconeal process repair를 모사하는 pilot hole을 C guide와 cannulated drill bits를 사용해 retrograde로 시술했다. 술기 수행 시간, anconeal process 확인 유무, CT 및 육안 해부를 통해 드릴 터널 위치 및 경로 정확성, 주변 중요 구조 손상 여부를 평가했다. 최초 2개는 술기 개발에 사용했고 나머지 6개는 결과 분석에 포함했다.",
+      "one_sentence_summary": "Canine cadaveric elbow 8개를 이용한 연구로, NanoScope를 설치한 cranial arthroscopic portal을 통해 supratrochlear foramen을 경유해 anconeal process에 접근하고 retrograde transarticular drilling을 시행하였다. 6개 표본에서 수술 시간은 평균 16.6분이었고, CT와 육안 해부 결과 드릴 경로는 모두 적절하였으며 주요 신경 및 혈관 손상은 관찰되지 않았다. 본 수술법은 cadaveric 모델에서 시술 가능성과 정확성을 입증했지만, 임상 안전성은 추가 연구가 필요하다.",
+      "key_results": [
+        {
+          "result": "6개의 드릴 터널 모두 CT와 육안 해부에서 허용 가능한 경로를 보였다.",
+          "evidence_quote": "All six tunnels drilled had acceptable trajectories based on computed tomography and gross dissection."
+        },
+        {
+          "result": "중요 구조물에 대한 심각한 손상은 관찰되지 않았다.",
+          "evidence_quote": "Major damage to critical structures was not observed in any specimen; however, tunnels were directly adjacent to transcubital vessels and a musculocutaneous nerve branch."
+        },
+        {
+          "result": "평균 수술 시간은 16.6분(표준편차 3.0) 이었다.",
+          "evidence_quote": "Mean surgery time was 16.6 (standard deviation 3.0) minutes."
+        }
+      ],
+      "authors_conclusion": "본 술식은 cadaveric 모델에서 anconeal process를 시각화하면서 정확한 transarticular drilling이 가능함을 보여주었다. 하지만 임상 적용을 위한 술기의 안전성과 유효성 평가는 추가 임상 연구가 필요하다.",
+      "clinical_takeaway": "본 연구는 canine cadaveric elbow에서 cranial arthroscopic portal을 통한 transarticular drilling 기술의 기술적 수행 가능성과 정확성을 시연하였다. 이는 ununited anconeal process repair에 있어 최소 침습적 접근법 개발에 기여할 수 있으나, 실제 환자에서의 안전성, 주요 신경 및 혈관 손상 위험성은 충분히 평가되지 않았다. 따라서 이 술식을 임상에서 적용하기 전에는 주의가 필요하며, 특히 수술 중 술기가 인접한 transcubital vessels와 musculocutaneous nerve branch 손상 위험이 있음을 인지해야 한다. 임상 적용 가능성과 관련 합병증 통계를 확보하기 위해서는 실제 환자 대상 전향적 연구가 필수적이다.",
+      "limitations": [
+        "cadaveric study로 실제 임상 조건과 다름.",
+        "임상 대상 환자에서의 안전성과 효과성 검증 미비.",
+        "추가 신경 및 혈관 손상 위험 평가 부족.",
+        "소수 표본(총 8개)으로 일반화에 제한이 있음.",
+        "수술 후 장기적인 결과 및 합병증 평가 불가.",
+        "초기 2개 표본은 술기 개발에 사용되어 결과에서 제외됨."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1055/a-2904-0023",
+      "discovered_at": "2026-09-17 05:57:06.034149+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42551861/",
+      "summary_generated_at": "2026-11-07 02:51:25.413981+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Is annual Dirofilaria immitis antigen testing at preventive renewal proportionate to the residual infection risk in documented-compliant dogs?",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -6022,19 +6085,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 474
+        "received": 468
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 517
+        "received": 502
       }
     },
-    "started_at": "2026-11-06T03:25:40.650398+00:00",
-    "since": "2026-09-22",
-    "processed": 2,
+    "started_at": "2026-11-07T02:46:57.992963+00:00",
+    "since": "2026-09-23",
+    "processed": 1,
     "refreshed": 0,
-    "failed": 14,
+    "failed": 13,
     "deferred": 1014,
-    "finished_at": "2026-11-06T03:28:04.013977+00:00"
+    "finished_at": "2026-11-07T02:51:26.178823+00:00"
   }
 }
