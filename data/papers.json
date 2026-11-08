@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T02:51:26.252760+00:00",
-  "last_successful_collection": "2026-11-07T02:46:57.992918Z",
+  "generated_at": "2026-11-08T02:30:05.072898+00:00",
+  "last_successful_collection": "2026-11-08T02:27:37.173932Z",
   "mode": "live",
   "papers": [
     {
@@ -2357,6 +2357,67 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Comparing Implant Removal Rates After Tibial Plateau Leveling Osteotomy Performed on a Mobile Service versus in a Specialist Orthopaedic Surgery Center: 916 Cases.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-09-02",
+      "online_publication_date": "2026-09-02",
+      "publication_date_raw": "2026-Sep-02",
+      "doi": "10.1055/a-2944-1667",
+      "pmid": "42685794",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2944-1667",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685794/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 실제 임상에서 mobile service와 orthopaedic exclusive surgical centre에서 시행한 TPLO 후 implant removal rate를 직접 비교하여, 임상 의사결정에 직접적으로 관련된 근거를 제공합니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "orthopedics",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "implant removal after TPLO",
+      "study_design": "retrospective",
+      "sample_size": 916,
+      "sample_size_quote": "Records for 916 TPLO performed either on a mobile basis or in-centre were reviewed including whether the implants were subsequently removed.",
+      "objective": "본 연구의 목적은 단일 외과의사가 mobile service 환경과 orthopaedic exclusive surgical centre 환경에서 시행한 TPLO 후 implant removal 비율을 비교하는 것이었습니다.",
+      "study_methods": "총 916건의 TPLO 기록을 후향적으로 수집하였으며, mobile service(341건)와 in-centre(575건)에서 시행된 경우를 포함합니다. 주요 측정 변수는 수술 후 임플란트 제거 여부이며, 피부 봉합 방식(피부봉합 vs intradermal closure)에 따른 차이도 평가했습니다. Marginal logistic regression 모델을 사용하여 implant removal율을 비교 분석하였습니다.",
+      "one_sentence_summary": "총 916건의 TPLO 수술 결과를 후향적으로 분석한 결과, mobile service에서 수술을 받은 개 341두 중 4.4%(15두)가 임플란트 제거를 경험한 반면, orthopaedic exclusive surgical centre에서 수술받은 575두 중 0.7%(4두)만이 임플란트 제거를 받았습니다. 피부봉합 방식별로는 intradermal closure 그룹(518두, 3.3%)이 피부봉합 그룹(398두, 0.5%)보다 implant removal 비율이 높았으나, 다변량 분석에서는 수술 위치만이 통계적으로 유의한 영향을 미쳤습니다.",
+      "key_results": [
+        {
+          "result": "mobile service에서 TPLO 시행시 4.4% (15/341)의 개가 implant removal을 받았으며, in-centre에서는 0.7% (4/575)로 유의하게 낮았다.",
+          "evidence_quote": "dogs having TPLO on a mobile basis had significantly higher odds (odds ratio [OR]: 6.5; 95% confidence interval [CI]: 2.1-19.6; p = 0.001) of having their implants removed (4.4%, 15/341) compared with dogs having TPLO in-centre (0.7%, 4/575)."
+        },
+        {
+          "result": "intradermal skin closure를 시행한 개 518마리 중 3.3%가 implant removal을 받았고, skin sutures 그룹 398마리 중 0.5%만 implant removal되었다.",
+          "evidence_quote": "Dogs with intradermal skin closure had significantly higher odds (OR: 6.3; 95% CI: 1.5-26.8, p = 0.010) of having their implants removed (3.3%, 17/518) compared with dogs having skin sutures (0.5%, 2/398)."
+        },
+        {
+          "result": "다변량 분석 결과, implant removal에 유의한 영향을 끼친 변수는 수술 위치(mobile service vs in-centre)로 OR 27.3, 95% CI 1.7-449.1, p=0.021이었다. 봉합 방식은 통계적으로 유의하지 않았다.",
+          "evidence_quote": "on multivariable analysis, only location (OR: 27.3; 95% CI: 1.7-449.1; p = 0.021) and not suture (OR: 6.1; 95% CI: 0.6-61.0; p = 0.130) had a significant effect on implant removal rate."
+        }
+      ],
+      "authors_conclusion": "TPLO 수술은 orthopaedic exclusive surgical centre에서 시행할 경우에 비해 mobile service에서 시행할 때 임플란트 제거 위험이 유의하게 높았습니다.",
+      "clinical_takeaway": "본 연구는 TPLO 수술 후 임플란트 제거가 mobile service 환경에서 더 높은 빈도로 발생함을 보여주어, 수술 장소가 수술 결과에 중요한 영향을 미칠 수 있음을 시사합니다. 특히, orthopaedic 전문 센터에서의 수술이 임플란트 제거율을 낮출 수 있어, 복잡한 정형외과 시술 시 전문 기관 이용을 우선 고려하는 것이 바람직합니다. 봉합 방식은 단일 변수 분석에서는 차이가 있었으나 다변량 분석에서는 유의하지 않아 피부 봉합법 선택은 임플란트 제거 위험에 큰 영향을 주지 않는 것으로 보입니다. 다만 본 연구는 후향적이고 단일 외과의사 데이터이므로 일반화에는 신중해야 합니다.",
+      "limitations": [
+        "연구가 후향적 코호트 분석으로 설계되어 인과관계 판단이 제한적이다.",
+        "단일 외과의사에 의한 시술 결과만 포함되어 타 외과의사 또는 기관과의 차이를 반영하지 못할 수 있다.",
+        "임상 전반의 수술 및 환자 관리 조건 변화에 대한 상세 데이터 부족으로 confounding 영향 가능성이 남아 있다.",
+        "abstract만 제공되어 세부적인 환자 특성, 수술 기법, 후속 관리에 관한 정보가 결여되어 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 개 임상 데이터를 기반으로 한 대규모 코호트 연구이며, TPLO 수술 시행 장소에 따른 임플란트 제거 위험 차이를 구체적으로 보고하여 임상 의사결정에 실질적인 영향을 줄 수 있기 때문입니다.",
+      "id": "doi:10.1055/a-2944-1667",
+      "discovered_at": "2026-09-16 01:13:31.974748+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42685794/",
+      "summary_generated_at": "2026-11-08 02:28:38.431961+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "World Small Animal Veterinary Association Global Dental Guidelines.",
       "journal": "Journal of Small Animal Practice",
       "journal_id": "jsap",
@@ -2547,6 +2608,80 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42949438/",
       "summary_generated_at": "2026-10-29 02:27:20.662768+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Nasal phaeohyphomycosis in a cat caused by Cladophialophora boppii.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag235",
+      "pmid": "42828555",
+      "pmcid": "PMC13633654",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag235",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42828555/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 논문은 고양이에서 확인된 Cladophialophora boppii로 인한 nasal phaeohyphomycosis의 임상 증례를 보고하며, 직접적으로 고양이 환자에 대한 진단과 치료에 관한 상세한 정보를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "nasal phaeohyphomycosis caused by Cladophialophora boppii",
+      "study_design": "case_report",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "고양이에서 발생한 Cladophialophora boppii 감염에 의한 nasal phaeohyphomycosis의 임상 양상, 진단 방법, 치료 과정 및 결과를 기술하고, 희귀 병원체에 대한 인식의 중요성을 강조한다.",
+      "study_methods": "7세의 중성화된 남성 집고양이 1마리가 색소 침착된 만성 비강 병변, 비생산적 재채기, 호흡곤란 증상으로 내원. CT, rhinoscopy, 조직 샘플링, 균 배양 및 분자 진단 시행하여 Cladophialophora boppii 감염을 확진. 초기에는 itraconazole 경구 치료를 시작했으나 질병 진행되어 delayed nasal planectomy(비강 절제술)를 시행. 수술 후 일시적 관해가 있었으나 재발하여 재수술 및 장기간 항진균 치료를 수행함. 치료 중 경과 및 생화학 모니터링도 포함됨.",
+      "one_sentence_summary": "한 7세 중성화 집고양이가 chronic, pigmented nasal lesion과 비생산적 재채기 및 호흡음 증가를 주소로 내원하였다. CT와 조직 검사를 포함한 진단 절차에서 Cladophialophora boppii 감염으로 진단되었고, itraconazole 경구 치료 후 병변이 악화되어 비강 절제술을 시행하였다. 이후 재발로 재수술 및 장기간 항진균 치료를 실시하여 2년 후 무병 상태 및 삶의 질이 현저히 개선된 결과를 얻었다.",
+      "key_results": [
+        {
+          "result": "Cladophialophora boppii가 고양이에서 처음으로 보고된 phaeohyphomycosis 원인균임이 확인되었다.",
+          "evidence_quote": "To our knowledge, this case represents the first report of C. boppii infection in a cat or any other veterinary species."
+        },
+        {
+          "result": "환 고양이는 만성 비강 색소 병변, 비생산적 재채기, 호흡음 증가를 보였다.",
+          "evidence_quote": "A 7-year-old neutered male domestic shorthair cat was presented with a chronic, pigmented nasal lesion, non-productive sneezing, and stertor."
+        },
+        {
+          "result": "CT에서 양측 비강 내부가 soft tissue로 폐쇄되고, 비강뼈 침식과 조기 림프절 비대가 관찰되었다.",
+          "evidence_quote": "On contrast-enhanced CT the left nostril and a portion of the right were completely obliterated by mildly contrast enhancing, soft tissue attenuating material, which extended rostro-caudally into both nasal cavities (Figure 2A-C). The lesion caused dorsal rhinarium deformity with bilateral nasal bone erosion and mild mandibular lymph node enlargement."
+        },
+        {
+          "result": "조직 검사에서 멜라닌 색소를 가진 fungal elements과 중성구 및 대식세포 염증이 확인되어 phaeohyphomycosis로 진단되었다.",
+          "evidence_quote": "Three punch biopsy samples were obtained from the lesion, one of which was submitted for histopathologic evaluation. Examination indicated severe granulomatous dermatitis with intralesional pigmented fungal yeast and hyphal forms, consistent with cutaneous phaeohyphomycosis (Supplementary material; Figure 4)."
+        },
+        {
+          "result": "Itraconazole 치료는 질병 진행을 막지 못했고, 이로 인해 delayed nasal planectomy가 필요했다.",
+          "evidence_quote": "Oral itraconazole treatment failed to arrest progression, necessitating delayed nasal planectomy."
+        },
+        {
+          "result": "최종적으로 고양이는 2년간 무병 상태로 생존하며 삶의 질이 현저히 개선되었다.",
+          "evidence_quote": "The cat was alive with no disease recurrence 2 years after initial presentation."
+        }
+      ],
+      "authors_conclusion": "고양이에서 Cladophialophora boppii 감염에 의한 nasal phaeohyphomycosis는 최초 보고 사례로, 빠른 진단과 균종 확인, 그리고 적극적인 외과적 절제 및 장기간 맞춤형 항진균 치료가 필요함을 시사한다. 치료 지연 혹은 중단 시 질병 재발 및 진행 위험이 크므로 임상적 경계가 필수적이다.",
+      "clinical_takeaway": "이 증례는 고양이에서 매우 드물게 발생하는 Cladophialophora boppii 감염에 의한 nasal phaeohyphomycosis의 임상적 중요성을 보여준다. 초기에는 pigmentation이 동반된 만성 비강 병변과 비생산적 재채기, 호흡곤란 같은 증상이 나타나므로 해당 특징을 가진 고양이 환자에서 phaeohyphomycosis를 감별진단해야 한다. 진단은 조직학적 검사와 분자생물학적 균종 확인에 의존하며, itraconazole 단독 치료만으로는 효과적이지 않을 수 있어 적극적인 수술적 절제와 장기간 항진균 치료가 필수적이다. 특히 itraconazole 사용 시 간 독성 발생 가능성에 대비해 정기적인 생화학 모니터링이 중요하다. 본 증례는 항진균 치료 중단이나 지연이 재발을 유발할 수 있음을 경고하며, 비슷한 환자 관리 시 조기 진단과 다학제적 치료 접근이 삶의 질 향상에 결정적임을 시사한다.",
+      "limitations": [
+        "단일 증례 보고로 일반화에 한계가 있다.",
+        "진단에 소요된 시간이 길어 임상 적용에 제한이 있을 수 있다.",
+        "항진균 치료 효과 평가에 영향을 미칠 수 있는 비표준화된 국소 항진균제 사용이 있었다.",
+        "복부 영상검사가 수행되지 않아 면역억제 관련 기저 질환 배제에 한계가 있다.",
+        "항진균 약물 감수성 확립을 위한 충분한 데이터가 없어 치료 계획에 제한이 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "고양이에서 희귀하지만 중증의 nasal phaeohyphomycosis를 일으키는 신종 병원체 Cladophialophora boppii의 임상 진단부터 치료까지 구체적이고 직접적인 사례를 제시하여, 유사 사례 발생 시 진단과 치료에 실질적 도움을 줄 수 있는 근거를 제공합니다.",
+      "id": "doi:10.1093/jvimsj/aalag235",
+      "discovered_at": "2026-10-04 23:25:17.141431+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13633654",
+      "summary_generated_at": "2026-11-08 02:29:02.689708+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -6085,19 +6220,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 468
+        "received": 459
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 502
+        "received": 491
       }
     },
-    "started_at": "2026-11-07T02:46:57.992963+00:00",
-    "since": "2026-09-23",
-    "processed": 1,
+    "started_at": "2026-11-08T02:27:37.173988+00:00",
+    "since": "2026-09-24",
+    "processed": 2,
     "refreshed": 0,
-    "failed": 13,
-    "deferred": 1014,
-    "finished_at": "2026-11-07T02:51:26.178823+00:00"
+    "failed": 11,
+    "deferred": 1019,
+    "finished_at": "2026-11-08T02:30:04.955572+00:00"
   }
 }
