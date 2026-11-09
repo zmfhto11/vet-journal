@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T02:30:05.072898+00:00",
-  "last_successful_collection": "2026-11-08T02:27:37.173932Z",
+  "generated_at": "2026-11-09T02:44:22.765887+00:00",
+  "last_successful_collection": "2026-11-09T02:38:56.293566Z",
   "mode": "live",
   "papers": [
     {
@@ -4539,6 +4539,152 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Delays to fracture stabilization and the effect on postoperative outcomes: A retrospective cohort study of 211 canine humeral condylar fractures.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-07-30",
+      "online_publication_date": "2026-07-30",
+      "publication_date_raw": "2026-Jul-30",
+      "doi": "10.1111/vsu.70137",
+      "pmid": "42529919",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70137",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42529919/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 204마리 개의 humeral condylar fracture 환자 211건을 대상으로 수술 지연이 수술 직후 방사선 이미지와 단기 임상 경과에 미치는 직접적인 영향을 분석하여, 개 임상 현장에 바로 적용 가능한 결과를 제공하기 때문입니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "orthopedics"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "humeral condylar fracture surgical timing",
+      "study_design": "retrospective",
+      "sample_size": 204,
+      "sample_size_quote": "A total of 211humeral condylar fractures (204 dogs).",
+      "objective": "개에서 humeral condylar fracture 수술 지연이 수술 후 방사선학적 결과와 임상적 단기 경과에 미치는 영향을 조사하였다.",
+      "study_methods": "후향적 관찰 코호트 연구로, 204마리 개의 211건 humeral condylar fracture 사례에서 수술 대기 시간과 임상 데이터를 의무기록에서 수집하였다. 수술 직후 촬영한 방사선 사진을 검토하여 intracondylar gap 또는 articular step defect 존재 여부를 확인하였으며, 최소 28일 이상 추적 관찰하여 수술 후 합병증과 단기 경과 데이터를 수집하였다. 다변량 로지스틱 회귀분석을 통해 방사선 소견과 임상 결과와 수술 지연의 연관성을 모델링하였다.",
+      "one_sentence_summary": "204마리 개에서 발생한 211건의 humeral condylar fracture를 대상으로 후향적 관찰 연구를 시행하였다. 수술 지연은 수술 직후 방사선 사진에서 intracondylar gap 또는 articular step defect 발생 위험을 유의하게 증가시키는 것과 관련 있었으며(adjusted OR=3.86/day, p<.001), 이들 결손 존재는 수술 후 합병증 위험(adjusted OR=5.92, p=.01)과 단기 임상 결과 악화(adjusted OR=0.13, p=.001)와 연관되었다. 수술 후 합병증은 다시 단기 경과 악화와 통계적으로 의미 있게 연관되었다(adjusted OR=0.38, p=.02).",
+      "key_results": [
+        {
+          "result": "금요일 또는 토요일에 골절이 발생한 경우 수술 지연이 유의하게 길어졌다 (p < .001).",
+          "evidence_quote": "Fracture events occurring on Friday or Saturday were systematically associated with longer delays to surgery (p < .001)."
+        },
+        {
+          "result": "수술 지연 시간이 하루 추가될 때마다 수술 직후 방사선 사진에서 intracondylar gap 또는 articular step defect가 발생할 위험이 3.86배 증가하였다 (p < .001).",
+          "evidence_quote": "Increasing delays to surgery were associated with an increased risk of an intracondylar gap or articular step defect on immediate postoperative radiographs (adjusted OR = 3.86 per additional day, 95% CI: 2.04-7.29, p < .001)."
+        },
+        {
+          "result": "intracondylar gap 또는 articular step defect가 있을 경우 수술 후 합병증 발생 위험이 5.92배 증가하였다 (p = .01).",
+          "evidence_quote": "Presence of an intracondylar gap or articular step defect was associated with an increased risk of postoperative complications (adjusted OR = 5.92, 95% CI: 1.44-24.36, p = .01)."
+        },
+        {
+          "result": "intracondylar gap 또는 articular step defect가 있으면 단기 임상 결과가 유의하게 나빠질 위험이 0.13배로 감소하였다 (p = .001).",
+          "evidence_quote": "Presence of an intracondylar gap or articular step defect was associated with an increased risk of a poorer short-term outcome (adjusted OR = 0.13, 95% CI: 0.04-0.42, p = .001)."
+        },
+        {
+          "result": "수술 후 합병증 발생은 단기 임상 결과 악화 위험을 0.38배로 의미 있게 증가시켰다 (p = .02).",
+          "evidence_quote": "The presence of postoperative complications increased the risk of a poorer short-term outcome (adjusted OR = 0.38, 95% CI: 0.17-0.87, p = .02)."
+        }
+      ],
+      "authors_conclusion": "수술 지연은 canine humeral condylar fracture 수술에서 골절 부위 정복의 정확성, 수술 후 합병증 발생률 및 단기 임상 결과에 중요한 영향을 미치는 시스템 요인임을 시사한다.",
+      "clinical_takeaway": "본 연구는 canine humeral condylar fracture 환자에서 수술 지연이 수술 후 방사선학적 결손 발생 및 합병증 위험을 높여 단기 임상 경과를 악화시킬 수 있음을 보여준다. 특히 주말에 골절이 발생하면 수술 지연이 길어지므로 응급 및 수술 자원 관리가 중요함을 의미한다. 따라서 골절 수술의 적시 시행을 위한 시스템 개선은 환자 예후 향상에 기여할 수 있는 중요한 품질 향상 영역이라 하겠다. 다만 본 연구가 후향적 관찰 연구임에 따라 인과관계 해석에 신중함이 요구되며, 장기 예후나 수술 기술 변수는 평가되지 않아 광범위한 적용에는 한계가 있다.",
+      "limitations": [
+        "후향적 연구라는 점에서 인과관계 확정에 한계가 있다.",
+        "장기 추적 결과 및 수술술기 세부 변수는 포함되지 않았다.",
+        "전임상 및 증례별 관리는 표준화되지 않았을 수 있다.",
+        "초록만 제공되어 추가 세부 결과나 방법론이 확인되지 않는다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상 현장에서 humeral condylar fracture 수술 시 수술 지연의 위험성과 이를 줄이기 위한 시스템 수준 개입 필요성을 구체적이고 통계적으로 뒷받침하는 유용한 결과를 제시하였고, 환자 관리 향상에 직접적인 시사점을 제공하기 때문입니다.",
+      "id": "doi:10.1111/vsu.70137",
+      "discovered_at": "2026-09-17 05:57:06.097004+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42529919/",
+      "summary_generated_at": "2026-11-09 02:42:02.376479+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Clinically important abnormalities are common in senior cats perceived to be healthy by owners.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-07-29",
+      "online_publication_date": "2026-07-29",
+      "publication_date_raw": "2026-Jul-29",
+      "doi": "10.2460/javma.26.04.0326",
+      "pmid": "42526494",
+      "pmcid": "PMC13472236",
+      "publisher_url": "https://doi.org/10.2460/javma.26.04.0326",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42526494/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "노령 고양이를 대상으로 하여 임상적으로 건강하다고 인식된 환자에서 물리학적 검사와 진단검사로 흔히 발견되는 중요 이상 소견을 평가하였으며, 소유자의 인식과 객관적 검사 결과 간 불일치를 증명하여 임상에서의 진단 우선순위 설정에 직접적인 임상적 함의를 제공하기 때문이다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "clinically important abnormalities in apparently healthy senior cats",
+      "study_design": "prospective",
+      "sample_size": 129,
+      "sample_size_quote": "129 cats were included in the study.",
+      "objective": "노령 고양이 중 소유자가 건강하다고 인지하는 환자에서 신체검진소견, 진단학적 이상 및 소유자 보고 평가를 기술하고, 소유자 인식과 객관적 검사 결과 간 일치도를 평가하여 스펙트럼-오브-케어 진단 우선순위 설정에 기여하기 위함이다.",
+      "study_methods": "2022년부터 2024년까지 University of Wisconsin-Madison 수의과대학에 내원한 12세 이상 소유자 소유 고양이를 전향적으로 등록하였다. 소유자가 건강하다고 평가한 고양이 중 안정적 만성질환이 있는 경우도 포함했다. 소유자 설문, 신체검진, 진단검사를 시행하였으며 이상 소견의 유병률과 소유자 인식과의 일치도를 분석하였다.",
+      "one_sentence_summary": "2022-2024년에 12세 이상 소유자 소유 129마리의 노령 고양이가 대상이 되었다. 모든 고양이에서 신체검진 이상소견이 관찰되었으며, 치과 이상은 100%(129/129), 정형외과 이상은 77.8%(63/81)에서 발견되었다. 진단검사 결과 만성 신장병 61.3%(49/80), 고혈압 96.4%(54/56), 갑상선기능항진증 64.7%(11/17)의 높은 유병률이 확인되었다. 소유자의 움직임 평가 점수는 정형외과 질환과 관련이 없었고, 배뇨량 증가는 만성 신장병과 관련 있으나 75.6%(34/45)는 소유자가 변화가 없다고 응답했다.",
+      "key_results": [
+        {
+          "result": "모든 고양이에서 신체검진 이상소견이 있었으며, 치과 이상은 129마리 중 129마리(100%)였다.",
+          "evidence_quote": "All cats had abnormalities on physical examinations, most commonly dental (129 of 129 [100%])"
+        },
+        {
+          "result": "정형외과 질환은 81마리 중 63마리(77.8%)에서 관찰되었다.",
+          "evidence_quote": "orthopedic disease (63 of 81 [77.8%])"
+        },
+        {
+          "result": "만성 신장병은 80마리 중 49마리(61.3%)에서 이전에 인지되지 않은 상태로 진단되었다.",
+          "evidence_quote": "chronic kidney disease (49 of 80 [61.3%])"
+        },
+        {
+          "result": "고혈압은 56마리 중 54마리(96.4%)에서 발견되었다.",
+          "evidence_quote": "hypertension (54 of 56 [96.4%])"
+        },
+        {
+          "result": "갑상선기능항진증은 17마리 중 11마리(64.7%)에서 진단되었다.",
+          "evidence_quote": "hyperthyroidism (11 of 17 [64.7%])"
+        },
+        {
+          "result": "소유자의 운동성 점수는 정형외과 이상과 통계적으로 관련이 없었다.",
+          "evidence_quote": "Owner-reported mobility scores were not associated with orthopedic abnormalities."
+        },
+        {
+          "result": "배뇨량 증가는 만성 신장병과 연관되었으나, 만성 신장병 환자 45마리 중 34마리(75.6%)는 변화가 없다고 소유자가 응답하였다.",
+          "evidence_quote": "Although increased urination was associated with chronic kidney disease, 75.6% (34 of 45) of affected cats had no owner-reported change"
+        }
+      ],
+      "authors_conclusion": "임상적으로 건강하다고 생각되는 노령 고양이에서 중요 이상소견이 흔하며, 소유자 보고만으로는 질병 부하를 과소평가하는 경향이 있었다. 신체검진과 요비중, 신장 지표, 총 T4, 혈압 이상이 질병 감지에 유용하였다.",
+      "clinical_takeaway": "노령 고양이에서 소유자가 건강하다고 인식하더라도 신체검진과 기본적인 진단검사를 통해서 높은 빈도의 중요 질병이 발견될 수 있다. 특히 만성 신장병, 고혈압, 갑상선기능항진증이 소유자 인식과 달리 자주 발견되어 정기적인 스크리닝과 우선순위 기반 진단 접근이 필요함을 시사한다. 이 연구 결과는 소유자 진술만으로 건강 상태를 판단하는 것의 한계를 명확히 하며, 임상에서는 신체검진과 표준 혈액검사, 혈압 측정을 포함하는 종합적인 평가가 중요하다. 단, 제한된 검사군과 현장 적용성에 따라 각 환자의 상황에 맞게 해석 및 검사가 조정되어야 한다.",
+      "limitations": [
+        "본 연구는 단일 대학병원에서 이루어진 점진행성 연구로, 다른 진료 환경이나 일반 현장에 바로 적용하기 어려울 수 있다.",
+        "검사 시행이 일부 환자에 국한되어 전체 코호트에 대한 완전한 질병 유병률 파악에 제한이 있다.",
+        "소유자 설문에 의존한 질병 증상 평가는 주관적이며 기억편향이 있을 수 있다.",
+        "진단검사 항목별 검사 대상 환자수가 다소 달라 특정 질병 유병률 비교에 제약이 있다.",
+        "abstract만 제공되어 전체 논문 내용의 모든 자세한 검사 방법과 분석을 검토할 수 없다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "노령 고양이에서 소유자가 건강하다고 인지한 경우에도 다수의 중요한 임상 이상소견이 발견되어 진단검사와 신체검진을 통한 일상적인 조기 스크리닝을 권유할 충분한 근거를 제공한다.",
+      "id": "doi:10.2460/javma.26.04.0326",
+      "discovered_at": "2026-09-17 05:57:06.099861+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42526494/",
+      "summary_generated_at": "2026-11-09 02:43:01.407303+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Automated acute pain assessment in brachycephalic cats with ocular pain using the Feline Grimace Scale.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -5984,6 +6130,212 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Evaluation of point-of-care versus laboratory antiglobulin-enhanced major crossmatch testing in cats.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": null,
+      "online_publication_date": "2026-06-09",
+      "publication_date_raw": "2026-Nov",
+      "doi": "10.1111/jsap.70152",
+      "pmid": "42265906",
+      "pmcid": "PMC13728963",
+      "publisher_url": "https://doi.org/10.1111/jsap.70152",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42265906/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 수혈이 필요한 고양이에서 임상 환경에서 수행 가능한 point-of-care gel column crossmatch test와 참조 실험실에서 시행하는 항글로불린 강화 튜브 교차시험 간의 일치도를 비교한 임상 연구로, 고양이 수혈 전 교차시험 분야에 직접 적용 가능하다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "major crossmatch testing in cats",
+      "study_design": "prospective",
+      "sample_size": 95,
+      "sample_size_quote": "A total of 95 unique donor-recipient pairings were evaluated with both major crossmatch methods.",
+      "objective": "고양이에서 transfusion 전에 수행하는 두 가지 항글로불린 강화 major crossmatch 기술(실험실 기반 튜브법과 임상용 point-of-care gel column법)의 일치도를 평가하였다.",
+      "study_methods": "수혈이 필요할 가능성이 있는 고양이를 전향적으로 모집하였다. 각 고양이는 동시에 두 가지 방법으로 major crossmatch 검사를 받았다. 하나는 참조 실험실에서 수행한 항글로불린 강화 튜브 교차시험이며, 다른 하나는 임상가가 수행하고 제조사 지침에 따라 해석한 gel column 교차시험이었다. 양 방법에서 결과를 비교 분석하였다.",
+      "one_sentence_summary": "수혈이 필요할 가능성이 있는 고양이 95쌍에 대해 참조 실험실 항글로불린 튜브 교차시험과 클리닉에서 시행한 point-of-care gel column 교차시험을 실시하였다. 두 검사법 간 일치도는 카파 0.581로 중간 정도의 합의를 보였으며, 전체 일치율은 86.3%, 양성 일치율은 93.2%로 높았다. 단, 음성 일치율은 61.9%로 상대적으로 낮아 두 검사법 간 차이가 존재함을 시사한다.",
+      "key_results": [
+        {
+          "result": "95쌍의 공여자-수혜자 조합 중 실험실 기반 튜브 교차시험에서 21건, gel column 교차시험에서 18건이 부적합으로 나타났다.",
+          "evidence_quote": "Of the 95 pairings, 21 were incompatible using the laboratory-based tube crossmatch test while 18 were incompatible on the gel column crossmatch test"
+        },
+        {
+          "result": "양 검사법에서 부적합으로 판정된 사례는 13건이었다.",
+          "evidence_quote": "13 pairings were incompatible on both methods"
+        },
+        {
+          "result": "교차시험 두 방법 간 카파 일치도는 0.581 (95% CI: 0.378 to 0.785)로 중간 정도의 유의한 합의를 보였다.",
+          "evidence_quote": "Kappa agreement between the laboratory-based tube crossmatch and gel column crossmatch methods was 0.581 (95% confidence interval: 0.378 to 0.785), showing significant agreement."
+        },
+        {
+          "result": "검사 전반의 일치율은 86.3%, 부적합(양성) 판정 간 일치율은 93.2%, 적합(음성) 판정 간 일치율은 61.9%였다.",
+          "evidence_quote": "The overall percent agreement between the tests was 86.3%; positive percent agreement was 93.2%, while negative percent agreement was 61.9%."
+        }
+      ],
+      "authors_conclusion": "상업적으로 제공되는 항글로불린 강화 point-of-care gel major crossmatch 검사는 참조 실험실에서 수행하는 튜브 교차시험과 중간 정도의 일치도를 보였다. 더 많은 부적합 쌍을 포함한 추가 연구가 두 검사법 간 일치도를 더 정확히 평가하는 데 필요하다.",
+      "clinical_takeaway": "수혈이 필요한 고양이의 major crossmatch 검사 시, 현장검사로 편리한 항글로불린 강화 gel column 방법은 참조 실험실 튜브 검사와 중간 정도의 일치도를 보여 임상 활용 가능성이 있다. 특히 양성(부적합) 판정의 일치율은 매우 높아 위험 수혈 방지에 도움이 될 수 있다. 다만 음성(적합) 판정에서 일치율이 낮아 두 검사법 중 하나만으로 완전한 안전을 확신하기 어렵고, 특별히 부적합 판정에 신중을 기할 필요가 있다. 향후 부적합 샘플 수를 늘려 검사의 민감도와 특이도를 추가 평가하는 연구가 필요하다.",
+      "limitations": [
+        "부적합(donor-recipient incompatibility) 조합 수가 비교적 적어 두 검사법의 완전한 비교가 제한적이다.",
+        "진행 중인 연구가 아닌 abstract만 제공되어 세부 연구 방법 및 임상 변인에 대한 완전한 정보가 부족하다.",
+        "각 검사의 해석이 제조사 가이드에 의존하므로 실무자 및 환경에 따른 해석 편차 가능성이 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상 상황에서 수혈 전 고양이 major crossmatch 검사에 직접 적용 가능한 근거를 제공하며, point-of-care gel column test의 실용성과 시험 간 일치도를 구체적으로 평가해 수혈 관련 임상 결정에 유용하기 때문이다.",
+      "id": "doi:10.1111/jsap.70152",
+      "discovered_at": "2026-11-04 02:59:55.939340+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42265906/",
+      "summary_generated_at": "2026-11-09 02:40:23.560172+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Infectious complications of dental procedures in dogs and cats, and the impact of antimicrobial prophylaxis: a systematic review.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": null,
+      "online_publication_date": "2026-06-05",
+      "publication_date_raw": "2026-Oct",
+      "doi": "10.1111/jsap.70147",
+      "pmid": "42244488",
+      "pmcid": "PMC13634685",
+      "publisher_url": "https://doi.org/10.1111/jsap.70147",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42244488/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 체계적 문헌고찰은 개와 고양이에서 치과 시술 후 발생하는 국소 및 전신 감염 합병증과 항생제 예방 투여의 영향을 평가하여, 해당 환자군에서 직접적으로 임상적 의미가 있는 증거를 제공합니다. 이는 치과 시술 시 항생제 사용 여부 결정에 직접적으로 적용 가능한 정보입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "infectious_disease",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "Infectious complications after dental procedures and antimicrobial prophylaxis",
+      "study_design": "systematic_review",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개와 고양이에서 치과 시술 후 발생할 수 있는 국소 및 전신 감염 합병증 현황과 peri-procedural antimicrobial prophylaxis 효과를 체계적으로 평가하는 것이 목적입니다.",
+      "study_methods": "Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) 가이드라인에 따라 관련 연구를 검색, 선별하여 개와 고양이 치과 시술 후 감염 합병증 및 항생제 예방 처치 관련 증거를 체계적으로 분석하였습니다. 감염성 심내막염, 패혈증 발생률과 치과 시술과 혈류감염(bacteraemia) 발생 연관성, 항생제 예방 투여가 감염 위험에 미치는 영향 등의 문헌을 중점적으로 검토했습니다.",
+      "one_sentence_summary": "개와 고양이의 치과 시술 후 감염 합병증과 peri-procedural 항생제 예방 효과에 관한 연구를 체계적으로 검토하였습니다. 연구들은 혈류감염 유병률을 47%(95% CI 23%~74%)로 보고하였으나, 치과 시술과 혈류감염 사이 뚜렷한 연관성은 확인하지 못했습니다. 또한 감염성 심내막염이나 패혈증 발생률, 항생제 예방 효과에 관한 명확한 데이터가 없었으며, 전체 증거 수준은 매우 낮았습니다. 이 결과는 개와 고양이 치과 시술 시 항생제 사용 가이드라인 수립을 어렵게 합니다.",
+      "key_results": [
+        {
+          "result": "치과 시술 후 혈류감염(bacteraemia)의 통합 유병률은 47%(95% CI 23%~74%)로 보고되었으나, 두 개의 관련 연구에서는 치과 시술과 혈류감염 간 명확한 연관성을 확인하지 못했습니다.",
+          "evidence_quote": "The pooled prevalence of post-dental procedure bacteraemia was 47% (95% confidence interval 23% to 74%). Two studies investigated both dogs undergoing dental procedures and controls. Neither showed a clear association of dental procedures and bacteraemia."
+        },
+        {
+          "result": "혈류감염은 데이터상 임상적 결과와 연관되지 않았으며, 관련 데이터는 매우 제한적이고 증거 수준도 매우 낮았습니다.",
+          "evidence_quote": "Bacteraemia was not associated with any clinical consequences based on these data, but data were very limited, with a very low level of certainty of evidence."
+        },
+        {
+          "result": "치과 시술과 관련된 패혈증, 감염성 심내막염 발생률을 명확히 보고한 연구가 존재하지 않았고, peri-procedural 항생제 예방의 감염 합병증 감소 효과를 평가한 연구도 없었습니다.",
+          "evidence_quote": "Bacteraemia was not associated with any clinical consequences based on these data, but data were very limited, with a very low level of certainty of evidence. No studies evaluated the impact of peri-procedural antimicrobial on endocarditis, sepsis or other infectious complications."
+        },
+        {
+          "result": "항생제 사용과 혈류감염 발생을 결과로 본 두 연구가 있었으나, 두 연구 모두 편향 우려가 있었고 증거 확실성은 매우 낮았습니다.",
+          "evidence_quote": "Two relevant studies that used bacteraemia as the outcome were identified. Both studies were deemed to have some concerns of bias. Certainty of evidence was deemed to be very low."
+        },
+        {
+          "result": "치과 시술 후 항생제 투여가 감염 합병증에 미치는 영향을 평가한 데이터는 없었습니다.",
+          "evidence_quote": "No data were available to assess the impact of post-procedural antimicrobials on infectious complications."
+        }
+      ],
+      "authors_conclusion": "개와 고양이에서 치과 시술 후 감염 합병증 발생률과 peri-procedural 항생제 예방 효과를 평가한 근거가 심각하게 부족하여 관련 임상 가이드라인 개발에 크게 제한이 있음을 확인하였습니다.",
+      "clinical_takeaway": "본 체계적 검토는 개와 고양이 치과 시술 후 감염성 합병증의 실제 위험도가 불명확하며, 항생제 예방 투여가 감염 예방에 유의미한 영향을 미친다는 확실한 증거가 없음을 보여줍니다. 따라서 현재 임상에서는 치과 시술 시 항생제 사용에 신중을 기해야 하며, 무분별한 항생제 사용을 지양하는 한편, 개별 환자의 감염 위험도를 면밀히 평가하는 것이 중요합니다. 향후 고품질 연구를 통해 감염 위험과 항생제 예방의 실질적 효과를 명확히 규명할 필요가 있으며, 현 시점에서는 증거 부족을 감안해 일반적 권고를 내리기 어렵다는 점을 유념해야 합니다.",
+      "limitations": [
+        "관련 증거가 매우 제한적이고 대부분 편향 우려가 있는 연구에 근거하고 있습니다.",
+        "패혈증이나 감염성 심내막염 발생률과 항생제 효과를 명확히 평가한 연구가 전무합니다.",
+        "치과 시술과 혈류감염 간 상관관계 검증 연구 역시 소수이며 확정적이지 않습니다.",
+        "이 체계적 고찰은 초록 수준 데이터만 포함되었을 수 있어 전체 근거 분석에 한계가 있습니다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/jsap.70147",
+      "discovered_at": "2026-10-05 23:24:59.184014+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42244488/",
+      "summary_generated_at": "2026-11-09 02:41:40.417720+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Pet owners expect veterinarians to disclose medical errors.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-10-01",
+      "online_publication_date": "2026-06-03",
+      "publication_date_raw": "2026-Oct-01",
+      "doi": "10.2460/javma.25.12.0872",
+      "pmid": "42242286",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.25.12.0872",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42242286/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 반려동물 소유주를 대상으로 수의사가 의료 오류를 투명하게 공개하는 것에 대한 인식을 조사하여 임상에서 수의사의 의료 오류 소통 방식과 신뢰 형성에 직접적인 영향을 평가함으로써 임상 의사소통의 중요성을 명확히 밝혔습니다.",
+      "primary_category": "other",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "medical error disclosure",
+      "study_design": "prospective",
+      "sample_size": 5026,
+      "sample_size_quote": "A total of 5,026 pet owners completed the survey",
+      "objective": "수의학 교육 병원에서 진료받는 반려동물 소유주들이 의료 오류 공개에 대해 어떤 의견을 가지는지 조사하여, 의료 오류 인식과 소통 방식에 따라 신뢰도 변화 양상을 평가하는 것을 목적으로 하였습니다.",
+      "study_methods": "2021년부터 2022년까지 미국 7개 수의학 교육 병원에서 반려동물 소유주 5,026명을 대상으로 횡단면 설문조사를 시행하였습니다. 설문 내용은 인구통계학적 자료, 성격, 동물 소유 경험, 동물 사망 경험, 동물과 소유주 간 유대감, 그리고 의료 오류 경험 등을 포함하였으며, 다변량 회귀분석으로 의료 오류가 불가피하다는 믿음과 응답자 특성 간 관계를 평가했습니다.",
+      "one_sentence_summary": "미국 7개 수의학 교육 병원에서 5,026명의 반려동물 소유주를 대상으로 의료 오류 공개에 대한 인식을 조사하였습니다. 72%는 모든 의료 오류를 알고 싶어 했고, 72%는 오류 발생 즉시 알림을 원했으며, 88%는 오류가 반려동물에게 해를 끼칠 가능성이 있을 때 알기를 희망했습니다. 의료 오류 소통이 미흡할 때 87%가 수의사에 대한 신뢰를 잃었으나, 적절한 소통 시 58%가 신뢰가 오히려 향상된다고 응답했습니다.",
+      "key_results": [
+        {
+          "result": "72%의 반려동물 소유주가 모든 의료 오류에 대해 알고 싶어한다.",
+          "evidence_quote": "The majority (72%) indicated that they wanted to know about every medical error"
+        },
+        {
+          "result": "72%가 의료 오류 발생 즉시 통보받기를 원한다.",
+          "evidence_quote": "72% wanted to be notified immediately if an error occurred"
+        },
+        {
+          "result": "88%가 의료 오류가 반려동물에게 해를 끼칠 가능성이 있을 때 알기를 원한다.",
+          "evidence_quote": "88% wanted to know if a medical error had the potential to cause harm to their pet"
+        },
+        {
+          "result": "의료 오류 소통이 부적절할 경우 응답자의 87%가 수의사에 대한 신뢰를 잃는다.",
+          "evidence_quote": "The vast majority of respondents (87%) indicated that when a veterinarian poorly communicated about medical errors, they lost trust in the practitioner"
+        },
+        {
+          "result": "적절한 의료 오류 소통 시 58%가 수의사에 대한 신뢰가 향상된다고 응답하였다.",
+          "evidence_quote": "When a veterinarian communicated a medical error well, 58% reported an improvement in trust"
+        },
+        {
+          "result": "소통, 치료, 진단 오류가 환자의 부정적 결과로 이어진다고 응답자들은 생각한다.",
+          "evidence_quote": "Respondents indicated that errors in communication, treatment, and diagnosis resulted in negative patient case outcomes"
+        }
+      ],
+      "authors_conclusion": "대다수의 반려동물 소유주가 모든 의료 오류에 대해 알고 싶어 하며 즉시 통보받기를 원합니다. 의료 오류로 인한 부정적 결과는 소통, 오진, 치료 관련 오류에서 기인하며, 의료 오류 발생 시 수의사는 완전한 소통을 할 준비가 되어 있어야 한다고 결론지었습니다.",
+      "clinical_takeaway": "이 연구는 반려동물 소유주들이 수의사가 발생한 모든 의료 오류를 투명하고 신속하게 공개하기를 강력히 원함을 보여줍니다. 의료 오류에 대한 적절한 소통은 오히려 수의사에 대한 신뢰를 강화할 수 있으므로, 진료 현장에서 오류 발생 시 신속하고 정확한 의사소통이 중요합니다. 다만 본 연구는 설문 기반의 횡단면 연구로, 의료 오류의 실제 발생과 소통 행동 간의 인과 관계를 직접적으로 증명하지는 못합니다. 따라서 수의사는 개별 상황과 소유주의 성향을 고려하여 적절한 소통 전략을 수립해야 할 것입니다.",
+      "limitations": [
+        "횡단면 설문조사 방식으로 인과관계 추론이 어렵다.",
+        "설문 참여자가 수의학 교육 병원 방문자에 한정되어 일반 반려동물 소유주 전체로 일반화에 제한이 있다.",
+        "오류 종류별 세분화된 분석이 부족하며, 실제 의료 오류 발생 시 행동과 설문 응답 간 차이가 있을 수 있다.",
+        "전체 자료가 초록만 제공되어 본문 세부 내용 확인이 제한적이다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "반려동물 임상 현장에서 의료 오류 공개에 대한 소유주 기대와 소통의 중요성을 명확히 제시하였으며, 대규모 샘플에 기반한 직접적인 임상 관련성 있는 증거를 제공하므로 권장됩니다.",
+      "id": "doi:10.2460/javma.25.12.0872",
+      "discovered_at": "2026-09-19 23:22:11.515670+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42242286/",
+      "summary_generated_at": "2026-11-09 02:44:21.554560+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -6220,19 +6572,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 459
+        "received": 485
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 491
+        "received": 477
       }
     },
-    "started_at": "2026-11-08T02:27:37.173988+00:00",
-    "since": "2026-09-24",
-    "processed": 2,
+    "started_at": "2026-11-09T02:38:56.293609+00:00",
+    "since": "2026-09-25",
+    "processed": 5,
     "refreshed": 0,
-    "failed": 11,
-    "deferred": 1019,
-    "finished_at": "2026-11-08T02:30:04.955572+00:00"
+    "failed": 32,
+    "deferred": 1038,
+    "finished_at": "2026-11-09T02:44:22.652509+00:00"
   }
 }
