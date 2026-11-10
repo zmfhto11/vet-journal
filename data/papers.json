@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T02:44:22.765887+00:00",
-  "last_successful_collection": "2026-11-09T02:38:56.293566Z",
+  "generated_at": "2026-11-10T04:39:28.288437+00:00",
+  "last_successful_collection": "2026-11-10T04:36:47.254154Z",
   "mode": "live",
   "papers": [
     {
@@ -1818,7 +1818,7 @@
       "journal_id": "vco",
       "publication_date": "2026-09-09",
       "online_publication_date": "2026-09-09",
-      "publication_date_raw": "2026-Sep-09",
+      "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70111",
       "pmid": "42713725",
       "pmcid": null,
@@ -2159,7 +2159,7 @@
       "journal_id": "vco",
       "publication_date": "2026-09-07",
       "online_publication_date": "2026-09-07",
-      "publication_date_raw": "2026-Sep-07",
+      "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70109",
       "pmid": "42706634",
       "pmcid": null,
@@ -3056,7 +3056,7 @@
       "journal_id": "vco",
       "publication_date": "2026-09-01",
       "online_publication_date": "2026-09-01",
-      "publication_date_raw": "2026-Sep-01",
+      "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70110",
       "pmid": "42680555",
       "pmcid": null,
@@ -3197,7 +3197,7 @@
       "journal_id": "vco",
       "publication_date": "2026-08-27",
       "online_publication_date": "2026-08-27",
-      "publication_date_raw": "2026-Aug-27",
+      "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70108",
       "pmid": "42661152",
       "pmcid": null,
@@ -3535,7 +3535,7 @@
       "journal_id": "vco",
       "publication_date": "2026-08-18",
       "online_publication_date": "2026-08-18",
-      "publication_date_raw": "2026-Aug-18",
+      "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70107",
       "pmid": "42613071",
       "pmcid": null,
@@ -3605,7 +3605,7 @@
       "journal_id": "vco",
       "publication_date": "2026-08-16",
       "online_publication_date": "2026-08-16",
-      "publication_date_raw": "2026-Aug-16",
+      "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70105",
       "pmid": "42604724",
       "pmcid": null,
@@ -3883,7 +3883,7 @@
       "journal_id": "vco",
       "publication_date": "2026-08-12",
       "online_publication_date": "2026-08-12",
-      "publication_date_raw": "2026-Aug-12",
+      "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70104",
       "pmid": "42583882",
       "pmcid": null,
@@ -3964,7 +3964,7 @@
       "journal_id": "vco",
       "publication_date": "2026-08-12",
       "online_publication_date": "2026-08-12",
-      "publication_date_raw": "2026-Aug-12",
+      "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70103",
       "pmid": "42586720",
       "pmcid": null,
@@ -5034,6 +5034,139 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Sentinel Lymph Node Mapping Identifies Variable Cervical Drainage and Metastatic Nodes Outside Traditional Sampling Sites in Canine Oromaxillofacial Tumours.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": null,
+      "online_publication_date": "2026-07-10",
+      "publication_date_raw": "2026-Dec",
+      "doi": "10.1111/vco.70090",
+      "pmid": "42429579",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70090",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42429579/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 개의 oromaxillofacial 종양에서 sentinel lymph node mapping(SLNM)을 통해 림프절 전이의 위치와 분포를 직접 평가하여 수술 계획과 예후 판단에 중요한 정보를 제공하였기 때문에 임상적으로 직접 관련성이 높습니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "oromaxillofacial tumours in dogs",
+      "study_design": "retrospective",
+      "sample_size": 74,
+      "sample_size_quote": "ICTL data were evaluated for 77 oromaxillofacial tumours in 74 dogs",
+      "objective": "개의 oromaxillofacial 종양에서 간접 전산화 단층 촬영 림프관조영술(indirect computed tomographic lymphangiography, ICTL)을 이용한 sentinel lymph node mapping(SLNM)의 임상적 유용성을 기술하고, 종양 위치에 따른 SLN 배수 패턴의 다양성과 SLNM 안내 하에 식별된 전이 림프절의 분포를 설명하고자 하였다.",
+      "study_methods": "74마리 개에서 77개의 oromaxillofacial 종양에 대해 간접 전산화 단층 촬영 림프관조영술(이하 ICTL)을 사용하여 SLN 위치를 평가하였다. SLN 위치, 세포학 검사 결과, 가용한 조직병리학 결과를 서술적으로 기록하였다. 종양의 좌우측 위치 및 전이 림프절 분포와 파트너 검사 결과를 분석하였다.",
+      "one_sentence_summary": "총 74마리의 개에서 77개 oromaxillofacial 종양을 대상으로 ICTL를 통한 SLNM 시행 결과, 92%에서 적어도 하나의 SLN이 확인되었으며, 중앙값 2개의 SLN이 발견되었다. 68마리의 악성 종양 환자 중 10마리(15%)에서 림프절 전이가 확인되었고, 이 중 4마리(40%)는 ipsilateral lateral mandibular lymph node를 넘어선 전이를 보였다. 반대측 또는 양측 림프절 배수도 빈번하게 관찰되었으며(특히 rostral 종양의 55% 이상), SLN 세포학 검사의 위음성률은 6.9%로 낮았다.",
+      "key_results": [
+        {
+          "result": "ICTL 데이터에서 92%의 개에서 적어도 한 개의 sentinel lymph node(SLN)가 확인되었고, 중앙값 2개의 SLN가 발견되었다.",
+          "evidence_quote": "A median of 2 SLNs were identified per ICTL dataset with 92% having at least one SLN identified."
+        },
+        {
+          "result": "rostral 위치 종양의 55% 이상에서 contralateral 또는 bilateral 림프절 배수가 관찰되었다.",
+          "evidence_quote": "contralateral or bilateral drainage was frequent, occurring in over 55% of rostral tumours."
+        },
+        {
+          "result": "lateralized 종양은 non-lateralized 종양보다 ipsilateral mandibular SLN 확인 빈도가 유의하게 높았다(p = 0.0009).",
+          "evidence_quote": "Lateralized tumours were associated with a higher frequency of ipsilateral mandibular SLN identification compared with non-lateralized tumours (p = 0.0009)."
+        },
+        {
+          "result": "악성 종양 68마리 중 10마리(15%)에서 림프절 전이가 확인되었고, 이 중 8마리는 SLN 내, 1마리는 SLN 외부에 전이가 있었다.",
+          "evidence_quote": "Of 68 dogs with malignant tumours, 10 (15%) had LN metastasis. Metastasis occurred in the SLN (n = 8), outside the SLN (n = 1), and in one dog without any identifiable SLNs."
+        },
+        {
+          "result": "림프절 전이의 40%는 ipsilateral lateral mandibular lymph node를 넘는 부위에 나타났으며, 3마리는 medial retropharyngeal lymph node에만 전이가 있었다.",
+          "evidence_quote": "In 4 dogs (40%), metastasis extended beyond the ipsilateral lateral MLN; 3 dogs had metastasis exclusively in the medial retropharyngeal LNs."
+        },
+        {
+          "result": "SLN 세포학과 조직병리학을 비교한 경우, SLN 세포학의 위음성률은 6.9%로 낮았다.",
+          "evidence_quote": "Among dogs with paired cytology and pathology, the false-negative rate of SLN cytology was 6.9%"
+        }
+      ],
+      "authors_conclusion": "SLNM은 개 oromaxillofacial 종양에서 다양한 림프절 배수 패턴과 전이 위치를 확인할 수 있는 임상적으로 실행 가능한 기법이며, 특히 전통적인 샘플링 부위를 벗어난 림프절 전이도 발견할 수 있다. SLN 세포학은 낮은 위음성률로 림프절 절제 전 선별검사로 잠재적 이용이 가능하다. 추후 연구에서는 SLNM이 환자 예후에 미치는 영향을 평가할 필요가 있다.",
+      "clinical_takeaway": "개 oromaxillofacial 종양 환자에서 sentinel lymph node mapping은 종양 위치에 따라 림프절 배수 경로가 다양하다는 점과 종종 전통적인 샘플링 부위를 벗어난 림프절에도 전이가 존재할 수 있음을 알려준다. SLNM을 통해 정확한 림프절 표적화가 가능하며, SLN 세포학 검사는 낮은 위음성률(6.9%)로 수술 전 추가적인 비침습적 평가 수단으로 유용할 수 있다. 그러나 일부 전이는 SLN 외부에서도 발생하므로 SLNM 결과 해석 시 한계를 인지해야 하며, 이 기법이 실제 임상 결과에 미치는 영향은 추가 연구가 필요하다.",
+      "limitations": [
+        "후향적 연구로 인과관계 도출에 한계가 있음",
+        "SLNM에 따른 장기 임상 경과 및 생존 분석 미포함",
+        "전체 표본에서 조직병리학 검사가 모두 이루어지지 않아 진단 정확도 평가 제한",
+        "abstract만 제공되어 세부 방법 및 통계 분석 정보 부족"
+      ],
+      "recommended": true,
+      "recommendation_reason": "개의 oromaxillofacial 종양에서 SLNM의 임상적 유용성을 다룬 비교적 대규모 사례를 통해 다양한 림프절 전이 경로와 낮은 위음성률의 진단법을 보고하였으며, 이는 림프절 절제술 계획에 직접적으로 적용될 수 있어 임상 현장에 유용한 정보를 제공함.",
+      "id": "doi:10.1111/vco.70090",
+      "discovered_at": "2026-11-10 04:36:50.215401+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42429579/",
+      "summary_generated_at": "2026-11-10 04:38:47.926811+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Comparison of Aerosolised and Traditional Tumour Margin Inking: A Prospective Blinded Histopathological Review in Canine Skin Tumours.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": null,
+      "online_publication_date": "2026-07-09",
+      "publication_date_raw": "2026-Dec",
+      "doi": "10.1111/vco.70089",
+      "pmid": "42423133",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70089",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42423133/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 canine skin tumour의 병리 조직학적 margin 평가를 위한 잉킹 기법 비교를 다루고 있으며, 이는 수술 후 병리 분석 과정에서의 기술적 절차에 관한 것으로서 직접적인 치료 효과나 예후와는 거리가 있으나 진단 및 병기 결정 과정에 간접적으로 영향을 줄 수 있다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine skin tumours",
+      "study_design": "prospective",
+      "sample_size": 19,
+      "sample_size_quote": "A blinded, randomised study on 19 canine skin tumours was performed.",
+      "objective": "canine skin tumours에서 traditional dab 방법과 aerosolised (spray) ink application의 margin coverage, 적용 시간, 사용 잉크 양을 비교하여 aerosolised 방법이 전통적 방법과 동등하거나 우수한지 평가하는 것이 목적이었다.",
+      "study_methods": "19개의 개 피부 종양을 대상으로 blinded, randomized study를 시행하였다. 각 종양은 두 개의 절반으로 분할되어 한 쪽 절반에는 dab 또는 spray 중 한 가지 방법과 잉크 색깔(black 또는 blue)이 무작위로 지정되었으며, 다른 절반에는 대안 방법과 대안 색깔이 적용되었다. Margin coverage(잉크로 덮인 margin의 백분율), 적용 소요 시간, 사용 잉크 양을 측정하였다.",
+      "one_sentence_summary": "19마리 개의 피부 종양을 대상으로 전향적, blinded 연구를 통해 traditional dab 잉킹과 aerosolised spray 잉킹의 병리적 margin coverage를 비교하였다. Spray 방식은 margin coverage에서 non-inferior하였으며, 평균 적용 시간이 38초 더 빨랐으나, 약 0.5 mL 더 많은 잉크를 소비하였다. 잉크 배치의 정밀도는 평가하지 않아 추가 연구가 필요하다.",
+      "key_results": [
+        {
+          "result": "Spray application은 margin coverage에서 dab 방법과 비교하여 non-inferior 하였으며, 평균 margin coverage 차이는 0.25에서 0.41% 포인트 범위 내에서 상이하였다.",
+          "evidence_quote": "Spray application was non-inferior to dab with respect to margin coverage, with mean margin coverage estimated as being 0.25 to 0.41 percentage points greater and lower limits of 95% confidence intervals -0.72 and -0.35 percentage points, respectively."
+        },
+        {
+          "result": "Spray 방법은 적용 시간이 평균 38초 더 빠른 것으로 나타났다 (p < 0.001).",
+          "evidence_quote": "Spray application was estimated as being 38 s faster on average (p < 0.001"
+        },
+        {
+          "result": "Spray 방법은 dab 대비 대략 0.5 mL 더 많은 잉크를 사용하였다 (p < 0.001).",
+          "evidence_quote": "but used approximately 0.5 mL more ink (p < 0.001)."
+        }
+      ],
+      "authors_conclusion": "aerosolised inking은 전통적인 dab 방법과 비교할 때 유사한 margin coverage를 제공하며, 적용 시간을 단축할 수 있으나, 잉크 배치 정확성에 대한 평가는 이루어지지 않아 임상적 완전 동등성을 확인하기 위해 추가 연구가 필요하다.",
+      "clinical_takeaway": "개 피부 종양 병리 조직학적 margin 평가를 위해 aerosolised spray 잉킹은 기존 dab 방법과 유사한 margin coverage를 보였다. 특히 spray 방법이 평균 38초 더 빨라 현장 작업 효율성을 높일 수 있지만, 약 0.5 mL 더 많은 잉크를 사용한다는 점을 고려해야 한다. 잉크가 margin에 얼마나 정밀하게 배치되는지에 대해서는 본 연구에서 평가하지 않아 실제 임상 적용 시에는 추가 평가가 권장된다. 따라서 본 증거는 서류 상 aerosolised 기법의 실용적 장점을 시사하지만, 잉크 배치 fidelity와 임상 결과에 미치는 영향에 대한 확인 없이 치료 계획 변경에는 주의가 필요하다.",
+      "limitations": [
+        "잉크 배치 fidelity(정확성)를 평가하지 않았음",
+        "총 19개 종양 표본으로 표본 수가 제한적임",
+        "abstract-only 데이터임"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70089",
+      "discovered_at": "2026-11-10 04:36:50.231507+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42423133/",
+      "summary_generated_at": "2026-11-10 04:38:54.746700+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Urolithiasis and crystalluria in dogs with primary portal vein hypoplasia: a retrospective study (2010-2023).",
       "journal": "Journal of Small Animal Practice",
       "journal_id": "jsap",
@@ -5104,6 +5237,70 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42420192/",
       "summary_generated_at": "2026-10-22 01:32:11.466372+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Anti-Canine Mammary Carcinoma Effects of mPP-Based Nano-Micelles Encapsulating DPIA.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": null,
+      "online_publication_date": "2026-07-06",
+      "publication_date_raw": "2026-Dec",
+      "doi": "10.1111/vco.70086",
+      "pmid": "42405426",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70086",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42405426/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 개 유방암(canine mammary carcinoma) 세포를 대상으로 mPEG-PCL(mPP) 나노미셀로 감싼 DPIA 약물의 항종양 효과를 평가하여, 임상적으로 개 유방암 치료에 직접적 적용 가능성을 밝히고 있기 때문입니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine mammary carcinoma",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개 유방암 세포에 대해 항종양 효과가 기대되는 DPIA 약물을 mPEG-PCL 나노미셀에 봉입하여 체내 치료 효능 및 안전성을 향상시키는 것을 목표로 하였습니다.",
+      "study_methods": "본 연구는 개 유방암 세포주(CMT-7364)를 대상으로 DPIA를 mPEG-PCL(mPP) 나노미셀에 봉입하여(nano-micelle) 약물의 분산도, 구조, 약물 탑재율과 봉입율을 평가하였고, in vitro 세포독성 및 세포 내 흡수율, in vivo 종양 성장 억제 효과와 독성 감소 여부를 비교 분석하였습니다. 추가로, 세포 사멸 및 PI3K/AKT 신호전달 경로 억제 메커니즘에 대한 예비 연구도 시행되었습니다.",
+      "one_sentence_summary": "개 유방암 세포 CMT-7364를 대상으로 DPIA를 mPEG-PCL 기반 나노미셀에 봉입하여 약물의 분포와 안정성을 개선하였고, in vitro에서 free DPIA와 유사한 세포독성을 보였습니다. 나노미셀 봉입 후 세포 내 흡수가 증가하고, in vivo 실험에서 종양 억제율이 30.31%에서 48.55%로 향상되었으며 독성은 현저히 감소하였습니다. 또한, DPIA@mPP가 PI3K/AKT 경로 억제를 통해 세포 사멸을 촉진할 가능성을 보여 TNBC 유사 개 유방암 치료 전략에 새로운 가능성을 제시합니다.",
+      "key_results": [
+        {
+          "result": "DPIA@mPP는 4.31%의 약물 탑재율과 13.10%의 봉입율을 보이며 균일하고 구형에 가까운 나노미셀 구조를 형성하였다.",
+          "evidence_quote": "DPIA@mPP exhibited more uniform dispersion and a spheroid-like architecture, with a drug loading rate of 4.31% and an encapsulation rate of 13.10%."
+        },
+        {
+          "result": "DPIA@mPP와 자유 상태 DPIA는 개 유방암 세포주(CMT-7364)에 대해 유사한 수준으로 우수한 세포독성을 나타냈다.",
+          "evidence_quote": "Both DPIA@mPP and free DPIA exhibited comparable and significant cytotoxicity against canine mammary carcinoma cells (CMT-7364) in vitro."
+        },
+        {
+          "result": "mPP에 봉입된 DPIA는 세포 내 흡수를 증가시켜 in vivo에서 종양 억제율을 30.31%에서 48.55%로 향상시키고, 독성은 현저히 감소시켰다.",
+          "evidence_quote": "Encapsulation into mPP enhanced DPIA uptake by CMT-7364 cells, increasing tumour inhibition from 30.31% to 48.55%, while markedly reducing in vivo toxicity."
+        },
+        {
+          "result": "DPIA@mPP 처치는 PI3K/AKT 신호전달 경로를 억제해 개 유방암 세포에서 세포 사멸(apoptosis)을 유도하는 것으로 예비 기전 연구에서 제안되었다.",
+          "evidence_quote": "preliminary mechanistic studies suggest that DPIA@mPP may promote apoptosis in CMT-7364 cells, potentially through the inhibition of the PI3K/AKT signalling pathway"
+        }
+      ],
+      "authors_conclusion": "본 연구 결과, DPIA@mPP가 개 유방암 모델에서 향상된 종양 억제 효과와 안전성을 보였으며, PI3K/AKT 신호 경로 억제를 통한 세포 사멸 유도가 TNBC 치료 전략에 새로운 가능성을 제공한다고 결론 내렸습니다.",
+      "clinical_takeaway": "개 유방암은 인간의 삼중 음성 유방암(TNBC)과 유사한 모델로, DPIA 약물을 mPEG-PCL 나노미셀에 봉입함으로써 약물의 체내 효율성과 안전성을 크게 향상시킬 수 있음을 확인했습니다. 세포 내 흡수 증가와 독성 감소로 인해 치료 효과가 개선되었으며, PI3K/AKT 경로 억제를 통한 세포 사멸 촉진 가능성은 치료 메커니즘 이해에 도움을 줍니다. 다만, 샘플 크기와 임상 적용 단계에 대한 구체적 데이터 부족으로 실질적 임상 적용까지 추가 연구가 필요합니다.",
+      "limitations": [
+        "추가 연구를 위한 상세한 임상 시험 데이터가 제공되지 않아 임상 적용 가능성은 아직 제한적입니다.",
+        "표본 크기에 대한 명확한 기술이 없어 연구 결과의 일반화에 제한이 있을 수 있습니다.",
+        "본 연구는 초록 수준의 정보만 제공되어 전체 연구 방법과 통계 분석에 대한 구체적 검증이 어렵습니다.",
+        "mPP에 봉입된 DPIA의 장기 안전성 및 최적 용량 설정에 관한 연구가 부족합니다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70086",
+      "discovered_at": "2026-11-10 04:36:50.263712+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42405426/",
+      "summary_generated_at": "2026-11-10 04:39:18.173641+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -6572,19 +6769,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 485
+        "received": 478
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 477
+        "received": 474
       }
     },
-    "started_at": "2026-11-09T02:38:56.293609+00:00",
-    "since": "2026-09-25",
-    "processed": 5,
+    "started_at": "2026-11-10T04:36:47.254208+00:00",
+    "since": "2026-09-26",
+    "processed": 3,
     "refreshed": 0,
-    "failed": 32,
-    "deferred": 1038,
-    "finished_at": "2026-11-09T02:44:22.652509+00:00"
+    "failed": 14,
+    "deferred": 1068,
+    "finished_at": "2026-11-10T04:39:28.170751+00:00"
   }
 }
