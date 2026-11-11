@@ -1,9 +1,65 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T04:39:28.288437+00:00",
-  "last_successful_collection": "2026-11-10T04:36:47.254154Z",
+  "generated_at": "2026-11-11T02:52:36.743064+00:00",
+  "last_successful_collection": "2026-11-11T02:46:04.358955Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-11-02",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Nov-02",
+      "doi": "10.1093/jvimsj/aalag289",
+      "pmid": "43008074",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag289",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 nasoesophageal tube를 장기간 삽입받은 고양이에서 식도 협착이 발생하는 직접적인 임상 사례를 보고하였으며, 이로 인해 임상적 관리 방침에 대한 구체적 지침을 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "esophageal strictures related to nasoesophageal tube placement",
+      "study_design": "case_series",
+      "sample_size": 3,
+      "sample_size_quote": "Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained < 25% of the calculated resting energy requirement.",
+      "objective": "nasoesophageal tube를 장기간 삽입받은 고양이에서 식도 협착 발생 가능성과 임상 양상을 조사했다.",
+      "study_methods": "간질성 지방증이 의심된 자발적 음식섭취량이 계산된 에너지 요구량의 25% 미만인 3마리의 고양이가 장기 경장 영양 공급을 위해 nasoesophageal tube를 24-37일 동안 유지하였다. tube 제거 후 1-3일 이내에 구역, 역류 증상이 나타났고, 식도내시경으로 목 식도의 C4-C6 부위에 심한 국소 협착이 확인되었다. 1마리 고양이에게는 1주 간격으로 3회의 내시경적 풍선 확장술이 시행되었다.",
+      "one_sentence_summary": "3마리의 간질성 지방증이 의심된 고양이에서 자발적인 음식섭취가 계산된 에너지 요구량의 25% 미만으로 24-37일간 nasoesophageal tube를 사용하여 장기 영양 공급을 했으며, tube 제거 후 1-3일 내에 모두 목 식도 부위(C4-C6)에서 심한 국소 협착과 구역 또는 역류 증상을 보였다. 1마리 고양이는 3회 내시경적 풍선 확장술을 받았다. 이 결과는 고양이에서 prolonged nasoesophageal intubation이 cervical esophageal stricture의 위험 요인이 될 수 있음을 시사한다.",
+      "key_results": [
+        {
+          "result": "장기간 nasoesophageal tube 삽입 후 tube 제거 1-3일 이내에 3마리 고양이 모두에서 목 식도(C4-C6) 부위에 심한 국소 식도 협착이 발견되었다.",
+          "evidence_quote": "Regurgitation or retching developed within 1-3 days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats."
+        },
+        {
+          "result": "1마리 고양이는 1주 간격으로 3회의 내시경적 풍선 확장술을 통해 식도 내강이 확장되었다.",
+          "evidence_quote": "One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen."
+        }
+      ],
+      "authors_conclusion": "연장된 nasoesophageal tube 삽입은 고양이에서 목 식도 협착 형성의 위험 인자로 보이며, 장기간 영양 공급이 예상될 경우 장기 사용에 적합한 feeding tube로 전환하는 것을 고려해야 한다.",
+      "clinical_takeaway": "이 연구는 nasoesophageal tube를 24-37일간 유지한 3마리 고양이에서 모두 C4-C6 부위의 목 식도에 심한 협착이 발생했음을 보여 줍니다. 따라서 고양이에서 prolonged nasoesophageal intubation은 cervical esophageal stricture의 발생 위험을 높일 수 있음을 임상가에게 경고합니다. 장기간 경장 영양이 필요한 고양이에서는 nasoesophageal tube 대신 장기 사용에 적합한 feeding tube로 조기에 전환하는 전략이 합병증 예방에 중요합니다. 다만, 증례 수가 적고 연구가 후향적 증례 보고이므로 일반화에는 주의가 필요합니다.",
+      "limitations": [
+        "사례 수가 3마리에 불과하여 표본 크기가 작다.",
+        "후향적 증례 보고 형식으로 대조군이 없다.",
+        "추가적인 장기간 추적 관찰 결과가 제공되지 않았다.",
+        "전체 연구 내용이 초록에 국한되어 상세한 임상 과정이나 합병증에 관한 정보가 제한적이다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "장기간 nasoesophageal tube 사용 후 고양이에서 발생할 수 있는 식도 협착의 위험성을 명확히 보고하여, 임상 현장에서 장기간 영양 관리 방법을 조기에 재고하도록 하는 중요한 근거이기 때문이다.",
+      "id": "doi:10.1093/jvimsj/aalag289",
+      "discovered_at": "2026-11-11 02:46:05.824598+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "summary_generated_at": "2026-11-11 02:47:49.759735+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Therapeutic approaches to the companion animal pneumothorax: A review for veterinary practice.",
       "journal": "Veterinary Surgery",
@@ -1821,7 +1877,7 @@
       "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70111",
       "pmid": "42713725",
-      "pmcid": null,
+      "pmcid": "PMC13745630",
       "publisher_url": "https://doi.org/10.1111/vco.70111",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42713725/",
       "source": "pubmed",
@@ -3059,7 +3115,7 @@
       "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70110",
       "pmid": "42680555",
-      "pmcid": null,
+      "pmcid": "PMC13745615",
       "publisher_url": "https://doi.org/10.1111/vco.70110",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42680555/",
       "source": "pubmed",
@@ -3538,7 +3594,7 @@
       "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70107",
       "pmid": "42613071",
-      "pmcid": null,
+      "pmcid": "PMC13745622",
       "publisher_url": "https://doi.org/10.1111/vco.70107",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42613071/",
       "source": "pubmed",
@@ -3608,7 +3664,7 @@
       "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70105",
       "pmid": "42604724",
-      "pmcid": null,
+      "pmcid": "PMC13745631",
       "publisher_url": "https://doi.org/10.1111/vco.70105",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42604724/",
       "source": "pubmed",
@@ -3886,7 +3942,7 @@
       "publication_date_raw": "2026-Dec",
       "doi": "10.1111/vco.70104",
       "pmid": "42583882",
-      "pmcid": null,
+      "pmcid": "PMC13745633",
       "publisher_url": "https://doi.org/10.1111/vco.70104",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42583882/",
       "source": "pubmed",
@@ -6769,19 +6825,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 478
+        "received": 483
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 474
+        "received": 442
       }
     },
-    "started_at": "2026-11-10T04:36:47.254208+00:00",
-    "since": "2026-09-26",
-    "processed": 3,
+    "started_at": "2026-11-11T02:46:04.359004+00:00",
+    "since": "2026-09-27",
+    "processed": 1,
     "refreshed": 0,
-    "failed": 14,
-    "deferred": 1068,
-    "finished_at": "2026-11-10T04:39:28.170751+00:00"
+    "failed": 19,
+    "deferred": 1067,
+    "finished_at": "2026-11-11T02:52:36.625155+00:00"
   }
 }
