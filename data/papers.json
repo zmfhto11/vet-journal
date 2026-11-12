@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T02:52:36.743064+00:00",
-  "last_successful_collection": "2026-11-11T02:46:04.358955Z",
+  "generated_at": "2026-11-12T03:52:14.818330+00:00",
+  "last_successful_collection": "2026-11-12T03:48:21.449716Z",
   "mode": "live",
   "papers": [
     {
@@ -13,7 +13,7 @@
       "publication_date_raw": "2026-Nov-02",
       "doi": "10.1093/jvimsj/aalag289",
       "pmid": "43008074",
-      "pmcid": null,
+      "pmcid": "PMC13750370",
       "publisher_url": "https://doi.org/10.1093/jvimsj/aalag289",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
       "source": "pubmed",
@@ -837,6 +837,77 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42876319/",
       "summary_generated_at": "2026-10-15 23:36:39.909888+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Short-term changes in photographed dental calculus coverage and pooled supragingival microbiota after baked dental treats containing a pomegranate-propolis blend or sodium hexametaphosphate in dogs.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-10-06",
+      "online_publication_date": "2026-10-06",
+      "publication_date_raw": "2026-Oct-06",
+      "doi": "10.1111/jsap.70207",
+      "pmid": "42836268",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70207",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42836268/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 12마리의 성견을 대상으로 한 소규모 탐색적 연구로, 구강 내 치석 표면적 감소 및 구강 미생물군 변화를 평가했으나, 환자 수가 적고 비교군 부족, 혈청 미생물 개별 샘플 분석 미흡 등 한계가 있어 임상적 적용에 즉시 활용하기에는 근거 수준이 제한적입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "dental calculus and supragingival microbiota",
+      "study_design": "prospective",
+      "sample_size": 12,
+      "sample_size_quote": "Twelve adult dogs (four per group) were enrolled in a 19-day exploratory pilot study",
+      "objective": "치석이 존재하는 반려견에서 additive-free baked dental treats, sodium hexametaphosphate 함유 간식, pomegranate-propolis 함유 간식을 투여한 후 치석 표면적 변화와 구강내 상피외 미생물군 변화를 비교하고, 9일부터는 fixed-side brushing을 추가 적용하여 치석 표면적에 미치는 영향을 평가하였다.",
+      "study_methods": "성견 12마리를 3개 그룹(각 4마리)으로 무작위 배정하여 19일간 각각 additive-free, sodium hexametaphosphate 0.6% 첨가, pomegranate-propolis 0.6% 첨가된 baked dental treats를 하루 2개씩 제공하였다. 9일째부터 오른쪽 치아열만 매일 fixed-side brushing 시행하였고, 왼쪽 치아열은 비브러싱 상태로 유지하며 각자 내 비교를 진행하였다. 연구 기간 중 예정된 시점마다 표준화된 사진을 촬영해 치석이 덮인 치아 표면적 비율을 영상 분석으로 측정하였다. 연구 시작(Baseline)과 19일째에 16S rRNA gene sequencing을 이용해 pooled supragingival microbiota 프로파일 변화를 서술적으로 평가하였다.",
+      "one_sentence_summary": "12마리 성견을 3그룹으로 나눠 additive-free, sodium hexametaphosphate 0.6%, pomegranate-propolis 0.6% 함유 수제구강간식을 19일간 투여하고, 9일째부터는 오른쪽 치아열만을 매일 고정된 방법으로 칫솔질하며 치석 표면적 변화를 사진과 미생물군 변화를 분석했다. 전 그룹에서 치석 표면적이 감소했고, pomegranate-propolis 그룹에서 가장 큰 평균 치석 감소가 관찰됐으며 그 다음으로 sodium hexametaphosphate, additive-free 순이었다. 9일째 이후 오른쪽 칫솔질한 치아열에서 더 뚜렷한 치석 감소가 있었다. 미생물 분석에서는 여러 세균군 구성에 서술적 변동이 나타났다.",
+      "key_results": [
+        {
+          "result": "모든 그룹에서 19일간 치석 표면적이 감소하였다.",
+          "evidence_quote": "Photographed dental calculus coverage declined in all treatment groups over the 19-day study."
+        },
+        {
+          "result": "pomegranate-propolis 함유 간식을 투여한 그룹에서 평균적으로 가장 큰 치석 표면적 감소가 관찰되었다.",
+          "evidence_quote": "The largest mean descriptive reduction was observed in dogs receiving baked dental treats containing the pomegranate-propolis blend"
+        },
+        {
+          "result": "그 다음으로 sodium hexametaphosphate, additive-free baked dental treats 그룹이 치석 표면적 감소 순서였다.",
+          "evidence_quote": "followed by sodium hexametaphosphate and additive-free baked dental treats."
+        },
+        {
+          "result": "9일째부터 오른쪽 치아열에 적용한 고정 칫솔질 시술군에서 더욱 큰 치석 표면적 감소를 보였다.",
+          "evidence_quote": "A greater descriptive reduction in photographed dental calculus coverage was observed on the brushed right dental arch after day 9."
+        },
+        {
+          "result": "baseline과 19일째 구강 상피외 미생물군(pool)에서 세균 분포의 서술적 변동이 관찰되었다.",
+          "evidence_quote": "Exploratory analysis of pooled supragingival bacterial profiles showed descriptive differences in the relative abundance of bacterial taxa between baseline and day 19."
+        }
+      ],
+      "authors_conclusion": "본 탐색적 연구에서 3가지 수제치과간식 모두 치석 표면적이 줄었으나, pomegranate-propolis 함유 간식군에서 가장 큰 평균 감소가 관찰되었다. 하지만 소규모 표본, 비교군(무간식군) 부재, 고정 칫솔질의 한쪽 아치 적용 등 설계 제한과 생물학적 반복 없는 pooled microbiome 분석으로 인해 결과를 예비적 소견으로 해석해야 한다. 표준화된 치과 전처치 후 대규모 무작위 연구와 개별 미생물 샘플 분석이 필요하다.",
+      "clinical_takeaway": "반려견에서 구강 치석 관리를 위해 pomegranate-propolis 또는 sodium hexametaphosphate 함유 베이크드 간식을 19일간 급여하는 것은 치석 감소에 긍정적 영향을 줄 수 있다. 특히 한 쪽 치아열에 고정적인 칫솔질과 병행하면 치석 감소 효과가 더 큰 것으로 나타났다. 그러나 본 연구는 대상견 12마리, 그룹당 4마리 소규모이며, 대조군 부재와 pooled 미생물 분석 등 한계로 인해 모든 반려견에 일반화하기 어렵다. 따라서 치석 예방 및 관리 전략 수립 시, 복합적 접근이 필요하며 추가적인 대규모 연구 결과를 참고하는 게 바람직하다.",
+      "limitations": [
+        "대상견 수가 매우 적어 통계적 검증력 부족",
+        "무간식 대조군 미설치로 간식 효과 구체적 비교 어려움",
+        "fixed-side brushing이 한 쪽 치아열에만 적용되어 완전한 칫솔질 효과 평가 한계",
+        "미생물군은 pooled sample로 분석해 개별 견의 변동성 평가 불가",
+        "19일의 단기간 연구이므로 장기 효과 평가 어려움",
+        "탐색적 연구로 결과 해석 시 주의 필요",
+        "전체 본문이 아닌 초록 정보만 바탕으로 한 평가"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/jsap.70207",
+      "discovered_at": "2026-10-06 23:27:00.720799+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42836268/",
+      "summary_generated_at": "2026-11-12 03:50:16.361571+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -6589,6 +6660,67 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Cabazitaxel Demonstrates Potent Antitumour Activity Against Canine Large-Cell Alimentary Lymphoma In Vitro and In Vivo.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": null,
+      "online_publication_date": "2026-06-01",
+      "publication_date_raw": "2026-Sep",
+      "doi": "10.1111/vco.70080",
+      "pmid": "42225556",
+      "pmcid": "PMC13456607",
+      "publisher_url": "https://doi.org/10.1111/vco.70080",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42225556/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 canine large-cell alimentary lymphoma (LCAL)에 대한 cabazitaxel (CBZ)의 항종양 효과를 in vitro 및 이종이식 생쥐 모델에서 평가하였으나, 대상은 실험실 세포주와 쥐 모델로 제한되어 있으며, 실제 개 환자를 대상으로 한 임상시험을 포함하지 않아 직접적인 임상 적용에 한계가 있다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine large-cell alimentary lymphoma",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "canine large-cell alimentary lymphoma (LCAL)에 대한 cabazitaxel (CBZ)의 항종양 효과를 in vitro 및 생체 내 모델에서 평가하여 신약 후보로서의 가능성을 조사하였다.",
+      "study_methods": "3가지 canine LCAL 세포주(CLC, Ema, Nody-1)를 대상으로 CBZ 투여 후 세포 생존율, tubulin polymerisation, 세포 주기 분포, apoptosis를 평가하였다. 또한 CLC 세포를 이용한 이종이식 마우스 모델에서 CBZ의 항종양 효과와 생존 기간 연장을 측정하였다.",
+      "one_sentence_summary": "3가지 canine LCAL 세포주(CLC, Ema, Nody-1)를 사용한 약물 스크리닝 연구에서 cabazitaxel (CBZ)의 항종양 효과를 in vitro에서 평가하였고, 세포 생존율이 용량 의존적으로 감소하는 것을 확인하였다. CBZ는 microtubule stabilisation을 통해 G2/M 세포 주기 정지와 caspase-3 매개 세포사멸을 유도하였다. 또한 이종이식 마우스 모델에서 CBZ 투여군은 복수 축적 감소와 생존율 증가를 보였다. 다만 이 결과는 실험실 및 동물 모델 연구에 한정된다.",
+      "key_results": [
+        {
+          "result": "CBZ는 tubulin polymerisation을 증가시켜 microtubule stabilisation을 나타냈다.",
+          "evidence_quote": "A tubulin polymerisation assay demonstrated that CBZ increased polymerised tubulin levels, indicating microtubule stabilisation."
+        },
+        {
+          "result": "CBZ 치료는 G2/M 세포 주기 정지와 procaspase-3 감소 및 cleaved caspase-3 증가와 함께 apoptosis를 유의하게 증가시켰다.",
+          "evidence_quote": "CBZ treatment induced G2/M cell cycle arrest and significantly increased apoptotic cell populations, accompanied by decreased procaspase-3 levels and increased cleaved caspase-3 expression."
+        },
+        {
+          "result": "이종이식 마우스 모델에서 CBZ 처치는 복수 축적을 감소시키고 생존률을 대조군 대비 유의하게 연장하였다.",
+          "evidence_quote": "In vivo, CBZ treatment reduced ascites accumulation and significantly prolonged survival relative to the vehicle control."
+        }
+      ],
+      "authors_conclusion": "CBZ는 tubulin 안정화를 통해 G2/M 세포 주기 정지 및 caspase 의존적 apoptosis를 유발하여 in vivo에서 종양 진행을 억제하는 효과가 있으며, canine LCAL 치료 후보 약물로 유망하다.",
+      "clinical_takeaway": "이 연구는 canine large-cell alimentary lymphoma (LCAL)에 대해 cabazitaxel (CBZ)이 세포주 및 동물 모델에서 우수한 항종양 효과를 나타냄을 보여준다. 특히 CBZ는 microtubule stabilisation을 통해 세포 주기 정지와 apoptosis를 유도하여 종양 성장을 억제하였다. 그러나 본 결과는 실험실 수준과 동물 모델에 국한되므로 실제 임상 증례에서의 효과와 안전성을 확립하는 추가 연구가 필요하다. 따라서 CBZ는 LCAL에 대한 새로운 치료옵션으로 가능성이 있으나 임상 적용 이전에 사람 대상 임상시험에 준하는 체계적인 임상 평가가 요구된다.",
+      "limitations": [
+        "본 연구는 in vitro 세포주와 xenotransplantation mouse model에서 진행되어 실제 개 환자를 대상으로 한 임상시험 데이터가 없다.",
+        "표본 수가 명시되어 있지 않아 연구 통계력 평가가 어렵다.",
+        "연구 설계가 예비적 약물 스크리닝 및 실험실 모델에 한정되어 있어 임상 적용 가능성에 제한이 있다.",
+        "abstract only 연구로, 본문 자세한 자료 부족으로 상세한 연구 방법과 결과 해석에 제약이 있다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70080",
+      "discovered_at": "2026-09-17 05:57:10.405940+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42225556/",
+      "summary_generated_at": "2026-11-12 03:50:01.271484+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -6829,15 +6961,15 @@
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 442
+        "received": 439
       }
     },
-    "started_at": "2026-11-11T02:46:04.359004+00:00",
-    "since": "2026-09-27",
-    "processed": 1,
+    "started_at": "2026-11-12T03:48:21.449762+00:00",
+    "since": "2026-09-28",
+    "processed": 2,
     "refreshed": 0,
-    "failed": 19,
-    "deferred": 1067,
-    "finished_at": "2026-11-11T02:52:36.625155+00:00"
+    "failed": 23,
+    "deferred": 1061,
+    "finished_at": "2026-11-12T03:52:14.700408+00:00"
   }
 }
