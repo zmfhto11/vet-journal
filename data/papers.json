@@ -1,9 +1,75 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T03:52:14.818330+00:00",
-  "last_successful_collection": "2026-11-12T03:48:21.449716Z",
+  "generated_at": "2026-11-13T03:28:04.455777+00:00",
+  "last_successful_collection": "2026-11-13T03:24:36.614500Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Frequency of occurrence, signalment, clinicopathologic and imaging findings, and outcomes with nontraumatic spontaneous intracranial hemorrhagic stroke in dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-11-11",
+      "online_publication_date": "2026-11-11",
+      "publication_date_raw": "2026-Nov-11",
+      "doi": "10.2460/javma.26.05.0434",
+      "pmid": "43013978",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.05.0434",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43013978/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 6세 이상 개에서 spontaneous intra-parenchymal hemorrhagic stroke(sIHS)의 발생 빈도, 임상병리 소견, 영상학적 특징 및 결과를 후향적으로 평가하여, 임상에서 바로 적용 가능한 정보를 제공하였기 때문입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology",
+        "emergency_critical_care"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "spontaneous intra-parenchymal hemorrhagic stroke",
+      "study_design": "retrospective",
+      "sample_size": 25,
+      "sample_size_quote": "Retrospective study involving 25 dogs.",
+      "objective": "6세 이상 개에서 spontaneous intra-parenchymal hemorrhagic stroke (sIHS)의 빈도, 임상병리 및 영상 소견, 그리고 예후를 기술한다.",
+      "study_methods": "2010년부터 2024년까지 sIHS 진단을 받은 25마리 개의 의무기록을 후향적으로 검토하였다. 연령, 품종, 신경학적 증상, 임상병리, 영상검사 (MRI)를 통한 병변의 위치와 부피를 기록하였고, 동반 질환, 치료법, 그리고 결과(우수, 양호, 불량)를 평가하였다. sIHS 빈도는 6세 이상 급성 신경학적 증상을 보인 427마리 개 중 해당 질환 진단을 받은 비율로 산정되었다.",
+      "one_sentence_summary": "이후향적 연구에서는 6세 이상의 소형~중형견 25마리를 대상으로 spontaneous intra-parenchymal hemorrhagic stroke (sIHS)의 임상경과와 신경 영상 소견을 분석하였다. 427마리 뇌 MRI 대상 개 중 25마리 (6%)에서 sIHS가 확인되었으며, 대부분 전뇌 병변과 단일 출혈이 관찰되었다. 신경학적 증상은 대부분 급성 전뇌 기능장애 또는 새로운 발작으로 나타났고, 임상 결과는 대체로 우수하였다. 큰 병변 부피는 예후 불량과 관련되었다.",
+      "key_results": [
+        {
+          "result": "sIHS는 6세 이상 급성 신경 증상을 보인 427마리 개 중 25마리에서 진단되어 발생 빈도는 6%였다.",
+          "evidence_quote": "Frequency of sIHS was 25 of 427 dogs (6%) ≥ 6 years old undergoing brain MRI."
+        },
+        {
+          "result": "병변은 주로 전뇌(prosencephalon)에 단일, 잘 구분되는 출혈성 병변으로 MRI에서 확인되었다.",
+          "evidence_quote": "A single, well-defined hemorrhage within the prosencephalon was commonly observed on MRI."
+        },
+        {
+          "result": "spontaneous IHS 개는 주로 노령의 소형에서 중형견이며, 19마리가 전뇌 병변에 따른 신경학적 이상으로, 13마리가 새로운 발작 증상으로 내원하였다.",
+          "evidence_quote": "Affected dogs were older, small- to medium-breed dogs. Dogs often presented for neurological dysfunction reflective of a prosencephalic lesion (19 of 25 dogs) or new-onset seizures (13 of 25 dogs)."
+        },
+        {
+          "result": "병변의 부피가 클수록 예후가 불량한 경향을 보였다.",
+          "evidence_quote": "Larger lesion volumes were associated with poor outcomes."
+        }
+      ],
+      "authors_conclusion": "sIHS는 6세 이상 노령견에서 급성 전뇌 기능 장애 및 발작의 원인으로 고려해야 하며, 이차성 IHS를 배제한 후에 예후는 대체로 우수하다. 동반 질환이 있어도 장기간 좋은 결과가 가능하며, 단기 항경련제 치료가 필요할 수 있으나, 뇌졸중 후 간질은 드물게 발생한다.",
+      "clinical_takeaway": "6세 이상의 노령 소형~중형견에서 급성 전뇌 기능 장애 증상이나 새로운 발작이 발생했을 때 spontaneous intra-parenchymal hemorrhagic stroke(sIHS)를 감별 진단에 포함하는 것이 중요합니다. 본 연구에 따르면 sIHS는 비교적 드물지 않게 나타나며(6%), 단일 전뇌 출혈성 병변이 흔하고, 발작의 경우 대부분 완전 관해되어 장기적으로 좋은 예후를 기대할 수 있습니다. 병변 부피가 크면 예후가 불량할 수 있으므로 영상학적 평가가 진단 및 예후 판단에 필수적입니다. 또한, 이차성 원인이 배제되면 동반 질환이 있더라도 우수한 결과가 많으니 임상에서 적극적 치료와 단기 항경련제 사용을 고려할 수 있습니다. 다만, 이 연구는 후향적이고 표본수가 제한적이므로 광범위한 예후 예측에 신중해야 합니다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인과관계 확인 및 편향 가능성을 내포함.",
+        "표본 크기가 25마리로 비교적 작아 외삽에 제한이 있음.",
+        "단일 기관 또는 다기관인지 명시되어 있지 않아 일반화 가능성 평가에 제한이 있음.",
+        "초록만 제공되어 연구의 세부적 방법과 장기 추적 관찰 한계가 명확하지 않음."
+      ],
+      "recommended": true,
+      "recommendation_reason": "노령견에서 급성 신경 증상의 원인 감별과 예후 예측에 직접적으로 도움을 주는 임상적 근거로서 가치가 있으며, 구체적 빈도와 임상 양상, 예후에 관한 중요한 정보를 제공하기 때문입니다.",
+      "id": "doi:10.2460/javma.26.05.0434",
+      "discovered_at": "2026-11-13 03:24:38.076124+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43013978/",
+      "summary_generated_at": "2026-11-13 03:26:00.847144+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
       "journal": "Journal of Veterinary Internal Medicine",
@@ -6950,6 +7016,68 @@
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42867939/",
       "summary_generated_at": "2026-10-14 23:38:07.290439+00:00",
       "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Palatability assessment of a commercial wet renal diet in healthy cats: an open-label in-home exploratory trial.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-01-01",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag234",
+      "pmid": "42842766",
+      "pmcid": "PMC13644809",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag234",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42842766/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "건강한 반려묘 42마리를 대상으로 한 in-home feeding trial에서 상업용 wet renal diet의 palatability (식미도)를 평가하여 만성 신부전 초기 단계 고양이에게 처방할 때 적용 가능성을 직접적으로 확인하였기 때문입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "palatability of wet renal diet for cats",
+      "study_design": "prospective",
+      "sample_size": 42,
+      "sample_size_quote": "42 cats completed the study",
+      "objective": "만성 신부전 초기 단계 고양이에게 처방된 상업용 wet renal diet의 식미도(palatability)를 건강한 반려묘에서 평가하는 것",
+      "study_methods": "건강한 가정주 고양이 42마리를 대상으로 3단계(각 6일간) open-label in-home feeding trial을 수행함. 1단계에서는 대상 wet renal diet 단독 제공, 2단계에서는 평소 wet diet 단독 제공, 3단계에서는 두 가지 wet diet를 동시에 두 그릇 제공하는 방식으로 진행. 사육자가 식사 시작까지 걸린 시간(latency time), 식사량, 사료 관련 행동 반응 기록. 서술 통계 및 혼합효과 회귀모델 사용. 평가 변수로 식사 지연시간, 식사량, 사료 선호도 및 행동 관찰 포함.",
+      "one_sentence_summary": "건강한 반려묘 42마리를 대상으로 3단계 (각 6일) open-label in-home feeding trial이 시행되었다. 1단계에서 wet renal diet, 2단계에서 평소 wet diet, 3단계에서 두 가지 diet를 동시에 제공하였다. 1단계에서 69.0% 고양이가 wet renal diet 수용을 긍정적으로 평가하였고, 양적 섭취량은 평소 diet보다 유의하게 적었으나 사료 선호도는 3단계에서 두 diet 간 유의한 차이가 없었다. 전반적으로 78.6% 케어기버가 향후 처방 시 renal diet를 제공하겠다고 응답하였다.",
+      "key_results": [
+        {
+          "result": "케어기버는 renal diet 수용을 긍정적(69.0%, n=29), 부정적(23.8%, n=10), 중립적(7.1%, n=3)으로 평가했다.",
+          "evidence_quote": "Caregivers classified renal diet acceptance as positive for 69.0% (n = 29) of cats, negative for 23.8% (n = 10), and neutral for 7.1% (n = 3)."
+        },
+        {
+          "result": "Phase 2(평소 diet)에서 Phase 1(wet renal diet)보다 식사량이 유의하게 많았다 (P < .001).",
+          "evidence_quote": "cats were significantly more likely (P < .001) to be recorded in a higher diet intake category in Phase 2 than in Phase 1"
+        },
+        {
+          "result": "만약 처방된다면 78.6% (n=33) 케어기버가 해당 renal diet를 제공하겠다고 응답했다.",
+          "evidence_quote": "If prescribed, caregivers would offer this therapeutic diet to 78.6% (n = 33) of cats."
+        }
+      ],
+      "authors_conclusion": "본 단기 feeding trial에서 만성 신부전 초기 단계에 처방되는 wet renal diet는 건강한 고양이 다수에게서 식미도 문제가 없는 것으로 나타나, 일반적인 인식을 일부 반박한다.",
+      "clinical_takeaway": "건강한 가정주 고양이 42마리를 대상으로 한 본 연구는 만성 신부전 초기 단계 치료용 상업용 wet renal diet가 상당수 고양이에서 잘 수용됨을 보여준다. 평소 사료 대비 식사량은 약간 적게 나타났으나, 동시 제공 시 두 사료 간 뚜렷한 선호 차이는 없었다. Appetite type과 wet diet에 대한 질감 선호가 renal diet 수용에 영향을 미쳤으며, 케어기버의 향후 처방시 선택 의향도 높았다. 다만, 본 연구는 건강한 고양이를 대상으로 한 단기간 시험이므로 신부전 환자에서의 장기적 식미 반응과 치료 효과를 보장하지 않는다. 장기 추적 및 실제 CKD 고양이를 대상으로 한 추가 연구가 필요하다.",
+      "limitations": [
+        "단기간(각 페이즈 6일) 진행되어 flavor fatigue 등 장기 식미 변화를 평가하지 못함",
+        "건강한 고양이만 포함하여 만성 신부전 환자에서의 적용 가능성 제한",
+        "비교군 wet diet의 영양 성분 정보가 일부 누락되어 식미 차이에 대한 완전한 설명 불가",
+        "사육자가 비맹검 상태로 참여하여 observer bias 가능성 존재",
+        "고정된 시험 순서와 washout 기간 부재로 인한 순서 및 carryover 효과 가능성 있음",
+        "식사량과 latency time이 범주형 변수로 기록되어 정량적 분석 한계 존재"
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상 현장에서 만성 신부전 초기 단계 고양이에 처방되는 wet renal diet의 실제 수용도를 평가한 직접적 임상 연구이며, 건강한 반려묘의 식미 평가를 통해 사료 선택 및 영양 관리에 중요한 정보를 제공한다. 결과가 케어기버의 수용 의향과 일치하여 진료 상황에 적용 가능한 근거로 평가됨.",
+      "id": "doi:10.1093/jvimsj/aalag234",
+      "discovered_at": "2026-10-07 23:25:02.526932+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13644809",
+      "summary_generated_at": "2026-11-13 03:27:49.135006+00:00",
+      "analysis_model": "gpt-4.1-mini"
     }
   ],
   "health": {
@@ -6957,19 +7085,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 483
+        "received": 489
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 439
+        "received": 555
       }
     },
-    "started_at": "2026-11-12T03:48:21.449762+00:00",
-    "since": "2026-09-28",
+    "started_at": "2026-11-13T03:24:36.614547+00:00",
+    "since": "2026-09-29",
     "processed": 2,
     "refreshed": 0,
-    "failed": 23,
-    "deferred": 1061,
-    "finished_at": "2026-11-12T03:52:14.700408+00:00"
+    "failed": 13,
+    "deferred": 1081,
+    "finished_at": "2026-11-13T03:28:04.337254+00:00"
   }
 }
