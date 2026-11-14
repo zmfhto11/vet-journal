@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T03:28:04.455777+00:00",
-  "last_successful_collection": "2026-11-13T03:24:36.614500Z",
+  "generated_at": "2026-11-14T03:15:40.973979+00:00",
+  "last_successful_collection": "2026-11-14T03:12:23.748231Z",
   "mode": "live",
   "papers": [
     {
@@ -68,6 +68,139 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43013978/",
       "summary_generated_at": "2026-11-13 03:26:00.847144+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "K-number-based selection in Danish dachshunds: offspring outcomes and implications for genetic diversity.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-11-02",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Nov-02",
+      "doi": "10.1093/jvimsj/aalag291",
+      "pmid": "43021591",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag291",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43021591/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 덴마크에서 사육된 dachshund 개의 calcified discs 수(K-number, KN)를 기준으로 한 선발이 자손의 KN 결과와 번식 모집단의 유효 개체 수(Ne)에 미치는 영향을 평가하였으며, 이는 breed selection과 유전적 다양성 관리에 직접적으로 임상적으로 적용 가능한 내용을 다루고 있습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "intervertebral disc disease risk and breeding selection",
+      "study_design": "retrospective",
+      "sample_size": 2120,
+      "sample_size_quote": "Danish dachshunds (n = 2120) with KN recorded to a public database from 1993 to 2024.",
+      "objective": "Danish dachshund 개에서 점차적으로 KN이 낮은 개체만을 번식 자격으로 제한할 때 자손의 KN 결과 개선과 유효 번식 개체 수 감소 여부를 평가하였다.",
+      "study_methods": "1993년부터 2024년까지 공공 데이터베이스에 기록된 2120마리의 덴마크산 dachshund 개들의 KN 기록을 후향적으로 분석하였다. 부모와 자손의 KN 값 간 상관 관계를 parent-offspring regression 및 cumulative-link ordinal 모델을 통해 평가했으며, 엄격한 KN 기준에 따른 번식 자격 제한이 자손 KN 및 유효 번식 개체 수(Ne)에 미치는 영향을 조사하였다.",
+      "one_sentence_summary": "덴마크 dachshund 2120마리를 대상으로 한 후향적 연구에서 부모의 calcified discs 수(KN)가 자손의 KN과 유의하게 연관되어 있음을 확인하였다. 점차 엄격한 KN 제한(K ≤ 4, K0)으로 부모를 선발할 경우 자손의 평균 KN은 2.26에서 1.54까지 낮아졌으나, 이로 인해 유효 번식 개체 수는 품종별로 179에서 52까지 감소하여 유전적 병목 위험이 증가함을 확인하였다.",
+      "key_results": [
+        {
+          "result": "부모의 KN 수가 높을수록 자손의 KN 수 또한 증가하는 경향을 보였으며, 아버지 KN의 영향은 P = 4.8 × 10-6, OR 1.3 (95% CI, 1.16-1.45), 어미 KN의 영향은 P = 3.3 × 10-5, OR 1.3 (95% CI, 1.13-1.40)로 통계적으로 유의했다.",
+          "evidence_quote": "Worse offspring KN was predicted by both worse sire (P = 4.8 × 10-6; odds ratio [OR] 1.3; 95% CI, 1.16-1.45) and dam (P = 3.3 × 10-5; OR 1.3; 95% CI, 1.13-1.40) KN."
+        },
+        {
+          "result": "보다 엄격한 KN 기준(K0)으로 부모를 선발할 경우 차세대의 평균 KN이 2.26 (K ≤ 4 선택 시)에서 1.54 (K0 선택 시)로 낮아졌다.",
+          "evidence_quote": "predicted next-generation mean KN decreasing from 2.26 under K ≤ 4 selection to 1.54 under K0 selection."
+        },
+        {
+          "result": "그러나, 선택 기준이 엄격해질수록 유효 번식 개체 수(Ne)는 감소하여 예를 들면 표준 wirehaired 품종에서 K ≤ 4 선택 시 Ne=179에서 K0 선택 시 Ne=52로 감소하여 유전적 병목 위험에 처했다.",
+          "evidence_quote": "more stringent selection reduced effective breeding population size below thresholds associated with genetic bottleneck risk (eg, standard wirehaired: Ne = 179 under K ≤ 4 vs Ne = 52 under K0)."
+        }
+      ],
+      "authors_conclusion": "부모의 calcified discs 수(KN)에 대한 점차 엄격한 제한은 자손에서 KN 감소라는 긍정적 효과를 보였으나, 이로 인해 유효 번식 개체 수가 줄어 유전적 다양성 감소 및 병목 위험이 발생할 수 있음을 시사한다.",
+      "clinical_takeaway": "덴마크 dachshund 개에서 부모의 calcified discs 수(KN)를 기준으로 한 점차 엄격한 번식 선발은 자손에서 intervertebral disc disease 위험 평가에 직접적 영향을 미치는 KN 감소 효과를 보여준다. 그러나 이 같은 엄격한 선발은 유효 번식 개체 수(Ne)를 품종별 기준치 이하로 줄여 유전적 다양성 감소라는 부작용을 초래할 수 있기에, 질병 위험 감소와 유전적 건강 유지 간의 균형 있는 관리가 필요하다. 따라서 KN을 이용한 선발 시, 단순히 KN 수치만을 고려하기보다 population genetics 상황과 병목 위험을 함께 고려하여 번식 전략을 설계해야 한다. 이 연구는 덴마크 민간 breed population에 국한된 점에서 적용 범위에 한계가 있으며, 후속 연구로 다양한 품종·지역에 대한 평가가 필요하다.",
+      "limitations": [
+        "후향적 연구로 인과 관계 보다는 연관성 평가에 그침",
+        "덴마크 dachshund 개에만 적용되어 다른 품종이나 지역에 일반화에 제한이 있음",
+        "공개 데이터베이스의 KN 자료가 정확성과 일관성에 관한 정보 부족",
+        "유전적 다양성 분석은 유효 개체 수(Ne) 계산에 국한됨으로 추가 유전학적 지표 미반영",
+        "논문 본문 미제공으로 상세 분석 설계 및 통계 검정 방법의 세부사항 미확인"
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 사람과 임상적으로 관련된 개 breed에서 유전적 질환 위험과 유전적 다양성 간 균형을 평가한 큰 표본의 유용한 연구이며, breed selection 정책에 실질적인 시사점을 주기 때문에 권장한다.",
+      "id": "doi:10.1093/jvimsj/aalag291",
+      "discovered_at": "2026-11-14 03:12:25.524797+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43021591/",
+      "summary_generated_at": "2026-11-14 03:15:26.326402+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Abnormalities in cobalamin status in dogs with congenital portosystemic shunt before and after shunt closure.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-11-02",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Nov-02",
+      "doi": "10.1093/jvimsj/aalag277",
+      "pmid": "43021593",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag277",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43021593/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "선천성 portosystemic shunt(cPSS)가 진단된 개들을 대상으로 cobalamin과 그 관련 지표들의 수준 변화를 연구하여 임상적으로 cobalamin dysvitaminosis가 빈번히 발생하며, 수술적 shunt 폐쇄 후에도 일부 개에서 이러한 이상이 지속됨을 확인한 점에서 임상 진단 및 관리에 직접적인 관련성이 있습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "cobalamin status abnormalities in congenital portosystemic shunt",
+      "study_design": "prospective",
+      "sample_size": 83,
+      "sample_size_quote": "Eighty-three dogs.",
+      "objective": "선천성 portosystemic shunt(cPSS)가 있는 개에서 cobalamin 및 folate 상태 변화를 평가하고, cPSS 유형, shunt 폐쇄 전후 상태, 완전 폐쇄와 불완전 폐쇄 간 차이, 그리고 hyperammonemia와의 연관성을 규명하고자 하였습니다.",
+      "study_methods": "44마리의 cPSS 진단 개와 39마리의 체중 및 나이를 맞춘 건강한 대조군 총 83마리 개들에서 cobalamin, transcobalamin(TCB), 대사 산물(homocysteine[HCy], 혈청 및 소변 methylmalonic acid[sMMA, uMMA]), folate, 및 혈중 암모니아 농도를 전향적으로 측정하였습니다. cPSS 종류(간내 cIPSS, 간외 cEPSS), shunt 폐쇄 전(PSS-0)과 12주 후(PSS-12) 상태, 완전 폐쇄와 불완전 폐쇄에 따른 수치를 비교 분석하였습니다.",
+      "one_sentence_summary": "44마리의 선천성 portosystemic shunt 개들과 39마리의 건강한 대조군을 대상으로 cobalamin, folate 및 관련 대사 지표들을 비교 분석하였으며, cPSS 폐쇄 전과 12주 후 상태를 평가하였습니다. 연구에서 2마리는 hypo- 그리고 8마리는 hypercobalaminemia를 보였고, normocobalaminemic 개중 다수는 비정상 대사산물 수치를 보였습니다. 수술 후 12주에는 cobalamin과 TCB는 감소하고 HCy는 증가하는 등 일부 지표의 변화가 관찰되었으며, 완전 폐쇄군에서 대사 지표의 개선이 더 뚜렷하게 나타났습니다. 본 연구는 cPSS 개에서 cobalamin 관련 이상이 흔하며 폐쇄 수술 후에도 일부 개에서 지속됨을 보고합니다.",
+      "key_results": [
+        {
+          "result": "2마리의 cIPSS 개에서 hypocobalaminemia가 발생했고 8마리(cEPSS 5마리, cIPSS 3마리)의 cPSS 폐쇄 전 개에서 hypercobalaminemia가 관찰되었습니다.",
+          "evidence_quote": "Hypocobalaminemia occurred in 2 out of 44 PSS-0-dogs (cIPSS) and hypercobalaminemia in 8 out of 44 PSS-0-dogs (5/12 cEPSS, 3/32 cIPSS)."
+        },
+        {
+          "result": "normocobalaminemic PSS-0 개중 47%에서 homocysteine 농도가 참조 범위 이하였으며, sMMA와 uMMA:crea는 각각 61%와 27%가 증가된 수치를 보였습니다.",
+          "evidence_quote": "Of 34 normocobalaminemic PSS-0-dogs, in 47% available HCy samples concentrations were below the reference interval, whereas sMMA and uMMA:crea were higher in 61% and 27%."
+        },
+        {
+          "result": "PSS-0 개들은 대조군에 비해 HCy가 낮고, sMMA와 uMMA:crea는 높으며, folate 농도는 낮았습니다 (각각 P < .0001).",
+          "evidence_quote": "PSS-0-dogs had lower HCy, higher sMMA and uMMA:crea, and lower folate concentrations than controls (each P < .0001)."
+        },
+        {
+          "result": "PSS-0 개중 35마리가 hyperammonemia를 보였으나 암모니아 수치는 다른 변수들과 상관관계가 없었습니다.",
+          "evidence_quote": "Hyperammonemia occurred in 35 out of 43 PSS-0-dogs, but ammonia did not correlate with any variable."
+        },
+        {
+          "result": "PSS-12 개에서는 cobalamin과 TCB가 각각 유의하게 감소하였고(Holy cobalamin P = .0001, TCB P = .014), HCy와 folate는 유의하게 증가하였으며(HCy P < .0001, folate P < .0001), uMMA:crea는 감소하였습니다 (P = .0002).",
+          "evidence_quote": "PSS-12-dogs had lower cobalamin (P = .0001) and TCB (P = .014), higher HCy (P < .0001), lower uMMA:crea (P = .0002), and higher folate concentrations (P < .0001) than PSS-0-dogs."
+        },
+        {
+          "result": "완전 cPSS 폐쇄가 이루어진 개들에게서 sMMA와 uMMA:crea 농도가 불완전 폐쇄 개체보다 유의하게 낮게 나타났습니다 (sMMA P = .0001, uMMA:crea P = .003).",
+          "evidence_quote": "Lower sMMA (P = .0001) and uMMA:crea (P = .003) were more common with complete than incomplete cPSS-closure."
+        }
+      ],
+      "authors_conclusion": "선천성 portosystemic shunt 개들에게서 cobalamin dysvitaminosis가 흔히 발생하며, cPSS 폐쇄 후에도 일부 개에서 이 상태가 지속됨을 확인하였습니다. cPSS의 유형, 완전한 폐쇄 여부, 그리고 시술 후 변화에 따라 다양한 대사 지표들의 변화가 관찰되었습니다.",
+      "clinical_takeaway": "선천성 portosystemic shunt가 있는 개들은 cobalamin과 관련 대사 산물의 비정상 수치를 자주 나타내며, 이는 단순히 혈중 cobalamin 검사만으로는 진단이 충분치 않을 수 있음을 시사합니다. shunt 폐쇄 후에도 일부 동물에서는 비타민 B12 상태 이상이 지속될 수 있어 장기적인 모니터링과 보조 치료가 필요할 수 있습니다. 특히 간내 cPSS 개와 완전 폐쇄가 이루어지지 않은 경우 더 심각한 대사 이상이 관찰되므로, 수술 성과 평가와 추적 검사에서 이 점을 고려해야 합니다. 본 연구는 개별 환자의 cobalamin 대사 이상 관리에 있어 보다 정밀한 평가와 치료 전략 수립의 중요성을 보여줍니다.",
+      "limitations": [
+        "초록만 제공되어 자세한 연구 방법과 제한사항을 알 수 없습니다.",
+        "폐쇄 후 추적 관찰 기간이 12주로, 장기적 영향 평가는 제한적입니다.",
+        "임상증상과 cobalamin 상태의 직간접적인 연관성에 대한 분석 부족이 있습니다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "선천성 portosystemic shunt 개들의 cobalamin 대사 이상에 대한 임상적 이해를 높였으며, 수술 전후 대사 상태 변화를 구체적으로 보여주어 진료 시 중요한 정보를 제공하므로 임상 적용에 권장됩니다.",
+      "id": "doi:10.1093/jvimsj/aalag277",
+      "discovered_at": "2026-11-14 03:12:25.499655+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43021593/",
+      "summary_generated_at": "2026-11-14 03:14:24.824260+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -3310,6 +3443,80 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42680555/",
       "summary_generated_at": "2026-10-20 01:49:47.167571+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Subcutaneous ureteral bypass explantation in 21 cats (2015-2023): outcomes and owner perceptions.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag197",
+      "pmid": "42685338",
+      "pmcid": "PMC13537505",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag197",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685338/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 고양이에서 subcutaneous ureteral bypass (SUB) explantation의 임상적 이유, 결과 및 주인 인식을 분석하여, SUB 관련 합병증 치료에 대한 직접적인 임상 근거를 제공하고 있습니다. 고양이를 대상으로 한 실제 임상 사례를 후향적으로 조사하여, SUB explantation의 효과와 안전성에 대해 구체적인 증거를 제시합니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "internal_medicine",
+        "surgery"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "subcutaneous ureteral bypass explantation and complications in cats",
+      "study_design": "retrospective",
+      "sample_size": 21,
+      "sample_size_quote": "Twenty-one cats (31 SUBs) that underwent 29 explantations.",
+      "objective": "고양이에서 subcutaneous ureteral bypass (SUB) explantation의 시행 이유, 임상 경과 및 보호자 경험을 기술하고, SUB 관련 합병증 관리에 있어서 explantation이 효과적인지 평가하기 위함.",
+      "study_methods": "2015년부터 2023년까지 SUB를 이식받은 21마리 고양이(총 31개의 SUB 중 29개 explantation 시행)의 의무기록을 후향적으로 검토했습니다. SUB explantation 시점의 임상 데이터, 영상 검사, 소변 배양 검사 및 치료 기록을 분석했으며, 20명의 보호자에게 설문 조사를 시행해 경험을 수집했습니다. 주요 이유, 임상 결과, 재폐색 발생 및 사망률 등을 평가했습니다.",
+      "one_sentence_summary": "본 후향적 사례 시리즈는 2015년부터 2023년까지 SUB explantation을 받은 21마리 고양이(31개 SUB 중 29개 explantation)를 포함했습니다. 주요 explantation 이유는 positive urine culture (15/21), SUB 폐색 (8/21), sterile cystitis (4/21) 및 SUB 실패 의심 (2/21)이었으며, median explantation 후 추적 관찰 기간은 596일(3-2310일)이었습니다. 4마리에서 재폐색이 관찰되었고, 보호자 설문 응답자의 대다수(8/9)는 동일 상황 시 다시 explantation을 고려하겠다고 답했습니다.",
+      "key_results": [
+        {
+          "result": "SUB explantation은 배양검사 양성(15/21), SUB 폐색(8/21), sterile cystitis(4/21), SUB 실패 의심(2/21)으로 시행되었다.",
+          "evidence_quote": "Explantation was performed 1.8 years (0.2-4.1 years) after placement because of positive urine culture (PUC; 15/21), SUB obstruction (8/21), sterile cystitis (4/21), and suspected SUB failure (2/21)."
+        },
+        {
+          "result": "전체 31개 요관 중 26개는 대비 연구에서 통과성이 확인되었다.",
+          "evidence_quote": "Twenty-six out of 31 ureters had documented patency."
+        },
+        {
+          "result": "SUB explantation 후 4마리 고양이에서 요관 재폐색이 발생했다.",
+          "evidence_quote": "Four cats had ureteral re-obstruction (1 after partial obstruction at explantation)"
+        },
+        {
+          "result": "SUB explantation 후 추적 관찰 기간 중앙값은 596일(3-2310일)이었다.",
+          "evidence_quote": "Follow-up after explantation was 596 days (3-2310 days)."
+        },
+        {
+          "result": "SUB explantation 후 9마리 고양이는 음성 소변 배양을 보였고, 3마리는 배양 양성과 임상 증상이 계속 나타났다.",
+          "evidence_quote": "Nine of 15 cats explanted due to PUC had a negative postoperative urine culture. Three of 15 cats had clinical signs related to PUC postoperatively."
+        },
+        {
+          "result": "보호자 설문 응답자 9명 중 8명은 유사 상황 시 SUB explantation을 다시 고려하겠다고 답했다.",
+          "evidence_quote": "Questionnaire response was 9 of 20, and 8 of 9 owners would consider explantation if in the same situation again."
+        }
+      ],
+      "authors_conclusion": "SUB 관련 합병증으로 explantation이 필요한 고양이에서, explantation은 합병증 관리를 위한 유효한 치료 옵션으로 보입니다. 일부 고양이에서 소변 배양 양성이나 요관 재폐색이 관찰되었으나 중대한 부작용 없이 관리가 가능했습니다.",
+      "clinical_takeaway": "SUB는 고양이에서 요관 폐색 치료에 널리 사용되는 방법이지만, long-term 합병증인 감염, 폐색 등이 흔히 발생합니다. 본 연구는 SUB explantation이 이런 합병증을 관리하는 데 실질적인 대안임을 보여줍니다. 특히 소변 배양에서 양성을 보이나 반복적 항생제 치료에 어려움 있는 경우 explantation 후 음성화 및 임상 호전을 기대할 수 있습니다. 그러나 일부 고양이에서는 재폐색 위험이 존재하므로, 사전 대비 영상검사로 요관 통과성을 확인하는 것이 중요하고, 재폐색 가능성에 대해 보호자와 충분히 상담해야 합니다. 본 연구는 후향적이며, 보호자 설문에 제한점이 있어 대규모 전향적 연구로 추가 검증이 요구됩니다.",
+      "limitations": [
+        "후향적 디자인으로 표준화된 치료 프로토콜이 없고, 일부 증례에선 정보 누락 및 추적관찰 손실이 발생했다.",
+        "재폐색 여부를 모든 개체에서 영상으로 확인하지 못해 부분적 재폐색 사례를 놓쳤을 수 있다.",
+        "항생제 내성 문제 및 치료 경험 변화로 인해 management가 시기별로 상이했다.",
+        "보호자 설문 응답률이 낮아 응답 편향 가능성이 존재한다.",
+        "tetrasodium EDTA 주입 치료 등 대체 치료법의 효과에 대한 평가가 본 연구 범위를 벗어난다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "고양이에서 흔한 SUB 관련 합병증에 대한 효과적인 해결책인 explantation에 대한 직접적이고 실질적인 임상 데이터를 제공하며, 상당 기간 추적 결과와 보호자 만족도가 높아 현장 적용 가능성이 큰 연구로 판단됨.",
+      "id": "doi:10.1093/jvimsj/aalag197",
+      "discovered_at": "2026-09-16 01:13:31.980098+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13537505",
+      "summary_generated_at": "2026-11-14 03:14:11.496307+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -7085,19 +7292,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 489
+        "received": 493
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 555
+        "received": 556
       }
     },
-    "started_at": "2026-11-13T03:24:36.614547+00:00",
-    "since": "2026-09-29",
-    "processed": 2,
+    "started_at": "2026-11-14T03:12:23.748283+00:00",
+    "since": "2026-09-30",
+    "processed": 3,
     "refreshed": 0,
-    "failed": 13,
-    "deferred": 1081,
-    "finished_at": "2026-11-13T03:28:04.337254+00:00"
+    "failed": 9,
+    "deferred": 1088,
+    "finished_at": "2026-11-14T03:15:40.855883+00:00"
   }
 }
