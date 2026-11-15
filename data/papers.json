@@ -1,9 +1,87 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T03:15:40.973979+00:00",
-  "last_successful_collection": "2026-11-14T03:12:23.748231Z",
+  "generated_at": "2026-11-15T02:42:32.161000+00:00",
+  "last_successful_collection": "2026-11-15T02:38:21.753431Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Changing tonometers, changing intraocular pressure? Rethinking intraocular pressure interpretation in dogs.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-11-13",
+      "online_publication_date": "2026-11-13",
+      "publication_date_raw": "2026-Nov-13",
+      "doi": "10.1111/jsap.70223",
+      "pmid": "43031315",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70223",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43031315/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 논문은 개에서 사용하는 안압계(tonometer)가 달라질 때 측정되는 intraocular pressure 값이 본질적으로 변화할 수 있음을 보여주어, 임상 현장에서 안압 수치 해석 시 장비 변화에 따른 오차를 고려해야 함을 직접적으로 설명합니다. 이는 강아지의 glaucoma 진단 및 관리에 매우 중요한 내용입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "glaucoma and intraocular pressure measurement",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "본 연구의 목적은 다양한 안압계 모델과 세대에 따라 측정되는 intraocular pressure가 상호 교환 가능하지 않으며, 안압계 변경 시 측정값 해석에 대한 재고가 필요함을 제시하는 것입니다.",
+      "study_methods": "본 논문은 개에서 안압 측정 시 안압계의 세대와 모델 차이에 따른 측정 값 차이 및 관련 변동성 요소들을 문헌 및 임상 경험을 바탕으로 분석하고, 임상 적용 시 유의사항과 권장 방안을 제시하였습니다. 안구 내 압력, 각막 특성, 측정기술, 환자 상태, 임상 환경 등이 측정에 미치는 영향도 함께 다루어졌습니다.",
+      "one_sentence_summary": "개에서 안압 측정 시 다양한 안압계가 사용되며, 세대와 모델 차이에 따라 측정값이 반드시 상호 교환 가능하지 않음을 논의했습니다. 본 연구는 안압계 교체 시 측정값 변화가 생리적 변화가 아닐 수 있음을 강조하며, 측정 장비 변경 후 새로운 임상 기준 설정을 권고합니다. 이러한 권고는 glaucoma 진단과 장기 추적 관찰에서 시각 기능 및 망막, 시신경 구조평가와 통합하여 안압 수치를 해석해야 함을 시사합니다.",
+      "key_results": [
+        {
+          "result": "안압 측정값은 사용된 안압계의 종류와 세대에 따라 달라지며, 측정 큰 차이가 있어 측정 결과는 그대로 교환될 수 없다.",
+          "evidence_quote": "measurements obtained with different devices are not necessarily interchangeable."
+        },
+        {
+          "result": "안압은 각막 특성, 측정기법, 환자 상태 및 임상 환경에 따라서도 영향 받는다.",
+          "evidence_quote": "Recorded intraocular pressure is also influenced by corneal properties, measurement technique, patient state and the clinical environment."
+        },
+        {
+          "result": "안압계 교체 시에는 기존 안압계와 새로운 안압계 모두로 쌍대 측정을 수행하여 새로운 임상 기준을 확립할 필요가 있다.",
+          "evidence_quote": "when instruments are changed, paired measurements with the old and new devices should be obtained when feasible to help establish a new clinical baseline."
+        },
+        {
+          "result": "안압계 간 인구 수준의 평균 차이를 단순한 보정 인자로 사용하는 것은 개인 환자에게 적합하지 않다.",
+          "evidence_quote": "Population-level inter-device differences should not be applied as simple correction factors to individual patients"
+        },
+        {
+          "result": "안압 수치에 기반한 수치적 경계값을 안압계별로 임상적으로 동일하게 해석해서는 안 된다.",
+          "evidence_quote": "numerical thresholds for ocular hypertension or suspicion of glaucoma should not be assumed to have equivalent clinical meaning across tonometers."
+        },
+        {
+          "result": "예상치 못한 안압 변화가 감지될 경우, 생물학적 변화와 측정 환경 변화를 모두 고려해야 한다.",
+          "evidence_quote": "When an unexpected change in intraocular pressure is detected, clinicians should consider both biological change and changes in the measurement context."
+        },
+        {
+          "result": "glaucoma 진단과 추적 관찰에서는 안압 측정 결과뿐 아니라 시각 기능 및 retina와 optic nerve의 구조적 평가를 함께 통합해야 한다.",
+          "evidence_quote": "Glaucoma diagnosis and longitudinal monitoring should therefore integrate intraocular pressure with visual function and structural assessment of the retina and optic nerve."
+        },
+        {
+          "result": "안압은 수치적 연속성보다 임상적 의미 유지에 중점을 두고 해석해야 한다.",
+          "evidence_quote": "Preserving the clinical meaning of intraocular pressure, rather than numerical continuity alone, should guide the interpretation of serial measurements as tonometric technology evolves."
+        }
+      ],
+      "authors_conclusion": "안압 측정은 사용하는 안압계의 종류와 모델에 따라 변동이 심하므로, 안압계 교체 시 단순히 장비를 바꾼 것이 아니라 측정 시스템이 바뀐 것으로 보고 쌍대 측정을 통한 새로운 기준 설정이 필요합니다. 또한 안압 단독 수치를 기반으로 한 고혈압이나 glaucoma 의심 기준을 그대로 적용해서는 안 되며, 시각 기능 및 망막, 시신경 평가를 함께 고려해야 합니다. 이러한 접근법이 안압 측정의 임상적 의미를 유지하는 데 필수적임을 제시합니다.",
+      "clinical_takeaway": "개에서 안압 측정 시 사용하는 tonometer 모델과 세대에 따라 측정값 차이가 발생할 수 있음을 반드시 인지해야 합니다. 임상에서는 안압계 교체 시 기존과 새로운 장비로 쌍대 측정을 실시해 새로운 임상 기준을 마련하고, 인구 수준 보정치를 개별 환자에 적용하는 것은 피해야 합니다. 안압 수치 변화가 있을 때는 실제 생리적 변화인지 아니면 장비 변경에 따른 측정 차이인지 신중히 구별해야 하며, glaucoma 진단과 경과 관찰 시에는 안압뿐 아니라 시각 기능과 retina 및 optic nerve 구조 평가를 함께 고려하는 통합적 접근이 필요합니다. 따라서 안압 수치는 단순한 숫자 연속성보다 임상적 의미를 유지하는 방향으로 해석되어야 하며, 이는 안압 측정 장비 기술 발전에 따른 변화를 적절히 반영하는 데 중요한 지침이 됩니다.",
+      "limitations": [
+        "초록만 제공되어 구체적인 연구 설계와 대상 표본 정보가 부족함.",
+        "본 논문은 주로 문헌 고찰 및 개념적 논의로, 무작위 대조 시험 등 증거 수준이 높은 연구는 아님."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 논문은 실제 임상에서 개의 안압 모니터링 시 자주 발생하는 안압계 변경에 따른 측정값 해석 문제를 명확히 제시하고, 이를 보완하는 구체적 임상 지침을 제공하여 진단 정확도와 환자 관리 질 향상에 직결되므로 추천합니다.",
+      "id": "doi:10.1111/jsap.70223",
+      "discovered_at": "2026-11-15 02:38:23.410326+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43031315/",
+      "summary_generated_at": "2026-11-15 02:40:37.478860+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Frequency of occurrence, signalment, clinicopathologic and imaging findings, and outcomes with nontraumatic spontaneous intracranial hemorrhagic stroke in dogs.",
       "journal": "Journal of the American Veterinary Medical Association",
@@ -79,7 +157,7 @@
       "publication_date_raw": "2026-Nov-02",
       "doi": "10.1093/jvimsj/aalag291",
       "pmid": "43021591",
-      "pmcid": null,
+      "pmcid": "PMC13759994",
       "publisher_url": "https://doi.org/10.1093/jvimsj/aalag291",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43021591/",
       "source": "pubmed",
@@ -141,7 +219,7 @@
       "publication_date_raw": "2026-Nov-02",
       "doi": "10.1093/jvimsj/aalag277",
       "pmid": "43021593",
-      "pmcid": null,
+      "pmcid": "PMC13759984",
       "publisher_url": "https://doi.org/10.1093/jvimsj/aalag277",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43021593/",
       "source": "pubmed",
@@ -1036,6 +1114,67 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42876319/",
       "summary_generated_at": "2026-10-15 23:36:39.909888+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Should veterinarians apply a 2-step framework to classify adiposity and diagnose clinical obesity in dogs and cats?",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-10-07",
+      "online_publication_date": "2026-10-07",
+      "publication_date_raw": "2026-Oct-07",
+      "doi": "10.2460/javma.26.06.0499",
+      "pmid": "42843409",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.06.0499",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42843409/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 개와 고양이 임상에서 비만 진단을 위한 2단계 프레임워크 도입을 제안하였으며, 이는 비만 치료제로서의 약물 처방에 앞서 진단이 먼저 이루어져야 함을 강조한다. 그러나 직접적인 임상시험 결과나 치료 효과에 대한 분석은 포함하지 않으므로 임상 적용에 간접적인 관련성을 가진다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "clinical obesity diagnosis",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개와 고양이에서 비만증을 임상적으로 진단하기 위한 2단계 프레임워크를 제안하고 그 중요성을 논의하기 위함이다.",
+      "study_methods": "비만 치료 약물이 수의학 임상시험에 투입되고 있는 현 상황에서, 단순한 체형 점수(body condition score)만으로는 비만의 임상적 진단이 어렵다는 점을 지적한다. 이에 환자의 지방 축적 상태를 기술하는 1단계와, 비만이 임상적으로 의미 있는 이상을 야기한다는 것을 문서화하는 2단계로 구성된 진단 접근법을 제안하였다. 본 방법은 합의와 검증을 위해 제안된 개념적 프레임워크이다.",
+      "one_sentence_summary": "이 논문은 개와 고양이의 비만을 진단하기 위한 2단계 접근법을 제안하였다. 첫 단계에서는 환자의 지방 축적을 overweight 또는 obesity로 구분하여 서술하고, 두 번째 단계에서는 비만이 임상적으로 의미 있는 이상을 초래했음을 문서화하여 질병 단계를 부여한다. 또한 비만 약물 처방은 반드시 이러한 임상적 진단을 선행해야 하며, 과체중 상태부터 체계적인 체중 감량과 영양 평가가 이루어져야 한다고 강조한다.",
+      "key_results": [
+        {
+          "result": "Body condition score는 환자의 지방 축적 상태를 기술하는 지표이며 비만의 진단 자체는 아니다.",
+          "evidence_quote": "Body condition score is not a diagnosis; it describes a patient's adiposity, not whether it is causing illness."
+        },
+        {
+          "result": "두 번째 단계에서는 비만이 임상적으로 의미 있는 이상이 있음을 문서화하여 임상 비만으로 단계화한다.",
+          "evidence_quote": "Step 2, applied only when obesity is documented, assigns a disease stage; clinical obesity requires a documented, clinically meaningful abnormality attributed to adiposity."
+        },
+        {
+          "result": "과체중부터 체계적인 체중 감량이 시작되어야 하며, 모든 환자에서 영양 평가가 시행되어야 한다.",
+          "evidence_quote": "Structured weight loss begins at overweight; nutritional assessment applies to every patient."
+        }
+      ],
+      "authors_conclusion": "비만 치료제 처방에 앞서 지방 축적 상태의 기술과 임상적 비만의 단계화가 필요하며, 제안된 2단계 진단 프레임워크는 합의와 향후 검증이 요구된다.",
+      "clinical_takeaway": "개와 고양이에서 체형 점수 자체는 지방 축적을 표현할 뿐이므로, 임상 비만 진단에는 반드시 지방 축적으로 인한 임상적 기능 장애나 이상이 있음을 문서화하는 과정이 필수적이다. 따라서 비만 치료 약물의 적절한 사용을 위해서는 이 2단계 프레임워크를 통해 비만 단계를 세분화하고 체계적 관리를 계획하는 것이 중요하다. 과체중 단계부터 계획적인 체중 감량과 영양 평가가 이루어져야 하며, 이 임상적 진단 접근법은 임상 현장에서 비만 관리를 체계화하고 일관성 있게 적용할 기반을 제공한다. 다만 이 프레임워크는 제안 단계로, 임상적 합의와 검증 연구가 추가로 필요함을 유의해야 한다.",
+      "limitations": [
+        "본 연구는 제안된 진단 프레임워크에 대한 임상적 검증이나 치료 효과 분석이 이루어지지 않은 개념적 견해(Viewpoint)임.",
+        "실제 임상 데이터나 전향적 연구 결과가 포함되어 있지 않아 적용 시 효과성에 대한 증거는 부족하다.",
+        "구체적인 진단 기준과 평가 방법의 표준화가 제시되어 있지 않아 임상 적용에 제한이 있을 수 있다.",
+        "추가적인 임상 연구를 통해 제안된 2단계 접근법의 유용성과 신뢰도를 확인해야 한다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.06.0499",
+      "discovered_at": "2026-10-08 23:27:48.911797+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42843409/",
+      "summary_generated_at": "2026-11-15 02:41:58.606446+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -4887,6 +5026,69 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Computed tomography versus magnetic resonance imaging for the perioperative management of acute thoracolumbar intervertebral disc extrusion in non-ambulatory chondrodystrophic dogs.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": null,
+      "online_publication_date": "2026-07-31",
+      "publication_date_raw": "2026-Oct",
+      "doi": "10.1111/vsu.70135",
+      "pmid": "42535405",
+      "pmcid": "PMC13643671",
+      "publisher_url": "https://doi.org/10.1111/vsu.70135",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42535405/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "급성 thoracolumbar intervertebral disc extrusion(IVDE)이 있는 무보행성 chondrodystrophic 견에서 perioperative 관리 시 MRI와 비교하여 CT-myelography(C-CTM)가 보행 회복 및 안전성 면에서 비열등성을 보였고, 치료 비용도 유의하게 낮았다는 점은 임상 적용에 직접적인 의미가 있다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "acute thoracolumbar intervertebral disc extrusion",
+      "study_design": "retrospective",
+      "sample_size": 560,
+      "sample_size_quote": "A total of 560 client-owned dogs (MRI, 518 dogs; C-CTM, 42 dogs).",
+      "objective": "비보행성 chondrodystrophic 견에서 영상진단법으로서 perioperative 관리에 사용되는 CT-myelography(C-CTM)가 MRI와 비교할 때 보행 회복 및 안전성에서 비열등한지 확인하는 것.",
+      "study_methods": "영국의 단일 소개병원에서 2019년부터 2025년까지 비보행성 chondrodystrophic 견 560마리를 대상으로 후향적 코호트 연구를 수행했다. MRI 검사 가동 중단 기간에 CT-myelography를 quasi-randomized 방식으로 적용하였다. 주요 결과는 보행 회복이며 ITT와 PP 분석 모두 수행, 비열등성 마진 -12%로 사전 설정하였다. 부차적 결과로는 수술 후 신경학적 악화, progressive myelomalacia(PMM), 주요 합병증, 치료 비용을 평가했다. 수술은 모두 감압적 hemilaminectomy이며, 수술 후 추적 관찰 최소 28일간 진행하였다.",
+      "one_sentence_summary": "비보행성 chondrodystrophic 견 560마원(MRI 518마리, C-CTM 42마리)을 후향적으로 분석했으며, MRI 가동 중단 시 CT-myelography가 quasi-randomized 방식으로 시행되었다. 주요 결과인 보행 회복률은 ITT 분석에서 MRI 83.8%, C-CTM 90.5%였으며 비열등성이 입증되었고(p<.001), PP 분석에서도 유사한 결과이다. 안전성 지표(수술 후 신경학적 악화, PMM, 주요 합병증)에서 두 군 간 유의한 차이는 없었고, C-CTM 그룹의 치료 및 영상 촬영 비용이 통계적으로 유의하게 낮았다(p<.01).",
+      "key_results": [
+        {
+          "result": "PP 분석에서도 C-CTM의 보행 회복률은 92.7%(38/41)로 MRI 90.2%(434/481)와 비열등함을 확인했다 (위험 차 +2.5%, 95% CI: -7.3%–12.2%, p<.001).",
+          "evidence_quote": "TABLE 4 Summary of postoperative outcomes and safety data in ITT and PP groups, with unadjusted and adjusted effect sizes and associated p‐values. | | | ITT‐MRI (n = 518) | | ITT‐CT (n = 42) | | ITT effect size (95% CI) | | PP‐MRI (n = 481) | | PP‐CT (n = 41) | | PP effect size (95% CI) | | Primary outcome | | Recovery of ambulation | | 434/518 (83.8%) | | 38/42 (90.5%) | | Risk difference + 6.5% (95% CI: −2.7%–15.7%) | | One‐sided p < .001 | | 434/481 (90.2%) | | 38/41 (92.7%) | | Risk difference + 2.5% (95% CI: −7.3%–12.2%) | | One‐sided p < .001 | | Adjusted odds ratio 1.41 (95% CI: 0.41–6.66) | | p = .617 | | Adjusted odds ratio 1.33 (95% CI: 0.385–6.32) | | p = .681 | | Secondary safety outcomes | | All postoperative neurologic deterioration | | 61/518 (11.8%) | | 4/42 (9.5%) | | Risk difference − 2.3% (95% CI: −12.8%–8.3%) | | p = .851 | | 61/481 (12.7%) | | 4/41 (9.8%) | | Risk difference − 2.9% (95% CI: −12.5%–6.6%) | | p = .805 | | Severe neurologic deterioration (loss of deep pain sensation) | | 24/518 (4.6%) | | 3/42 (7.1%) | | Risk difference 2.5% (95% CI: −6.8%–11.8%) | | p = .722 | | 24/481 (5.0%) | | 3/41 (7.3%) | | Risk difference 2.3% (95% CI: −5.9%– 10.5%) | | p = .461 | | PMM | | 15/518 (2.9%) | | 0/42 (0.0%) | | Risk difference − 2.9% (95% CI: −5.6%–0.2%) | | p = .535 | | 15/481 (3.1%) | | 0/41 (0.0%) | | Risk difference − 3.1% (95% CI: −4.7% to −1.6%) | | p = .621 | | Postoperative complications | | 35/518 (6.8%) | | 2/42 (4.8%) | | Risk difference − 2% (95% CI: −10.1%–6.1%) | | p = .859 | | 35/481 (7.3%) | | 2/41 (4.9%) | | Risk difference − 2.4% (95% CI: −9.4%–4.6%) | | p = .758 | Note: Unadjusted risk differences (95% CI) and adjusted OR (95% CI) expressed for CT group relative to MRI group."
+        },
+        {
+          "result": "수술 후 신경학적 악화, progressive myelomalacia, 주요 합병증 발생률은 MRI와 C-CTM 군 간 통계적으로 차이가 없었다.",
+          "evidence_quote": "There was no difference in rates of postoperative neurologic deterioration, progressive myelomalacia, or major complications."
+        },
+        {
+          "result": "C-CTM 군의 총 치료 비용과 영상 촬영 비용은 MRI 군에 비해 유의하게 낮았다 (p < .01).",
+          "evidence_quote": "Total treatment costs and imaging costs were significantly lower for C-CTM (p < .01). There was no difference in non-imaging costs between groups."
+        }
+      ],
+      "authors_conclusion": "비보행성 chondrodystrophic 견의 급성 thoracolumbar IVDE에서 perioperative 관리에 있어서 MRI와 비교한 C-CTM은 보행 회복률 및 안전성 측면에서 비열등성을 보였으며, 치료 비용도 유의하게 절감되었다. 따라서 치료 비용과 접근성을 고려할 때 C-CTM이 MRI에 비해 우수한 영상 진단 전략으로 사용할 수 있음을 시사한다.",
+      "clinical_takeaway": "급성 thoracolumbar IVDE로 인해 보행 불능인 chondrodystrophic 견 환자에서 perioperative 영상 진단에 MRI 대신 CT with myelography(C-CTM)를 사용할 경우, 보행 회복률 및 안전성에서 MRI와 동등한 결과를 기대할 수 있습니다. 또한, C-CTM이 MRI 대비 영상 촬영 및 총 치료 비용을 유의하게 절감하여 비용 효율적입니다. 이러한 결과는 MRI가 기본 영상진단법으로서 반드시 선택되어야 하는 것은 아니며, 특히 MRI 접근성이 제한되거나 비용 부담이 큰 경우 C-CTM으로 대체할 수 있는 근거로 활용할 수 있습니다. 다만, 본 연구는 후향적 단일 기관 연구이며, 심층 통증 음성 등 일부 고위험군에서의 차별적 효과는 추가 연구가 필요합니다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인과 관계 확립에 제한이 있다.",
+        "MRI 가동 중단을 이용한 quasi-randomized 설계의 특성상 그룹간 크기 불균형(CT군 42마리, MRI군 518마리)이 있으며, 일부 비측정 교란인자가 결과에 영향을 줄 가능성이 있다.",
+        "심층 통증 음성 등 상대적으로 예후가 불량한 소수 환자군에 대한 충분한 통계적 분석이 부족하다.",
+        "MRI 영상 획득 프로토콜 및 영상 소견에 따른 세부 임상 의사결정 근거 분석은 이루어지지 않았다.",
+        "결과는 단일 기관 및 특정 수술 및 관리 프로토콜에 기반하므로 다른 환경에의 일반화에 제약이 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 560마리 임상 견을 대상으로 한 대규모 후향적 코호트 연구로, MRI와 CT-myelography에 따른 perioperative 관리 결과를 quasi-randomized 방법으로 비교하였다. MRI 대비 CT-myelography의 비열등성과 안전성 결과를 명확히 입증하고, 비용 측면에서 CT-myelography의 명백한 이점까지 보고하여 실제 임상에서 영상진단법 선택에 중요한 근거를 제공한다. 따라서 MRI가 아닌 CT-myelography를 1차 영상기로 고려하는 데 실용적 근거를 제공하므로 임상적 권고를 판단하였다.",
+      "id": "doi:10.1111/vsu.70135",
+      "discovered_at": "2026-10-07 23:25:03.892317+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13643671",
+      "summary_generated_at": "2026-11-15 02:41:04.874261+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Is annual Dirofilaria immitis antigen testing at preventive renewal proportionate to the residual infection risk in documented-compliant dogs?",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -4936,6 +5138,83 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42542127/",
       "summary_generated_at": "2026-10-21 01:36:34.512085+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Surgical closure of labial and alveolar cleft defects with a modified Millard technique: A prospective study of ten dogs.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": null,
+      "online_publication_date": "2026-07-30",
+      "publication_date_raw": "2026-Oct",
+      "doi": "10.1111/vsu.70120",
+      "pmid": "42529899",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70120",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42529899/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 client-owned puppies를 대상으로 하여 canine lip/alveolar cleft repair에 대해 구체적인 수술법과 중간 기간 임상, 기능, 미용적 결과를 평가하였으며, 이는 임상 현장에서 실질적으로 적용 가능한 수술법 정보와 결과를 제시하고 있다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "lip and alveolar cleft defects",
+      "study_design": "prospective",
+      "sample_size": 10,
+      "sample_size_quote": "A total of 10 client-owned puppies with unilateral or bilateral lip/alveolar clefts.",
+      "objective": "canine lip/alveolar cleft repair의 단계별 수술법을 제시하고, 수술 중 및 수술 후 합병증과 임상, 기능, 미용적 중기 결과를 보고한다.",
+      "study_methods": "10마리의 client-owned puppies(유일측성 또는 양측성 lip/alveolar clefts)를 대상으로 하였다. 수술법은 human medicine에서 응용된 modified Millard technique으로 alveolar cleft 및 labial vestibulum repair, cheilorhinoplasty, 필요 시 palatal cleft repair를 포함하였다. 수술 중 합병증, 수술 후 7일, 14일, 최소 3개월 시점의 임상, 기능, 미용 결과를 평가하였다. 미용 결과는 수술 후 CT측정을 통해 평가하였다.",
+      "one_sentence_summary": "10마리의 client-owned puppies에서 unilateral 또는 bilateral lip/alveolar clefts를 modified Millard technique으로 수술하였다. 14개의 결손 부위를 모두 수술하여 수술 중 합병증 없이 진행되었으며, 경미한 봉합선 탈구가 3례에서 발생했으나 모두 14일 이내 2차 치유되었다. 한례의 hard palate oronasal communication은 재수술로 해결되었다. 최소 3개월 추적 시점에서 모든 개체가 우수한 임상, 기능, 미용 결과를 보였다.",
+      "key_results": [
+        {
+          "result": "10마리의 puppies 중 6마리가 unilateral lip/alveolar clefts(우측 2마리, 좌측 4마리), 4마리가 bilateral clefts였다.",
+          "evidence_quote": "A total of 10 puppies (4 males, 6 females) were included. Of these, six presented with unilateral lip/alveolar clefts (2 right-sided and 4 left-sided) and four presented with bilateral clefts."
+        },
+        {
+          "result": "총 14개의 lip/alveolar cleft가 수리되었다.",
+          "evidence_quote": "A total of 14 lip/alveolar clefts were repaired."
+        },
+        {
+          "result": "4마리는 complete secondary palate cleft를 동반하였다.",
+          "evidence_quote": "Four dogs had a complete secondary palate cleft."
+        },
+        {
+          "result": "수술 중 합병증은 관찰되지 않았다.",
+          "evidence_quote": "No intraoperative surgical complications were reported."
+        },
+        {
+          "result": "1례의 hard palate 부위 oronasal communication은 재수술로 성공적으로 치료되었다.",
+          "evidence_quote": "One case of oronasal communication on the hard palate was successfully treated with minor revision surgery."
+        },
+        {
+          "result": "수술 3개월 후 평가에서 모든 개체는 우수한 임상 및 기능적 결과를 보였다.",
+          "evidence_quote": "Successful clinical and functional outcomes were reported for all dogs at the 3-month postoperative evaluation."
+        },
+        {
+          "result": "전반적인 미용 결과는 good to excellent 수준으로 평가되었다.",
+          "evidence_quote": "Overall cosmetic outcomes were rated as good to excellent."
+        }
+      ],
+      "authors_conclusion": "수술 중 합병증 발생이 없고, minor 치유 문제는 모두 2차 치유 또는 재수술로 해결되어 modified Millard technique은 좋은 임상, 기능, 미용 결과를 제공하는 안전하고 효과적인 수술 방법임을 확인하였다.",
+      "clinical_takeaway": "modified Millard technique을 적용한 canine lip/alveolar cleft 수술은 10마리의 client-owned puppies에서 복잡한 unilateral 및 bilateral 결손을 포함하여 성공적이고 안정적인 임상 및 기능 회복을 보여주었다. 주요 합병증이 드물었으며, 발생한 문제도 보존적 치료 또는 소규모 재수술로 해결된 점에서 임상 적용에 유용하다. 본 수술법의 체계적 단계별 적용과 CT를 통한 미용 평가를 통해 수술 후 평가의 표준화도 기대된다. 그러나 대상 군이 제한적이고 장기 추적 데이터는 부족하므로, 다양한 유형 및 장기간 결과에 대한 추가 연구가 필요하다.",
+      "limitations": [
+        "연구 대상이 10마리에 한정되어 소규모 표본이다.",
+        "최소 3개월의 중기 추적 관찰만 보고되어 장기 결과와 재발률 파악에 한계가 있다.",
+        "임상 현장에 바로 적용 가능한 수술법 설명 중심으로, 통제군이나 비교군 연구는 포함하지 않았다.",
+        "abstract만 제공되어 상세한 수술 절차 및 후속 관리가 완전히 기술되지 않았다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 client-owned puppies를 대상으로 한 전향적 연구로, canine lip/alveolar cleft repair에 대해 구체적이고 단계적 수술법과 안전성 및 중기 임상 및 미용 성과를 명확히 보고하여 실제 임상에서 신뢰할 만한 치료 정보를 제공한다. 적절한 합병증 관리 정보까지 제시하여 수술 적용에 도움이 되므로 추천한다.",
+      "id": "doi:10.1111/vsu.70120",
+      "discovered_at": "2026-10-07 23:25:03.904728+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42529899/",
+      "summary_generated_at": "2026-11-15 02:41:25.676771+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -7292,19 +7571,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 493
+        "received": 506
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 556
+        "received": 560
       }
     },
-    "started_at": "2026-11-14T03:12:23.748283+00:00",
-    "since": "2026-09-30",
-    "processed": 3,
+    "started_at": "2026-11-15T02:38:21.753476+00:00",
+    "since": "2026-10-01",
+    "processed": 4,
     "refreshed": 0,
-    "failed": 9,
-    "deferred": 1088,
-    "finished_at": "2026-11-14T03:15:40.855883+00:00"
+    "failed": 10,
+    "deferred": 1100,
+    "finished_at": "2026-11-15T02:42:32.034626+00:00"
   }
 }
