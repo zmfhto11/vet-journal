@@ -1,9 +1,82 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T02:42:32.161000+00:00",
-  "last_successful_collection": "2026-11-15T02:38:21.753431Z",
+  "generated_at": "2026-11-16T02:45:56.968907+00:00",
+  "last_successful_collection": "2026-11-16T02:43:15.844740Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Fluorescein sodium-guided resection of cervical peripheral nerve sheath tumors in 3 dogs.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-11-13",
+      "online_publication_date": "2026-11-13",
+      "publication_date_raw": "2026-Nov-13",
+      "doi": "10.2460/javma.26.08.0620",
+      "pmid": "43025055",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.08.0620",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43025055/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 3마리의 client-owned dog에서 cervical peripheral nerve sheath tumors(PNSTs)에 대해 fluorescein sodium-guided resection을 시행하고, 수술 중 소견과 결과를 평가하였기 때문에 직접적인 임상적 관련성을 가집니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "cervical peripheral nerve sheath tumors",
+      "study_design": "case_series",
+      "sample_size": 3,
+      "sample_size_quote": "3 client-owned dogs with cervical PNST",
+      "objective": "cervical peripheral nerve sheath tumors(PNSTs)의 fluorescein sodium-guided resection 중 수술 소견과 결과를 서술하고 재수술 시 적용 가능성을 평가함.",
+      "study_methods": "3마리의 client-owned dog이 대상으로, 2마리는 여타 병원에서 subtotal resection과 stereotactic radiation therapy 후 진행성 malignant PNST (MPNST)로 재수술을 받았고, 1마리는 치료받지 않은 schwannoma로 초기 수술을 받음. 수술 시 fluorescein sodium (20 mg/kg)을 IV 투여하고 standard illumination과 395-nm UV illumination 하에서 종양 조직의 형광 특성과 외관을 관찰하였다. 영상 진단으로는 preoperative MRI에서 contrast-enhancing intradural extramedullary masses로 식별됨. 종양의 fluorescence와 주변 조직과의 구분이 수술 중 dissecting에 도움 되었으며 조직학적 확진을 수행함.",
+      "one_sentence_summary": "3마리의 client-owned dog을 대상으로 cervical peripheral nerve sheath tumors에 대해 fluorescein sodium-guided resection을 시행하였다. 2마리는 MPNST의 재수술 환자였고 1마리는 초기 schwannoma 환자로, 각각 20 mg/kg의 fluorescein sodium을 수술 중 IV 투여하였다. 종양 조직은 형광을 띠어 육안적 완전 절제가 가능하였으며, 2마리의 MPNST는 수개월 내 원격 또는 전이성 질환이 발생했고 schwannoma 환자는 3개월 간 재발이 없었다.",
+      "key_results": [
+        {
+          "result": "모든 개에서 종양 조직이 standard illumination 하에서 황색 변색을 보이고 2마리는 395-nm UV 조명 하에서 밝은 형광을 보여 수술 중 조직 식별에 도움을 주었다.",
+          "evidence_quote": "Tumor tissue exhibited yellow discoloration under standard illumination in all dogs and bright fluorescence under 395-nm UV illumination in 2 dogs"
+        },
+        {
+          "result": "재수술 두 증례에서는 fluorescein이 주변의 방사선 유발 섬유화조직과 명확히 구분되어 쉽게 해부가 가능했다.",
+          "evidence_quote": "in the 2 re-operative cases, was visually distinct from the surrounding postoperative and radiation-induced fibrosis"
+        },
+        {
+          "result": "모든 개에서 gross total resection이 달성되었으며, 비형광 조직은 생검하지 않았다.",
+          "evidence_quote": "gross total resection was achieved in all dogs; nonfluorescent tissue was not biopsied."
+        },
+        {
+          "result": "조직학적 검사 결과 2마리는 MPNST, 1마리는 schwannoma로 확진되었다.",
+          "evidence_quote": "Histopathology confirmed MPNST in 2 dogs and schwannoma in 1 dog."
+        },
+        {
+          "result": "fluorescein 관련 부작용은 관찰되지 않았다.",
+          "evidence_quote": "Fluorescein-related adverse events were not observed."
+        },
+        {
+          "result": "schwannoma 환자는 3개월 동안 재발이 없었다.",
+          "evidence_quote": "the schwannoma case was recurrence-free at 3 months."
+        }
+      ],
+      "authors_conclusion": "Canine cervical PNST에 대한 fluorescein sodium-guided resection은 광범위하게 사용 가능한 장비로 가능하며, 원발 및 재수술 모두에서 종양조직의 수술 중 확인에 도움을 줄 수 있음을 시사한다. 다만, 비형광 조직은 생검하지 않아 fluorescein은 수술 판단의 보조 수단으로 활용해야 한다고 결론지었다.",
+      "clinical_takeaway": "cervical PNST이 의심되는 개에서 fluorescein sodium 20 mg/kg IV 투여 후 395-nm UV 조명 하에서 종양 조직을 시각적으로 식별할 수 있어 수술 시 조직 분리가 용이하다. 재수술 증례에서도 방사선이나 수술 후 생긴 섬유화 조직과 종양의 구분이 명확하여 수술 시 도움이 된다. 그러나 비형광 조직을 생검하지 않았으므로, 이 방법은 수술적 판단을 대체하기보다는 보조하는 역할로 제한해야 한다. 본 연구는 사례수가 적고 장기 추적이 제한적이므로, 다양한 환자에서 일반 적용까지는 추가 연구가 필요하다.",
+      "limitations": [
+        "증례 수가 3마리로 매우 적다.",
+        "추적 관찰 기간이 짧고 일부 증례는 재수술 환자라 초기 치료 결과와 비교가 어렵다.",
+        "비형광 조직에 대해 생검을 시행하지 않아 완전 절제 여부를 완전히 확증하지 못함.",
+        "추가적인 전향적 연구나 대규모 연구가 없어 일반화에 한계가 있다.",
+        "초록만 제공되어 상세한 방법 및 통계 분석이 부족하다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.08.0620",
+      "discovered_at": "2026-11-15 02:38:23.549741+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43025055/",
+      "summary_generated_at": "2026-11-16 02:45:08.867203+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Changing tonometers, changing intraocular pressure? Rethinking intraocular pressure interpretation in dogs.",
       "journal": "Journal of Small Animal Practice",
@@ -1786,6 +1859,63 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42767266/",
       "summary_generated_at": "2026-10-14 23:37:52.430885+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "N-methyl-D-aspartate receptor antagonists for controlling pain in dogs.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-09-21",
+      "online_publication_date": "2026-09-21",
+      "publication_date_raw": "2026-Sep-21",
+      "doi": "10.1111/jsap.70205",
+      "pmid": "42767761",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70205",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42767761/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 논문은 개에서 N-methyl-D-aspartate (NMDA) receptor antagonists의 통증 조절에 대한 과학적 근거를 검토한 리뷰 논문으로, 직접적인 임상 연구는 아니지만 관련 약물의 작용 기전과 임상 적용 가능성을 논의하여 간접적인 의학적 정보를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "anesthesia"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "pain management",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "NMDA receptor antagonists가 개의 통증 조절에 미치는 영향을 과학적 근거를 기반으로 평가하고, 현재 알려진 지식의 공백을 식별하는 것입니다.",
+      "study_methods": "WSAVA Pain Committee에서 출판한 미니 리뷰로, NMDA receptor와 만성 통증의 병태생리를 고찰하고, NMDA receptor antagonists 계열 약물의 임상적 적용과 권장 용량에 대해 논의하였습니다. 임상적 연구라기보다는 기존 문헌 검토 형태입니다.",
+      "one_sentence_summary": "본 리뷰는 개에서 NMDA receptor antagonists의 통증 조절 역할과 관련된 과학적 근거를 평가하였습니다. NMDA receptor가 중추 감작과 통증 경로의 상향 조절에 핵심 역할을 하여 만성 통증 관리에 유용할 수 있음을 제시하였습니다. 그러나 수술 전후 및 만성 통증 치료에서 약물의 최적 용량, 안전성, 효능과 적응증에 관한 구체적 데이터는 부족하여 추가 연구가 필요함을 강조하였습니다.",
+      "key_results": [
+        {
+          "result": "NMDA receptor antagonists는 중추 감작과 통증 경로의 상향 조절에서 중심적 역할을 수행하여 장기 통증 관리에 매력적인 약물 그룹임을 확인하였다.",
+          "evidence_quote": "N-methyl-D-aspartate receptor antagonists are an attractive group of drugs to manage long-standing pain because of the pivotal role of the N-methyl-d-aspartate receptor in central sensitisation and upregulation of pain pathways."
+        },
+        {
+          "result": "개에서 NMDA receptor antagonists의 수술 전후 사용 및 만성 통증 치료에 관한 최적 용량, 안전성 및 효능에 대한 정보가 부족하다.",
+          "evidence_quote": "More studies are needed to support the use of these drugs perioperatively and for treatment of chronic pain. Currently, information on best dosage regimens, safety, efficacy and which painful conditions can be targeted is lacking."
+        }
+      ],
+      "authors_conclusion": "NMDA receptor antagonists는 개에서 만성 통증 조절에 이론적으로 유망하나, 수술 주변이나 만성 통증 치료에서의 임상적 적용에 필요한 근거가 부족하여 향후 연구가 필수적이라고 결론지었다.",
+      "clinical_takeaway": "NMDA receptor antagonists는 개의 만성 통증 관리에 있어 중추 감작을 억제하는 중요한 치료 옵션이 될 수 있으나, 현 시점에서는 구체적인 용량 설정, 안전성, 그리고 어떤 질환에 효과적인지에 대한 신뢰할 만한 임상 데이터가 부족합니다. 따라서 이 약물들의 임상 적용을 고려할 때는 조심스러운 접근이 필요하며, 추가적인 전향적 연구를 통해 수술 전후 투여와 만성 통증 치료에 관한 명확한 임상 가이드라인 확립이 요구됩니다. 이 리뷰는 약물의 작용 기전을 이해하는 데 도움을 주나, 직접적인 임상 적용 권고를 위한 근거는 충분하지 않습니다.",
+      "limitations": [
+        "이 논문은 리뷰 형태로서 직접적인 임상 연구 결과를 포함하지 않아 실질적 증거가 제한적이다.",
+        "수술 전후와 만성 통증에 대한 NMDA receptor antagonists 투여에 관한 구체적인 임상 시험 데이터가 부족하다.",
+        "용량, 안전성, 적응증 등 실질적 임상 적용 정보가 부족하여 일반화에 한계가 있다.",
+        "초록만으로 확인 가능한 정보로 전체 본문 내용을 포함하지 않아 확인할 수 있는 근거가 제한적이다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/jsap.70205",
+      "discovered_at": "2026-09-22 23:22:59.435838+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42767761/",
+      "summary_generated_at": "2026-11-16 02:44:48.348004+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -7273,6 +7403,74 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Laparoscopic-induced pneumoperitoneum does not impair oxygenation in large-breed dogs but worsens hypercapnia, which is improved by low positive end-expiratory pressure ventilation.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-05-22",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.2460/javma.25.12.0797",
+      "pmid": "42173154",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.25.12.0797",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42173154/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 수술 중 Laparoscopic-induced pneumoperitoneum이 대형견에서의 환기 및 산소포화에 미치는 영향을 직접 평가하였으며, 다양한 PEEP 설정에 따른 호흡상태 변화가 포함된 대형견 임상 연구이다.",
+      "primary_category": "surgery",
+      "tags": [
+        "anesthesia",
+        "internal_medicine",
+        "respiratory",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "laparoscopic-induced pneumoperitoneum",
+      "study_design": "prospective",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "대형견에서 reverse Trendelenburg 자세의 laparoscopic-induced pneumoperitoneum(8~10 mm Hg)이 환기 및 산소포화를 손상시키는지 평가하고, pressure-controlled ventilation(PCV)에서 low positive end-expiratory pressure(PEEP-3 또는 PEEP-5)가 이들 변수를 개선하는지를 조사하였다.",
+      "study_methods": "Sevoflurane 마취를 시행한 대형견에서 cardiopulmonary 변수를 pneumoperitoneum 전(T0), insufflation 후 15분 후 RT자세(T1) 시점에 spontaneous ventilation(SV) 하에서 측정하였다. 이후 PCV를 시작하고(20 breaths/min, I:E 1:2, PEEP-3 또는 PEEP-5), peak inspiratory pressure(PIP)를 초기 10 또는 12 cm H2O에서 2 cm H2O씩 증가시키면서 end-tidal CO2를 35~40 mm Hg 사이로 조절하였다. PCV 시작 45분 후(T2)와 desufflation 5분 후(T3)에도 평가를 수행하였다.",
+      "one_sentence_summary": "대형견에서 reverse Trendelenburg 자세의 laparoscopic-induced pneumoperitoneum은 SV 시 hypercapnia와 산증을 악화시켰으나 산소포화에는 영향을 미치지 않았다. PCV 중 PEEP-3 적용군에서 PIP titration 후 혈중 pH와 호기말 CO2 수치가 개선되었으며, PEEP-5 군에서는 pH가 더 낮고 dead space-to-tidal volume 비율이 더 높았다. 심혈관계 변화나 처치는 그룹별로 유사하였다.",
+      "key_results": [
+        {
+          "result": "SV 동안 pneumoperitoneum은 Paco2를 악화시켰으며, PEEP-3 그룹에서 70.0 mm Hg(범위 62.0~86.1 mm Hg), PEEP-5 그룹에서 72.0 mm Hg(범위 61.0~81.9 mm Hg)를 기록했다.",
+          "evidence_quote": "During SV, pneumoperitoneum worsened Paco2 (median [range]; PEEP-3, 70.0 mm Hg [62.0 to 86.1 mm Hg]; PEEP-5, 72.0 mm Hg [61.0 to 81.9 mm Hg])"
+        },
+        {
+          "result": "SV 동안 plasma pH는 PEEP-3 및 PEEP-5 모두 평균 약 7.18로 산증 상태를 보였다.",
+          "evidence_quote": "and plasma pH (mean ± SD; PEEP-3, 7.18 ± 0.04; PEEP-5, 7.18 ± 0.02)"
+        },
+        {
+          "result": "PCV 중 PIP를 각각 중간값 16과 18 cm H2O까지 조절하여 Paco2와 pH가 개선되었으나, PEEP-5 그룹은 pH가 상대적으로 낮은 7.32 ± 0.04로 유지되었다.",
+          "evidence_quote": "During PCV, after titrating PIP (median, 16 and 18 cm H2O, respectively), these variables improved, but in PEEP-5, pH remained lower (mean ± SD; 7.36 ± 0.03 vs 7.32 ± 0.04)"
+        },
+        {
+          "result": "산소포화도는 양 그룹 모두에서 유의한 변화가 없었으며, 심혈관계 변화 및 중재도 두 그룹 간 차이가 없었다.",
+          "evidence_quote": "Oxygenation was unaffected, and cardiovascular changes and interventions were similar between groups."
+        }
+      ],
+      "authors_conclusion": "연구진은 SV 상태에서 pneumoperitoneum이 hypercapnia와 산증은 악화시키나 산소포화에는 영향을 주지 않는다고 결론 내렸다. PCV 중에는 PEEP-3가 가장 좋은 호흡 결과를 제공하며 PEEP-5는 PIP 제한으로 한계가 있을 수 있다고 보았다.",
+      "clinical_takeaway": "대형견을 대상으로 한 이 연구는 laparoscopic 수술 시 pneumoperitoneum이 spontaneous ventilation 하에서는 CO2 축적과 산증을 악화시키지만, 산소 공급에는 장애를 주지 않는다는 점을 확인하였다. Pressure-controlled ventilation 중에는 낮은 PEEP (3 cm H2O) 적용이 환기 개선에 효과적이며, 높은 PEEP (5 cm H2O)은 폐내 사망공간 증가와 더 낮은 pH 유지로 최적 환기 개선에 제한이 있음을 시사한다. 이 결과는 대형견 마취 중 적절한 ventilatory management 선택에 유용하며, 너무 높은 PEEP 사용은 신중해야 한다는 점을 알려준다. 다만 표본 수가 구체적으로 보고되지 않았고, 실제 수술 상황과 완전 일치하지 않을 수 있기에 임상 적용 시 주의가 요구된다.",
+      "limitations": [
+        "본 연구는 구체적인 표본 수 보고가 없어 통계적 해석에 제한적이다.",
+        "연구는 실험적 마취 환경 기반으로 실제 임상 laparoscopic 수술과 완전히 일치하지 않을 수 있다.",
+        "PEEP 수준이 두 개로 제한되어 다른 PEEP 설정에 대한 적용 가능성은 불분명하다.",
+        "심혈관계 평가와 중재는 보고되었으나 장기 예후 및 임상적 합병증 관련 데이터는 포함되지 않았다.",
+        "추가적인 후향적 혹은 대규모 임상 연구가 필요하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 대형견을 대상으로 한 직접적 임상 실험으로 pneumoperitoneum 관련 호흡 변화와 다양한 PEEP 효과를 명확히 비교하여 임상 마취 시 ventilator 전략 선택에 구체적 근거를 제공하기 때문에 추천한다.",
+      "id": "doi:10.2460/javma.25.12.0797",
+      "discovered_at": "2026-09-17 05:57:10.444029+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42173154/",
+      "summary_generated_at": "2026-11-16 02:45:55.205222+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -7571,19 +7769,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 506
+        "received": 487
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 560
+        "received": 570
       }
     },
-    "started_at": "2026-11-15T02:38:21.753476+00:00",
-    "since": "2026-10-01",
-    "processed": 4,
+    "started_at": "2026-11-16T02:43:15.844790+00:00",
+    "since": "2026-10-02",
+    "processed": 3,
     "refreshed": 0,
-    "failed": 10,
-    "deferred": 1100,
-    "finished_at": "2026-11-15T02:42:32.034626+00:00"
+    "failed": 16,
+    "deferred": 1091,
+    "finished_at": "2026-11-16T02:45:56.835019+00:00"
   }
 }
