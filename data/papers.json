@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T02:45:56.968907+00:00",
-  "last_successful_collection": "2026-11-16T02:43:15.844740Z",
+  "generated_at": "2026-11-17T05:08:27.372220+00:00",
+  "last_successful_collection": "2026-11-17T05:03:58.800528Z",
   "mode": "live",
   "papers": [
     {
@@ -3936,9 +3936,9 @@
       "title": "Diagnostic performance of 1,2-O-dilauryl-rac-glycero glutaric acid-(6'-methylresorufin) ester lipase activity in cats presenting to a veterinary referral hospital.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-08-26",
+      "publication_date": "2026-12-01",
       "online_publication_date": "2026-08-26",
-      "publication_date_raw": "2026-Aug-26",
+      "publication_date_raw": "2026-Dec-01",
       "doi": "10.2460/javma.26.01.0064",
       "pmid": "42648350",
       "pmcid": null,
@@ -4970,9 +4970,9 @@
       "title": "High-dose oral pentobarbital can produce anesthesia in aggressive dogs prior to euthanasia.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-08-05",
+      "publication_date": "2026-12-01",
       "online_publication_date": "2026-08-05",
-      "publication_date_raw": "2026-Aug-05",
+      "publication_date_raw": "2026-Dec-01",
       "doi": "10.2460/javma.26.04.0266",
       "pmid": "42556400",
       "pmcid": null,
@@ -5420,9 +5420,9 @@
       "title": "Clinically important abnormalities are common in senior cats perceived to be healthy by owners.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-07-29",
+      "publication_date": "2026-12-01",
       "online_publication_date": "2026-07-29",
-      "publication_date_raw": "2026-Jul-29",
+      "publication_date_raw": "2026-Dec-01",
       "doi": "10.2460/javma.26.04.0326",
       "pmid": "42526494",
       "pmcid": "PMC13472236",
@@ -6592,6 +6592,214 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Acute hydrated nucleus pulposus extrusion in dogs with severe neurologic status: comparison between conservative and surgical treatment.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag178",
+      "pmid": "42641071",
+      "pmcid": "PMC13505859",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag178",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42641071/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 심각한 신경학적 상태의 dog에서 hydrated nucleus pulposus extrusion (HNPE)의 보존적 치료와 수술적 치료를 비교한 임상 연구로서, 실제 임상에서 해당 질환의 치료방향 결정을 위한 직접적 근거를 제공한다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "hydrated nucleus pulposus extrusion (HNPE)",
+      "study_design": "retrospective",
+      "sample_size": 86,
+      "sample_size_quote": "A total of 86 dogs were included in the study; 60 (70%) received conservative treatment and 26 (30%) underwent surgical treatment",
+      "objective": "심각한 신경학적 장애를 가진 nonambulatory paretic 또는 plegic dog에서 HNPE를 가진 환자의 보존적 치료와 수술적 치료를 비교하고, 독립 보행과 자발적 배뇨 회복에 초점을 맞추며 예후 인자를 확인하고자 하였다.",
+      "study_methods": "2013년 4월부터 2022년 1월까지 5개 수의학 센터에서 MRI 진단을 받은 HNPE 의심 환자 86마리(60마리 보존적 치료, 26마리 수술적 치료 포함)를 후향적으로 선정하였다. 신경학적 등급 및 MRI 소견, 신체 치료 여부, 치료 방식 등을 기록하였다. 결과는 1주, 4주, 6개월 시점에서 평가되었으며, 독립 보행과 자발적 배뇨 회복을 만족스러운 결과로 정의했다. 보존적 치료는 코르티코스테로이드 또는 NSAIDs와 엄격한 안정, 진통 및 신체 치료를 포함하였고, 수술적 치료는 병변 부위에 따른 ventral slot, hemilaminectomy 등을 시행하였다.",
+      "one_sentence_summary": "본 연구는 MRI 진단을 받은 심각한 신경학적 손상을 가진 비보행성 HNPE dog 86마리를 대상으로 보존적 치료 60마리와 수술적 치료 26마리를 후향적으로 비교하였다. 수술군에서는 1주 후 신경학적 회복이 더딘 반면, 1개월과 6개월 시점에서는 두 그룹 간 유의한 결과 차이가 없었다. 만족스러운 최종 결과는 보존군에서 85%(40/47), 수술군에서 100%(24/24)로 나타났다. 비-chondrodystrophic 품종, MRI 상 T2-weighted intramedullary hyperintensity, 신체 치료는 회복 지연 인자로 확인되었다.",
+      "key_results": [
+        {
+          "result": "1개월 및 6개월 시점에서 두 군 간 신경학적 상태에 유의한 차이는 없었다 (P = .50 at 1 month; P = .99 at 6 months).",
+          "evidence_quote": "However, after 1 and 6 months, all dogs showed improvement, regardless of the type of treatment (P = .50 at 1 month; P = .99 at 6 months"
+        },
+        {
+          "result": "최종 평가에서 보존적 치료군 47마리 중 40마리(85%)가 만족스러운 결과를 보였고, 수술군 24마리 전원(100%)이 만족스러운 결과였다 (P = .02).",
+          "evidence_quote": "The final outcome was considered satisfactory in 40 of 47 (85%) of conservatively treated and 24 of 24 (100%) of surgically treated cases (P = .02)."
+        },
+        {
+          "result": "수술군에서는 초기 신경학적 등급이 높은 경우(등급 4)가 낮은 경우(등급 3)보다 4주 및 6개월 후 신경학적 호전이 더 빨랐다 (P < .001).",
+          "evidence_quote": "when surgery was chosen, improvement was more rapid for dogs with high neurologic grade (grade 4) than for cases with low neurologic grade (grade 3) at 4 weeks (P < .001) and 6 months (P < .001"
+        },
+        {
+          "result": "비-chondrodystrophic 품종, MRI상의 T2-weighted intramedullary hyperintensity, 그리고 신체 치료를 받은 경우 회복 기간이 더 길었다.",
+          "evidence_quote": "Factors associated with a longer recovery time, regardless of therapeutic approaches (conservative or surgical), included breed type, presence of T2-W intramedullary hyperintensity, and initiation of physical therapy."
+        },
+        {
+          "result": "회복까지의 중앙값 시간은 보존적 치료군에서 7일(95% CI 4-14일), 수술군에서 9일(95% CI 4-20일)로 차이가 없었다 (P = .45).",
+          "evidence_quote": "The median recovery time was 7 days (95% CI, 4-14 days) for the conservative group and 9 days (95% CI, 4-20 days) for the surgical group (P = .45)."
+        }
+      ],
+      "authors_conclusion": "심각한 신경학적 결손을 가진 HNPE dog에서 보존적 치료와 수술적 치료 모두에서 좋은 결과가 나타났다. 그러나 비-chondrodystrophic 품종이나 thoracolumbar 위치, 그리고 신경학적 중증도가 높은 경우 수술이 빠른 신경학적 회복에 유리할 수 있다. MRI에서 extruded disc의 이질적 신호가 보이는 경우 보존적 치료 후 결과가 좋지 않을 수 있어 수술을 고려해야 한다.",
+      "clinical_takeaway": "심한 신경학적 결손을 동반한 HNPE dog에서 보존적 치료는 충분히 좋은 치료 옵션이지만, 수술적 치료는 특히 비-chondrodystrophic 품종, thoracolumbar 부위 병변, 그리고 MRI에서 heterogenous extruded disc signal이 관찰되는 경우 빠른 회복을 기대할 수 있으므로 적극 고려할 필요가 있다. T2-weighted intramedullary hyperintensity는 회복 지연과 연관되어 있어 치료 계획 수립 시 주의해야 하며, 초기 신체 치료는 회복 지연과 관련되어 추가 연구가 요구된다. 따라서 신경학적 상태, 품종, MRI 소견을 종합해 치료 방침을 결정하는 것이 중요하다.",
+      "limitations": [
+        "후향적 연구로 인한 선택 편향 가능성 및 표준화된 치료 및 재활 프로토콜 부재",
+        "MRI 및 신경학적 평가는 다기관에서 수행되어 관찰자 간 변이가 존재할 수 있음",
+        "긴급하지 않은 보존 치료군과 수술군의 비교에서 초기 신경학적 중증도 분포가 다소 차이가 있을 수 있음",
+        "6개월 추적 데이터 일부 결손 및 보호자 보고에 의존한 점",
+        "thoracolumbar HNPE군 표본 크기가 작아 결과 해석에 제한이 있음"
+      ],
+      "recommended": true,
+      "recommendation_reason": "심각한 신경학적 결손을 가진 dog의 HNPE 치료에 대해 보존적 치료와 수술적 치료의 직접 비교 데이터를 제공하며, 임상에서 치료 선택 및 예후 설명에 즉시 활용 가능한 근거를 포함하고 있기 때문이다.",
+      "id": "doi:10.1093/jvimsj/aalag178",
+      "discovered_at": "2026-09-16 01:13:31.982500+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13505859",
+      "summary_generated_at": "2026-11-17 05:07:30.475934+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Effect of amiodarone, diltiazem, or both to achieve strict heart rate control in dogs with atrial fibrillation.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag194",
+      "pmid": "42658783",
+      "pmcid": "PMC13520928",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag194",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42658783/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 심방세동 진단을 받은 반려견 13마리를 대상으로 amiodarone, diltiazem 단독 및 병용 치료가 24시간 평균 심박수 ≤125 bpm인 strict heart rate control (SHRC) 달성에 미치는 영향을 평가하여 임상적용에 직접적인 의미가 있다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "cardiology",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "atrial fibrillation rate control",
+      "study_design": "prospective",
+      "sample_size": 13,
+      "sample_size_quote": "Thirteen client-owned dogs with AF.",
+      "objective": "심방세동 환자에서 amiodarone 또는 diltiazem 단독 투여 후 반응을 관찰하고, SHRC 미달성 시 두 약물 병용 치료로의 전환 효과를 기술한다.",
+      "study_methods": "임상 심방세동 환자에서 24시간 Holter-ECG로 평균 심박수(MDHR)가 125 bpm 초과 시 무작위 배정으로 amiodarone 또는 diltiazem 단독 치료를 시작하였다. 21일 후 재평가 시 SHRC(≤125 bpm)를 달성하지 못한 개는 두 번째 약물을 추가 병용하였고, 이후 42일 그리고 63~147일 사이 추가 재평가가 이루어졌다. 치료 용량 및 부작용 모니터링, 심장 기능 평가, 품질 삶 평가(FETCH)를 수행하였다.",
+      "one_sentence_summary": "심방세동 진단을 받은 반려견 13마리를 대상으로 amiodarone 또는 diltiazem 단독 치료를 무작위 배정 후 21일 재평가하였다. 단독 치료 시 SHRC 달성 개체는 3마리(아미오다론 2, 딜티아젬 1)였고, 대부분은 둘 다 투여하는 병용 치료가 시행되었으나 병용 치료 후에도 11마리 중 7마리(64%)는 SHRC를 달성하지 못하였다. 본 연구는 안전성을 고려한 중용량으로 진행되었으며, 평균 치료 기간은 50일이었다.",
+      "key_results": [
+        {
+          "result": "단독 치료 후 첫 번째 재평가 시 3마리만 SHRC 달성 (아미오다론 2, 딜티아젬 1)하였다.",
+          "evidence_quote": "SHRC was achieved in 3 dogs (amiodarone, n = 2; diltiazem, n = 1) at first follow-up."
+        },
+        {
+          "result": "최종 평가 시 11마리가 amiodarone과 diltiazem 병용 치료를 받고 있었으며, 이 중 7마리(64%)는 SHRC 달성하지 못했다.",
+          "evidence_quote": "At last follow-up, 11 of 13 dogs were receiving both drugs (median [range] 50 [20-153] days). Combination therapy of amiodarone and diltiazem did not result in SHRC (139 [94-160] bpm) in most dogs (7/11, 64%)."
+        },
+        {
+          "result": "병용 치료 후 MDHR은 기저치 대비 43 bpm 감소하였다 (p<.001).",
+          "evidence_quote": "The MDHR decreased 43 bpm (95% CI, 23-63, P < .001; n = 13) between baseline and last visit."
+        },
+        {
+          "result": "2마리에서 amiodarone 부작용으로 식욕부진, 구토, 설사가 발생하여 약물 중단하였다.",
+          "evidence_quote": "Adverse drug effects Two dogs were removed from the study before R1 after starting amiodarone. The first dog was hyporexic and had vomiting and diarrhea within 2 weeks of starting amiodarone."
+        },
+        {
+          "result": "임상적 갑상선기능저하 증상은 없었으나 2마리에서 amiodarone 투여 후 TSH 상승 및 FT4 저하가 관찰되었다.",
+          "evidence_quote": "Two dogs receiving amiodarone had a [FT4] below the reference range coupled with an elevated [TSH]. Neither dog showed clinical signs typical of hypothyroidism."
+        }
+      ],
+      "authors_conclusion": "amiodarone 단독, diltiazem 단독 또는 병용 투여 모두에서 대부분의 반려견에서 SHRC 달성이 어려웠다. 소규모 표본과 높은 중도 탈락률로 결과 해석에 제한이 있으며, 추가 연구가 필요하다.",
+      "clinical_takeaway": "심방세동 반려견에 대해 amiodarone 또는 diltiazem 단독 혹은 병용 치료를 통해 strict heart rate control(SHRC, 24시간 평균 심박수 ≤125 bpm)을 달성하는 것은 어려운 것으로 관찰된다. 본 연구에서는 중증 심장질환 및 CHF를 가진 개가 대부분이었고, 이들의 심박수 조절이 잘 이루어지지 않아 치료 반응이 제한적일 수 있음을 시사한다. 아미오다론은 일부 개에서 위장관 부작용과 약물 유발 갑상선 기능 저하가 임상 증상 없이 발생할 수 있어, 사용 시 간과 갑상선 기능 검사가 권장된다. 본 연구 결과는 제한된 수와 단기간 관찰에 기반하므로, 실제 임상에서는 개별 환자의 상태와 부작용 가능성을 고려하여 신중히 치료 전략을 수립해야 하며 추가 대규모 연구 결과를 기다릴 필요가 있다.",
+      "limitations": [
+        "소규모 모집단과 높은 중도 탈락률로 인해 통계적 힘이 부족하다.",
+        "amiodarone 및 diltiazem 혈중 농도 측정이 없어 약물 적정 용량 여부를 확인하지 못함.",
+        "연구에 포함된 대부분의 개가 CHF 및 심장기능 저하 환자로 약물 반응에 영향을 미쳤을 가능성.",
+        "일부 평가항목(예: Holter의 VRR 지속 시간, ECG 세부 파형 분석, QT 간격 등) 미분석.",
+        "혈압 측정의 부정확성과 약물 용량 증량 제한 등 기술적 한계.",
+        "비교군 없이 단일 치료군끼리의 효과 차이 분석 제한.",
+        "추가적인 장기 부작용 및 심실 부정맥에 대한 평가 부족."
+      ],
+      "recommended": true,
+      "recommendation_reason": "심방세동 진단을 받은 반려견의 경우 amiodarone이나 diltiazem 단독 혹은 병용 치료로 목표 심박수인 SHRC 달성이 어려움을 보여 실제 임상에서 약물 선택과 치료 계획에 중요한 참고자료로 활용 가능하기 때문이며, 약물 부작용 관리를 포함한 전반적인 환자 관리에 직접적 도움을 줄 수 있다.",
+      "id": "doi:10.1093/jvimsj/aalag194",
+      "discovered_at": "2026-09-16 01:13:31.981467+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13520928",
+      "summary_generated_at": "2026-11-17 05:05:40.011791+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Suspected hereditary sensory and autonomic neuropathies: clinical signs and electrodiagnostic findings in eleven dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag192",
+      "pmid": "42658782",
+      "pmcid": "PMC13520930",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag192",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42658782/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 HSAN으로 의심되는 개 11마리를 대상으로 임상 증상과 전기진단 (EDX) 소견을 후향적으로 분석하여, 전기진단 검사가 진단 분류 및 예후 평가에 도움이 된다는 사실을 직접적으로 입증했다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "hereditary sensory and autonomic neuropathies",
+      "study_design": "retrospective",
+      "sample_size": 11,
+      "sample_size_quote": "Eleven client-owned dogs with early-onset distal sensory loss.",
+      "objective": "HSAN으로 추정되는 개들의 임상 징후와 전기진단 소견을 후향적으로 기술하고, 포괄적인 EDX 검사가 질병 분류 및 예후 예측에 도움이 되는지 평가하고자 하였다.",
+      "study_methods": "2008년부터 2025년까지 8개 수의 신경과 및 피부과 임상 센터에서 1세 이전에 원위 감각 소실과 발가락 무감각 또는 절단(mutilation) 증상을 보인 개 11마리를 후향적으로 등록하였다. 이들은 근전도(EMG), 운동신경전도검사(MNCS), 감각신경전도검사(SNCS), cord dorsum potential (CDP) 등을 포함한 완전한 전기진단 검사를 받았다. 임상 및 전기진단 소견을 기록하고, 정상견과 대조하여 감각신경 전달 속도 및 신경 활동 전위 등의 차이를 통계적으로 분석하였다. 병리조직검사와 RETREG1 유전자 검사가 일부 개에서 수행되었다.",
+      "one_sentence_summary": "1세 이전 원위 감각 상실 증상을 가진 11마리 개를 후향적 다기관 관찰 연구로 분석했다. 대다수 Miniature Pinscher가 포함된 6마리는 절단 증상과 함께 감각신경 전위가 감소하는 패턴 1을 보였고, 5마리는 팔다리 마비와 심각한 신경 기능 저하의 패턴 2를 보였다. 패턴 2 개들은 12개월 이내에 안락사된 반면, 패턴 1 개들은 비교적 안정적 또는 서서히 진행하는 임상 경과를 보였다. SNCS와 CDP 검사 결과는 두 그룹에서 통계적으로 유의미한 차이가 있었으며, 이를 통한 질병 분류와 예후 평가가 가능함을 시사했다.",
+      "key_results": [
+        {
+          "result": "패턴 1 개들은 확실히 감소된 SNAP 진폭, 감각 신경 전도 속도 및 CDP 진폭을 보였다.",
+          "evidence_quote": "Pattern 1 included dogs with acral mutilation, preserved gait, and recordable but significantly reduced sensory nerve action potential (SNAP) amplitudes, sensory nerve conduction velocity (NCV), and CDP amplitudes (P < .05)."
+        },
+        {
+          "result": "패턴 2 개들은 대부분 신경전도 검사에서 SNAP 및 CDP가 기록되지 않았으며, 운동 신경 전도 검사에서 근육 활동 전위 진폭 및 운동 신경 전도 속도가 감소했다.",
+          "evidence_quote": "Pattern 2 included dogs with tetraparesis and proprioceptive deficits; SNAPs and CDPs were absent in most nerves tested, and motor nerve conduction studies (MNCS) showed reduced compound muscle action potential amplitudes or reduced motor NCV, or both."
+        },
+        {
+          "result": "패턴 2 개들은 12개월 이내에 모두 안락사되었으며, 패턴 1 개들은 점진적 혹은 안정적인 진행 양상을 보였다.",
+          "evidence_quote": "Dogs in pattern 2 were euthanized within 12 months, whereas 5 of the 6 pattern 1 dogs showed stable or slowly progressive disease."
+        },
+        {
+          "result": "패턴 1 그룹의 대부분 개들은 정상 또는 경미한 운동신경 기능 저하를 보였으며, 패턴 2 그룹의 개들은 중등도에서 심한 근전도 이상과 운동신경 전도 기능 감소를 보였다.",
+          "evidence_quote": "All 5 of the dogs in the pattern 2 group had moderate (2+) to severe (4+) SAA, which was only observed in the distal muscles of the front (extensor carpi radialis, flexor carpi ulnaris, and palmar interossei) and the pelvic (tibialis cranialis, gastrocnemius, and plantar interossei) limbs (Table 2; Figure 2). Table 2 Electrodiagnostic findings concerning the EMG of the appendicular and epaxial muscles, the MNCS and the F-waves of the tibial and ulnar nerves in pattern 1 and pattern 2 groups. | | | EMG | | MNCS | | F-waves | | Pattern 1 6/11 | | Normal: 1/6Mild SAA: 4/6 | | Normal Ampl of CMAPs: 5/6Reduced Ampl of CMAPs: 1/6Normal MNCV: 6/6 | | NR: 3/6Reduced persistence: 2/6Normal: 1/6 | | Pattern 2 5/11 | | Moderate SAA: 4/5Severe SAA: 1/5 | | Reduced Ampl of CMAPs: 5/5Reduced MNCV: 3/5 | | NR: 5/5 | Abbreviations: Ampl = amplitude; CMAP = compound muscle action potential; EMG = electromyography; MNCV = motor nerve conduction velocity; NR = not recordable; SAA = spontaneous abnormal activity."
+        }
+      ],
+      "authors_conclusion": "본 연구는 포괄적인 전기진단 검사, 특히 SNCS 및 CDP가 개에서 의심되는 HSAN의 감각 및 운동 기능 저하를 평가하고, 임상 양상에 따른 분류와 예후 예측에 유용함을 보여준다. 감각 신경 반응이 보존된 개들은 상대적으로 예후가 양호하고 질병 진행이 느린 반면, 감각 반응이 없는 개들은 빠른 진행과 불량한 예후를 나타낸다.",
+      "clinical_takeaway": "HSAN이 의심되는 개에서 감각 신경 전도검사 및 CDP 검사는 질병의 감각 경로 기능 저하를 객관적으로 평가할 수 있는 중요한 진단 도구입니다. 본 연구와 같이 명확한 감각 신경 손상이 관찰되면서도 운동 기능이 비교적 보존된 개들은 비교적 안정적인 임상 경과를 기대할 수 있으나, 감각 및 운동 신경 반응이 모두 소실된 경우 급격한 신경 기능 저하와 빠른 안락사의 위험이 큽니다. 따라서 EDX 검사는 HSAN의 임상 양상 구분과 예후 예측에 필수적이며, 치료 계획 수립 및 보호자 상담에 중요한 정보를 제공합니다. 단, 소규모 후향적 연구로 일부 제한점이 있어 보다 체계적인 전향적 연구와 유전자 분석이 보완되어야 하겠습니다.",
+      "limitations": [
+        "후향적 및 다기관 연구로 임상 평가 및 검사 프로토콜 표준화가 어려웠다.",
+        "샘플 크기가 11마리로 비교적 작아 일반화에 제한이 있다.",
+        "후속 관찰 데이터가 전화 인터뷰에 의존하여 상세성이 떨어진다.",
+        "유전자 검사 및 신경 조직 검사가 부분적으로만 시행되어 유전적·병리학적 상관관계 확립에 한계가 있다.",
+        "자율신경 기능에 대한 체계적인 평가가 이루어지지 않아 자율신경 부전 여부가 완전히 확인되지 않았다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 개 임상 연구로, HSAN 의심 증례에서 전기진단 검사의 구체적 활용과 예후 관련 중요한 임상 정보를 제공하여 진료에 실질적 도움이 되므로 추천한다.",
+      "id": "doi:10.1093/jvimsj/aalag192",
+      "discovered_at": "2026-09-16 01:13:31.981467+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13520930",
+      "summary_generated_at": "2026-11-17 05:05:57.992256+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Large-bore thoracostomy tube placement in small animals.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -7403,6 +7611,67 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Decarbonizing energy use and enhancing efficiency can rapidly reduce greenhouse gas emissions in veterinary practice.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-08-01",
+      "online_publication_date": "2026-05-22",
+      "publication_date_raw": "2026-Aug-01",
+      "doi": "10.2460/javma.26.03.0208",
+      "pmid": "42173153",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.03.0208",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42173153/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 수의 진료에서 발생하는 온실가스 배출의 주요 원인 및 이를 줄이기 위한 에너지 사용 저탄소화 전략을 제시하고 있으나, 직접적인 임상 연구가 아니고 구체적 동물 환자 데이터나 임상 결과를 다루지 않아 임상적 적용에 간접적인 관련성이 있습니다.",
+      "primary_category": "other",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "veterinary practice energy use and greenhouse gas emissions",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "수의 진료 현장에서 에너지 사용에 의한 온실가스 배출의 주요 원인을 종합적으로 분석하고, 이를 줄이기 위한 효과적이고 확장 가능한 6가지 전략을 제시하는 것을 목적으로 했습니다.",
+      "study_methods": "수의 진료에서의 에너지 소비(화석연료 전기 및 난방, 이동 관련 배출, 의료 제품 공급망 등)를 주요 온실가스 배출원으로 인식하고, 과학적·경제적 근거를 토대로 탄소 저감을 위한 6가지 전략을 설명하였습니다. 이 전략들은 재생에너지 전력 구매, 임상 및 인프라 전기화, 교통 관련 배출 감축, 병원 에너지 효율화, 현장 재생에너지 생성 및 저장, 조달 및 배송 배출 관리로 구성됩니다. 구체적 실험이나 환자 대상 개입 없이 문헌과 합성을 기반으로 작성되었습니다.",
+      "one_sentence_summary": "이 연구는 수의 진료 현장에서 발생하는 온실가스 배출의 주원인을 평가하고, 에너지 사용 저탄소화를 위한 6가지 실질적 전략(재생에너지 100% 구매, 전기화, 교통 배출 감소, 에너지 효율 개선, 현장 재생에너지 설치, 조달 배출 관리)을 제안하였습니다. 임상적 직접 연구는 아니나, 환경 친화적 병원 운영과 장기적 재정 지속 가능성 강화, One Health 관점의 동물과 인류, 환경 건강 보호라는 목적에 부합하는 방안들을 구조화하여 제시하였습니다.",
+      "key_results": [
+        {
+          "result": "수의 진료에서 온실가스 배출은 주로 화석연료 기반 전기와 난방, 고객 이동, 직원 출퇴근, 의료 제품 공급망에서 기인한다.",
+          "evidence_quote": "Energy use is a major driver of greenhouse gas (GHG) emissions in veterinary practice, primarily through consumption of fossil fuel-generated electricity and heating, client travel, staff commute, and the extensive supply chain of healthcare products."
+        },
+        {
+          "result": "온실가스 배출 저감을 위한 6가지 확장 가능한 전략으로 재생에너지 100% 구매, 임상 및 인프라의 전기화, 교통 관련 배출 감소, 병원 에너지 효율화, 현장 재생에너지 및 저장설비 설치, 조달 및 배송의 배출 관리가 제시되었다.",
+          "evidence_quote": "Here we synthesize information on these key emission sources, outline the scientific and economic rationale for decarbonizing energy use and present 6 scalable strategies for reducing energy-related emissions in veterinary hospitals: procuring 100% renewable low-carbon electricity, electrifying clinical operations and infrastructure, reducing transport-related emissions, improving hospital energy efficiency, installing on-site renewable energy generation and storage, and addressing emissions from procurement and delivery."
+        },
+        {
+          "result": "이 중재들은 수의 진료소의 온실가스 배출 감소뿐 아니라 운영 탄력성 강화, 재정 지속 가능성 제고 그리고 One Health 접근과 일치하는 동물·인간·환경 건강 보호에 기여한다.",
+          "evidence_quote": "Together, these interventions provide a structured pathway for reducing emissions from veterinary practice while strengthening operational resilience, supporting long-term financial sustainability, and advancing the profession's role in protecting the health of animals, people, and the environments they share, consistent with a One Health approach."
+        }
+      ],
+      "authors_conclusion": "수의 진료 수행 과정에서 에너지 사용과 관련된 온실가스 배출을 줄이기 위한 다각도의 전략을 종합적으로 제시하였으며, 이를 통해 탄소 저감뿐 아니라 병원 운영의 지속 가능성과 건강 보호의 다중 목표 달성이 가능하다고 결론지었다.",
+      "clinical_takeaway": "수의 진료 현장에서 발생하는 온실가스 배출 저감은 탄소 배출원이 되는 전기, 난방, 이동, 의료제품 공급망 등 다양한 요인을 체계적으로 관리함으로써 이루어질 수 있습니다. 본 연구에서 제시하는 6가지 핵심 전략은 병원 운영의 에너지 효율을 개선하고 재생에너지 활용을 증대하며, 교통과 조달 관련 배출까지 포괄적으로 줄일 수 있는 구체적인 방안을 제공합니다. 이는 단순한 환경적인 이득 외에도 운영의 안정성 향상과 장기적인 비용 절감면에서 의미가 큽니다. 다만 이 연구는 임상 환자 데이터를 포함하지 않아 직접적인 진료 행위나 치료 결정을 돕는 근거라기보다는 수의학 분야 내 지속 가능한 운영 방향성 수립에 참고할 수 있는 간접적 증거입니다. 따라서 각 수의 병원이나 진료 현장에 맞게 현실적으로 적용하는 과정에서 구체적 효과는 별도로 평가해야 합니다.",
+      "limitations": [
+        "임상 환자 데이터를 포함하지 않고 문헌 및 자료 종합에 의한 전략 제안 연구이다.",
+        "구체적 병원 환경이나 지역별 에너지 공급 상황을 반영한 맞춤형 개입 효과는 평가하지 않았다.",
+        "전략의 실제 실행 과정 또는 경제성 분석이 상세하게 제시되지 않았다.",
+        "본 연구는 초록 정보에 국한된 점으로 세부 방법론과 결과의 깊이 있는 평가에 한계가 있다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.03.0208",
+      "discovered_at": "2026-09-17 05:57:10.447744+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42173153/",
+      "summary_generated_at": "2026-11-17 05:06:47.275260+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Laparoscopic-induced pneumoperitoneum does not impair oxygenation in large-breed dogs but worsens hypercapnia, which is improved by low positive end-expiratory pressure ventilation.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -7468,6 +7737,72 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42173154/",
       "summary_generated_at": "2026-11-16 02:45:55.205222+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Cross-Species Transcriptomic and Network Analysis of Human and Canine Diffuse Large B-Cell Lymphoma Identifies a Conserved Replication-DNA Damage Module for Drug Repurposing.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": null,
+      "online_publication_date": "2026-05-20",
+      "publication_date_raw": "2026-Sep",
+      "doi": "10.1111/vco.70079",
+      "pmid": "42163424",
+      "pmcid": "PMC13456589",
+      "publisher_url": "https://doi.org/10.1111/vco.70079",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42163424/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 인간과 개의 diffuse large B-cell lymphoma (DLBCL)에서 보존된 전사체 네트워크를 분석하여 치료 가설을 개발하였으나, 직접 임상 연구나 치료 효과에 대한 실증적 데이터는 포함하지 않아 임상 적용에 간접적 관련이 있습니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "diffuse large B-cell lymphoma",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "인은 인간과 개의 DLBCL에서 보존된 전사체 네트워크를 찾고 이를 바탕으로 개의 DLBCL 치료를 위한 약물 재사용 가능성을 평가하고자 했습니다.",
+      "study_methods": "공개된 인간과 개의 DLBCL 전사체 데이터를 이용해 암과 정상 조직 간에 일치하는 유전자 발현 이상으로 정의된 409개 유전자 모듈을 도출하고, 이를 경로 및 단백질-단백질 상호작용(PPI) 네트워크에 투영하여 주요 중심단백질을 분석했습니다. Connectivity Map/LINCS 라이브러리를 활용해 모듈과 연관된 약물을 탐색하고, 개의 CHOP 치료군 및 독립적인 인간 코호트에서 해당 유전자 모듈 점수와 생존율 연관성을 평가했으며, 인간 DLBCL에서의 세포외소포 miRNA 프로파일링도 수행했습니다.",
+      "one_sentence_summary": "이 연구는 인간과 개의 DLBCL에서 공통적으로 dysregulation된 409개 유전자 모듈을 전사체 데이터를 통해 도출하였으며, 이 모듈은 DNA 복제와 DNA 손상 반응에 관련된 네트워크 중심에 TOP2A와 PARP1이 위치하였습니다. Topoisomerase II 억제제와 PARP 억제제가 후보 치료제로 제안되었으며, 개의 CHOP 치료군에서 높은 모듈 점수가 진행 없는 생존율 증가와 연관되었고, 인간 코호트에서도 마찬가지의 생존 연관성이 관찰되었습니다. 세포외소포 miRNA 프로파일도 이 중심 경로와 연계되었습니다.",
+      "key_results": [
+        {
+          "result": "인간과 개의 DLBCL에서 concordant tumour-normal dysregulation으로 정의된 409개 유전자 모듈을 도출했고, 이 모듈은 DNA 복제, 세포주기 검사점, DNA 손상 반응 프로그램이 주를 이루었다.",
+          "evidence_quote": "Using public human and canine DLBCL transcriptomes, we derived a 409-gene cross-species module defined by concordant tumour-normal dysregulation and projected it onto pathway and protein-protein interaction (PPI) networks. The module was dominated by DNA replication, cell-cycle checkpoint and DNA damage-response programmes"
+        },
+        {
+          "result": "모듈 내 중심 단백질로 TOP2A와 PARP1이 위치하며, Connectivity Map/LINCS 라이브러리 분석에서 anthracycline-like topoisomerase II poison 및 PARP 억제제(rucaparib)가 상위 0.2% 내에서 가장 부정적 연결 점수를 보여 관련약물로 제시되었다.",
+          "evidence_quote": "The module was dominated by DNA replication, cell-cycle checkpoint and DNA damage-response programmes and contained a compact PPI core centred on TOP2A and PARP1. Querying the Connectivity Map/LINCS library with the human component of the module highlighted anthracycline-like topoisomerase II poisons (valrubicin, etoposide, amsacrine) and the PARP inhibitor rucaparib among the ~0.2% most negative connectivity scores, while directly targeting TOP2A and/or PARP1."
+        },
+        {
+          "result": "DLBCL 환자에서 모듈 점수가 종양과 정상 림프절을 강하게 구분하였고, CHOP 치료를 받은 개의 경우 더 높은 점수가 더 긴 무진행 생존과, 독립 인간 코호트에서는 더 나은 전체 생존과 통계적으로 연관되었다.",
+          "evidence_quote": "A simple up-down module score strongly separated tumour from normal lymph nodes in both species and was associated with outcome: higher scores predicted longer progression-free survival in CHOP-treated dogs and better overall survival in an independent human cohort"
+        },
+        {
+          "result": "인간 DLBCL의 세포외소포 miRNA 분석에서 let-7 family, miR-21-5p, miR-124-3p, miR-205-5p 등 다양한 miRNA가 TOP2A/PARP1 중심 핵심에 수렴하였다.",
+          "evidence_quote": "Finally, extracellular-vesicle microRNA (EV-miRNA) profiling in human DLBCL showed that differentially expressed EV-miRNAs, including let-7 family members, miR-21-5p, miR-124-3p and miR-205-5p, converge on the same TOP2A/PARP1-centred core."
+        }
+      ],
+      "authors_conclusion": "이 교차종 간 다층 데이터는 topoisomerase II poison과 PARP 억제가 개 DLBCL에 적용 가능한 네트워크 기반 후보 치료법임을 시사하며, 모듈 점수와 EV-miRNA가 잠재적 바이오마커로 활용될 수 있음을 제안하였다.",
+      "clinical_takeaway": "개 diffuse large B-cell lymphoma 환자에서 인간과 보존된 전사체 네트워크를 바탕으로 TOP2A와 PARP1 중심의 DNA 복제 및 손상 반응 경로가 주요 병태 기전임이 밝혀졌습니다. CHOP 치료 환자에서 이와 관련된 유전자 모듈 점수가 생존과 연관되었으나, 이 연구는 공개 데이터 재분석 결과로 직접적인 임상 시도 결과를 포함하지 않아 임상 적용 시 제한적 근거에 주의해야 합니다. 다만 topoisomerase II 억제제나 PARP 억제제를 활용한 치료 가능성이 제시되어, 향후 임상 연구를 통한 검증이 필요합니다. 또한 세포외소포 miRNA의 역할과 바이오마커 가능성도 흥미로운 추가 연구 대상입니다.",
+      "limitations": [
+        "이 연구는 공개된 전사체 데이터의 통합 분석에 기반한 후향적 연구로, 개별 환자군에 대한 전향적 임상 시험이나 치료 평가를 포함하지 않았습니다.",
+        "분석된 유전자 모듈과 모듈 점수는 예비적 바이오마커로 제시되었으나 실제 예후 내지는 치료 반응 예측에 관한 명확한 임상 검증은 부족합니다.",
+        "세포외소포 miRNA 데이터는 인간 DLBCL에 한정되어 있어 개에서의 관련성은 추가 연구가 필요합니다.",
+        "abstract만의 정보 제공으로 세부 디자인, 통계 분석 방법, 샘플 크기 구체 정보가 부족합니다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70079",
+      "discovered_at": "2026-09-17 05:57:10.459031+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42163424/",
+      "summary_generated_at": "2026-11-17 05:08:25.842628+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -7769,19 +8104,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 487
+        "received": 452
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 570
+        "received": 558
       }
     },
-    "started_at": "2026-11-16T02:43:15.844790+00:00",
-    "since": "2026-10-02",
-    "processed": 3,
+    "started_at": "2026-11-17T05:03:58.800594+00:00",
+    "since": "2026-10-03",
+    "processed": 5,
     "refreshed": 0,
-    "failed": 16,
-    "deferred": 1091,
-    "finished_at": "2026-11-16T02:45:56.835019+00:00"
+    "failed": 12,
+    "deferred": 1094,
+    "finished_at": "2026-11-17T05:08:27.256179+00:00"
   }
 }
