@@ -1,9 +1,85 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T05:08:27.372220+00:00",
-  "last_successful_collection": "2026-11-17T05:03:58.800528Z",
+  "generated_at": "2026-11-18T04:23:15.340070+00:00",
+  "last_successful_collection": "2026-11-18T04:17:38.564242Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Intrametatarsal pad injection of indocyanine green for near-infrared fluorescence imaging of the thoracic duct in four dogs and two cats with chylothorax.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-11-16",
+      "online_publication_date": "2026-11-16",
+      "publication_date_raw": "2026-Nov-16",
+      "doi": "10.1111/vsu.70180",
+      "pmid": "43040794",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70180",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43040794/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 idiopathic chylothorax가 진단된 반려견과 반려묘에 대한 intrametatarsal pad를 통한 indocyanine green(ICG) 주입 후 근적외선 형광영상(near-infrared fluorescence, NIRF)을 이용하여 thoracic duct를 확인하는 방법을 평가한 임상증례 연구로서, 실제 임상 진단 및 수술 시 해당 기법이 유용함을 보여주어 직접적인 임상적 관련성을 갖습니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "internal_medicine",
+        "surgery",
+        "oncology"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "chylothorax",
+      "study_design": "retrospective",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "idiopathic chylothorax를 가진 반려견 및 반려묘에서 intrametatarsal pad를 통한 ICG 주입을 이용한 NIRF의 유효성을 평가하였다.",
+      "study_methods": "2020년부터 2025년까지 idiopathic chylothorax 진단을 받고 세포학적으로 확인된 4마리의 반려견과 2마리의 반려묘를 대상으로 후향적 증례 연구를 실시하였다. 모든 대상은 수술 전 CT lymphangiogram을 시행했고 intraoperative에 metatarsal pad에 ICG를 주입하였다. 데이터는 증례의 신원정보, 체중, 수술 전 진단 결과, 수술 중 시각화된 thoracic duct 개수, ICG 용량 및 추가 투여 여부, CTL과의 일치성, ICG가 관찰되는 시간과 실시한 수술, 수술 중 합병증, 퇴원 시기, 첫 추적 검사 시 액체 유무, 수술 후 합병증 및 마지막 추적 관찰 기간을 포함하였다.",
+      "one_sentence_summary": "idiopathic chylothorax를 진단받고 세포학적으로 확인된 4마리 개와 2마리 고양이를 대상으로 intrametatarsal pad에 Indocyanine Green(ICG)을 주입한 후 근적외선 형광영상(NIRF)을 이용하여 thoracic duct 식별 효능을 평가하였다. CT lymphangiogram에서 median 2.5개의 duct가 확인되었으며, ICG는 0.06~0.25 mg/kg 용량이 투여되었고 2건에서 추가 주사가 필요했다. NIRF를 통해 수술 중 평균 7분 만에 thoracic duct가 관찰되었으며, 5/6 환자에서 thoracocentesis가 필요 없었고 추적 관찰 시 임상 상태가 양호했다.",
+      "key_results": [
+        {
+          "result": "Preoperative CT에서 median 2.5개(범위 1-4)의 thoracic duct가 T10~13 구역에서 시각화되었다.",
+          "evidence_quote": "Median number of ducts seen between T10 and 13 region on preoperative CT was 2.5 (range: 1-4)."
+        },
+        {
+          "result": "ICG 용량은 0.06에서 0.25 mg/kg까지 다양했으며, 2건은 duct와 모든 분지를 시각화하기 위해 추가 주사가 시행되었다.",
+          "evidence_quote": "The ICG dose ranged from 0.06 to 0.25 mg/kg, and two cases required additional injections to visualize the duct and all branches."
+        },
+        {
+          "result": "한 마리의 개에서는 CT에서 확인되지 않았던 duct가 NIRF를 통해 새롭게 확인되었다.",
+          "evidence_quote": "A duct not previously seen on CT was visualized with NIRF in one dog."
+        },
+        {
+          "result": "Thoracic duct는 median 7분(범위 5-22분) 이내에 NIRF 영상으로 관찰되었다.",
+          "evidence_quote": "Median time to TD visualization was 7 min (range: 5-22 min)."
+        },
+        {
+          "result": "Metatarsal injection에 의한 수술 중 혹은 수술 후 합병증은 보고되지 않았으며 모든 환자가 무사히 퇴원하였다.",
+          "evidence_quote": "No intra- or postoperative complications due to the metatarsal injections were reported, and all patients were discharged."
+        },
+        {
+          "result": "6마리 중 5마리는 thoracocentesis를 추가로 필요로 하지 않았고, 중간 추적 관찰 기간 647일(범위 454-793일) 동안 임상적으로 양호한 상태를 유지하였다.",
+          "evidence_quote": "A total of 5/6 patients did not require thoracocentesis and were clinically well at a median last follow-up of 647 days (range: 454-793)."
+        }
+      ],
+      "authors_conclusion": "Intrametatarsal injection을 통한 ICG 투여는 idiopathic chylothorax가 있는 반려동물에서 thoracic duct를 효과적으로 식별하는데 유효한 방법으로 보인다.",
+      "clinical_takeaway": "이 연구는 반려견과 반려묘에서 idiopathic chylothorax 진단 후 intrametatarsal pad에 ICG를 주입하여 NIRF를 이용해 thoracic duct를 관찰하는 방법의 유용성을 보여주었다. 수술 중 7분 이내에 duct를 명확하게 관찰할 수 있고 합병증이 없었으며 대부분의 환자가 추가적 흉강천자를 필요로 하지 않고 장기적으로 안정된 임상 상태를 유지했다는 점에서 실제 임상에서 thoracic duct ligation 또는 관련 수술 접근 전 영상 진단 보조법으로 고려할 만하다. 다만 대상이 매우 적은 후향적 증례군이며, 추가적인 대규모 연구 및 다양한 임상 상황에서의 재현성 확인이 필요하여 모든 chylothorax 환자에게 즉각적 일괄 적용까지는 신중해야 한다.",
+      "limitations": [
+        "후향적 연구 설계로 통제군 부재 및 선택 편향 가능성 존재",
+        "총 6마리의 소규모 샘플로 일반화에 제한이 있음",
+        "연구 대상이 idiopathic chylothorax 환자에 국한되어 있어 다른 원인 chylothorax에 대한 적용성 미확인",
+        "추적 관찰 기간이나 합병증 보고가 제한적이며 장기 안전성 데이터가 부족함",
+        "abstract만 제공되어 세부 임상 접근법 및 영상 판독 기준 등 추가 정보 확인 불가"
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상 적용이 가능한 client-owned 반려견과 반려묘를 대상으로 시행되었으며, 명확한 영상 확보와 무합병성 안전성 결과를 보여 수술 전 thoracic duct 확인을 위한 실질적인 진단법으로 참고할 가치가 충분하다.",
+      "id": "doi:10.1111/vsu.70180",
+      "discovered_at": "2026-11-18 04:17:40.481052+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43040794/",
+      "summary_generated_at": "2026-11-18 04:19:14.789424+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Fluorescein sodium-guided resection of cervical peripheral nerve sheath tumors in 3 dogs.",
       "journal": "Journal of the American Veterinary Medical Association",
@@ -3789,6 +3865,76 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Presentations of idiopathic hemorrhagic diarrhea syndrome in dogs in relation to meteorological factors.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag184",
+      "pmid": "42679218",
+      "pmcid": "PMC13533182",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag184",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42679218/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 idiopathic acute hemorrhagic diarrhea syndrome (AHDS)의 발생에 기후변수가 어떻게 영향을 미칠 수 있는지 조사한 역학 연구로, 임상적 진단이나 치료 직접 증거를 제공하기보다는 환경적 요인의 연관성을 탐색한 간접적 근거를 제시합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "idiopathic acute hemorrhagic diarrhea syndrome in dogs",
+      "study_design": "retrospective",
+      "sample_size": 412,
+      "sample_size_quote": "Materials and methods Study population Electronic medical records (EMR) of all dogs presented to the Department for Small Animals, Leipzig University, Germany, between January 2016 and January 2021 were searched to identify all cases presented with AD, non-hemorrhagic diarrhea, or vomiting (Figure 1). The complete EMRs of 412 dogs presented with acute clinical signs (≤6 days before presentation) compatible with a GI condition were reviewed for our case–control study.",
+      "objective": "본 연구의 목적은 기상 조건과 그 변화가 idiopathic AHDS 발생률에 미치는 영향을 평가하는 것이었습니다.",
+      "study_methods": "독일 라이프치히 대학 3차 진료소에 2016년 1월부터 2021년 1월까지 급성 위장관 증상으로 내원한 412마리 개의 의무기록을 후향적으로 분석하여 idiopathic AHDS(227마리), 급성 위장염(122마리), 기타 원인(63마리)으로 분류하였다. 각 개의 주거지 좌표를 바탕으로 해당 일자 및 내원 14일 전까지의 기상자료(기온, 햇빛, 강수량, 풍속 등)를 수집하였고, 이러한 변수를 이용해 랜덤 포레스트 모델과 로지스틱 회귀분석으로 AHDS 발생과 기상인자 간의 연관성을 평가하였다.",
+      "one_sentence_summary": "2016년부터 2021년까지 급성 위장관 증상을 보인 개 412마리를 대상으로 한 후향적 연구에서 idiopathic AHDS 227건, 급성 위장염 122건 등의 그룹으로 분류했고 각 개의 주거지를 기준으로 기상 데이터를 수집하였다. 랜덤 포레스트 모델은 AHDS와 급성 위장염을 0.94의 ROC-AUC로 잘 구분했고, 풍속, 온도, 햇빛 노출 등이 AHDS 발생과 유의한 연관성을 보였다. 높은 풍속과 낮은 온도, 짧은 햇빛 시간이 AHDS 발생률 증가와 관련되었으며, 본 연구는 기상 요인이 AHDS 발병에 영향을 줄 가능성을 시사한다.",
+      "key_results": [
+        {
+          "result": "Idiopathic AHDS 환자에서 풍속 증가와 shortwave radiation 노출 증가, 온도와 햇빛 강도 감소, 건조한 날씨가 AHDS 발생 증가와 연관되었다.",
+          "evidence_quote": "RESULTS: Increased wind speeds and shortwave radiation exposure, lower temperatures and sunlight intensity, and dry weather were linked to increased idiopathic AHDS presentations in dogs in the investigated geographical region."
+        },
+        {
+          "result": "랜덤 포레스트 모델은 idiopathic AHDS와 급성 위장염을 구분하는데 ROC-AUC 0.94의 우수한 성능을 보였다.",
+          "evidence_quote": "Using AHDS as the positive class, the optimized RDFM classifier achieved a receiver operating characteristic area under the curve (ROC-AUC) of 0.94, indicating excellent discrimination between AHDS and acute gastroenteritis."
+        },
+        {
+          "result": "풍속, 최소 기온, 방사선량이 idiopathic AHDS 진단 가능성의 강력한 예측 인자였다.",
+          "evidence_quote": "Wind speed, minimum temperatures, and radiation were strong predictors of the likelihood of an “idiopathic AHDS” classification (Figure 5, Appendix G, and Figure S6)."
+        },
+        {
+          "result": "AHDS 환자는 급성 위장염 집단보다 연령이 유의하게 높았고, hematocrit 수치도 통계적으로 유의미하게 높았다.",
+          "evidence_quote": "P-values in bold font indicate significant differences or associations at a global P < .05, and values within the same row but not sharing a common superscript letter are significantly different at P < .05. Hematocrit was significantly higher in idiopathic AHDS dogs as compared with dogs with acute gastroenteritis (P = .0001) and dogs with other conditions causing GI signs (P = .0003)."
+        },
+        {
+          "result": "풍속, 풍향, 풍속 돌풍, 햇빛 기간, shortwave radiation, 강설량, 강수량 등 총 11개의 기상 변수를 이용해 의사결정 숲 모델 변수를 선택하였다.",
+          "evidence_quote": "Classifier performance for predicting idiopathic AHDS vs. acute gastroenteritis Data classification and stepwise feature reduction from 139 variables during the feature selection using correlation (see Appendix C and E, Figures S2 and S5) rendered 11 variables in the random decision forest model (RDFM) that were determined to be important (Figure 3). These variables included: maximum wind speed, dominant wind direction, and maximum wind gust at 10 m above the ground; sunshine duration; shortwave radiation; snowfall sum; daylight duration; minimum and maximum temperature at 2 m above ground; precipitation sum and precipitation hours."
+        }
+      ],
+      "authors_conclusion": "본 연구는 특정 기상 조건(풍속 증가, 낮은 온도, 강한 shortwave radiation 노출, 낮은 햇빛 강도)이 idiopathic AHDS 개 내원률 증가와 연관됨을 보여주었으며, 이러한 결과는 사전 탐색적 증거로서 장차 gut-brain-microbiome axis 연구와 AHDS 발병 메커니즘 연구에 기여할 수 있다. 하지만 본 연구는 후향적 단일 지역 연구로, 인과관계 해석에는 한계가 있으며, 다양한 기후대 및 전향적 연구가 후속되어야 한다고 결론지었다.",
+      "clinical_takeaway": "idiopathic acute hemorrhagic diarrhea syndrome은 주로 중년의 소형견에서 발현하는 급성 위장관 질환으로, 병태생리는 아직 명확하지 않으나 Clostridium perfringens 균과 그 독소의 역할이 가정됩니다. 본 연구에서 관찰된 결과는 특정 기상조건들, 특히 높은 풍속과 낮은 기온, 낮은 햇빛 노출 등이 AHDS의 발생 위험을 증가시키는 환경적 요인임을 시사합니다. 이는 기상변화가 개의 스트레스 및 점막 손상에 영향을 줄 수 있고, 이로 인해 균 증식 및 독소 생성이 촉진될 가능성을 반영합니다. 그러나 기상인자와 AHDS 간의 직접적 인과관계는 아직 확립되지 않았으며, 본 연구는 후향적이며 단일 지역 데이터에 기반하므로 일반화에 제한이 존재합니다. 따라서 이 결과는 AHDS를 가진 개의 임상 관리 시 날씨 변화를 참고하는 보조적 인자로 활용할 수 있으나, 개별 환자에서는 다양한 환경 및 개체 요인을 함께 고려해야 하며, 추가 연구가 필요합니다.",
+      "limitations": [
+        "후향적 단일기관 연구로 인과관계 규명 한계가 있음",
+        "주거지 기상 데이터가 실제 개의 행동 환경을 완전히 반영하지 못할 수 있음",
+        "일부 개체에 대해 완전한 배변 검사 미실시로 기생충 감염 배제 불완전",
+        "지역적 기후 특성(독일 라이프치히 주변)으로 다른 기후대 적용시 결과 차이 가능성",
+        "중증 환자 중심 모집으로 전반적 집단에 대한 대표성 제한"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1093/jvimsj/aalag184",
+      "discovered_at": "2026-09-16 01:13:31.980098+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13533182",
+      "summary_generated_at": "2026-11-18 04:22:07.082786+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Atypical radiographic changes seen in dogs treated with bedinvetmab (Librela).",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
@@ -6592,6 +6738,219 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Presumed cervical subperiosteal vertebral hemorrhage in nine greyhounds.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag154",
+      "pmid": "42585564",
+      "pmcid": "PMC13464721",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag154",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42585564/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 그레이하운드 견종에서 발생한 급성 경추 척수병증의 원인으로 추정되는 cervical subperiosteal vertebral hemorrhage(SSVH)의 임상양상, 영상학적 특징, 치료 및 예후를 직접 평가하였으며, 이는 해당 질환의 진단 및 치료에 직접적으로 적용 가능하다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "neurology",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Presumed cervical subperiosteal vertebral hemorrhage",
+      "study_design": "retrospective",
+      "sample_size": 9,
+      "sample_size_quote": "Nine greyhounds presented with acute onset of cervical myelopathy.",
+      "objective": "그레이하운드 견종에서 추정되는 경추 subperiosteal vertebral hemorrhage의 임상 증상, 영상 소견 및 예후를 기술하고, 병변 형태를 설명하기 위한 전향적 시신 연구를 수행하였다.",
+      "study_methods": "2008년부터 2023년까지 7개 수의 신경학 전용 의료기관 데이터베이스를 후향적으로 검토하여 경추 MRI 또는 CT가 시행되었고 subperiosteal vertebral hemorrhage가 감별진단에 포함된 9마리의 그레이하운드 환자를 대상으로 하였다. MRI 영상은 T2W, T1W, T2*W 시퀀스를 포함하였으며 병변의 위치, 모양, 신호특성 등을 평가하였다. 치료는 모두 보존적 의료 치료가 시행되었고, 장기 추적 관찰을 실시하였다. 추가로 시신 해부학 연구를 통해 병변의 형태를 조사하였다.",
+      "one_sentence_summary": "본 연구는 9마리 중년 그레이하운드에서 급성 발병한 경추 척수병증 증례를 대상으로 하였으며, 모두 C3 및 C4 척추체에 bilateral 또는 unilateral 형태의 subperiosteal vertebral hemorrhage가 MRI 및 CT에서 확인되었다. 모든 환자는 의료적 치료 후 호전을 보였으며, 비보행 환자도 9일 이내 보행 가능해졌고, 장기 추적(중앙값 254일) 동안 재발이 관찰되지 않았다. 본 연구는 SSVH의 영상학적 특징과 좋은 예후를 기술했으며, 경추 MRI 및 CT상 특징이 다른 척추 외상 질환과 감별에 도움을 준다.",
+      "key_results": [
+        {
+          "result": "MRI에서 병변은 T2W 영상에서 균질한 고신호, T1W 영상에서 등신호에서 고신호로 나타났으며, 조영증강은 없었고 T2*W에서 병변 주변에 susceptibility artifact의 윤곽이 관찰되었다.",
+          "evidence_quote": "Lesions showed homogeneous T2W hyperintense and T1W isointense to hyperintense signal relative to gray matter; they were non-contrast-enhancing and exhibited a peripheral rim of susceptibility artifact on T2*W images."
+        },
+        {
+          "result": "CT 영상에서 한 마리에서 확인된 병변은 60~80 Hounsfield Units로 균질하게 고음영이었다.",
+          "evidence_quote": "On CT images, extradural lesions were homogeneously hyperattenuating (60-80 Hounsfield Units)."
+        },
+        {
+          "result": "임상적으로 모든 개에서 급성 발병의 신경학적 증상이 있었으며, 모두 의료적 치료를 받았고, 비보행인 개도 9일 이내에 보행 가능해졌다.",
+          "evidence_quote": "All dogs had an acute onset of clinical signs and were treated medically. Clinical improvement was observed in all cases, and all nonambulatory dogs became ambulatory within 9 days."
+        },
+        {
+          "result": "팔을 전신의 하나로 인지하는 중증도에서도 회복이 좋았으며, 추적기간 중앙값 254일 동안 재발하는 경우는 없었다.",
+          "evidence_quote": "Clinical signs did not recur during the follow-up period (median, 254 days; range, 5-1217 days)."
+        },
+        {
+          "result": "항응고제나 수술 없이 보존적 치료만으로 신경학적 상태 호전과 장기 생존이 확인되었다.",
+          "evidence_quote": "Alternatively, as noted above, this rim appeared as a peripheral susceptibility artifact on T2*W images in all cases, suggesting that its appearance also may be attributed to the hemorrhagic nature of the lesion.35 In dogs with moderate to marked neurologic deficits (eg, nonambulatory paretic or plegic), surgical treatment traditionally has been recommended in presence of clinically relevant spinal cord lesions, especially for intervertebral disc disease.36 However, for certain types of compressive extradural lesions such as HNPE, the outcomes of medical and surgical treatment are comparable.37 The overall outcome for cases in our study was excellent with supportive medical treatment and median recovery time to ambulation was 2 days (range,1-9 days). This finding is similar to previously reported times to ambulation in dogs with cervical HNPE treated medically (median, 1-3 days; range, 1-30 days37–39)."
+        }
+      ],
+      "authors_conclusion": "그레이하운드에서 추정되는 경추 subperiosteal vertebral hemorrhage는 드문 질환이나, 급성 발병의 경추 척수병증 감별진단에 포함되어야 한다. MRI 및 CT 특징은 다른 척추 외상 질환과 감별하는 데 도움이 되며, 신경 손상 정도에도 불구하고 보존적 치료 후 예후가 매우 좋다.",
+      "clinical_takeaway": "경추 부위에서 갑자기 발생한 급성 척수병증을 보이는 그레이하운드 환자에서는 cervical subperiosteal vertebral hemorrhage를 의심할 수 있어야 하며, 본 연구에서 제시된 MRI 및 CT 영상 소견이 진단에 중요한 단서를 제공한다. 특히, 주로 C3와 C4 척추체에 위치하는 bilateral 대칭적 ventrolateral 병변과 T2W 고신호, T1W 등신호~고신호, T2*W의 주변 저신호 테두리가 특징적이다. 임상적으로는 보행 불가능한 심각한 신경학적 결손 상태에서도 의료적 치료만으로 신속하게 호전되며, 장기간 재발도 없으므로 과도한 수술적 접근 없이 보존적 치료를 우선 고려할 수 있다. 다만, 본 연구는 후향적 소규모 연구이며 조직검사가 없어 확정진단은 어려운 점, 일부 혈액응고 이상 검사가 제한적이었던 점에서 추후 연구가 필요하다.",
+      "limitations": [
+        "후향적이고 다기관 기관 자료를 이용한 연구로 검사 및 치료 프로토콜의 일관성이 부족하다.",
+        "확진 진단을 위한 조직학적 검사가 시행되지 않아 진단이 추정에 그친다.",
+        "혈액응고 이상 및 혈압 측정 등 일부 검사가 제한적이었다.",
+        "시신 해부학 연구는 혼합견에서 시행되어 그레이하운드와 해부학적 차이가 있을 수 있다.",
+        "전체 샘플 크기가 9마리로 제한되어 통계적 분석에 한계가 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "급성 경추 척수병증의 직접적 원인으로서 그레이하운드에서의 subperiosteal vertebral hemorrhage를 임상, 영상, 치료 및 예후 측면에서 상세히 기술하였고, 보존적 치료만으로도 우수한 임상 결과가 얻어졌기에 임상 현장에서의 진단과 치료에 직접적이고 즉각적인 도움을 주는 근거를 제공한다.",
+      "id": "doi:10.1093/jvimsj/aalag154",
+      "discovered_at": "2026-09-16 01:13:36.178335+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13464721",
+      "summary_generated_at": "2026-11-18 04:23:00.423321+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Rethinking clinical response criteria in trials of chronic enteropathy in dogs: what change is truly meaningful?",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag164",
+      "pmid": "42627936",
+      "pmcid": "PMC13575271",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag164",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42627936/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 만성 enteropathy를 가진 개를 대상으로 하여 임상 활동 지수인 CIBDAI와 CCECAI의 임상 반응 기준 정의가 임상 연구와 치료 평가에 미치는 영향을 분석했으며, 임상적 처치 및 연구 설계에 직접적인 시사점을 제공한다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "gastroenterology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "chronic enteropathy in dogs",
+      "study_design": "other",
+      "sample_size": 52,
+      "sample_size_quote": "Among 52 studies that assessed clinical variables longitudinally, 28 (54%) explicitly defined response criteria in the Materials and Methods section.",
+      "objective": "만성 enteropathy를 가진 개에서 CIBDAI와 CCECAI 점수의 임상 반응 기준이 각기 다르고, 측정 도구의 가변성을 고려하지 않는 경우 해석에 혼란이 있으므로, 점수 변화가 실제 임상적 의미를 갖는지 평가하기 위해 임상 반응 정의의 재고 및 표준화 방안을 제안하기 위함.",
+      "study_methods": "PubMed에서 'dogs'와 'enteropathy' 키워드로 검색한 최근 5년간(2021-2025) 만성 enteropathy 개 대상 임상연구 52편을 검토하고, 28편은 명확한 임상 반응 기준을 정의했다. 문헌 조사를 기반으로 CIBDAI와 CCECAI 점수의 정의 기준과 측정도의 가변성을 중점 분석했다.",
+      "one_sentence_summary": "본 연구는 만성 enteropathy가 있는 개를 대상으로 한 문헌 52편 중 28편에서의 임상 반응 기준의 이질성을 조사하였다. CIBDAI와 CCECAI 점수 변화 기준이 25%에서 75%까지 다양하고 절대값 변화, 중증도 범주 변화, 임상 징후 유무 등 다양한 방식으로 정의되어 있어 연구간 비교가 어렵다고 평가하였다. 측정 도구 자체의 재현성 제한이 존재하며, Δ≥4점 이상의 절대변화를 최소 검출 변화로 제안하여 임상 반응 판정의 신뢰성을 높일 수 있음을 강조했다. 또한 경증 질환에서는 항목별 2점 이상의 변화가 적절할 수 있다.",
+      "key_results": [
+        {
+          "result": "만성 enteropathy 임상 시험 52편 중 28편(54%)에서 명확한 임상 반응 기준을 정의했으나, 임상 반응 정의가 25%~75% 점수 감소, 절대 점수 컷오프, 중증도 변경, 임상 증상 이진 평가 등으로 매우 다양했다.",
+          "evidence_quote": "Among 52 studies that assessed clinical variables longitudinally, 28 (54%) explicitly defined response criteria in the Materials and Methods section. Across these studies, a striking heterogeneity was observed in the definition of clinical response. Criteria ranged from relative score reductions as low as 25% to thresholds exceeding 75%, absolute score cut-offs, shifts between predefined disease severity categories (eg, from “moderate” to “mild”), binary presence or absence of clinical signs, or even subjective clinician assessment"
+        },
+        {
+          "result": "단일 평가자가 CIBDAI 또는 CCECAI 점수를 평가한 경우 최소 검출 임상 반응 임계값을 3점(Δ≥3), 여러 평가자가 관여한 경우 4점(Δ≥4)으로 제안하였다.",
+          "evidence_quote": "When CIBDAI and CCECAI are used as research endpoints, we suggest that an absolute change of at least 3 points (Δ ≥ 3) when assessments are performed by a single scorer, or 4 points (Δ ≥ 4) when multiple scorers are involved, could be considered the minimal threshold required to define a true change in clinical disease activity"
+        },
+        {
+          "result": "기저 점수가 낮은 개에서는 총점 변화가 검출 한계 이내일 수 있어, 항목별 변화를 기준으로 2점 이상(Δ item ≥2)인 경우 임상적으로 의미 있는 변화로 고려할 수 있다.",
+          "evidence_quote": "An absolute change of at least 2 points at the item level (Δ item ≥2) would be more likely to exceed measurement variability and might reasonably be considered indicative of a true clinical change. It is acknowledged that dogs with very low baseline scores composed exclusively of items scored as 1 might not meet these thresholds despite apparent clinical remission; however, such cases are expected to be infrequent and of limited influence on trial-level conclusions."
+        },
+        {
+          "result": "연구에서는 평가지가 누가 평가했는지 명확히 보고할 것과, 가능하다면 동일 평가자가 지속적으로 점수를 평가할 것을 권고했다.",
+          "evidence_quote": "we would highly recommend that studies explicitly state who performed clinical scoring and whether assessments were conducted by a single evaluator or multiple clinicians over time. Whenever feasible, longitudinal scoring should be performed by the same veterinarian, as evaluator consistency is a key determinant of score reliability"
+        },
+        {
+          "result": "임상 점수 외에 validated quality-of-life 지표와 장기적인 증상 추적 자료를 보완적으로 사용하는 것이 임상적으로 의미 있는 치료 효과를 평가하는 데 도움을 줄 수 있다.",
+          "evidence_quote": "Integration of complementary outcome measures, such as validated HRQoL instruments and longitudinal monitoring tools, might further enhance dog- and owner-centered evaluation of treatment response."
+        }
+      ],
+      "authors_conclusion": "만성 enteropathy 개 임상 연구에서 CIBDAI와 CCECAI 점수를 이용한 임상 반응 정의가 매우 이질적이며, 측정 기구 자체의 내재적 가변성이 간과되고 있다. 따라서 측정 오차를 초과하는 명확한 절대 점수 변화를 임상 반응 기준으로 삼고, 평가자 일관성 확보 및 평가 조건의 투명한 보고가 필수적이다. 또한 환자의 전반적 상태를 반영하는 삶의 질 지표 등 보완적 평가 도구 통합이 필요하다.",
+      "clinical_takeaway": "만성 enteropathy를 가진 개 임상에서 CIBDAI와 CCECAI 점수는 질병 활동성 평가에 널리 사용되지만, 점수 변화 정의가 연구마다 다양하고 평가자간 점수 변동성이 커 임상적 해석에 혼란을 초래할 수 있습니다. 단일 평가자 평가 시 Δ≥3점, 다중 평가자 시 Δ≥4점 이상의 절대 점수 변화를 보일 때만 명확한 임상 반응으로 보는 것이 적절하며, 경증 동물은 항목별 Δ≥2점 변화가 임상적으로 의미있을 수 있습니다. 임상 연구 시 점수를 평가한 담당자 정보를 명확히 보고하고 되도록 동일 평가자가 일관되게 평가하는 것이 중요합니다. 또한, 소유자 보고 삶의 질 평가 도구 등을 함께 활용하여 임상 증상 외에 전반적인 반응과 삶의 질 변화를 종합적으로 판단하는 것이 바람직합니다. 이 연구는 점수 평가의 본질적인 오차를 고려해 임상 반응 기준 재정립과 표준화를 촉구하며, 모든 만성 enteropathy 개에게 일괄 적용하기에는 한계가 있음을 인지해야 합니다.",
+      "limitations": [
+        "본 권고안은 단일 연구에서 얻은 평가자 간 재현성 데이터에 주로 의존하였으므로 후속 연구를 통해 임상 환경과 집단을 다양화하여 검증 및 보완이 필요하다.",
+        "문헌 조사는 체계적 고찰이 아니며 일부 주요 연구들이 누락되었을 가능성이 있다.",
+        "평가자 간 변동성 외에 임상 실무에서의 상황적 요인(예: 진료 환경, 환자 건강 상태 변화 등)이 점수 변화에 미치는 영향은 본 연구에서 직접 평가되지 않았다.",
+        "삽입된 점수 변동 범위가 실제 환자 중심 최소 중요 차이(MCID)를 완전히 대체하지 않는다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "만성 enteropathy 개 임상에서 CIBDAI와 CCECAI 점수를 이용한 치료 반응 평가 시 측정 도구의 평가 변동성을 검증하고, 명확한 절대 변화 임계값을 제시하여 임상 반응 해석의 정확도를 높이도록 권장하는 실용적이고 임상적 직접 적용 가능한 권고안을 제시했기 때문이다.",
+      "id": "doi:10.1093/jvimsj/aalag164",
+      "discovered_at": "2026-09-16 01:13:31.984544+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13575271",
+      "summary_generated_at": "2026-11-18 04:21:24.290504+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Prolonged survival of 3 dogs with Prototheca bovis infection treated with posaconazole.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag170",
+      "pmid": "42636342",
+      "pmcid": "PMC13502398",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag170",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42636342/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 증례보고는 Prototheca bovis에 감염된 개 3마리에서 posaconazole을 포함한 항진균 치료를 사용하여 장기간 생존을 확인하였으며, 이는 enteric protothecosis 치료에 직접 적용 가능한 임상적 증거로 판단됩니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Prototheca bovis infection in dogs",
+      "study_design": "case_series",
+      "sample_size": 3,
+      "sample_size_quote": "We describe the extended clinical course of 3 dogs diagnosed with enteric P. bovis infection treated with antifungal therapy incorporating posaconazole.",
+      "objective": "Prototheca bovis에 감염된 개에서 posaconazole 치료 후 임상경과와 생존기간을 보고하고, 이에 따른 치료 효과 및 내약성을 평가하였다.",
+      "study_methods": "2022년에 진단된 P. bovis에 의한 장내 프로토테카 감염이 확인된 개 3마리를 증례로 선정하였다. 각 개는 posaconazole을 포함하는 항진균제를 투여받았으며, 일부 개는 amphotericin B 및 다른 약제와 면역치료를 병용하였다. 치료 전후 임상 증상, 혈액 및 영상 검사, 배양 및 조직학적 검사를 시행하여 진행 경과를 추적하였다.",
+      "one_sentence_summary": "3마리의 Prototheca bovis 감염이 확진된 개에 대해 posaconazole을 포함하는 항진균요법을 적용한 결과, 한 마리는 45개월째까지 경미한 간헐적 설사 외에 임상적 개선을 보이며 생존하였고, 두 번째 개는 순수 posaconazole만 투여받으며 39개월째까지 중등도의 혼합형 설사와 알가 배출이 지속되었으나 다른 증상은 없었다. 세 번째는 다제요법과 면역치료를 시도하였으나 중추신경계 전이에 의해 21개월 만에 사망하였다. 모두 posaconazole 치료는 양호한 내약성을 보였다.",
+      "key_results": [
+        {
+          "result": "장내 Prototheca bovis 감염 진단 후 posaconazole과 AMB 병용 치료한 개는 45개월 이상 생존하며 경미한 간헐적 설사만 보였고 직장 세포학 검사에서 알가가 검출되지 않았다.",
+          "evidence_quote": "One dog was alive 45 months after starting treatment, exhibiting only mild, intermittent diarrhea and no detectable algae on rectal cytology. This dog also received SC amphotericin B (AMB) infusions during the first month after diagnosis."
+        },
+        {
+          "result": "posaconazole 단독으로 치료한 두 번째 개는 39개월째까지 중등도의 혼합형 장관 증상과 P. bovis 배출이 계속되었으나 전신 증상이나 전이 징후는 없었다.",
+          "evidence_quote": "The second dog, managed exclusively with posaconazole, was alive after 39 months with moderate mixed-bowel diarrhea and ongoing P. bovis shedding but without clinical signs of dissemination."
+        },
+        {
+          "result": "다제 항진균제와 자가 백신 면역치료를 받은 세 번째 개는 21개월간 생존했으나 중추신경계로 전파되어 사망하였다.",
+          "evidence_quote": "The third dog survived 21 months before death because of central nervous system dissemination; additional treatments included itraconazole, AMB, terbinafine, and immunotherapy using an autologous vaccine."
+        },
+        {
+          "result": "치료 기간 동안 posaconazole은 모든 개에서 잘 견뎌졌으며, 간 효소 수치 경미 상승 외 간부전 증상은 없었다.",
+          "evidence_quote": "In our case report, 2 dogs exhibited mild to moderate increases in hepatic enzyme activities, but no evidence of hepatic failure."
+        },
+        {
+          "result": "치료 전후 미생물검사에서 posaconazole과 AMB에 대한 최소억제농도(MIC)가 가장 낮게 나타났다.",
+          "evidence_quote": "The lowest MICs were noted for AMB, posaconazole, itraconazole, and voriconazole (Table 1)."
+        },
+        {
+          "result": "posaconazole의 높은 혈중 농도가 유지되었으며, 예를 들어 28개월 치료 후 9.8 mg/L 수준으로 측정되었다 (MIC 대비 39배).",
+          "evidence_quote": "The trough serum posaconazole concentration after 28 months of treatment was 9.8 mg/L (39× the minimum inhibitory concentration [MIC] of the infecting algae)."
+        }
+      ],
+      "authors_conclusion": "Prototheca bovis에 의한 장내 프로토테카증 치료에 있어서 posaconazole은 우수한 내약성과 조직 침투력을 바탕으로 단독 또는 주요 항진균제로 사용 가능하며, 이전 보고된 유사 질환보다 훨씬 장기 생존을 기대할 수 있다. 그러나 일부 환자에서는 내성 발현 및 중추신경계 전이 발생 가능성도 있어, 초기 치료 및 모니터링이 중요하다.",
+      "clinical_takeaway": "Prototheca bovis 감염이 확인된 개에서 posaconazole 기반 항진균 치료는 장기 생존과 임상 증상 개선에 효과적일 수 있음을 시사합니다. 특히 국소 장내 감염에 조기에 치료를 시작하면 생존 기간 연장 가능성이 있어 항진균제 내성 가능성과 전신 전이 위험을 고려하며 적극적으로 활용할 수 있습니다. 다만 증례 수가 적고 후향적 관찰이므로, 일반화에는 신중해야 하며, 추가 연구가 필요합니다.",
+      "limitations": [
+        "사례수가 3례로 제한적이며, 무작위 대조군이 없어 치료 효과를 일반화하는 데 한계가 있다.",
+        "serum posaconazole 농도 측정과 MIC 변화 관찰이 일부 환자에서만 이루어졌고, 이는 치료 반응 평가에 제한을 준다.",
+        "중추신경계 및 안구 등 전신 전이 평가가 치료 초기에는 수행되지 않아 잠복 전이 가능성을 배제하지 못한다.",
+        "후향적 사례보고로 계획된 임상시험이 아니기 때문에 통제된 변수 및 장기 부작용 관찰에 제한이 있다.",
+        "초기 치료에 수술이 포함된 환자가 있어 posaconazole 단독 효과를 분리 평가하기 어렵다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 개 환자 임상 사례에서 posaconazole 단독 또는 병용 치료 후 장기간 생존과 임상 개선을 보였고, 약물 내약성 평가와 MIC 검사로 치료 근거를 충분히 제시한 점에서, 유사한 임상 상황에서 posaconazole을 치료 옵션으로 고려하는 것을 권장한다.",
+      "id": "doi:10.1093/jvimsj/aalag170",
+      "discovered_at": "2026-09-16 01:13:31.983521+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13502398",
+      "summary_generated_at": "2026-11-18 04:20:33.320825+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Acute hydrated nucleus pulposus extrusion in dogs with severe neurologic status: comparison between conservative and surgical treatment.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -6659,6 +7018,80 @@
       "evidence_source": "full_text",
       "evidence_url": "https://europepmc.org/articles/PMC13505859",
       "summary_generated_at": "2026-11-17 05:07:30.475934+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Assessment of CD3+ T cell density in the intestinal mucosa of dogs with inflammatory bowel disease.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag175",
+      "pmid": "42636344",
+      "pmcid": "PMC13502395",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag175",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42636344/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "연구는 immunomodulator-responsive enteropathy (IRE)를 가진 개들의 장 점막에서 CD3+ T cell 밀도를 건강한 개들과 비교 분석하였으며, 임상 지표나 조직학적 중증도와의 상관성이 낮음을 밝혀 임상적 중증도 평가용 단독 지표로서의 한계를 명확히 하였다. 즉, IRE 개들의 장 점막에서 CD3+ T cell 밀도의 증가는 질환의 존재를 반영하지만 임상 상태나 예후와 직접적인 연관은 적다는 점을 보여준다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "immunomodulator-responsive enteropathy in dogs",
+      "study_design": "retrospective",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "IRE를 가진 개들과 건강한 개들의 소장과 대장의 점막 내 CD3+ T cell 밀도를 비교하고, 임상 지표, 생화학적 검사 및 조직학적 중증도와의 연관성을 평가하였다.",
+      "study_methods": "5개 기관에서 2020년부터 2023년까지 IRE 확진을 받은 42마리 반려견과 12마리 건강한 연구견을 대상으로 후향적 다기관 연구를 진행하였다. 내시경을 통해 십이지장, 회장, 결장에서 조직검사 샘플을 수집하였고 Simplified Histopathological Scoring System으로 조직 변화 평가 후, QuPath 소프트웨어를 활용하여 CD3+ T cell 면역조직화학적 염색 면적률을 정량화하였다. 임상 지표(CIBDAI, CCECAI), 혈청 알부민 등 생화학적 수치, 조직학 점수와 CD3+ T cell 밀도의 상관관계를 검토하고 ROC curve 분석으로 진단 성능을 평가하였다.",
+      "one_sentence_summary": "42마리의 IRE 확진 반려견과 12마리 건강한 연구견의 십이지장, 회장, 결장 점막에서 CD3+ T cell 밀도를 면역조직화학과 디지털 이미지 분석(QuPath)으로 측정하였다. IRE군은 건강군에 비해 모든 장 구간에서 상대 CD3+ 밀도가 유의하게 높았으나, 임상 지표(CIBDAI, CCECAI), 혈청 알부민 농도 및 총 조직학 점수와는 유의한 상관성을 보이지 않았다(예: 회장 CD3+ 밀도 9.79% 대비 0.85%, P<.001; duodenum 6.34% 대비 1.42%, P=.03). ROC 분석에서 CD3+ 밀도는 IRE와 건강견 구분에 우수한 성능을 나타냈으나 임상 모니터링 단독 지표로는 제한적이었다.",
+      "key_results": [
+        {
+          "result": "IRE-개에서 십이지장 CD3+ T cell 상대 밀도는 6.34%로 건강한 개 1.42%에 비해 유의하게 증가하였다 (P = .03).",
+          "evidence_quote": "Relative CD3+ density was significantly higher in dogs with IRE than in comparison dogs in the duodenum (median, 6.34% vs 1.42%; P = .03)"
+        },
+        {
+          "result": "회장 점막에서 IRE-개 CD3+ T cell 상대 밀도는 9.79%로 건강군 0.85% 대비 현저히 높았다 (P < .001).",
+          "evidence_quote": "RESULTS: Relative CD3+ density was significantly higher in dogs with IRE than in comparison dogs in the duodenum (median, 6.34% vs 1.42%; P = .03), ileum (9.79% vs 0.85%; P < .001), and colon (3.88% vs 1.32%; P = .002)."
+        },
+        {
+          "result": "결장 CD3+ T cell 밀도 역시 IRE군에서 3.88%로 건강군 1.32%보다 유의하게 높았다 (P = .002).",
+          "evidence_quote": "RESULTS: Relative CD3+ density was significantly higher in dogs with IRE than in comparison dogs in the duodenum (median, 6.34% vs 1.42%; P = .03), ileum (9.79% vs 0.85%; P < .001), and colon (3.88% vs 1.32%; P = .002)."
+        },
+        {
+          "result": "CD3+ T cell 밀도는 임상 지표(CIBDAI, CCECAI), 혈청 알부민 농도, 총 조직학 점수와 상관성이 없었다.",
+          "evidence_quote": "The RCD3 was not correlated with clinical indices, serum albumin concentration, or histologic scores"
+        },
+        {
+          "result": "회장 조직학 점수와 CD3+ T cell 밀도는 약한 음의 상관관계를 보였다 (ρ = -0.37; P = .04).",
+          "evidence_quote": "ileal histologic score was negatively correlated with RCD3 (ρ = -0.37; P = .04)"
+        },
+        {
+          "result": "Receiver operating characteristic (ROC) curve 분석에서 CD3+ T cell 밀도의 AUC는 십이지장에서 0.833, 회장에서 0.896, 결장에서 0.811로 나타났다.",
+          "evidence_quote": "The area under the curve values were 0.833, 0.896, and 0.811, respectively."
+        }
+      ],
+      "authors_conclusion": "IRE를 가진 개들의 장 점막에서 CD3+ T cell 밀도가 증가함을 확인하였으나, 이는 임상이나 조직학적 질환 중증도와는 독립적이다. 따라서 CD3+ T cell 밀도는 단독으로 모니터링 지표로 사용하기에는 제한적이며, 면역학적 표현형을 구분하는데 기여할 수 있다.",
+      "clinical_takeaway": "임상적으로 IRE 진단을 받은 반려견에서 장 점막 내 CD3+ T cell 밀도가 건강한 개보다 높다는 점은 면역 활성화가 질환 병태생리에서 역할함을 시사한다. 하지만 CD3+ T cell 밀도는 임상 증상이나 혈액 검사, 조직 변형의 정도와 직접적인 연관이 미약하여 단독 지표로 질환 중증도 판단이나 모니터링에 사용하기 부적절하다. 따라서 CD3+ 면역표현형은 다른 조직학적 또는 분자생물학적 지표와 함께 보조 평가 도구로 활용하여 다양한 면역학적 질환 하위 유형(phenotypes)을 구분하는 데 의미가 있을 것이다. 본 연구는 retrospective 디자인으로 시계열 치료 추적 관찰이 없어 CD3+ 밀도의 치료 반응성 평가 제한, 건강군이 연구 대상 개체로 대표성 제한 등의 한계가 있으므로, 임상 적용 시 과도한 확대 해석을 경계해야 한다.",
+      "limitations": [
+        "후향적 연구 디자인으로 인과관계 평가 어려움",
+        "건강 비교군이 연구 견으로 실제 임상 개체와 차이가 있을 수 있음",
+        "CD3+ 세포의 공간적 분포(상피내 또는 lamina propria) 미평가",
+        "T 세포 아분류(subsets) 평가 누락",
+        "일부 조직 샘플의 품질 저하로 인한 데이터 누락",
+        "치료 반응 및 장기 추적관찰 데이터 부재"
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 42마리 IRE 환자견과 12마리 건강견을 대상으로 다기관에서 면역조직화학적 CD3+ T cell 정량을 표준화된 디지털 방법으로 수행하여 신뢰도 높은 데이터를 제공했다. CD3+ T cell 밀도가 IRE 존재 여부를 차별하는 데 우수한 성능을 보였고, 임상적 활용에서 제한점과 면역 표현형 구분의 가능성을 실제 임상에 직접 적용할 수 있어 반려견 만성 염증성 장 질환 연구 및 임상진단 보조에 중요한 근거를 제시하였다.",
+      "id": "doi:10.1093/jvimsj/aalag175",
+      "discovered_at": "2026-09-16 01:13:31.982500+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13502395",
+      "summary_generated_at": "2026-11-18 04:19:49.013600+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -7740,6 +8173,78 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Crowdfunding campaigns for canine pacemaker implantation costs infrequently meet fundraising targets.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-05-20",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.2460/javma.26.03.0160",
+      "pmid": "42161306",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.03.0160",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42161306/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 개의 pacemaker implantation 비용 조달을 위한 실제 임상 상황에서의 crowdfunding 성공률과 비용 차이를 분석하여, 임상에서 환자 보호자들과 비용 관련 상담 시 직접적인 참고 자료가 된다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "pacemaker implantation cost crowdfunding",
+      "study_design": "retrospective",
+      "sample_size": 76,
+      "sample_size_quote": "76 campaigns were identified.",
+      "objective": "개의 pacemaker implantation 비용을 충당하기 위한 보호자들의 crowdfunding 캠페인 효과를 조사하고, 모금 성공률, 금액과 기간 관계, 지역별 비용 차이를 평가하였다.",
+      "study_methods": "GoFundMe 웹사이트에 게시된 개의 pacemaker implantation 비용 지원을 위한 모든 crowdfunding 캠페인 데이터를 수집하였다. 목표 금액 대비 모금 비율과 모금 성공 여부(목표의 80% 이상 달성)를 정의하고, 목표 금액이나 캠페인 기간과 모금 비율, 시간에 따른 목표 금액 변화를 분석하였다. 또한, 지역별 implantation 비용 차이도 비교하였다.",
+      "one_sentence_summary": "개의 pacemaker implantation 비용을 위한 GoFundMe crowdfunding 76건을 분석한 후향적 연구이다. 약 10%만이 목표 금액을 전액 모았으며, 16%는 목표의 80% 이상을 모금하는 데 성공하였다. 캠페인의 성공률은 목표 금액 크기나 기간과 연관성이 적었고, 지역별 비용은 북미가 가장 높고 유럽이 가장 낮았다. 이는 개 임상에서 pacemaker 비용 조달에 있어 crowdfunding의 제한적 효과를 시사한다.",
+      "key_results": [
+        {
+          "result": "10%의 캠페인만이 목표 금액 전체를 모금하였다.",
+          "evidence_quote": "Only 10% raised the target amount"
+        },
+        {
+          "result": "16%의 캠페인이 목표 금액의 80% 이상을 모금하여 성공으로 간주되었다.",
+          "evidence_quote": "16% of campaigns succeeded in raising > 80% of the target amount"
+        },
+        {
+          "result": "10% 캠페인은 한 푼도 모금하지 못했다.",
+          "evidence_quote": "10% failed to raise any funds"
+        },
+        {
+          "result": "50%는 목표 금액의 절반도 모금하지 못하였다.",
+          "evidence_quote": "50% raised < 50% of their target amount"
+        },
+        {
+          "result": "캠페인 성공률은 목표 금액 크기나 기간과 유의미한 관련이 없었다.",
+          "evidence_quote": "Success was not related to the target amount or age of the campaign"
+        },
+        {
+          "result": "지역별 pacemaker implantation 비용은 유럽에서 가장 낮고, 북미에서 가장 높았다.",
+          "evidence_quote": "Pacemaker implantation costs differed between regions: costs in Europe were lowest, and those in North America were highest"
+        }
+      ],
+      "authors_conclusion": "개의 pacemaker implantation 비용 충당을 위한 crowdfunding 캠페인은 약 10%만이 목표 금액의 80% 이상을 모금하는 데 성공하며, 목표 금액이나 캠페인 기간과 성공률은 거의 관련이 없었다. 또한, 지역별 비용에는 차이가 크다.",
+      "clinical_takeaway": "개의 pacemaker implantation 비용이 고가임을 고려할 때, 보호자들이 crowdfunding으로 비용 전액을 충당할 가능성은 매우 낮다는 점을 수의사가 명확히 설명하는 것이 중요하다. 캠페인 기간이나 목표 금액 크기가 성공에 큰 영향을 미치지 않으므로, 이 점을 이해시키고 현실적인 기대치를 설정하는 것이 필요하다. 또한, 지역별 비용 차이가 크므로, 치료 계획 수립 시 비용 관련 상담 시 이 점을 고려해야 한다. 본 연구는 crowdfunding이 비용 부담 경감을 위한 보조 수단으로만 제한적으로 활용될 수 있음을 시사한다.",
+      "limitations": [
+        "후향적 설계로 인과관계 해석에 제한이 있다.",
+        "캠페인 데이터가 GoFundMe 웹사이트에 국한되어 있어 다른 플랫폼의 결과는 반영되지 않았다.",
+        "비용의 세부 항목이나 환자의 임상 상태 등 다른 비용 결정 요인은 분석하지 않았다.",
+        "전체 보조금 모금 시점 이후 환자 치료 결과 데이터는 보고되지 않았다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 개 임상 비용 충당 수단으로서 crowdfunding의 성공률과 비용 차이를 명확히 분석하여, 수의사가 보호자와 비용 상담 시 현실적인 정보를 제공하는 데 중요한 자료이기 때문이다.",
+      "id": "doi:10.2460/javma.26.03.0160",
+      "discovered_at": "2026-09-17 05:57:10.462534+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42161306/",
+      "summary_generated_at": "2026-11-18 04:19:59.125157+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Cross-Species Transcriptomic and Network Analysis of Human and Canine Diffuse Large B-Cell Lymphoma Identifies a Conserved Replication-DNA Damage Module for Drug Repurposing.",
       "journal": "Veterinary and Comparative Oncology",
       "journal_id": "vco",
@@ -7803,6 +8308,75 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42163424/",
       "summary_generated_at": "2026-11-17 05:08:25.842628+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Radioulnar Interosseous Ligament Diseases in Dogs: A Case Series.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": null,
+      "online_publication_date": "2026-05-19",
+      "publication_date_raw": "2026-Nov",
+      "doi": "10.1055/a-2865-3709",
+      "pmid": "42155477",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2865-3709",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42155477/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 강아지에서 radioulnar interosseous ligament 질환의 임상 양상과 방사선학적 특징을 보고하여 수의 임상 현장에서 직접적인 진단과 치료 결정에 도움을 줄 수 있기 때문에 임상적 연관성이 높다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "orthopedics"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Radioulnar interosseous ligament diseases",
+      "study_design": "retrospective",
+      "sample_size": 233,
+      "sample_size_quote": "Among the 233 dogs included (9 referral cases, 224 from VIN)",
+      "objective": "radioulnar interosseous ligament disease를 가진 강아지들의 신호, 방사선 및 임상적 특징을 기술하고 두 가지 entity인 radioulnar ischemic necrosis (RUIN)와 radioulnar ligament desmopathy (RULD)를 구별하기 위함이다.",
+      "study_methods": "다기관 회고성 사례연구로서, referral 센터들과 Veterinary Information Network (VIN) 데이터베이스에서 radiographic 소견과 임상 징후가 일치하는 233마리의 강아지 데이터를 포함했다. RUIN은 radius 후방과 ulna 전방의 국소적 cortical lysis로 정의되었고, RULD는 antebrachial 뼈 측면의 매끄러운 골 증식으로 특성화되었다.",
+      "one_sentence_summary": "233마리 강아지를 대상으로 한 다기관 회고성 연구에서 radioulnar ischemic necrosis (RUIN, 115마리)와 radioulnar ligament desmopathy (RULD, 118마리) 두 가지 radioulnar interosseous ligament 질환의 임상 및 방사선학적 특징을 비교했다. RUIN은 주로 소형의 chondrodystrophic 품종에서, RULD는 대형의 비chondrodystrophic 품종에서 더 흔했다. 두 질환 모두 elbow dysplasia가 동반되는 경우가 많았으며, referral 사례에서는 경도에서 중등도의 전지 절름발이와 보존적 치료에 대한 좋은 반응성을 보였다.",
+      "key_results": [
+        {
+          "result": "233마리의 강아지 중 115마리는 RUIN 진단을 받았고 118마리는 RULD로 분류되었다.",
+          "evidence_quote": "Among the 233 dogs included (9 referral cases, 224 from VIN), 115 had RUIN, and 118 had RULD."
+        },
+        {
+          "result": "RUIN은 주로 소형, chondrodystrophic 품종에서 발생하였다.",
+          "evidence_quote": "RUIN primarily affected small, chondrodystrophic breeds"
+        },
+        {
+          "result": "RULD는 대형, 비chondrodystrophic 품종에서 더 흔하였다.",
+          "evidence_quote": "RULD was more common in large, nonchondrodystrophic breeds."
+        },
+        {
+          "result": "두 질환 모두에서 elbow dysplasia가 빈번한 동반 질환이었다.",
+          "evidence_quote": "Elbow dysplasia was a frequent comorbidity in RUIN and RULD cases."
+        },
+        {
+          "result": "Referral 사례에서 RUIN과 RULD는 경도에서 중등도의 전지 절름발이와 관련되며 보존적 치료에 반응하는 경우가 종종 있었다.",
+          "evidence_quote": "In the referral cases, these lesions were thought to be occasionally associated with mild to moderate forelimb lameness, typically responsive to conservative therapy."
+        }
+      ],
+      "authors_conclusion": "RUIN과 RULD는 서로 다른 품종선호도를 가지며 이전에는 잘 인식되지 않았던 정형외과적 질환 군이다. 이 연구에서 제시된 두 개념은 임상의가 이 질환을 더 잘 인지하고 향후 발병 기전과 치료법 연구에 도움을 주기 위한 것이다.",
+      "clinical_takeaway": "radioulnar interosseous ligament 질환은 임상에서 인지도가 낮지만 RUIN과 RULD 두 가지로 구분할 수 있으며, 각각 소형 chondrodystrophic 품종과 대형 비chondrodystrophic 품종에 주로 발생한다는 점이 중요하다. 두 질환 모두 elbow dysplasia가 자주 동반되므로 전지 절름발이 환자에서 병변을 의심할 수 있다. 보존적 치료에 대해 경도에서 중등도 증상이 호전될 수 있으나, 본 연구는 회고적이며 임상 사례가 제한적이어서 치료 반응 성과는 광범위한 일반화가 어렵다. 따라서 이 질환 진단 시 품종과 동반 질환을 고려하고 신중하게 임상적 의사결정을 해야 한다.",
+      "limitations": [
+        "회고성 연구로 인과관계 확인이 어렵다.",
+        "임상 사례가 주로 referral 및 VIN 데이터베이스 출처로 구성되어 대표성에 제한이 있다.",
+        "치료 결과에 대한 상세한 장기 추적이나 통계적 분석이 제시되지 않았다.",
+        "초록만 제공되어 전체 논문 내용에 의한 추가 분석이 불가능하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상 현장에서 실제 비교적 큰 수의 강아지 사례를 확인한 다기관 연구이며, 직접적인 임상 증례와 진단법, 품종별 선호도를 제시하여 수의사들이 비용 대비 효율적인 진단과 보존적 치료를 고려하는 데 유용하기 때문이다.",
+      "id": "doi:10.1055/a-2865-3709",
+      "discovered_at": "2026-11-15 02:38:26.240268+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42155477/",
+      "summary_generated_at": "2026-11-18 04:23:13.712591+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -8108,15 +8682,15 @@
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 558
+        "received": 543
       }
     },
-    "started_at": "2026-11-17T05:03:58.800594+00:00",
-    "since": "2026-10-03",
-    "processed": 5,
+    "started_at": "2026-11-18T04:17:38.564294+00:00",
+    "since": "2026-10-04",
+    "processed": 8,
     "refreshed": 0,
-    "failed": 12,
-    "deferred": 1094,
-    "finished_at": "2026-11-17T05:08:27.256179+00:00"
+    "failed": 7,
+    "deferred": 1092,
+    "finished_at": "2026-11-18T04:23:15.205855+00:00"
   }
 }
