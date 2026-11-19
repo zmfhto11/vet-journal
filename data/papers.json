@@ -1,9 +1,82 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T04:23:15.340070+00:00",
-  "last_successful_collection": "2026-11-18T04:17:38.564242Z",
+  "generated_at": "2026-11-19T04:21:48.645312+00:00",
+  "last_successful_collection": "2026-11-19T04:10:24.548761Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Diagnostic and Translational Challenges in Canine Endocrine and Neuroendocrine Neoplasms: A Comparative Pathology Perspective.",
+      "journal": "Veterinary and Comparative Oncology",
+      "journal_id": "vco",
+      "publication_date": "2026-11-18",
+      "online_publication_date": "2026-11-18",
+      "publication_date_raw": "2026-Nov-18",
+      "doi": "10.1111/vco.70130",
+      "pmid": "43046768",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vco.70130",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43046768/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "해당 논문은 canine endocrine and neuroendocrine neoplasms(NENs)의 진단 및 병리학적 특성에 대해 다루고 있으나, 주로 비교 병리학적 관점에서 인간 진단 기준과의 차이를 설명하며, 임상적 진단 가이드라인의 부재와 통일성 부족을 지적하고 있습니다. 임상 연구별 구체적 치료법 평가나 전향적 데이터 없이 진단적 고찰 위주로서 임상 적용에 직접적이지 않습니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine endocrine and neuroendocrine neoplasms",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "Canine endocrine tumours 및 neuroendocrine neoplasms(NENs)의 진단적 도전과제를 파악하고, 인간 의학의 기준과 비교하며, 병리학적 표준화 방안 모색을 목표로 하였습니다.",
+      "study_methods": "문헌 고찰을 통해 canine insulinoma, phaeochromocytoma, cortisol-producing adrenocortical tumours 같은 대표적인 canine endocrine tumours/NENs의 진단적 특징과 병리학적 평가방법을 분석하였고, 인간 WHO 2025 분류 체계와의 차이점 및 시사점을 검토하였습니다.",
+      "one_sentence_summary": "Canine endocrine tumours/NENs의 진단은 일부 비기능성 종양과 다양한 임상 증후군으로 인한 hormone hypersecretion 특성, 또한 느린 성장 특성 때문에 도전적입니다. 인간 의료에서 2025년 WHO 분류 체계에 따른 부위별 조직병리학과 immunohistochemistry 평가가 진단의 표준인 반면, 수의학에서는 명확한 용어 정리, 등급 분류, 임계값 등이 부족합니다. 특히 insulinoma, phaeochromocytoma, cortisol-producing adrenocortical tumours에 대한 진단적 인식 확대와 인간 자료와의 비교 고찰을 통해 진단 체계 표준화 필요성을 강조합니다.",
+      "key_results": [
+        {
+          "result": "Canine endocrine and neuroendocrine tumours의 진단은 비기능성 종양 존재, 호르몬 과분비에 따른 다양한 임상 증후군, 종양 위치에 따른 전이 패턴 차이, 느린 성장 등으로 어려움이 있습니다.",
+          "evidence_quote": "The recognition and detection of endocrine and neuroendocrine neoplasms (NENs) in dogs and humans is challenging. This is, in part, because some are non-functional, and where hormone hypersecretion occurs, it can lead to a great variety of clinical syndromes. Additionally, metastatic patterns vary according to the primary anatomical site, and the typically slow growth of many endocrine tumours/NENs may lead to underestimation of biological aggressiveness and misclassification as benign disease."
+        },
+        {
+          "result": "인간 의학에서는 2025 WHO 분류 체계가 해부학적 부위별 histopathologic 평가와 immunohistochemistry를 포함한 진단 체계로 정립되어 있습니다.",
+          "evidence_quote": "In human medicine, diagnostic evaluation relies on a comprehensive, anatomical site-specific histopathologic framework, incorporating immunohistochemistry as formalised in the 2025 World Health Organisation classification of endocrine tumours/NENs."
+        },
+        {
+          "result": "수의학적 진단체계는 canine endocrine tumours/NENs 들에 대해 용어 표준화, 등급 체계, 검증된 임계값 구축이 부족하여 진단과 평가에 어려움이 있습니다.",
+          "evidence_quote": "In contrast, veterinary diagnostic frameworks for canine endocrine tumours/NENs remain comparatively underdeveloped, with limited standardisation of terminology, grading systems, and validated cut-off values."
+        },
+        {
+          "result": "canine insulinoma, phaeochromocytoma, cortisol-producing adrenocortical tumours이 대표적인 임상적으로 중요도가 높은 canine endocrine tumours/NENs로서 진단적 주의를 요합니다.",
+          "evidence_quote": "This review aims to raise awareness of key diagnostic challenges associated with the most clinically prevalent canine endocrine tumours/NENs: insulinoma, phaeochromocytoma and cortisol-producing adrenocortical tumours."
+        },
+        {
+          "result": "human diagnostic algorithm과의 비교를 통해 immunohistochemical 병리학적 특성 파악을 강조하여 향후 수의학 표준 진단 체계 개발이 필요함을 시사합니다.",
+          "evidence_quote": "Emphasis is placed on histopathological characterisation using immunohistochemistry, drawing parallels with established human diagnostic algorithms where appropriate."
+        },
+        {
+          "result": "수의학에서 진단 지침의 표준화는 임상 치료 향상뿐 아니라 comparative oncology 및 One Medicine 관점에서 연구 가치 향상에 기여할 수 있습니다.",
+          "evidence_quote": "The development of standardised diagnostic guidelines has the potential not only to improve clinical management of affected dogs but also to strengthen the translational value of spontaneous canine endocrine tumours/NENs within the field of comparative oncology and One Medicine."
+        }
+      ],
+      "authors_conclusion": "Canine endocrine tumours/NENs의 진단적 표준화가 부족한 현상이 임상적 진단과 병리학 연구를 저해하고 있으며, 인간 WHO 2025 분류 체계와의 연계를 통한 수의학적 진단 지침 및 분류 체계 개발이 시급하다고 결론지었습니다.",
+      "clinical_takeaway": "이 논문은 canine endocrine tumours와 neuroendocrine neoplasms에 관한 진단적 어려움을 조망하며, 인간 진단 체계와 비교하여 수의학 분야 진단 기준의 부재와 통일성 결여를 지적합니다. 특히 insulinoma, phaeochromocytoma, cortisol-producing adrenocortical tumours 세 종류의 종양에서 immunohistochemistry의 활용과 정확한 병리학적 평가가 중요하며, 이를 표준화하는 진단 지침 개발이 향후 임상적 치료 및 연구 가치 향상에 기여할 것임을 시사합니다. 다만 현재 근거는 문헌 고찰 수준으로 직접적인 임상 치료법 제시는 없으며, 진단 체계의 발전 여부와 임상 적용 가능성에 따른 결과 해석은 조심해야 합니다.",
+      "limitations": [
+        "본 연구는 문헌 고찰로서 전향적 임상 연구나 치료 효과 평가 데이터를 포함하지 않습니다.",
+        "canine endocrine tumours/NENs의 임상 진단 및 치료 결과 관련 구체적 수치나 비교 연구가 부족합니다.",
+        "인간 2025 WHO 분류 체계와의 비교에 중점을 두어 수의학 분야 내 독자적 진단 지침 개발에 있어 직접 실행 가능성은 아직 제한적입니다.",
+        "abstract level evidence로 전체 논문 전문 제공되지 않아 심층 분석에 한계가 있습니다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vco.70130",
+      "discovered_at": "2026-11-19 04:10:25.982737+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43046768/",
+      "summary_generated_at": "2026-11-19 04:16:52.650614+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Intrametatarsal pad injection of indocyanine green for near-infrared fluorescence imaging of the thoracic duct in four dogs and two cats with chylothorax.",
       "journal": "Veterinary Surgery",
@@ -6738,6 +6811,149 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Fluoroscopic characterization of pectus excavatum in dogs: a cross-sectional study.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag171",
+      "pmid": "42636345",
+      "pmcid": "PMC13502407",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag171",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42636345/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 pectus excavatum을 가진 개의 환자군에서 fluoroscopy를 이용하여 폐와 흉곽의 역학적 변화를 직접 관찰함으로써 임상 중증도와의 연관성을 평가하였고, 이는 실제 임상에서의 진단 및 중증도 평가에 직접적으로 관련된다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "respiratory"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "pectus excavatum",
+      "study_design": "retrospective",
+      "sample_size": 53,
+      "sample_size_quote": "Fifty-three client-owned dogs with pectus excavatum.",
+      "objective": "pectus excavatum을 가진 개의 fluoroscopic 소견을 특성화하고, 이 소견들이 임상 중증도와 어떤 연관이 있는지 평가했다.",
+      "study_methods": "53마리의 pectus excavatum 진단을 받은 클라이언트 소유 개를 대상으로 단면적 분석 연구를 수행했다. 연구 대상 개체는 호흡 증상과 치료 여부를 기준으로 저중증도군과 고중증도군으로 분류되었다. fluoroscopic 검사를 통해 pectus excavatum 자체의 소견과 동반 호흡기 이상 소견을 조사하였으며, 단변량 및 다변량 분석으로 임상 중증도와의 연관성을 평가하였다.",
+      "one_sentence_summary": "53마리의 pectus excavatum이 있는 개를 대상으로 fluoroscopic 검사를 실시하였다. 연구에서 paradoxical sternal movement가 임상 중증도와 독립적인 연관성을 보였으며(OR 3.71, 95% CI 1.03-13.4; P = .045), 흉곽 높이 감소 비율이 고중증도군(0.140 [IQR 0.100-0.228])에서 저중증도군(0.097 [IQR 0.064-0.133])보다 유의하게 높았다(P = .04). 모든 개에서 mainstem bronchial collapse가 관찰되었고(53/53, 100%), 경부 폐엽 탈장은 50/53마리(94%)에서 나타났다.",
+      "key_results": [
+        {
+          "result": "paradoxical sternal movement가 임상 중증도와 독립적으로 연관되었다(OR 3.71, 95% CI 1.03-13.4; P = .045).",
+          "evidence_quote": "Paradoxical sternal movement was independently associated with clinical severity (odds ratio [OR] 3.71, 95% CI, 1.03-13.4; P = .045)."
+        },
+        {
+          "result": "고중증도군의 thoracic height reduction ratio가 저중증도군보다 유의하게 높았다(0.140 [IQR, 0.100-0.228] 대 0.097 [IQR, 0.064-0.133]; P = .04).",
+          "evidence_quote": "Thoracic height reduction ratio was significantly higher in the high-severity group (0.140 [IQR, 0.100-0.228]) compared with the low-severity group (0.097 [IQR, 0.064-0.133]; P = .04)."
+        },
+        {
+          "result": "mainstem bronchial collapse가 모든 개(53/53, 100%)에서 관찰되었다.",
+          "evidence_quote": "Mainstem bronchial collapse was present in all dogs (53/53, 100%"
+        },
+        {
+          "result": "경부 폐엽 탈장이 50/53마리(94%; 95% CI, 84%-99%)에서 나타났다.",
+          "evidence_quote": "and cervical lung lobe herniation in 50/53 (94%; 95% CI, 84%-99%)."
+        },
+        {
+          "result": "대부분의 다른 fluoroscopic 변수는 임상 중증도와 유의한 연관이 없었다.",
+          "evidence_quote": "Most other fluoroscopic variables showed no significant associations with clinical severity."
+        }
+      ],
+      "authors_conclusion": "Paradoxical sternal movement과 thoracic height reduction의 증가가 임상 중증도의 보조 지표 역할을 할 수 있으며, 높은 빈도의 기관지 폐쇄와 경부 폐엽 탈장은 pectus excavatum과 이러한 기도 이상 간의 연관성을 시사한다.",
+      "clinical_takeaway": "pectus excavatum을 가진 개에서 paradoxical sternal movement와 흉곽 높이 감소 정도가 심한 경우 임상 증상이 더 심할 가능성이 있다. 따라서 fluoroscopy를 통한 이들 소견의 평가가 임상 중증도 판정에 도움을 줄 수 있다. 특히 모든 대상에서 관찰된 mainstem bronchial collapse와 높은 빈도의 cervical lung lobe herniation은 pectus excavatum이 단순 흉곽 변형 뿐 아니라 기도 구조 이상과도 밀접히 관련될 수 있음을 시사하며, 임상에서 호흡기 증상을 평가할 때 이러한 동반 이상에 대한 고려가 필요하다. 다만 대부분의 다른 fluoroscopic 지표는 중증도와의 연관성이 없어 진단 및 예후 판단에서 제한적으로 적용해야 하며, 본 연구가 단면적 관찰 결과이므로 원인-결과 관계 해석에는 주의가 필요하다.",
+      "limitations": [
+        "단면적 연구 디자인으로 인과관계 확립 불가",
+        "추가적인 장기 추적 관찰 데이터 부족",
+        "fluoroscopic 평가의 주관성 가능성",
+        "대상군의 임상적 다양성 및 중증도 분포 제한적"
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상에서 pectus excavatum 개의 호흡기 증상과 중증도 평가에 직접 적용 가능한 fluoroscopic 소견을 명확히 제시하여 진단 및 관리에 실질적인 도움을 줄 수 있기 때문에 권고한다.",
+      "id": "doi:10.1093/jvimsj/aalag171",
+      "discovered_at": "2026-09-17 05:57:03.732054+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42636345/",
+      "summary_generated_at": "2026-11-19 04:21:47.149999+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Serum peptidomic profiling identifies systemic JAK-STAT and PI3K-Akt pathway dysregulation in cats with chronic gingivostomatitis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag169",
+      "pmid": "42641070",
+      "pmcid": "PMC13505864",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag169",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42641070/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 임상에서 확인된 만성 구강염(feline chronic gingivostomatitis, FCGS)을 가진 고양이 환자를 대상으로 혈청 peptidomic 분석을 시행하여, 질병의 전신적 분자 기전을 해석하고 임상적 바이오마커 및 치료 타겟을 제안하였으며, 결과적으로 임상 현장에 직접 적용 가능한 혁신적 정보와 진단 및 치료 방향을 제공한다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "feline chronic gingivostomatitis",
+      "study_design": "case_series",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "임상 및 조직학적으로 진단된 FCGS 고양이와 건강한 대조군 고양이의 혈청 peptidomic 프로파일을 규명하고, 질병 발병과 치료 반응에 관여하는 전신적 바이오마커와 신호 전달 경로를 탐색한다.",
+      "study_methods": "고양이 34마리(Feline chronic gingivostomatitis, FCGS 군) 및 18마리(건강한 대조군)를 대상으로 한 전향적 case-control 연구로, FIV, FeLV, 그리고 고양이 심장사상충 감염 여부를 스크리닝하였다. 혈청 샘플을 채취 후 MALDI-TOF MS로 peptide mass fingerprinting을 진행하고, 나노 LC-MS/MS를 이용하여 펩타이드 서열과 정량을 상세 분석하였다. ShinyGO, KEGG 등 데이터베이스를 활용한 기능적 풍부화 분석과 단백질 상호작용 네트워크 분석을 수행하였다.",
+      "one_sentence_summary": "임상 및 조직병리학적으로 확인된 34마리의 FCGS 고양이와 18마리 건강 고양이를 대상으로 혈청 peptidomic 분석을 시행하였다. MALDI-TOF MS 및 nano LC-MS/MS 분석 결과, IL-6, IFN-γ 등 15개의 단백질 중 13개가 유의하게 증가하였고, JAK-STAT와 PI3K-Akt 신호전달 경로가 병태생리 핵심으로 확인되었다. FIV와 FeLV 감염 유병률은 그룹 간 유의한 차이가 없었으며, 이러한 전신적 단백질 프로파일은 FCGS의 면역 및 염증 기전 규명과 치료개발에 중요한 기초자료를 제공한다.",
+      "key_results": [
+        {
+          "result": "MALDI-TOF MS 및 nano LC-MS/MS 분석에서 FCGS 고양이와 건강한 대조군을 명확하게 구분하는 혈청 단백질 서명을 확인하였다.",
+          "evidence_quote": "Both MALDI-TOF MS and nano LC-MS/MS identified distinct systemic protein signatures that distinguished FCGS from controls."
+        },
+        {
+          "result": "JAK-STAT 및 PI3K-Akt 신호전달 경로가 FCGS 치료와 연관된 8개 핵심 단백질(CDKN1A, CASP1, IL-6 등) 중심의 네트워크에서 유의미하게 도출되었다.",
+          "evidence_quote": "Network analysis identified 8 key proteins (eg, p21(CDKN1A), CASP1, IL-6) that interact with FCGS drug treatments. These systemic changes focus on the Janus kinase-signal transducers and activators of transcription (JAK-STAT) and phosphatidylinositol 3-kinase (PI3K)/protein kinase B (AKT; PI3K-Akt) pathways"
+        },
+        {
+          "result": "MALDI-TOF MS를 이용한 혈청 peptide mass fingerprinting(PMF)에서 FCGS와 대조군 고양이 간 명확한 클러스터 분리가 관찰되었다.",
+          "evidence_quote": "Serum peptide profiling and classification by MALDI-TOF MS The initial screening of serum peptides was performed using MALDI-TOF MS to evaluate overall peptidome differences. Spectral analysis confirmed separation of the study groups: PLS-DA plots showed clear, distinct clusters between the FCGS and CTRL groups in both 2D and 3D views (Figure 1A and B)."
+        },
+        {
+          "result": "FCGS 그룹의 혈청에서 IL-6, IFN-γ, CASP1, SAA 등을 포함한 다수의 염증 관련 단백질이 유의하게 상승하였다.",
+          "evidence_quote": "Among these, 13 proteins were upregulated in the FCGS group including serum amyloid A protein (SAA), inhibin β A chain (INHBA), glucose-6-phosphatase catalytic subunit 1 (G6PC1), sodium-dependent phosphate transporter 2 (SLC20A2)/(PiT-2), cyclin-dependent kinase inhibitor 1 (CDKN1A), major prion protein (PrP), CD antigen CD230, macrophage colony-stimulating factor 1 receptor (CSF1R), β-glucuronidase (GUSB), tumor necrosis factor ligand superfamily member 6 (FASLG), caspase-1 (CASP1), IL-6, tyrosinase-related protein 1 (TYRP1), and interferon γ (IFN-γ)."
+        },
+        {
+          "result": "IL-6와 IFN-γ가 JAK-STAT 경로 내 주요 허브 단백질로 기능하며, CDKN1A(p21)의 조절 이상과 함께 만성 염증을 증폭시키는 것으로 분석되었다.",
+          "evidence_quote": "As a primary target of the p53 tumor suppressor gene (TP53), CDKN1A encodes p21, which induces cell cycle arrest and prevents over-activation of macrophages and production of pro-inflammatory cytokines.32,33 In inflammatory states such as rheumatoid arthritis (RA) or FCGS, the downregulation of CDKN1A potentially is involved in a loss of this inhibitory “brake,” facilitating activation of pSTAT-1 and the subsequent release of IL-6 and TNF-α.34 Conversely, the over-expression of CDKN1A has been shown to down-regulate these pro-inflammatory mediators while up-regulating the anti-inflammatory cytokine IL-10, thereby inhibiting proliferation of inflammatory cells.34,35 In our study, IL-6 emerged as a primary hub within the interaction networks, reflecting its role as a critical immunoregulatory cytokine that directs systemic inflammation through the JAK–STAT signaling axis.36 The observed upregulation of IL-6 is a likely driver of the clinicopathological hallmarks of FCGS, including polyclonal hypergammaglobulinemia and increased concentrations of acute phase proteins.37,38 The addition of IL-6 signaling exacerbates this dysregulation via separate route combinations. Although conventional IL-6 signaling largely stimulates the JAK–STAT3 pathway, IL-6 trans-signaling, a substantial cause of chronic disease, also recruits the PI3K–Akt and MEK–ERK pathways.39 This simultaneous activation is required for the induction of chemokines such as MCP-1, which perpetuates the recruitment of inflammatory cells into diseased tissues.39 Therefore, the dominance of IL-6 and the relative deficiency or functional isolation of CDKN1A identified in our serum peptidomic network provides a molecular rationale for the persistent, proliferative inflammation observed in FCGS."
+        },
+        {
+          "result": "특히 CDKN1A (p21)는 만성 염증 억제와 세포주기 조절을 담당하는 분자로, FCGS에서 면역 불균형 조절 기전에 관여한다.",
+          "evidence_quote": "Functional analysis indicated that these proteins are involved in inflammatory pathways, with the JAK–STAT and PI3K-Akt signaling pathways predominant in both serum and salivary profiles, further supporting a unified signaling network driving the disease.15 The synthesis of current evidence suggests that CDKN1A (p21) serves as a pivotal molecular checkpoint that suppresses chronic inflammation by modulating the JAK–STAT and PI3K-Akt signaling axes."
+        }
+      ],
+      "authors_conclusion": "FCGS는 단순한 구강 국소 질환을 넘어서 전신적 면역 및 염증 신호 경로의 복합적 장애로 이해되어야 한다. 혈청 peptidomic 분석은 IL-6/JAK-STAT 및 PI3K-Akt 경로가 중심적인 역할을 하며, 이를 표적으로 하는 정밀 치료 전략 개발의 기초를 제공한다.",
+      "clinical_takeaway": "임상적으로 만성 구강염을 가진 고양이 환자는 IL-6과 IFN-γ를 중심으로 한 JAK-STAT 및 PI3K-Akt 신호전달 경로의 전신적 이상이 주요 병변 기전이다. 이러한 분자 표적 분석은 기존 수술 치료에 반응하지 않는 난치성 FCGS 환자에서 JAK 억제제 또는 PI3K-Akt 길항제와 같은 맞춤형 면역조절 치료의 근거를 마련한다. 또한, 혈청 peptidome은 비침습적으로 질환 상태를 모니터링할 수 있는 바이오마커를 제시하는 중요한 도구임을 보여준다. 다만 본 연구는 단면적 관찰 연구이며, 의료중단 기간, 동시 감염 상태 차이, 단일 기관 모집 등의 제한점이 있어 향후 대규모 전향적 연구에서 해당 바이오마커의 임상 적용도가 추가 평가해야 한다.",
+      "limitations": [
+        "단면적 관찰 연구 설계로 인과관계 증명에 한계가 있다.",
+        "7일간 약제 중단 기간이 짧아 이전 치료의 장기 영향 배제 불가.",
+        "연구 대상 고양이 중 중증 FCGS 환자 위주로 모집되어 초기 또는 경증 환자에 적용 제한적.",
+        "단일 기관에서의 연구로 결과 일반화에 한계가 있다.",
+        "FIV, FeLV와 같이 동시감염 상태별 세부 분석은 부족하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상에서 흔하게 접하는 FCGS 고양이를 대상으로 직접 분석하여, 임상 증상과 조직학적 진단을 근거로 분자병리학적 기전을 밝히고 구체적 치료 타겟(JAK-STAT 및 PI3K-Akt 경로)을 제시한 점에서 임상적 가치가 크다. 또한 전신 및 구강 내 염증 조절에 관한 현행 치료에 실질적 근거를 제공하기 때문에 임상 진료에 적용 가능성이 높다.",
+      "id": "doi:10.1093/jvimsj/aalag169",
+      "discovered_at": "2026-09-17 05:57:03.725930+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13505864",
+      "summary_generated_at": "2026-11-19 04:19:24.404912+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Presumed cervical subperiosteal vertebral hemorrhage in nine greyhounds.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -8380,6 +8596,76 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Generalised absence seizures in Cavalier King Charles Spaniels presenting with paroxysms: eight cases (2016-2025).",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": null,
+      "online_publication_date": "2026-05-18",
+      "publication_date_raw": "2026-Sep",
+      "doi": "10.1111/jsap.70141",
+      "pmid": "42152592",
+      "pmcid": "PMC13539681",
+      "publisher_url": "https://doi.org/10.1111/jsap.70141",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42152592/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 Cavalier King Charles Spaniels에서 발생하는 generalised absence seizures의 임상 및 영상뇌파학적 특징을 실제 환자 사례로 평가하여, 수의 임상에서 absence seizure 진단 및 치료에 직접적으로 응용 가능한 근거를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "generalised absence seizures in Cavalier King Charles Spaniels",
+      "study_design": "retrospective",
+      "sample_size": 8,
+      "sample_size_quote": "Data from eight dogs were included for review.",
+      "objective": "Cavalier King Charles Spaniels에서 absence seizures와 연관된 임상 및 영상뇌파(EEG) 소견을 기술하고 이해하고자 하였다.",
+      "study_methods": "2016년부터 2025년까지 두 수의과 전문병원에 내원한 CKCS에서 absence seizures로 진단된 환자 중, 최소 1회의 무선 영상-뇌파(ambulatory video-EEG) 검사가 시행된 8두를 후향적으로 포함하였다. 각 환자의 임상증상, 신경학적 검사결과, MRI 및 CSF 분석 결과를 기록하였고, 영상-EEG는 표준 15-리드 전극 방법으로 병원에서 실시하였다. 영상-EEG 분석은 board-certified neurologist가 수행하였고, ictal discharge는 3-4 Hz, spike-and-wave complexes로 정의되었다. 치료 전후 추적 관찰과 영상-EEG 재검사가 일부 환자에게 시행되어 치료 반응을 평가하였다.",
+      "one_sentence_summary": "본 연구는 2016년부터 2025년 사이 두 수의과 전문병원에서 absence seizures로 진단받은 8마리의 Cavalier King Charles Spaniels를 대상으로 후향적 증례군 연구를 실시하였다. 영상-EEG 상에서 모든 환자가 3-4 Hz, generalised onset spike-and-wave complexes를 보였으며, 임상 증상으로는 myoclonus(5/8)와 behavioural arrest(3/8)가 관찰되었다. 6마리의 치료 추적 중 5마리(83.3%)에서 발작 빈도가 50% 이상 감소하였고, 4마리(100%)는 영상-EEG에서 ictal discharge가 개선되었다.",
+      "key_results": [
+        {
+          "result": "발작 증상으로 myoclonus가 5/8마리 (62.5%), behavioural arrest가 3/8마리 (37.5%)에서 관찰되었으며, 4/8마리는 motor 증상 없이 10초 이상 지속되는 발작도 있었다.",
+          "evidence_quote": "Ictal discharges were time-locked to myoclonus (5/8, 62.5%), behavioural arrest (3/8, 37.5%) or of ≥10 seconds without motor manifestations (4/8, 50.0%)."
+        },
+        {
+          "result": "치료를 받은 6마리 중 5마리 (83.3%)는 집사가 보고한 발작 빈도 50% 이상 감소를 보였고, 4마리 (100%) 모두 추적 video-EEG에서 ictal discharge 정도가 호전되었다.",
+          "evidence_quote": "Following treatment with anti-seizure medication, a reduction in paroxysm frequency by ≥50% was reported by caregivers of 5/6 (83.3%) dogs, with 4/4 (100%) demonstrating improved ictal discharge severity on follow-up video-electroencephalography."
+        },
+        {
+          "result": "한 마리는 조절되지 않는 absence seizure로 입원 치료 중 사망하였다.",
+          "evidence_quote": "One dog was hospitalised due to poor absence seizure control and ultimately euthanased despite inpatient treatments."
+        },
+        {
+          "result": "fly catching 증상은 2마리에서 주요 증상이었으나, EEG로 발작과 확실히 연관된 경우는 한 마리 뿐이었고, 다른 한 마리는 beta-background 활동과 연관되었다.",
+          "evidence_quote": "Although fly catching was a primary complaint in two dogs, it was only captured in one, being time-locked to beta-background activity."
+        },
+        {
+          "result": "환자들은 주로 6.2세 (범위 1.1~12.9세)의 나이로 평가되었고, 임상적 증상은 주로 episodic myoclonus(62.5%), fly catching(25.0%) 및 행동 정지였다.",
+          "evidence_quote": "The median age at evaluation was 6.2 years (range 1.1 to 12.9). The most common presenting primary complaint was episodic myoclonus (5/8, 62.5%) (Supporting Information S1), followed by fly catching (2/8, 25.0%), whereby all caregivers reported a chronic and escalating event frequency to several events per day, with near‐continuous events in one dog (Case 2)."
+        }
+      ],
+      "authors_conclusion": "본 연구는 CKCS에서 generalised absence seizures가 임상과 영상뇌파학적 소견으로 확인된 첫 증례군 보고로, 인간의 absence seizure 정의에 부합하는 패턴과 임상 양상을 보였다. 영상-EEG가 absence seizure 진단과 특성 규명에 필수적임을 시사하며, 향후 보다 큰 규모와 전향적 연구 및 개별 ASMs(항발작제) 치료 반응 비교가 필요하다.",
+      "clinical_takeaway": "Cavalier King Charles Spaniels에서 generalised absence seizures는 주로 myoclonus나 행동 정지와 연관되어 나타나며, 일부는 10초 이상의 무운동 전기발작 형태를 보입니다. 영상-EEG를 통한 진단이 반드시 필요하며, 적절한 항발작 치료 시 발작 빈도가 유의미하게 감소하여 임상 개선이 기대됩니다. 그러나 fly catching 증상은 이 발작 증후군과 명확히 연결되지 않았으므로, fly catching 단독 증상에 대한 신중한 평가가 요구됩니다. 본 연구는 소규모 후향적 증례군이며, 다양한 임상양상과 치료 반응을 더 잘 이해하기 위한 전향적 연구가 필요합니다.",
+      "limitations": [
+        "후향적 증례군 연구로 표준화된 이력 수집 및 추적 관찰이 제한적이다.",
+        "중증 환자군만 포함된 의뢰병원 기반 샘플로 일반 CKCS 전체를 대표하지 못한다.",
+        "대조군이 없어 임상 증상과 EEG 이상이 정상 CKCS에서 무조건 병적인 것이라고 단정할 수 없다.",
+        "치료군 내 소수만이 추적 영상-EEG를 받았으며, 성공적인 치료자 중심의 추적 편향 가능성이 있다.",
+        "EEG 전극 위치 표준화가 객관적으로 확립되어 있지 않아 해석상의 한계가 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 실제 임상 환자 CKCS에서 absence seizures 진단과 관련된 명확한 영상-EEG 소견 및 치료 효과를 제시하여 직접적으로 수의 신경학 임상 현장에 유의미한 정보를 제공하기 때문에 임상 적용에 권장된다.",
+      "id": "doi:10.1111/jsap.70141",
+      "discovered_at": "2026-09-16 01:13:31.985565+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13539681",
+      "summary_generated_at": "2026-11-19 04:20:43.236752+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -8678,19 +8964,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 452
+        "received": 453
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 543
+        "received": 540
       }
     },
-    "started_at": "2026-11-18T04:17:38.564294+00:00",
-    "since": "2026-10-04",
-    "processed": 8,
+    "started_at": "2026-11-19T04:10:24.548816+00:00",
+    "since": "2026-10-05",
+    "processed": 4,
     "refreshed": 0,
-    "failed": 7,
-    "deferred": 1092,
-    "finished_at": "2026-11-18T04:23:15.205855+00:00"
+    "failed": 20,
+    "deferred": 1084,
+    "finished_at": "2026-11-19T04:21:48.509742+00:00"
   }
 }
