@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T04:21:48.645312+00:00",
-  "last_successful_collection": "2026-11-19T04:10:24.548761Z",
+  "generated_at": "2026-11-20T04:06:31.295287+00:00",
+  "last_successful_collection": "2026-11-20T03:58:05.219317Z",
   "mode": "live",
   "papers": [
     {
@@ -368,6 +368,71 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43013978/",
       "summary_generated_at": "2026-11-13 03:26:00.847144+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Reassessing outcome and adverse events associated with ventral slot decompression for cervical intervertebral disc disease in dogs: 241 cases (2021-2024).",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-11-02",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Nov-02",
+      "doi": "10.1093/jvimsj/aalag296",
+      "pmid": "43055505",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag296",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43055505/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 미국에서 ventral slot decompression (VSD) 수술을 받은 개를 대상으로 하여, 특히 최근 프렌치 불독의 증가와 관련된 adverse events와 수술 결과를 평가했으므로 임상적으로 직접 관련성이 높습니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "neurology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "cervical intervertebral disc disease",
+      "study_design": "retrospective",
+      "sample_size": 241,
+      "sample_size_quote": "A total of 241 dogs from 4 private neurology practices treated between 2021 and 2024.",
+      "objective": "미국에서 프렌치 불독의 인구 증가 이후 ventral slot decompression 수술을 받은 cervical intervertebral disc herniation 환자에서 adverse events와 수술 결과를 평가하고, adverse events는 증가했으나 결과에는 차이가 없을 것이라는 가설을 검증하고자 하였다.",
+      "study_methods": "2021년부터 2024년까지 미국 4개 사설 신경과 병원에서 ventral slot decompression 수술을 받은 241마리 개를 대상으로 한 후향적 증례 연구이다. 주요 평가 항목은 수술 후 adverse events 발생률과 수술 결과(우수, 양호, 불량)이며, 체중, 수술 부위 등의 변수와 수술 결과 간 상관관계를 검토하였다.",
+      "one_sentence_summary": "미국 4개 신경과 병원에서 2021~2024년에 ventral slot decompression 수술을 받은 241마리의 개를 후향적으로 분석하였다. 대부분의 개에서 excellent (182/241) 또는 good (34/241) 결과를 보였고, poor 결과는 9례였다. 전체 adverse event 발생률은 25% (60/241)였으며, 불량 결과와는 체중 증가, 높은 AE 등급 및 중증도, caudal disc space, lateralized extruded material이 유의하게 연관되었다. 성별, 수술 시간, 마취 시간, 수술자 경험 등과는 연관이 없었다.",
+      "key_results": [
+        {
+          "result": "전체 241마리 개 중 182마리는 excellent한 결과를 보였고, 34마리는 good, 9마리는 poor 결과를 보였다.",
+          "evidence_quote": "Most cases had excellent or good outcomes (n = 182/241 and 34/241, respectively), with poor outcomes in 9 cases."
+        },
+        {
+          "result": "전체 adverse event 발생률은 25% (60/241)였다.",
+          "evidence_quote": "Overall AE rate was 25% (n = 60/241)."
+        },
+        {
+          "result": "부정적 수술 결과는 체중 증가(P < .001), 높은 AE 등급(P < .001), 높은 AE 중증도(P < .001), caudal disc spaces 위치(P = .04), 그리고 lateralized extruded material 존재(P = .01)와 유의하게 연관되었다.",
+          "evidence_quote": "A negative outcome was significantly associated with increased body weight (P < .001), higher AE grades (P < .001), higher AE severity (P < .001), caudal disc spaces (P = .04), and lateralized extruded material (P = .01)."
+        },
+        {
+          "result": "수술 결과는 성별, 수술·마취 시간, 수술자 경험, 이전 ventral slot 수술, perioperative hypotension, 출혈과 유의한 연관이 없었다.",
+          "evidence_quote": "Outcome was not significantly associated with sex, surgical or anesthetic duration, surgeon experience, prior ventral slot surgery, perioperative hypotension, or hemorrhage."
+        }
+      ],
+      "authors_conclusion": "프렌치 불독의 증가에도 불구하고, 미국 개에서 ventral slot decompression 수술은 여전히 유리한 결과를 보였으며, adverse events는 증가했으나 예후에 큰 영향을 미치지 않았다.",
+      "clinical_takeaway": "최근 미국에서 프렌치 불독의 급증에도 불구하고, cervical IVDH 환자에서 ventral slot decompression 수술은 대체로 우수하거나 양호한 결과를 보임을 알 수 있습니다. 특히 체중이 많거나 caudal disc 공간에 병변이 있으며 lateralized extruded material이 있는 경우 부정적 수술 결과 및 합병증 위험이 상승하므로, 이러한 환자들의 수술 계획과 예후 상담 시 주의가 필요합니다. 반면, 수술 및 마취 시간, 수술자 경험은 결과에 유의한 영향을 미치지 않아 다양한 환경에서 적용 가능성이 있습니다. 다만 후향적 연구이며, AE 평가의 세부 기준과 장기 추적 결과는 명확하지 않아 결과 해석에 한계를 둡니다.",
+      "limitations": [
+        "후향적 연구로 인과관계 판단이 제한적이다.",
+        "AE에 대한 평가 기준과 중증도 분류에 관한 세부 정보가 부족하다.",
+        "장기간 추적 관찰 결과가 부족하다.",
+        "미국 내 4개 병원 중심으로 지역 대표성에 제한이 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 대규모 임상 케이스(241마리)를 대상으로 ventral slot decompression 수술 후 결과 및 합병증 평가를 통해 현재 임상 상황에 맞는 최신 근거를 제공하며, 프렌치 불독 증가라는 종 변화에 따른 수술 결과를 구체적으로 분석해 임상 적용이 직접적이고 유용한 정보를 제공하므로 추천한다.",
+      "id": "doi:10.1093/jvimsj/aalag296",
+      "discovered_at": "2026-11-20 03:58:06.674575+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43055505/",
+      "summary_generated_at": "2026-11-20 04:02:15.019495+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -6811,6 +6876,80 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Bartonella vinsonii subsp. berkhoffii genotype III in a dog with recurrent fever and panniculitis coinfected with Babesia odocoilei-like sp.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag174",
+      "pmid": "42636340",
+      "pmcid": "PMC13502404",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag174",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42636340/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 개에서 발생한 Bartonella vinsonii subsp. berkhoffii genotype III 감염과 Babesia odocoilei-like 동시감염 사례를 다루며, 개 임상에서 반복되는 발열과 panniculitis의 관련성을 직접 평가하였다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Bartonella vinsonii subsp. berkhoffii genotype III 및 Babesia odocoilei-like 동시감염의 임상 양상과 치료 결과",
+      "study_design": "case_report",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "반복되는 발열과 panniculitis를 동반한 개에서 B. vinsonii subsp. berkhoffii genotype III 감염과 Babesia odocoilei-like 종의 동시감염의 임상 양상, 진단, 치료 결과를 기술한다.",
+      "study_methods": "그리스 북부에 거주하는 2세 암컷 중성화 혼합견에서 5개월 동안 간헐적 반복 열과 피하결절이 나타난 증례를 대상으로 하였다. 피하 병변에 대한 조직병리검사와 PCR, 혈액 PCR, 면역형광항체법(IFA)을 통해 Bartonella 및 Babesia 감염 여부를 평가하였으며, 도독시클린, 엔로플록사신, 아지스로마이신 복합 항생제 요법을 6개월간 시행하였다. 추가로 동거묘 2마리의 Bartonella 및 Babesia 감염 여부도 검사하였다. 경과 관찰은 치료 중 및 치료 종료 후 15개월까지 진행하였다.",
+      "one_sentence_summary": "그리스의 2세 중성화 혼합견에서 5개월에 걸쳐 반복적인 발열과 피하 panniculitis가 관찰되었고, Bartonella vinsonii subsp. berkhoffii genotype III가 피하 결절 조직에서 PCR로 확인되었으며 Babesia odocoilei-like 종 DNA는 77일 간격 두 차례 혈액 검사에서 증폭되었다. 도독시클린, 엔로플록사신, 아지스로마이신 복합 치료 6개월 후 임상 증상이 호전되었고 치료 종료 15개월 후에도 건강한 상태가 유지되었다. 이 사례는 Bvb genotype III가 반복 발열과 panniculitis를 일으킬 수 있음을 시사한다.",
+      "key_results": [
+        {
+          "result": "Bartonella vinsonii subsp. berkhoffii genotype III DNA가 피하 panniculitis 조직에서 PCR로 증폭 및 염기서열 분석을 통해 확인되었다.",
+          "evidence_quote": "Bartonella vinsonii subsp. berkhoffii genotype III DNA was amplified and sequenced from an excised SC nodule."
+        },
+        {
+          "result": "Babesia odocoilei-like species DNA가 77일 간격으로 채취한 2개의 혈액 샘플에서 PCR로 검출되었다.",
+          "evidence_quote": "Babesia odocoilei-like species DNA was amplified and sequenced from 2 blood samples obtained 77 days apart at the time of febrile episodes."
+        },
+        {
+          "result": "도독시클린, 엔로플록사신, 아지스로마이신 복합 항생제 치료 6개월 후와 치료 종료 15개월 후에도 반려견은 건강한 상태를 유지하였다.",
+          "evidence_quote": "Treatment with doxycycline, enrofloxacin, and azithromycin for 6 months resulted in a favorable clinical outcome. Fifteen months later, the dog remained healthy."
+        },
+        {
+          "result": "반복되는 발열과 panniculitis가 Bvb genotype III 감염에서 발생할 수 있다.",
+          "evidence_quote": "This case indicates that relapsing fever and panniculitis are possible manifestations of B vinsonii subsp. berkhoffii genotype III infection in dogs."
+        },
+        {
+          "result": "혈액 PCR은 간헐적 또는 저량 혈증으로 인해 Bartonella 감염 진단에 제한적일 수 있으나, 조직 PCR이 진단에 더 민감할 수 있다.",
+          "evidence_quote": "Repeated blood cultures were negative for Bartonella spp., likely because of intermittent or low-level bacteremia, long-term blood storage and shipment to the IPRL-NCSU, and the fastidious growth requirements of Bartonella species.2 Compared with qPCR, dPCR can have higher diagnostic sensitivity.12,15 However, blood and enrichment blood culture qPCR and dPCR results were negative, despite amplification and sequencing of Bvb genotype III from the skin biopsy specimen. Tissue samples may offer greater sensitivity than blood, because studies have reported higher Bartonella DNA prevalence in skin and SC tissue of dogs, suggesting tissue tropism.1,20 Limitations of blood PCR testing were highlighted in a child with seizures in whom enrichment blood culture, qPCR and dPCR were negative, whereas enrichment brain biopsy cultures were PCR positive for B henselae DNA.21 At different time points, low titers of 1:40 for B henselae (commercial laboratory) and 1:64 for Bvb genotype III (research laboratory) were documented.1,3 Bartonella serology and PCR or enrichment culture-based PCR results often are poorly correlated.2 Also, seroreactivity does not confirm causation, because healthy dogs may be seroreactive.2 Histopathology and Warthin–Starry silver staining failed to identify organisms, consistent with reports of limited sensitivity of histopathology in visualizing these bacteria.8 For unclear reasons, poor correlation exists between the severity of histologic lesions and bacterial numbers in dogs with granulomatous lesions."
+        },
+        {
+          "result": "Babesia odocoilei-like 종 감염의 임상적 역할은 불확실하며, 당시 빈혈이나 혈소판 감소증은 관찰되지 않았다.",
+          "evidence_quote": "The DNA sequencing of the ITS1 region supported infection with a Babesia species most similar to B odocoilei but infection with the closely related B venatorum could not be excluded, because GenBank currently has no ITS1 sequence for this species, known to infect ruminants and humans in Europe.16 To our knowledge, only 3 cases of babesiosis in dogs, caused by B odocoilei-like parasites in splenectomized dogs, have been reported in Japan.24 A novel strain, closely related to B odocoilei, also has been identified in splenectomized humans in Italy and Austria, and in Ixodes ricinus ticks in Slovenia.11 Although the temporal association of Babesia spp. amplification with the febrile episodes in this dog suggests a causal association, the role of B odocoilei-like infection remains unclear and additional studies must clarify its clinical relevance and that of Babesia/Bartonella coinfection. Importantly, anemia and thrombocytopenia were never documented in this dog during the 10-month study period."
+        }
+      ],
+      "authors_conclusion": "Bartonella vinsonii subsp. berkhoffii genotype III가 반복 발열과 panniculitis의 원인일 수 있음을 보고하며, Babesia odocoilei-like 동시감염도 확인되었으나 임상적 역할은 명확하지 않다. 본 증례는 혈액 검사만으로는 Bartonella 감염 진단이 어려울 수 있음을 강조하며, 장기간 항생제 치료가 필요할 수 있음을 제안한다.",
+      "clinical_takeaway": "이 연구는 임상에서 반복되는 발열과 피부 panniculitis로 내원한 개에서 Bartonella vinsonii subsp. berkhoffii genotype III 감염이 원인일 수 있음을 보여준다. Bartonella 혈액 PCR 검사는 간헐적 저혈증 특성상 민감도가 낮을 수 있어, 피하 병변 조직 검사와 PCR가 진단에 유용하다. 동시 발견된 Babesia odocoilei-like 감염의 임상적 중요성은 불확실하나, 주의 깊은 관찰이 필요하다. 본 증례는 도독시클린, 엔로플록사신, 아지스로마이신 복합요법의 6개월 치료가 임상 증상을 호전시켰고, 장기 경과 관찰에서 재발이 없었음을 시사한다. 다만 사례 보고라는 한계와 항생제 치료의 최적 기간 및 동시감염 관리에 대한 추가 연구의 필요성이 있다.",
+      "limitations": [
+        "단일 증례 보고이며 무작위 대조시험이 아니므로 일반화에 제한이 있다.",
+        "Bartonella 혈액 PCR과 조직 PCR 간 민감도 차이로 진단의 불확실성이 존재한다.",
+        "Babesia odocoilei-like 감염의 임상적 역할이 명확히 규명되지 않았다.",
+        "추가적인 통제 집단과 장기간 관찰 연구가 필요하다.",
+        "추가적 치료군 비교가 없어 최적 치료법에 대한 결론 도출이 어려움."
+      ],
+      "recommended": true,
+      "recommendation_reason": "반복적인 발열과 panniculitis를 동반한 개 임상에서 Bartonella vinsonii subsp. berkhoffii genotype III 감염의 가능성을 시사하는 직접 증거로서, 조직검사와 다중 PCR 진단의 중요성을 명확히 알리고 치료 시사점을 제공한다.",
+      "id": "doi:10.1093/jvimsj/aalag174",
+      "discovered_at": "2026-09-17 05:57:03.738934+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13502404",
+      "summary_generated_at": "2026-11-20 04:02:57.087193+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Fluoroscopic characterization of pectus excavatum in dogs: a cross-sectional study.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -8666,6 +8805,139 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Effect of a 3.5 mm Tibial Plateau Leveling Osteotomy Locking Compression Plate on Serial Postoperative Tibial Plateau Angle Maintenance, Short-Term Osteotomy Healing, and Complication Rates in 45 to 70 kg Dogs.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": null,
+      "online_publication_date": "2026-05-15",
+      "publication_date_raw": "2026-Nov",
+      "doi": "10.1055/a-2865-3650",
+      "pmid": "42140230",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-2865-3650",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42140230/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 45~70 kg 체중의 개에서 cranial cruciate ligament disease에 대해 3.5 mm TPLO locking compression plate를 적용한 후 tibial plateau angle 유지, 뼈 치유 및 합병증 발생률을 후향적으로 분석하여 임상적 의의를 갖습니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "orthopedics"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "cranial cruciate ligament disease",
+      "study_design": "retrospective",
+      "sample_size": 36,
+      "sample_size_quote": "Eight out of 36 dogs experienced postoperative complications",
+      "objective": "45~70 kg 체중의 개에서 3.5 mm TPLO locking compression plate가 수술 후 tibial plateau angle 유지, 단기 osteotomy 치유, 합병증 발생률에 미치는 영향을 평가하였다.",
+      "study_methods": "후향적 연구로서, 자연 발생 cranial cruciate ligament disease를 가진 45~70 kg 개 36마리를 대상으로 3.5 mm TPLO locking compression plate를 사용하여 수술 후 tibial plateau angle 변화 및 6주째 재평가 시의 TPA, 단기 뼈 치유 정도 평가(치유 점수 2~5), 수술 후 합병증 발생 여부(수술 부위 감염 포함)를 조사하였다.",
+      "one_sentence_summary": "체중 45~70 kg인 36마리 개를 대상으로 3.5 mm TPLO locking compression plate를 사용하여 cranial cruciate ligament disease 치료 후 수술 시 Tibial Plateau Angle(TPA)과 6주 후 TPA의 평균 차이는 1.9±2.27도였고(p<0.0001), 체중과 좌·우 하지에 따라 TPA 차이가 유의하게 증가하였다. 단기뼈 치유 점수 중앙값은 3/5로 나타났으며, 36마리 중 8마리에서 합병증(수술 부위 감염 2마리 포함)이 발생하였다. 합병증 발생률은 기존 연구와 유사하였다.",
+      "key_results": [
+        {
+          "result": "수술 후 TPA와 6주 재평가 TPA의 평균 차이는 1.9 ± 2.27도였다.",
+          "evidence_quote": "The difference between the mean postoperative TPA and the mean 6-week re-evaluation TPA was 1.9 ± 2.27 degrees ( p < 0.0001)."
+        },
+        {
+          "result": "단기 뼈 치유 점수의 중앙값은 3/5였고 범위는 2에서 5였다.",
+          "evidence_quote": "The median healing score was 3/5, with a range of 2 to 5."
+        },
+        {
+          "result": "36마리 중 8마리에서 수술 후 합병증이 발생했으며, 그 중 2마리가 수술 부위 감염을 겪었다.",
+          "evidence_quote": "Eight out of 36 dogs experienced postoperative complications, with 2/36 dogs developing surgical site infections."
+        },
+        {
+          "result": "3.5 mm TPLO locking compression plate 사용 시 TPA 차이가 유의하게 나타났고, 뼈 치유는 좋지 않았다.",
+          "evidence_quote": "The use of a 3.5 mm TPLO locking compression plate in dogs weighing 45 to 70 kg revealed a significant change in TPA difference and poor bone healing."
+        },
+        {
+          "result": "합병증 발생률은 이전 연구들과 유사했다.",
+          "evidence_quote": "Complication rates were similar to those of previous studies."
+        }
+      ],
+      "authors_conclusion": "45~70 kg 개에 3.5 mm TPLO locking compression plate를 사용하면 수술 후 TPA 변화가 유의하며 뼈 치유 상태가 좋지 않은 것으로 나타났다. 합병증 발생률은 이전 연구 결과와 비슷하다.",
+      "clinical_takeaway": "이 연구는 45~70 kg의 개에서 3.5 mm TPLO locking compression plate를 사용했을 때, 수술 후 tibial plateau angle이 유의하게 변화할 수 있음을 보여줍니다. 또한, 뼈의 단기 치유 과정이 만족스럽지 않을 수 있으므로 수술 후 경과 관찰과 관리에 주의가 필요합니다. 합병증 발생률은 기존 연구와 유사하나, 좌·우 하지 차이나 체중 증가에 따른 TPA 변화 등 개별 요인을 고려한 맞춤 관리가 권장됩니다. 그러나 후향적 연구라는 점에서 제한점이 있으므로 치료 계획 시 신중한 판단이 요구됩니다.",
+      "limitations": [
+        "후향적 연구로 인과관계 규명이 어렵다.",
+        "표본 크기가 36마리로 상대적으로 작다.",
+        "단기 뼈 치유와 6주 후 평가만 보고 장기 결과는 알 수 없다.",
+        "abstract만 제공되어 상세 수술 방법 및 기타 변수 통제 정보가 부족하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적인 45~70 kg 개의 임상 데이터를 바탕으로 3.5 mm TPLO locking compression plate의 수술 후 TPA 변화 및 뼈 치유, 합병증에 관한 명확한 정보를 제공하여, 유사한 환자 관리에 실용적인 근거가 되기 때문에 추천한다.",
+      "id": "doi:10.1055/a-2865-3650",
+      "discovered_at": "2026-11-15 02:38:26.256983+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42140230/",
+      "summary_generated_at": "2026-11-20 04:06:29.985776+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Clinical characteristics and disease progression of central corneal degeneration syndrome in dogs closely resemble Terrien marginal degeneration in humans.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-05-15",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.2460/javma.26.01.0001",
+      "pmid": "42140270",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.01.0001",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42140270/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 실제 임상에서 CCDS로 진단된 9마리의 반려견(11안)을 대상으로 하여, 임상 양상과 진행, 치료법에 대해 구체적으로 보고하여 임상적으로 직접 적용 가능한 정보를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "central corneal degeneration syndrome",
+      "study_design": "retrospective",
+      "sample_size": 9,
+      "sample_size_quote": "11 eyes from 9 client-owned dogs diagnosed with CCDS between 2015 and 2024.",
+      "objective": "본 연구는 개에서 central corneal degeneration syndrome(CCDS)의 임상적 특징, 예후 및 치료법을 기술하는 것을 목적으로 하였다.",
+      "study_methods": "2015년부터 2024년까지 CCDS 진단을 받은 9마리 반려견 11안을 대상으로 후향적으로 임상 기록을 분석하였다. CCDS 진단은 각막 궤양 없이 중심부 또는 주변부 각막에서 진행성 기질층 얇아짐과 corneal facet 형성 여부를 바탕으로 하였다. 진단 시 facet 깊이, 위치를 기록하고 평균 500.2일간(범위 87~1195일) 추적 관찰하며 진행도, 합병증(천공 등), 치료 시행 여부와 결과를 평가하였다.",
+      "one_sentence_summary": "2015년부터 2024년까지 CCDS로 진단받은 9마리 반려견(11안)을 후향적으로 분석하였다. 진단 당시 평균 나이는 14.2세였으며, 초기 facet 깊이는 5안에서 50% 미만, 4안에서 50~90%, 2안에서 90% 이상이었다. 추적기간 평균 500.2일 동안 11안 중 10안에서 facet 깊이가 90% 이상으로 진행되었고, 3안에서는 각막 천공이 발생하였다. 천공 위험이 높거나 발생한 경우 2안에서 corneoconjunctival transposition 수술을 시행하여 각막 두께가 정상으로 회복되었다.",
+      "key_results": [
+        {
+          "result": "평균 진단 연령은 14.2세였으며, facet 깊이 분포는 <50% 5안, 50-90% 4안, >90% 2안이었다.",
+          "evidence_quote": "The mean age at diagnosis was 14.2 years (range, 10 to 17 years). At the time of diagnosis, the facet depth was < 50% in 5 eyes, between 50% and 90% in 4 eyes, and > 90% in 2 eyes."
+        },
+        {
+          "result": "10안 중 11안에서 추적기간 동안 facet 깊이가 90% 이상으로 진행되었다.",
+          "evidence_quote": "At the final follow-up (mean follow-up period, 500.2 days; range, 87 to 1,195 days), progression of the facet depth to > 90% was observed in 10 of 11 eyes."
+        },
+        {
+          "result": "각막 천공은 3안에서 발생하였다.",
+          "evidence_quote": "Corneal perforation occurred in 3 eyes"
+        },
+        {
+          "result": "2안에서 각막결막 전위를 시행하여 각막 두께가 정상으로 회복되었다.",
+          "evidence_quote": "2 unperforated eyes underwent corneoconjunctival transposition, resulting in restoration of normal corneal thickness."
+        }
+      ],
+      "authors_conclusion": "CCDS는 노령견에서 드물게 발생하는 질환으로, 각막 궤양 없이 중심부 또는 주변부 각막에서 점진적인 기질층 얇아짐과 corneal facet 형성을 특징으로 한다. 진행 시 각막 천공 위험이 있으며, 천공 위험이 있거나 발생한 경우 corneoconjunctival transposition과 같은 외과적 치료가 권장된다.",
+      "clinical_takeaway": "본 연구는 CCDS라는 희귀한 각막 질환이 주로 10세 이상의 노령견에서 발생하며, 각막 중심이나 주변부에서 점진적으로 깊어지는 각막 facet이 천공으로 이어질 수 있음을 시사한다. 따라서 CCDS로 진단된 노령견은 정기적 추적 관찰을 통해 facet 깊이 증가 및 천공 위험을 감시해야 한다. 각막 천공 위험이 높은 경우, corneoconjunctival transposition 수술이 각막 두께 회복에 효과적임을 보여 향후 치료 계획 수립에 참고할 수 있다. 다만 소수 증례 후향적 연구로 제한점이 있으므로, 모든 증례에 일반화하기에는 추가 연구가 필요하다.",
+      "limitations": [
+        "증례 수가 9마리로 제한적이며, 후향적 분석이라는 연구 설계의 한계가 있다.",
+        "추적관찰 기간과 치료 결정 기준이 일정하지 않아 결과 해석에 신중함이 요구된다.",
+        "임상 증상 및 영상학적 상세 소견이 부족하여 CCDS의 정확한 진단 기준 확립에는 추가 연구가 필요하다.",
+        "연구가 abstract 기반으로 전체 논문 내용을 확인하지 못한 점이 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "노령견 실제 진료에서 만나는 CCDS의 임상 양상과 치료 경과를 구체적으로 제시하였고, 각막 천공 위험 시 수술적 치료 권고를 명확히 하여 임상적 의사결정에 직접적으로 도움을 줄 수 있기 때문이다.",
+      "id": "doi:10.2460/javma.26.01.0001",
+      "discovered_at": "2026-09-17 05:57:10.485190+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42140270/",
+      "summary_generated_at": "2026-11-20 04:05:04.281916+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -8897,6 +9169,81 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Primary hyperparathyroidism in a 4-month-old German Shepherd mixed breed dog.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-01-01",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag247",
+      "pmid": "42858358",
+      "pmcid": "PMC13653563",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag247",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858358/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 4개월 된 German Shepherd 혼합견 환자에서 juvenile primary hyperparathyroidism (PHPT)을 진단하고 내과적/외과적 치료 및 추적 관찰한 임상 사례를 중심으로 하여, pediatric PHPT에 대한 진단과 치료법을 구체적으로 보고하고 있어 소형견 임상진료에 직접 적용 가치가 높다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "soft_tissue_surgery",
+        "surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "primary hyperparathyroidism",
+      "study_design": "case_report",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "4개월 된 German Shepherd 혼합견에서 juvenile primary hyperparathyroidism의 임상양상, 진단 과정(임상, 혈액검사, 영상학), 수술적 치료 및 경과를 보고하고자 하였다.",
+      "study_methods": "4개월령 intact female German Shepherd 혼합견에서 polyuria, polydipsia, 구강 불편감, 빈호흡, 발열 증상으로 내원하였다. 혈액검사에서 total calcium 및 ionized calcium 증가와 함께 PTH 상승을 보여 hyperparathyroidism 진단에 접근하였다. CT와 경부 초음파를 시행하여 뼈 이상 및 좌측 경부의 경미히 비대해진 부갑상선 확인 후 수술적 절제술(parathyroidectomy)을 시행하였다. 수술 전후 혈청 이온화 칼슘 농도를 추적 관찰하였고 조직병리학적 검사를 통해 chief cell hyperplasia를 진단하였다.",
+      "one_sentence_summary": "4개월령 female intact German Shepherd 혼합견에서 다뇨, 다갈, 구강 불편감, 발열 증상으로 내원하여, 혈액 검사에서 고칼슘혈증과 PTH 농도 증가를 보였고 CT에서 하악골의 뼈 이상 및 폐의 경미한 변화가 관찰되었다. 경부 초음파를 통해 좌측 부갑상선의 비대 병변을 찾아 수술적 절제술을 시행하였다. 조직검사에서 diffuse chief cell hyperplasia가 진단되었고, 수술 후 7일 이온화 칼슘 농도가 정상화되어 임상적 호전을 보였다.",
+      "key_results": [
+        {
+          "result": "부갑상선호르몬(PTH) 농도가 78 pg/ml로 정상 상한(20-65)보다 증가된 상태로 측정됨.",
+          "evidence_quote": "Results indicated an increased PTH concentration (78 pg/ml; RI 20‑65)"
+        },
+        {
+          "result": "CT 촬영 결과 하악골 관절면에 작은 피질 결손과 골 피질 불연속성 확인됨.",
+          "evidence_quote": "Computed tomography (CT; GE Health Care Fixed Revolution® ACT) was performed using iohexol (Omnipaque, GE Healthcare, Oslo, Norway; 2 mL/kg IV) for contrast. Bilateral small subchondral bone defects were identified along the articular surface of the mandibular condyles, and an irregular bone surface with partial cortical discontinuity was noted along the mandibular neck and ramus (Figures 2 and 3)."
+        },
+        {
+          "result": "경부 초음파에서 좌측 갑상선 중앙 부위에 길이 0.3 cm, 폭 0.18 cm 크기의 작은 결절이 확인되어 부갑상선 과형성 병변으로 의심됨.",
+          "evidence_quote": "Ultrasonography of the neck 2 days after discharge, under sedation with butorphanol (Torbugesic, Zoetis; 0.2 mg/kg IV) and medetomidine (Sedator, Dechra, Bladel, The Netherlands; 3 μg/kg IV) identified the largest parathyroid gland located at the mid-ventral aspect of the left thyroid gland, measuring 0.3 cm in length and 0.18 cm in width."
+        },
+        {
+          "result": "수술 후 7일째 이온화 칼슘 농도가 1.37 mmol/L로 정상 범위로 회복됨.",
+          "evidence_quote": "Serum iCa concentration measured 7 and 77 days after parathyroidectomy was within the RI, 1.37 and 1.4 mmol/L, respectively."
+        },
+        {
+          "result": "조직병리학에서 diffuse chief cell hyperplasia로 진단됨.",
+          "evidence_quote": "Histopathology indicated diffuse chief cell hyperplasia."
+        },
+        {
+          "result": "독립적인 수술 후 지속 혈청 이온화 칼슘 농도 정상화 및 임상 증상 개선 확인됨.",
+          "evidence_quote": "The ionized calcium concentration normalized within 7 days postoperatively."
+        }
+      ],
+      "authors_conclusion": "이 증례는 juvenile PHPT의 드문 임상 양상을 보여주며, 수술적 제거가 효과적인 치료 방법임을 시사한다. 부갑상선 과형성에 의한 PHPT가 어린 개에서 발생할 수 있음을 알리고, 수술 후 칼슘 농도 정상화 및 임상 증상 개선을 나타내었다.",
+      "clinical_takeaway": "4개월된 젊은 German Shepherd 혼합견에서 비정상적 고칼슘혈증과 함께 뼈 이상과 구강 불편감이 나타난 경우 juvenile primary hyperparathyroidism을 감별 진단에 포함해야 한다. 경부 초음파는 병변 부갑상선을 국소화하는 데 유용하며, parathyroidectomy는 효과적인 치료법으로 빠른 혈청 이온화 칼슘 농도 정상화 및 임상 호전을 기대할 수 있다. 다만, 뼈 불편감이나 변형은 수술 후에도 장기간 지속될 수 있어 추가 관리 및 장기 추적관찰이 필요하다. 현재 증례는 단일 사례 보고로서, 다양한 품종이나 연령대 개체에 일반화하기에는 추가 연구가 요구된다.",
+      "limitations": [
+        "단일 증례 보고로서 일반화에 제한이 있다.",
+        "단기 추적 관찰만 가능하여 장기 뼈 재생 및 기능 회복 평가가 제한적이다.",
+        "단백뇨 증가 원인 조사 및 치료 경과 관찰이 이루어지지 않았다.",
+        "특정 수술 전후 치료(예: corticosteroid) 효과에 대한 비교 분석이 없었다.",
+        "견종 특이성 및 유전성에 대한 추가 근거가 제시되지 않았다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "젊은 나이의 개에서 나타난 juvenile PHPT의 드문 임상 증례로, 명확한 진단 과정과 수술적 치료 결과를 구체적으로 제시하여 임상적 의의가 뚜렷하다. 임상 현장에서 유사 증례 발견 시 참고할 가치가 크므로 추천한다.",
+      "id": "doi:10.1093/jvimsj/aalag247",
+      "discovered_at": "2026-10-11 23:27:07.407173+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13653563",
+      "summary_generated_at": "2026-11-20 04:05:50.527670+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Palatability assessment of a commercial wet renal diet in healthy cats: an open-label in-home exploratory trial.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -8964,19 +9311,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 453
+        "received": 450
       },
       "europe_pmc": {
         "status": "ok",
         "received": 540
       }
     },
-    "started_at": "2026-11-19T04:10:24.548816+00:00",
-    "since": "2026-10-05",
-    "processed": 4,
+    "started_at": "2026-11-20T03:58:05.219348+00:00",
+    "since": "2026-10-06",
+    "processed": 5,
     "refreshed": 0,
-    "failed": 20,
-    "deferred": 1084,
-    "finished_at": "2026-11-19T04:21:48.509742+00:00"
+    "failed": 16,
+    "deferred": 1086,
+    "finished_at": "2026-11-20T04:06:31.176630+00:00"
   }
 }
