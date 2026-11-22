@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T04:03:28.623390+00:00",
-  "last_successful_collection": "2026-11-21T03:57:24.062657Z",
+  "generated_at": "2026-11-22T03:14:53.691301+00:00",
+  "last_successful_collection": "2026-11-22T03:09:10.537906Z",
   "mode": "live",
   "papers": [
     {
@@ -1669,9 +1669,9 @@
       "title": "Clinical outcomes were evaluated in 82 dogs with B-cell lymphoma treated with adoptive T-cell therapy following cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-10-05",
+      "publication_date": "2026-12-01",
       "online_publication_date": "2026-10-05",
-      "publication_date_raw": "2026-Oct-05",
+      "publication_date_raw": "2026-Dec-01",
       "doi": "10.2460/javma.26.05.0419",
       "pmid": "42833272",
       "pmcid": null,
@@ -2266,9 +2266,9 @@
       "title": "Surgical debulking and electrochemotherapy, including a tetrapolar single-needle electrode, are associated with clinical benefit in dogs with intranasal tumors.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-09-17",
+      "publication_date": "2026-12-01",
       "online_publication_date": "2026-09-17",
-      "publication_date_raw": "2026-Sep-17",
+      "publication_date_raw": "2026-Dec-01",
       "doi": "10.2460/javma.26.05.0387",
       "pmid": "42753794",
       "pmcid": null,
@@ -2694,9 +2694,9 @@
       "title": "BRAFV595E mutation detected across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma in dogs.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-09-09",
+      "publication_date": "2026-12-01",
       "online_publication_date": "2026-09-09",
-      "publication_date_raw": "2026-Sep-09",
+      "publication_date_raw": "2026-Dec-01",
       "doi": "10.2460/javma.26.06.0508",
       "pmid": "42716084",
       "pmcid": null,
@@ -2965,9 +2965,9 @@
       "title": "Gilvetmab advances immune checkpoint inhibitor immunotherapy for canine cancer.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-09-08",
+      "publication_date": "2026-12-01",
       "online_publication_date": "2026-09-08",
-      "publication_date_raw": "2026-Sep-08",
+      "publication_date_raw": "2026-Dec-01",
       "doi": "10.2460/javma.26.06.0517",
       "pmid": "42710546",
       "pmcid": null,
@@ -3035,9 +3035,9 @@
       "title": "Electrochemotherapy with interleukin-12 gene electrotransfer can turn local tumor ablation into a systemic antitumor response in veterinary patients.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-09-08",
+      "publication_date": "2026-12-01",
       "online_publication_date": "2026-09-08",
-      "publication_date_raw": "2026-Sep-08",
+      "publication_date_raw": "2026-Dec-01",
       "doi": "10.2460/javma.26.06.0510",
       "pmid": "42710541",
       "pmcid": null,
@@ -4410,9 +4410,9 @@
       "title": "Feasibility of bone-targeted electrochemotherapy for palliation of bone tumors in dogs and cats.",
       "journal": "Journal of the American Veterinary Medical Association",
       "journal_id": "javma",
-      "publication_date": "2026-08-21",
+      "publication_date": "2026-12-01",
       "online_publication_date": "2026-08-21",
-      "publication_date_raw": "2026-Aug-21",
+      "publication_date_raw": "2026-Dec-01",
       "doi": "10.2460/javma.26.06.0439",
       "pmid": "42633775",
       "pmcid": null,
@@ -5394,7 +5394,7 @@
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42556400/",
       "source": "pubmed",
       "clinical_relevance": "direct",
-      "relevance_reason": "본 연구는 공격성을 보이는 보호소 개를 대상으로 고용량 경구 펜토바르비탈을 사용한 무의식 유도 효과 및 안락사 전 진정제로서의 적용 가능성을 평가하였으며, 임상에서 행동 문제로 직접 조작이 어려운 개에게 적용할 수 있는 구체적 방법을 탐구함.",
+      "relevance_reason": "이 연구는 공격성을 보이는 개에서 pentobarbital sodium을 경구 고용량으로 투여하여 무의식 유도 및 안락사 전 마취 효과를 평가하였으며, 직접 임상 현장에 적용 가능한 실험 결과를 제공하였다.",
       "primary_category": "internal_medicine",
       "tags": [
         "internal_medicine",
@@ -5403,47 +5403,46 @@
       "species": [
         "dog"
       ],
-      "disease_or_topic": "Pentobarbital oral administration for anesthesia prior to euthanasia in aggressive dogs",
+      "disease_or_topic": "pentobarbital sodium oral administration as pre-euthanasia anesthetic in aggressive dogs",
       "study_design": "prospective",
       "sample_size": 12,
       "sample_size_quote": "12 dogs met the inclusion criteria.",
-      "objective": "To determine whether PO administration of pentobarbital sodium solution at 3 times the labeled IV dose induces unconsciousness or euthanasia in dogs exhibiting aggression scheduled for euthanasia in a shelter setting.",
-      "study_methods": "12 dogs in a shelter scheduled for euthanasia were enrolled between June 2024 and October 2025; dogs showed human and/or animal aggression. No breed, sex, or age restrictions were applied. Pentobarbital sodium solution was prepared in 1-mL gelatin capsules, placed in highly palatable foods, and offered to fasted dogs. Consumption was monitored. Unconsciousness onset and respiratory rates were observed for 120 minutes post ingestion. Additional euthanasia methods were used as needed to achieve death.",
-      "one_sentence_summary": "공격성을 보이는 12마리의 보호소 개를 대상으로 경구 펜토바르비탈 용해액을 3배 고용량(≥ 255 mg/kg)으로 캡슐에 담아 고보상 식품에 숨겨 급여하였다. 9마리가 섭취하였고 이 중 5마리가 평균 25분 내에 무의식을 보였다. 모든 개에서 120분 관찰 기간 내 사망하지 않아 추가 안락사 방법이 필요했다. 본 연구는 고용량 경구 펜토바르비탈이 완전한 안락사를 위해서는 불충분하지만, 행동으로 조작이 어려운 개에 대해 안락사 전 진정제로서 사용할 수 있음을 시사한다.",
+      "objective": "공격적인 개에서 pentobarbital sodium 용액을 정맥 투여 권장 용량의 3배에 해당하는 경구 투여량으로 무의식을 유도하거나 안락사를 가능하게 하는지 평가하고자 하였다.",
+      "study_methods": "쉼터 환경에서 안락사 예정인 공격성이 있는 12마리의 개를 대상으로 pentobarbital sodium 용액을 젤라틴 캡슐에 넣어 보상도가 높은 사료에 숨겨 제공하였다. 120분간 무의식 상태와 생리적 변화를 관찰하고, 무의식 유도 성공 여부 및 안락사 완성 여부를 기록하였다.",
+      "one_sentence_summary": "쉼터에서 안락사 예정인 공격적인 개 12마리를 대상으로 pentobarbital sodium을 경구로 권장 IV 용량의 3배(≥ 255 mg/kg) 이상 투여해 무의식 유도 및 안락사를 시도하였다. 9마리가 약물을 포함한 사료를 섭취했으며, 이 중 5마리가 평균 25분 이내에 무의식을 달성하였다. 그러나 연구 기간 120분 내에 안락사는 이루어지지 않아 모든 개에서 추가 안락사 방법이 필요했다. 이 결과는 pentobarbital sodium 경구 투여가 안락사 전에 마취용으로는 효과적임을 시사하나, 독립적인 안락사법으로 신뢰할 수 없음을 보여준다.",
       "key_results": [
         {
-          "result": "9마리가 펜토바르비탈이 포함된 식품을 먹었고 3마리는 거부하였다.",
+          "result": "9마리가 pentobarbital이 포함된 사료를 섭취하고 3마리는 이를 거부하였다.",
           "evidence_quote": "9 consumed the food and 3 refused."
         },
         {
-          "result": "섭취한 9마리 중 5마리가 최소 255 mg/kg 이상 투여되어 평균 25분 만에 무의식을 획득하였다.",
+          "result": "사료를 섭취한 9마리 중 5마리가 ≥ 255 mg/kg 용량 투여 후 평균 25분 이내에 무의식 상태에 도달하였다.",
           "evidence_quote": "Five of the 9 dogs that ate the food containing pentobarbital capsules (≥ 255 mg/kg) achieved unconsciousness within a mean time of 25 minutes."
         },
         {
-          "result": "관찰 기간인 120분 동안 모든 개는 호흡수가 느리지만 일정하게 유지되었다.",
+          "result": "호흡수는 관찰 기간 120분 동안 느리지만 일정하게 유지되었다.",
           "evidence_quote": "Respiratory rates remained slow but consistent during the observation period (120 minutes)."
         },
         {
-          "result": "모든 개에게 안락사를 완수하기 위해 추가적 안락사 방법이 필요하였다.",
+          "result": "모든 12마리의 개에서 사료 내 pentobarbital 섭취 후 안락사가 이루어지지 않아 추가 안락사 방법이 필요했다.",
           "evidence_quote": "All 12 dogs required another euthanasia method to achieve death."
         }
       ],
-      "authors_conclusion": "경구 투여된 펜토바르비탈은 개에서 안락사를 신뢰성 있게 유도하지 못하며, 120분 관찰 후에도 사망에 이르지 않아 추가적인 안락사 방법이 필요하다. 하지만 ≥ 255 mg/kg 투여 시 안락사 전 무의식 유도로서는 효과적인 것으로 보인다.",
-      "clinical_takeaway": "행동이 공격적이라 직접 조작이 어렵거나 스트레스가 우려되는 보호소 내 개에 대해, 고용량 경구 펜토바르비탈(≥ 255 mg/kg)을 캡슐로 제공하여 무의식을 유도하는 것은 실용적인 진정 방법이다. 평균 25분 내 무의식이 유도되지만, 이 방법만으로는 사망에 이르지 않아 반드시 추가적인 안락사 절차가 동반되어야 한다. 따라서 이 방법은 안락사 전 진정제로서 제한적으로 활용할 수 있으나 완전한 대체법은 아니다. 무의식 유도 후에도 지속 관찰과 후속 조처가 필수임을 명확히 이해해야 한다.",
+      "authors_conclusion": "경구 투여된 pentobarbital sodium은 개에서 안락사 유도로서 신뢰성이 떨어지며, 사료 섭취 후 120분 내에 사망에 이르지 않아 반드시 다른 안락사 방법을 병행해야 한다. 그러나 255 mg/kg 이상 경구 투여 시 안락사 전 마취제로는 효과적일 수 있다.",
+      "clinical_takeaway": "이 연구는 공격적인 개에서 pentobarbital sodium을 고용량으로 경구 투여하는 방법이 안락사 전에 무의식을 유도하는 데 도움이 될 수 있음을 보여준다. 이러한 접근은 개를 직접 잡거나 제어하기 어려운 상황에서 마취 전 단계로 고려할 수 있으나, 단독으로 안락사를 완성할 수는 없으므로 반드시 추가적인 안락사 방법이 필요하다. 따라서 임상에서는 행동으로 인해 취급이 어려운 개에서 제한적 마취 목적으로 활용할 수 있으나, 안락사 완료를 위한 보조 수단으로만 사용해야 하며 신속한 마취 유도는 아닐 수 있다는 점에 유의해야 한다.",
       "limitations": [
-        "보호소 내 제한된 개체수(12마리)를 대상으로 한 단일 연구로 일반화에 제한이 있음",
-        "경구 투여 거부 개체(3마리)에 대한 추가적 고려 미흡",
-        "안락사 완성을 위해 다른 방법 사용이 필요하므로 경구 투여만으로 완전한 안락사를 평가할 수 없음",
-        "추가적 임상 결과 및 장기 관찰 결과 보고 미비",
-        "초록만 제공되어 전체 연구 디자인 세부사항과 통계처리 정보 부족"
+        "표본 크기가 12마리로 작고, 쉼터 환경에 국한되어 일반 임상 상황 전반에 확대 적용하기 어렵다.",
+        "경구 투여 후 사망에 이르지 못해 단독 안락사법으로서의 유효성은 입증하지 못했다.",
+        "추가적인 약물 투여나 안락사 방법이 병행되었으나 이에 대한 구체적인 정보가 제한적이다.",
+        "연구는 2024년부터 2025년까지 시행되어 최근성이 있으나, 장기 및 다양한 변종에 대한 평가가 필요하다."
       ],
-      "recommended": false,
-      "recommendation_reason": null,
+      "recommended": true,
+      "recommendation_reason": "공격적인 개에서 마취를 위한 비침습적 방법으로서 경구 pentobarbital sodium 고용량 투여가 실제 임상 상황에서 시도될 수 있고, 본 연구는 그 근거를 제시하여 제한적이나마 실제 활용 가능성을 뒷받침하므로 추천한다.",
       "id": "doi:10.2460/javma.26.04.0266",
       "discovered_at": "2026-09-17 05:57:06.070102+00:00",
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42556400/",
-      "summary_generated_at": "2026-10-02 23:27:03.897849+00:00",
+      "summary_generated_at": "2026-11-22 03:10:39.287389+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -9201,6 +9200,69 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Tick and tick-borne disease management requires an integrated One Health approach.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-07-01",
+      "online_publication_date": "2026-05-13",
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.2460/javma.26.02.0153",
+      "pmid": "42127999",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.02.0153",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42127999/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 미국에서 인간과 동물에서 최근 빈도가 증가하는 여러 진드기종과 이들이 매개하는 질병의 역학, 진단, 치료 및 예방에 관한 종합적 검토를 제공하며, One Health 관점에서 수의학과 인체 보건 간의 협력적 대응을 강조합니다. 그러나 임상적 치료법이나 직접적인 개별 동물 대상 연구 결과를 제공하지 않아 직접적 임상 적용성은 제한됩니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "infectious_disease",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "tick-borne disease",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "미국에서 인간과 동물에 영향을 주는 주요 진드기종과 이들이 매개하는 질병들을 One Health 관점에서 종합적으로 검토하여 진단, 치료, 예방 방안을 제시하고, 관련 생태학 및 역학 정보를 제공하는 것을 목적으로 하였다.",
+      "study_methods": "본 리뷰는 미국 내 주요 경진드기종(Black-legged ticks, Western black-legged ticks, American dog ticks, Rocky Mountain wood ticks, Lone star ticks, Gulf Coast ticks, Brown dog ticks, Longhorned ticks)의 생물학과 생태를 조사하고, Lyme disease, spotted fever rickettsioses, babesiosis, anaplasmosis/ehrlichiosis 등의 질병 역학을 포함하였다. 또한 진단, 치료 및 예방에 관한 관리 권고안을 통합하여 One Health 관점에서 인간과 동물 건강 간 협업 방안을 논의하였다.",
+      "one_sentence_summary": "미국에서 인간과 동물에게 중요한 여러 경진드기종 및 이들이 매개하는 감염성 질환을 대상으로 한 문헌 고찰 연구이다. 주요 진드기종의 생물학적 특성과 역학적 중요성을 분석하고, Lyme disease, spotted fever rickettsioses, babesiosis, anaplasmosis/ehrlichiosis 등 질병의 현황과 관리 전략을 검토하였다. 이를 바탕으로 One Health 접근법을 통해 수의학과 인간 의료 분야의 조율된 대응 방안을 제시하였다.",
+      "key_results": [
+        {
+          "result": "미국 내에서 Black-legged ticks (Ixodes scapularis), American dog ticks (Dermacentor variabilis), Lone star ticks (Amblyomma americanum), Brown dog ticks (Rhipicephalus sanguineus), Longhorned ticks (Haemaphysalis longicornis) 등 여러 주요 진드기종이 진드기 매개 질환의 중대한 매개체임을 확인하였다.",
+          "evidence_quote": "This article presents key aspects on significant tick species and tick-borne diseases in the US. Tick biology and ecology of several ticks are discussed, including black-legged ticks (Ixodes scapularis), western black-legged ticks (Ixodes pacificus), American dog ticks (Dermacentor variabilis), Rocky Mountain wood ticks (Dermacentor andersoni), lone star ticks (Amblyomma americanum), Gulf Coast ticks (Amblyomma maculatum), brown dog ticks (Rhipicephalus sanguineus), and the recent invader, Longhorned ticks (Haemaphysalis longicornis)."
+        },
+        {
+          "result": "Lyme disease, spotted fever rickettsioses, babesiosis, anaplasmosis/ehrlichiosis 등의 진드기 매개 질환이 미국 내에서 사람과 동물에 공통적으로 발생하며, 이들의 역학과 생태가 중요하게 다루어졌다.",
+          "evidence_quote": "In addition, the epidemiology of several diseases is also discussed, such as Lyme disease, spotted fever rickettsioses, babesiosis, and anaplasmosis/ehrlichiosis."
+        },
+        {
+          "result": "진단, 치료, 예방에 대한 관리 권고안을 포함하여 One Health 관점에서 인간과 수의학적 보건 대응의 통합 필요성을 강조하였다.",
+          "evidence_quote": "Finally, management recommendations for diagnosis, treatment, and prevention are provided. By integrating knowledge of key tick species, associated pathogens, and evidence-based management recommendations, this review adopts a One Health perspective to inform coordinated veterinary and human health responses to tick-borne diseases in the US."
+        }
+      ],
+      "authors_conclusion": "진드기 및 진드기 매개 질환 관리는 미국 내에서 증가하는 질병 부담을 감안할 때 One Health 접근법에 기반한 통합적 대응이 필수적이며, 진드기 종과 병원체에 대한 이해 및 효과적인 진단·치료·예방 전략이 상호 보완적으로 진행되어야 한다고 결론지었다.",
+      "clinical_takeaway": "이 리뷰는 미국에서 사람과 개, 고양이에게 중요한 진드기와 그 매개 질환을 한데 모아 설명함으로써 수의사 및 의료인이 협업하여 질병 관리에 접근할 필요성을 시사합니다. 특히 Ixodes scapularis, Dermacentor variabilis, Rhipicephalus sanguineus 등 주요 진드기가 매개하는 Lyme disease, spotted fever rickettsioses 등은 진단과 예방, 치료 전략이 종합적으로 고려되어야 합니다. 본 자료는 임상적 치료법보다는 보건 정책과 질병 관리 방향 설정을 위한 기초 지식과 개념을 제공하므로, 개별 환자 치료에는 직접적 근거로 사용하기 어렵고, 보건차원의 통합 대응을 위한 참고 자료로 활용하는 것이 적절합니다.",
+      "limitations": [
+        "이 연구는 문헌 고찰로서 원내 임상 사례에 대한 구체적 결과나 통제된 연구가 포함되어 있지 않다.",
+        "양적 데이터나 통계적 분석이 제공되지 않아 연구 효과 검증에 제한이 있다.",
+        "진드기 종과 질병에 대한 미국 내 현황에 국한되어 있으며, 다른 국가나 환경에서는 차이가 있을 수 있다.",
+        "임상적 개입(치료법, 예방법 등)에 대한 구체적 프로토콜 제시는 부족하다.",
+        "초록만 제공되어 본문 세부 내용이나 전체 연구 방법론의 구체성에 한계가 있다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.02.0153",
+      "discovered_at": "2026-10-02 23:24:01.317623+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42127999/",
+      "summary_generated_at": "2026-11-22 03:12:13.309999+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -9574,19 +9636,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 453
+        "received": 465
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 551
+        "received": 545
       }
     },
-    "started_at": "2026-11-21T03:57:24.062708+00:00",
-    "since": "2026-10-07",
-    "processed": 4,
-    "refreshed": 0,
-    "failed": 11,
-    "deferred": 1094,
-    "finished_at": "2026-11-21T04:03:28.493086+00:00"
+    "started_at": "2026-11-22T03:09:10.537952+00:00",
+    "since": "2026-10-08",
+    "processed": 1,
+    "refreshed": 1,
+    "failed": 18,
+    "deferred": 1093,
+    "finished_at": "2026-11-22T03:14:53.563999+00:00"
   }
 }
