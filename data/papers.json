@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T03:14:53.691301+00:00",
-  "last_successful_collection": "2026-11-22T03:09:10.537906Z",
+  "generated_at": "2026-11-23T03:46:53.918772+00:00",
+  "last_successful_collection": "2026-11-23T03:42:32.530916Z",
   "mode": "live",
   "papers": [
     {
@@ -1531,6 +1531,86 @@
       "evidence_source": "abstract",
       "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42876319/",
       "summary_generated_at": "2026-10-15 23:36:39.909888+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Clinical features, management, short- and long-term outcomes for cats and dogs diagnosed with pyothorax: 103 cases (2015-2021).",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-10-13",
+      "online_publication_date": "2026-10-13",
+      "publication_date_raw": "2026-Oct-13",
+      "doi": "10.1111/jsap.70214",
+      "pmid": "42866960",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70214",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42866960/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 임상적으로 pyothorax로 진단받은 개와 고양이를 대상으로 하여 수술과 내과적 치료의 단기 및 장기 결과를 직접 비교하였으며, 치료 결정과 예후 판단에 중요한 근거를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "surgery",
+        "soft_tissue_surgery",
+        "infectious_disease"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "pyothorax",
+      "study_design": "retrospective",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개와 고양이 pyothorax 증례에서 세균학, 원인 및 내과적 치료와 수술 치료의 단기 및 장기 결과를 비교하여 기술하였다.",
+      "study_methods": "2015년부터 2021년까지 영국 두 개의 referral center에서 pyothorax로 진단된 개 65마리와 고양이 38마리의 임상 기록을 후향적으로 조사하였다. 외래 의무기록을 통해 추적 관찰을 포함하였다. 치료는 내과적 관리(흉관 삽입 포함)와 수술적 치료로 분류하여 결과를 비교하였으며, 생존율, 재발률 및 병원 퇴원 시 결과를 평가하였다.",
+      "one_sentence_summary": "2015년부터 2021년까지 영국 두 referral center에서 pyothorax로 진단받은 65마리 개와 38마리 고양이를 후향적으로 분석하였다. 개의 62%(40/65)와 고양이의 76%(29/38)가 내과적 치료를 받았으며, 각각 88% (35/40)와 90% (26/29)의 퇴원 생존율을 보였다. 수술 치료군의 개는 80% (20/25), 고양이는 78% (7/9) 생존율을 보였다. 내과적 치료 중 흉강 세척을 받은 개(16/16)는 100% 생존하는 등 내과적 치료도 선택된 증례에서 수술과 유사한 결과를 나타냈다.",
+      "key_results": [
+        {
+          "result": "개 62%(40/65)와 고양이 76%(29/38)가 내과적 치료를 받았고, 개는 88% (35/40), 고양이는 90% (26/29) 생존하여 퇴원했다.",
+          "evidence_quote": "Medical management was used in 62% of dogs (40/65) and 76% of cats (29/38); survival to discharge was 88% (35/40) and 90% (26/29), respectively."
+        },
+        {
+          "result": "수술 치료 받은 개 80% (20/25)와 고양이 78% (7/9)가 퇴원할 때 생존했다.",
+          "evidence_quote": "Surgery was performed in the remainder; survival to discharge was 80% (20/25) in dogs and 78% (7/9) in cats."
+        },
+        {
+          "result": "재발률은 개가 8%(4/51), 고양이가 8% (2/24)였으며, 내과적 치료를 받은 고양이에서 재발률이 12% (2/17)로 나타났다.",
+          "evidence_quote": "Among cases with follow-up, recurrence was 8% (4/51) in dogs: 5% (1/19) surgically and 9% (3/32) medically managed; and 8% (2/24) in cats: 12% (2/17) medically managed."
+        },
+        {
+          "result": "내과적 치료 중 흉관 삽입 및 흉강 세척을 받은 개들은 100% 생존 (16/16)하였으나, 세척을 시행하지 않은 개는 73% (8/11) 생존하였다.",
+          "evidence_quote": "All dogs medically managed with thoracostomy tubes receiving pleural lavage survived: 100% (16/16) versus 73% (8/11) without."
+        },
+        {
+          "result": "고양이에서 Pasteurella multocida가 주요 세균인 반면, 개는 특정 우점 균종이 없었다.",
+          "evidence_quote": "Pasteurella multocida was the predominant feline isolate, in contrast to dogs that had no single dominant species."
+        },
+        {
+          "result": "다제내성균은 개에서는 29% (7/24), 고양이에서는 21% (5/24)의 배양 양성 환자에서 확인되었다.",
+          "evidence_quote": "Multidrug-resistant organisms were identified in 29% (7/24) and 21% (5/24) of culture-positive canine and feline patients."
+        },
+        {
+          "result": "원인의 대부분은 미상(개 51%, 33/65; 고양이 61%, 23/38)이며, 다음으로는 parapneumonic spread와 migrating foreign bodies가 뒤를 이었다.",
+          "evidence_quote": "Aetiologies were mostly unknown (dogs: 51%, 33/65; cats: 61%, 23/38), followed by parapneumonic spread (dogs: 17%, 11/65; cats: 16%, 6/38) and migrating foreign bodies (dogs: 17%, 11/65; cats: 8%, 3/38)."
+        }
+      ],
+      "authors_conclusion": "선택된 pyothorax 환자에서 내과적 치료와 흉관 삽입, 특히 pleural lavage 과정이 포함된 치료는 수술 치료와 비슷한 퇴원 생존율과 재발률을 보이며, migrating plant material이 의심되는 경우에도 내과적 치료가 유용할 수 있음을 시사한다.",
+      "clinical_takeaway": "pyothorax는 개와 고양이에서 심각한 질환이지만, 모든 환자가 반드시 수술을 필요로 하는 것은 아닙니다. 특히 내과적 치료 중 흉관을 통한 pleural lavage를 병행한 개에서는 생존율이 매우 높아(100%) 내과적 치료가 충분히 고려될 수 있습니다. 다만, 내과적 치료군에서 재발 가능성이 존재하므로 신중한 추적관찰이 필요하며, 세균 배양 결과에 따라 다제내성균 감염 여부를 확인하는 것이 중요합니다. 이 연구 결과는 선택된 증례에 대한 치료 전략수립에 근거를 제공하나, 후향적 연구이고 특정 referral center에서 시행된 결과라는 점에서 일반화에는 주의가 필요합니다.",
+      "limitations": [
+        "후향적 연구 디자인이라 무작위 배정, 통제군 설정 등이 결여되어 결과의 인과관계 해석에 한계가 있다.",
+        "특정 referral center 2곳에서 수행되어 환자 모집에 선택 편향이 있을 수 있다.",
+        "치료 결정에 대한 명확한 기준이나 준거가 명시되지 않아 치료군 간 교란변수 조정이 어렵다.",
+        "Abstract-only 자료로, 자세한 통계방법 및 안전성 결과 등이 제공되지 않았다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상에서 자주 접하는 개와 고양이 pyothorax 환자의 치료법에 대해 수술과 내과적 치료의 효과를 비교한 직접적인 임상 근거를 제공하며, 내과적 치료 중 pleural lavage의 중요성을 구체적 수치와 함께 제시해 실제 진료에 유용한 시사점을 주기 때문이다.",
+      "id": "doi:10.1111/jsap.70214",
+      "discovered_at": "2026-10-13 23:23:01.963011+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42866960/",
+      "summary_generated_at": "2026-11-23 03:43:49.400935+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -7005,6 +7085,77 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Clinical, magnetic resonance imaging, and neuropathological features of suspected inborn methylmalonic aciduria in a domestic shorthair kitten.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-07-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Jul-01",
+      "doi": "10.1093/jvimsj/aalag150",
+      "pmid": "42501363",
+      "pmcid": "PMC13401429",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag150",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501363/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 10개월령 domestic shorthair kitten에서 의심되는 선천성 methylmalonic aciduria와 hypocobalaminemia가 신경학적 증상과 그 예후에 미치는 영향을 상세히 분석한 보고로, 임상 진단 및 치료에 직접적으로 연관된다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "methylmalonic aciduria with hypocobalaminemia",
+      "study_design": "case_report",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "의심되는 선천성 methylmalonic aciduria와 hypocobalaminemia가 domestic shorthair kitten에서 신경학적 증상, 영상학적 및 병리학적 소견과 어떻게 연관되는지 기술하였다.",
+      "study_methods": "10개월령 domestic shorthair kitten이 progressive neurological dysfunction(ataxia, episodic opisthotonus, impaired vision, dysphagia, seizures)을 보여 임상, 혈액검사, MRI 및 요기능성산분석, 부검 병리검사를 시행하였다. MRI는 cerebral과 cerebellar atrophy, mild ventriculomegaly를 보였으며 혈청 cobalamin 농도는 현저히 감소했다. 치료로 cobalamin 보충, antiepileptic therapy, 식이 조절을 실시하였으나 증상은 악화되었고, 최종적으로 안락사되었다. 부검에서는 광범위한 신경세포 괴사, cortical atrophy, eosinophilic intracytoplasmic inclusions, gliosis가 확인되었다. 감염 검사(SARS-CoV, Toxoplasma gondii PCR 등)는 음성이었다.",
+      "one_sentence_summary": "10개월령 domestic shorthair kitten이 progressive neurological dysfunction을 주소로 내원하여 혈중 cobalamin 농도 감소, 요 중 methylmalonic acid, methylcitrate, propionylglycine 증가 등의 대사 이상이 관찰되었다. MRI 소견은 generalized cerebral 및 cerebellar atrophy, mild ventriculomegaly를 보였고, 치료에도 불구하고 신경학적 증상은 악화되어 안락사에 이르렀다. 부검 결과 신경세포 괴사, cortical atrophy와 eosinophilic intracytoplasmic inclusions, gliosis가 확인되었으며, 이는 선천성 methylmalonic aciduria와 hypocobalaminemia에 의한 신경손상을 시사한다.",
+      "key_results": [
+        {
+          "result": "Kitten은 급성부터 진행성의 신경학적 증상인 ataxia, opisthotonus, 시력장애, 삼킴곤란, 경련을 보였다.",
+          "evidence_quote": "A 10-month-old domestic shorthair kitten was evaluated for progressive neurological dysfunction characterized by ataxia, episodic opisthotonus, impaired vision, dysphagia and seizures."
+        },
+        {
+          "result": "MRI에서 generalized cerebral atrophy, caudal third of cerebellum atrophy, mild symmetrical ventriculomegaly가 확인되었다.",
+          "evidence_quote": "Magnetic resonance imaging revealed generalized cerebral and cerebellar atrophy, with mild ventriculomegaly."
+        },
+        {
+          "result": "치료(저단백 식이, cobalamin과 thiamine 보충, 항경련제 치료)에도 불구하고 신경학적 증상은 악화되어 refractory seizures로 이어졌다.",
+          "evidence_quote": "Despite dietary modification, cobalamin supplementation, antiepileptic therapy, neurological deterioration progressed, culminating in refractory seizures and euthanasia."
+        },
+        {
+          "result": "부검에서 multiorgan 및 중추신경계 병변(뇌 위축, neuronal degeneration 및 necrosis, cortical atrophy, eosinophilic intracytoplasmic inclusions, gliosis)이 관찰되었다.",
+          "evidence_quote": "Post-mortem examination revealed multiorgan and central nervous system changes, characterized by neuronal degeneration and necrosis, cortical atrophy, globular eosinophilic intracytoplasmic material within neurons and gliosis."
+        },
+        {
+          "result": "감염 검사(SARS-CoV, Toxoplasma gondii 등)는 모두 음성으로, 감염에 의한 신경학적 증상 가능성은 배제되었다.",
+          "evidence_quote": "Infectious disease testing, including feline coronavirus and Toxoplasma gondii serology and cerebrospinal fluid polymerase chain reaction, was negative."
+        }
+      ],
+      "authors_conclusion": "본 고찰은 선천성 methylmalonic aciduria 및 hypocobalaminemia가 고양이에서 심각한 신경학적 손상과 예후 불량을 초래할 수 있음을 시사하며, 이러한 대사 이상 질환에 대한 진단적 및 치료적 접근이 여전히 어려움을 내포함을 보여준다.",
+      "clinical_takeaway": "10개월령 domestic shorthair kitten에서 반복적인 opisthotonus, ataxia, 시력 장애, 경련을 동반한 다발성 신경학적 이상이 혈청 hypocobalaminemia와 요 중 methylmalonic acid 등의 대사 이상과 관련 있었다. MRI에서 cerebral 및 cerebellar atrophy, ventriculomegaly가 관찰되었고, 이 환아의 임상 경과는 치료에도 불구하고 악화되어 안락사에 이르렀다. 본 증례는 선천성 methylmalonic aciduria와 hypocobalaminemia가 고양이의 진행성 신경학적 증상과 신경조직 손상을 초래할 수 있음을 임상 및 영상학적으로 제시한다. 따라서 젊은 고양이에서의 난치성 신경학적 이상 시 대사 이상 질환에 대한 염두와 초기 cobalamin 측정 및 유기산 분석이 필요하다. 다만 유전자 검사 및 반복적 생화학 검사가 없어 확진에는 한계가 있으며, 후천성 질환과의 감별도 충분히 고려해야 한다.",
+      "limitations": [
+        "유전자 검사 및 효소 기능 검사 미실시로 확진에 제한점이 있음.",
+        "치료 후 혈액 및 요 유기산 재검사 미실시로 치료 반응 평가 부족.",
+        "소화기 및 췌장 조직 병리검사 미실시로 후천성 hypocobalaminemia 최대한 배제하지 못함.",
+        "면역조직화학 검사 및 전자현미경 검사 등 세부 병리학적 분석 부족.",
+        "증례 보고로 대규모 분석이나 통계적 일반화가 불가함.",
+        "요산 및 기타 대사 산물에 대한 반복적 동적 검사 누락."
+      ],
+      "recommended": true,
+      "recommendation_reason": "선천성 methylmalonic aciduria로 의심되는 신속 악화하는 신경학적 증상을 가진 young cat 증례의 임상, 영상, 병리학적 데이터를 상세히 제시하여 드문 대사 이상 관련 신경병증 진단과 치료에 임상적 근거와 경험을 제공하므로, 이견 없는 중요 임상 정보이다.",
+      "id": "doi:10.1093/jvimsj/aalag150",
+      "discovered_at": "2026-09-17 05:57:06.108726+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13401429",
+      "summary_generated_at": "2026-11-23 03:46:23.151411+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Likely radiation-induced sciatic neuropathy in a dog.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -9263,6 +9414,136 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "American Association of Veterinary Parasitologists Hookworm Task Force review on best practices for diagnosis and treatment of multidrug-resistant hookworms.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-05-08",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.2460/javma.26.02.0094",
+      "pmid": "42102862",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.02.0094",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42102862/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 논문은 미국에서 가장 흔하고 임상적으로 중요한 canine hookworm인 Ancylostoma caninum의 다중약물 내성 현상을 다루고 있으며, 반려견에서 진단과 치료에 대한 구체적인 권고사항을 제시한다. 따라서 개 임상진료에 직접적으로 유용한 정보를 제공한다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "infectious_disease",
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "Multidrug-resistant Ancylostoma caninum",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "본 연구의 목적은 미국과 캐나다에서 보고되는 다중약물 내성 A. caninum 감염에 대해 진단과 치료에 관한 최선의 실천 지침을 제공하고, 이 기생충들의 생물학적 특징, 유병률 및 역학을 이해하는데 도움을 주는 관련 연구들을 요약하는 것이다.",
+      "study_methods": "AAEP의 Hookworm Task Force가 2021년에 설립되었으며, 본 논문은 이 태스크포스의 작업 결과를 바탕으로 다중약물 내성 A. caninum의 진단, 치료 및 관리에 관한 권고사항과 관련 연구결과들을 종합 및 정리하였다. 실험군 개체 수는 명시되어 있지 않으며, 주로 문헌과 현장 보고에 기반한 종합적 고찰 형태의 연구이다.",
+      "one_sentence_summary": "Ancylostoma caninum은 미국 내 개에서 가장 흔하고 임상적으로 중요한 구충류로, 최근 fenbendazole, moxidectin, pyrantel pamoate에 대한 다중약물 내성이 보고되었다. 이 내성은 본래 Greyhound 번식장과 사육장에서 시작되었으나 현재는 모든 품종과 지역에서 높은 유병률로 퍼져 있다. 본 연구는 2021년 설립된 American Association of Veterinary Parasitologists의 Hookworm Task Force가 다중약물 내성 구충류의 진단과 치료에 대해 최선의 실천방안을 제시하기 위해 수행한 종합적 문헌 정리와 권고안이다.",
+      "key_results": [
+        {
+          "result": "Ancylostoma caninum는 미국 개에서 가장 흔하고 임상적으로 중요한 위장관 기생충이다.",
+          "evidence_quote": "Ancylostoma caninum, the canine hookworm, is the most common and clinically important gastrointestinal nematode parasite infecting dogs in the US."
+        },
+        {
+          "result": "fenbendazole, moxidectin, pyrantel pamoate에 대한 다중약물 내성이 미국에서 보고되고 있다.",
+          "evidence_quote": "multiple anthelmintic drug resistance to fenbendazole, moxidectin, and pyrantel pamoate has been documented in A caninum in the US"
+        },
+        {
+          "result": "다중약물 내성 A. caninum은 Greyhound 번식장과 사육장에서 비롯된 것으로 추정된다.",
+          "evidence_quote": "Clinical and genetic evidence strongly suggests that multiple anthelmintic drug-resistant A caninum likely originated on Greyhound breeding farms and kennels."
+        },
+        {
+          "result": "다중약물 내성 A. caninum는 현재 미국 대륙 전역에서 다양한 품종과 나이의 개에서 높은 유병률로 확인되고 있다.",
+          "evidence_quote": "several large national studies have shown that drug-resistant A caninum was present in dogs of all sizes, ages, and breeds and at varying but always high prevalence in every region of the continental US."
+        },
+        {
+          "result": "AAEP Hookworm Task Force가 다중약물 내성 구충류의 진단과 치료에 대한 최선의 실천 지침을 제공하기 위해 설립되었다.",
+          "evidence_quote": "In response to this concern, the American Association of Veterinary Parasitologists established a Hookworm Task Force in 2021, and this paper is a result of the work of that task force."
+        }
+      ],
+      "authors_conclusion": "다중약물 내성 Ancylostoma caninum은 미국과 캐나다 내에서 모든 개 품종과 연령에서 높은 유병률로 광범위하게 퍼져 있으며, 이를 진단하고 치료하는 최선의 진료 지침 수립이 긴급한 상황이다. 본 논문은 이러한 지침을 제시함으로써 임상 수의사들이 내성 구충 문제에 효과적으로 대응할 수 있도록 돕는다.",
+      "clinical_takeaway": "본 연구는 미국에서 흔히 발생하는 canine hookworm인 Ancylostoma caninum의 다중약물 내성 문제를 강조하며, Greyhound 사육장에서 시작되었지만 현재는 모든 개 품종과 연령, 지역에서 높은 유병률로 확산되었음을 보여준다. 이에 따라 North America 임상 수의사들은 fenbendazole, moxidectin, pyrantel pamoate 내성 가능성을 항상 염두에 두고, 적절한 진단과 내성 대처 전략을 수립할 필요가 있다. 이 연구는 다중약물 내성 구충류 문제에 대응할 수 있는 권고안을 제시하여 현장 임상에서 중요한 실천 지침을 제공하지만, 구체적 치료법이나 장기 예후 등에 대한 임상시험 근거는 부족하여 추후 연구가 필요하다.",
+      "limitations": [
+        "전체 연구가 문헌 고찰과 전문가 태스크포스의 권고안 형태로 구성되어 있어, 무작위 대조 임상시험 같은 고수준 근거는 부족하다.",
+        "표본 크기, 지역별 세부 내성률, 치료 반응에 대한 구체적 데이터가 제공되지 않았다.",
+        "구체적 치료 프로토콜이나 추적 관찰 결과가 포함되어 있지 않으므로 실제 임상 적용시 개별 증례 고려가 필요하다.",
+        "초록만 제공된 점으로 인해 자세한 방법론과 완전한 결과 해석이 제한적이다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "개에서 가장 빈번하게 발생하는 hookworm의 다중약물 내성이라는 심각한 임상 문제를 다루고, 이를 위한 구체적인 진단과 치료에 관한 권고안을 제공하여 임상 수의사들이 내성 문제를 인지하고 대처하는 데 실질적 도움을 주기 때문에 권고한다.",
+      "id": "doi:10.2460/javma.26.02.0094",
+      "discovered_at": "2026-09-16 01:13:31.987604+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42102862/",
+      "summary_generated_at": "2026-11-23 03:46:35.030746+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Honey bee medicine: a lack of knowledge, education, skills, and training identified as the most commonly cited challenge for veterinary medicine practitioners.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-09-01",
+      "online_publication_date": "2026-05-08",
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.2460/javma.26.02.0114",
+      "pmid": "42102870",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.02.0114",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42102870/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "본 연구는 양봉용 꿀벌과 관련된 수의학 분야의 현황과 수의사들이 꿀벌 의학을 실무에 도입할 때 직면하는 도전 과제를 조사한 설문 연구로, 주로 인간과 직접 진료하는 반려견이나 반려묘 임상 연구와는 관련이 적으며 수의진료 적용에 간접적인 시사점만 제공합니다.",
+      "primary_category": "other",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "Honey bee medicine and veterinary engagement",
+      "study_design": "other",
+      "sample_size": 1400,
+      "sample_size_quote": "Nearly 1,400 surveys were included in the analysis.",
+      "objective": "수의사가 꿀벌 의학을 실무에 포함하려 할 때 직면하는 도전 과제를 파악하는 것을 목적으로 하였습니다.",
+      "study_methods": "2023년 2월 20일부터 미국 내 수의사, 수의 기술자, 수의대생을 대상으로 전자 설문조사를 시행하였고, 이 중 최초 22개월간 수집된 데이터를 포함하였습니다. 응답 빈도와 변수 간 연관성(χ2 및 P값)을 분석하였으며, 설문 배포 경로에 따라 자기선택 편향이 존재할 가능성이 있음을 밝혔습니다.",
+      "one_sentence_summary": "미국 내 수의사와 관련 종사자 총 약 1,400명을 대상으로 한 횡단관찰 설문 연구에서 절반 이상이 양봉과 관련된 업무에 중간 이상 관심을 보였습니다. 설문 참여자들의 40.2%가 꿀벌 의학 실무 진입 장벽으로서 지식, 교육, 기술 및 훈련 부족을 가장 흔하게 지적하였으며, 이는 실무 형태와 관계없이 관심 수준에 따라 유의한 차이를 보였습니다. 본 연구는 꿀벌 의학에 대한 높은 관심에도 불구하고 실무 참여에 다수의 장애물이 존재함을 확인하였습니다.",
+      "key_results": [
+        {
+          "result": "설문 참여자의 40.2%가 꿀벌 의학에서 가장 큰 도전 과제로 지식, 교육, 기술 및 훈련 부족을 꼽았습니다.",
+          "evidence_quote": "the most commonly cited (40.2%) was a lack of knowledge, education, skills, and training."
+        },
+        {
+          "result": "응답자의 절반 이상이 양봉 관련 업무에 중간 수준 이상 관심이 있다고 답변했습니다.",
+          "evidence_quote": "Over half of the respondents indicated moderate to high interest in working with beekeepers."
+        },
+        {
+          "result": "도전 과제는 수의실무 유형별로는 차이가 없었으나, 관심 수준에 따라 유의한 차이를 보였습니다.",
+          "evidence_quote": "The challenges identified did not vary by type of practice, but did vary significantly by interest level."
+        }
+      ],
+      "authors_conclusion": "수의사들이 꿀벌 의학을 실무에 도입할 의욕은 높으나, 지식과 교육 부족 등 다양한 장애물이 주요 진입 장벽으로 나타나 이를 해소하는 노력이 필요함을 시사합니다.",
+      "clinical_takeaway": "꿀벌은 주요 식량 생산 동물이지만 높은 사망률로 인해 보호와 관리가 중요해지고 있습니다. 이 연구는 미국 수의사를 대상으로 꿀벌 의학 참여 의지는 높으나 전문 지식 및 교육 부족이 큰 진입 장벽임을 밝혔습니다. 따라서 수의사는 현재 꿀벌 진료에 대한 체계적 교육과 훈련 프로그램 개발 및 참여 기회를 확대해야 할 필요가 있습니다. 다만 이 연구는 설문조사이며 주요 임상 데이터를 포함하지 않고, 대상이 반려동물이 아닌 꿀벌이기 때문에 일반 반려동물 임상 실무에 직접 적용하기에는 한계가 있음을 고려해야 합니다.",
+      "limitations": [
+        "설문조사 방식으로 자기선택 편향이 존재할 가능성이 있음",
+        "임상 진료 데이터를 포함하지 않아 실제 치료 효과나 결과는 평가하지 않음",
+        "미국 내 수의사 대상이며 다른 국가나 임상 환경에는 일반화가 어려움",
+        "초록 정보만 제공되어 세부 연구 방법과 통계 분석에 제한이 있음"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.2460/javma.26.02.0114",
+      "discovered_at": "2026-09-16 01:13:31.986585+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42102870/",
+      "summary_generated_at": "2026-11-23 03:46:07.759039+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -9636,19 +9917,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 465
+        "received": 489
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 545
+        "received": 569
       }
     },
-    "started_at": "2026-11-22T03:09:10.537952+00:00",
-    "since": "2026-10-08",
-    "processed": 1,
-    "refreshed": 1,
-    "failed": 18,
-    "deferred": 1093,
-    "finished_at": "2026-11-22T03:14:53.563999+00:00"
+    "started_at": "2026-11-23T03:42:32.530968+00:00",
+    "since": "2026-10-09",
+    "processed": 4,
+    "refreshed": 0,
+    "failed": 9,
+    "deferred": 1113,
+    "finished_at": "2026-11-23T03:46:53.756500+00:00"
   }
 }
