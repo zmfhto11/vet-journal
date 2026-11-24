@@ -1,9 +1,134 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T03:46:53.918772+00:00",
-  "last_successful_collection": "2026-11-23T03:42:32.530916Z",
+  "generated_at": "2026-11-24T07:04:28.458685+00:00",
+  "last_successful_collection": "2026-11-24T06:56:51.985998Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Description of a transtemporal surgical approach to the mandibular coronoid process region in two dogs with oral pain.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-11-23",
+      "online_publication_date": "2026-11-23",
+      "publication_date_raw": "2026-Nov-23",
+      "doi": "10.1111/jsap.70226",
+      "pmid": "43073020",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70226",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43073020/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 mandibular coronoid process 부위에 통증을 가진 실제 임상 개 2마인을 대상으로 하였고, 새로운 외과적 접근법을 소개하여 임상 진료에 직접 적용 가능한 수술 기술과 그 결과를 보고하였기 때문이다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "mandibular coronoid process surgical approach and oral pain",
+      "study_design": "case_report",
+      "sample_size": 2,
+      "sample_size_quote": "Two dogs presented with a chronic history of pain while opening the mouth.",
+      "objective": "mandibular coronoid process 부위를 대상으로 하는 새로운 transtemporal muscular surgical approach를 기술하고 두 개에서 그 임상 적용과 결과를 보고하였다.",
+      "study_methods": "두 마리 개가 입 벌릴 때 만성적인 통증으로 내원하였고, CT 검사에서 unilateral contrast-enhancing soft tissues 가 proximal mandibular coronoid process 주변에서 확인되었다. zygomatic osteotomy 없이 zygomatic arch의 dorsal 측면 근육층을 통한 transtemporal approach로 mandibular coronoid process에 접근하는 수술을 시행했다. 수술 중 한 마리에서는 foreign body를 발견하였고, 다른 한 마리에서는 외부 이물질이 발견되지 않았다. 수술 후 최대 6개월간 임상 징후가 관찰되지 않았다.",
+      "one_sentence_summary": "만성 구강통증을 호소하는 2마리 개를 대상으로 CT 검사 후 mandibular coronoid process 부위에 transtemporal muscular approach를 이용한 외과적 수술을 시행하였다. 이 접근법은 zygomatic osteotomy 없이 근육을 통한 접근이었으며, 수술 중 한 마리에서는 이물이 발견되었고 다른 한 마리에서는 발견되지 않았다. 두 마리 모두 수술 후 6개월까지 임상증상이 호전된 상태였다. 기존에 드물게 기술된 수술 접근의 대안으로서, 조직 손상 및 수술 후 통증을 줄이고 빠른 회복을 도모하는 방법이다.",
+      "key_results": [
+        {
+          "result": "두 마리 개에서 mandibular coronoid process에 transtemporal muscular 접근법으로 수술을 시행하였다.",
+          "evidence_quote": "The mandibular coronoid process in each dog was approached via a transtemporal muscular approach dorsal to the zygomatic arch, without the need for a zygomatic osteotomy."
+        },
+        {
+          "result": "한 개는 수술 도중 외부 이물질이 확인되었고, 다른 개에서는 외부 이물질이 발견되지 않았다.",
+          "evidence_quote": "A foreign body was surgically identified in one case, whereas no foreign material was retrieved in the other."
+        },
+        {
+          "result": "두 마리 모두 최대 6개월까지 수술 후 임상 증상이 없었다.",
+          "evidence_quote": "Both dogs were free of clinical signs up to 6 months postoperatively."
+        },
+        {
+          "result": "이 수술법은 기존 접근법 대비 덜 침습적이며 조직 손상과 수술 후 통증이 감소하고 빠른 회복이 가능하다.",
+          "evidence_quote": "The described technique provided a less invasive approach, resulting in reduced tissue damage, reduced postoperative pain and rapid recovery."
+        }
+      ],
+      "authors_conclusion": "이 연구에서 제시한 transtemporal muscular approach는 mandibular coronoid process에 접근하는 데 있어 zygomatic osteotomy를 필요로 하지 않는 덜 침습적 수술법이며, 환자의 조직 손상과 수술 후 통증을 줄이고 빠른 회복을 촉진할 수 있음을 보였다.",
+      "clinical_takeaway": "만성 구강통증을 가진 개에서 mandibular coronoid process 부위의 병변에 접근할 때 기존의 zygomatic osteotomy보다 덜 침습적인 transtemporal muscular surgical approach가 유용한 대안이 될 수 있다. 이 수술법은 구조물 손상을 줄여 수술 후 통증 완화 및 빠른 회복에 도움을 주었으며, 실제 임상 두 증례에서 6개월간 증상 없는 경과를 보여 임상 적용 가능성을 시사한다. 다만 증례 수가 적고 후향적 보고임을 고려하여 광범위한 적용 전 추가 평가가 필요하다.",
+      "limitations": [
+        "증례가 2마리에 불과하여 일반화에 제한이 있다.",
+        "후향적 증례 보고로 대조군이 없어 수술법과 결과의 비교가 어렵다.",
+        "장기간 추적 관찰과 추가 임상 시험이 없어 장기 예후와 합병증에 대한 정보가 부족하다.",
+        "CT 영상 및 수술 소견이 제한적으로 기술되어 진단적 가치와 제한점이 상세히 평가되지 않았다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접 임상 개 대상으로 새로운 수술법을 안전하게 적용한 실제 증례를 보고하여 임상 진료 시 mandibular coronoid process 접근법 선택에 참고할 수 있는 구체적인 근거를 제공한다.",
+      "id": "doi:10.1111/jsap.70226",
+      "discovered_at": "2026-11-24 06:56:53.372971+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43073020/",
+      "summary_generated_at": "2026-11-24 06:58:46.839008+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Absence of Statistical Difference Does Not Imply Equivalence: Conceptual Pitfalls and Practical Implications for Veterinary Orthopedics.",
+      "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
+      "journal_id": "vcot",
+      "publication_date": "2026-11-22",
+      "online_publication_date": "2026-11-22",
+      "publication_date_raw": "2026-Nov-22",
+      "doi": "10.1055/a-3007-2103",
+      "pmid": "43068686",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1055/a-3007-2103",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43068686/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 반려동물의 정형외과 치료와 관련된 통계적 분석 방법의 올바른 해석과 연구 설계에 관한 내용을 다루며, 직접적인 임상개입이나 치료 효과 평가 연구는 아닙니다. 따라서 임상 현장에의 직접적 적용보다는 정형외과 연구 결과 해석에 대한 간접적 중요성을 가집니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "orthopedics"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "statistics and trial design in veterinary orthopedics",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "본 연구의 목적은 veterinary orthopedics 분야 연구에서 자주 발생하는 통계적 개념의 오해, 특히 통계적으로 유의한 차이의 부재가 치료군 간 임상적 동등성을 의미하는 것으로 잘못 해석되는 문제점을 명확히 하고, superiority, equivalence, noninferiority 시험설계에 대한 기본 개념과 사전 설정된 임상적 한계 및 신뢰구간 해석의 중요성을 강조하는 것입니다.",
+      "study_methods": "반려동물 정형외과 분야 문헌을 대상으로 통계적 설계 개념과 해석의 오류 사례를 검토하고 CONSORT Extension 및 PetSORT 가이드라인에 부합하는 실용적인 권장 사항을 제시하는 논리적 고찰 연구입니다.",
+      "one_sentence_summary": "이 연구는 veterinary orthopedics 문헌에서 치료군 간 통계적 유의성 부재가 임상적 동등성으로 오해되는 문제를 지적합니다. superiority, equivalence, noninferiority 시험설계의 기본 개념을 명확히 하고, 사전 설정된 임상 마진과 신뢰구간을 활용한 해석이 중요함을 강조하며, CONSORT Extension과 PetSORT 가이드라인에 근거한 실용적 권고안을 제공합니다. 이 논의는 임상 연구 결과 해석에 대한 정확성을 높여 잘못된 치료 결정 방지에 기여할 수 있습니다.",
+      "key_results": [
+        {
+          "result": "통계적으로 유의한 차이의 부재가 임상적 동등성을 의미하지 않는다는 점을 분명히 하였다.",
+          "evidence_quote": "The absence of statistically significant differences between treatment groups is frequently misinterpreted as evidence of clinical equivalence, leading to erroneous conclusions that may substantially impact therapeutic decision-making in veterinary orthopedics."
+        },
+        {
+          "result": "superiority, equivalence, noninferiority 시험설계의 기본 통계 개념과 사전 설정된 임상 마진 중요성을 강조하였다.",
+          "evidence_quote": "This paper clarifies fundamental statistical concepts underlying superiority, equivalence, and noninferiority trial designs, emphasizing the critical role of prespecified clinical margins and confidence interval-based interpretation."
+        },
+        {
+          "result": "Veterinary orthopedics 연구에서 흔한 통계적 해석 오류 사례를 논의하고 CONSORT Extension과 PetSORT 가이드라인에 따른 실용적 권고안을 제시하였다.",
+          "evidence_quote": "We discuss common pitfalls in veterinary orthopedic literature and provide practical recommendations aligned with CONSORT Extension and PetSORT guidelines."
+        }
+      ],
+      "authors_conclusion": "통계적으로 유의한 차이가 없다는 결과만으로는 임상적 동등성을 증명할 수 없으며, 명확한 임상적 마진 설정과 이를 반영한 신뢰구간 기반 해석이 필요하다고 결론 내렸습니다.",
+      "clinical_takeaway": "본 연구는 veterinary orthopedics 분야에서 치료 효과 비교 연구 결과 해석 시, 단순히 통계적 유의미성의 부재를 임상적 동등성으로 오인할 위험성을 경고합니다. 따라서 임상적 판단을 위한 근거로 사용할 때는 superiority, equivalence, noninferiority 시험설계의 개념과 사전 정의된 임상 마진, 신뢰구간 해석을 반드시 함께 고려해야 합니다. 이는 임상 결정 과정에서 잘못된 치료 선택을 방지하고 연구의 정확한 이해를 도와줍니다. 그러나 본 연구는 문헌 고찰 및 이론적 논의를 기반으로 하여 실제 임상 데이터에 대한 직접적 증거는 제시하지 않으므로, 이를 보완할 임상 연구가 필요합니다.",
+      "limitations": [
+        "해당 연구는 이론적 고찰 및 문헌 리뷰에 기반하였으며, 임상 환자 데이터를 이용한 분석은 포함하지 않아 실제 치료 효과에 대한 직접 증거 제공에는 한계가 있습니다.",
+        "abstract-only 형식 정보로서 상세 연구 방법 및 결과에 관한 구체적 데이터가 부족합니다."
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1055/a-3007-2103",
+      "discovered_at": "2026-11-24 06:56:53.438745+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43068686/",
+      "summary_generated_at": "2026-11-24 07:01:26.182951+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Finite Element Comparison of Unilateral and Bilateral Polymethylmethacrylate Vertebral Fixation in the Canine Thoracolumbar Spine.",
       "journal": "Veterinary and Comparative Orthopaedics and Traumatology",
@@ -4067,6 +4192,79 @@
       "evidence_source": "full_text",
       "evidence_url": "https://europepmc.org/articles/PMC13616114",
       "summary_generated_at": "2026-10-27 02:06:51.583243+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Transforming growth factor-β in kidney disease in dogs and cats: a review of the evidence of its role in renal fibrosis.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-09-01",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-Sep-01",
+      "doi": "10.1093/jvimsj/aalag206",
+      "pmid": "42765739",
+      "pmcid": "PMC13591479",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag206",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42765739/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 리뷰는 개와 고양이에서 transforming growth factor (TGF)-β 경로가 만성 신장 질환(CKD)의 진행을 조장하는 신간 섬유증에 중요한 역할을 한다는 광범위한 근거들을 통합하여 설명하고 있습니다. 특히 자연 발생 CKD 및 X-linked Alport 모델을 포함한 다양한 연구에서 TGF-β의 역할을 직접적으로 평가하며, 작은 동물 신장 질환에서 TGF-β 경로가 임상적 및 병리학적 이슈와 밀접하게 연관됨을 보여줍니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "nephrology"
+      ],
+      "species": [
+        "dog",
+        "cat"
+      ],
+      "disease_or_topic": "chronic kidney disease and TGF-β pathway in dogs and cats",
+      "study_design": "systematic_review",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "개와 고양이의 만성 신장 질환에서 TGF-β가 신간 섬유증 관련 병태생리에 미치는 역할과 관련 연구들을 종합적으로 검토하여, 추가 연구와 치료 목표를 제시하고자 함.",
+      "study_methods": "본 논문은 개와 고양이에서 TGF-β 경로와 신장 질환의 연관성을 다룬 다양한 연구들을 문헌 고찰하며, 조직학적, 유전자 발현, 단일 세포 및 공간 전사체 분석, 엘라이자법, 세포배양 실험 등 다양한 방법론에서의 결과를 종합적으로 평가하였음. X-linked Alport 증후군을 가진 개들의 연속 생검과 대조군 분석, 신장 허혈-재관류 손상을 유도한 고양이 모델, 자연 발생 CKD 고양이 및 개 대상의 전사체 및 단백질 발현 연구가 포함됨.",
+      "one_sentence_summary": "본 총설은 개와 고양이에서 자연 발생 또는 유전자 돌연변이 모델(X-linked Alport)에서 TGF-β 경로가 CKD의 진행과 신간 섬유증에 핵심적 역할을 함을 다수의 연구에서 입증된 근거를 바탕으로 종합적으로 검토하였다. 특히 고양이의 신장 허혈-재관류 모델 및 자연 발생 CKD, 그리고 개 X-linked Alport 모델에서 조직 내 TGF-β 관련 유전자 및 단백질 발현, 소변 및 혈청 바이오마커 변화, 세포배양 실험을 통해 TGF-β 신호전달 경로가 섬유증과 염증에 관여함이 확인되었다. 그러나 면역조직화학적 검출법의 한계와 isoform 특이성 문제, 그리고 발현 정도와 임상 병리학적 소견 간의 일부 불일치 등 실제 역할과 기전 규명에는 추가 연구가 요구된다.",
+      "key_results": [
+        {
+          "result": "자연 발생 CKD 고양이 신장 조직에서 TGFB1 유전자 발현이 건강한 대조군에 비해 2~10배까지 증가하는 변동성을 보임이 보고되었다.",
+          "evidence_quote": "this study demonstrated that kidney tissue from cats with naturally occurring CKD showed higher transcription of the TGFB1 gene when compared to the control group. The magnitude of this difference was highly variable (2- to 10-fold difference) between individual cats with CKD"
+        },
+        {
+          "result": "고양이 CKD 환자의 소변 내 활성 TGF-β1 농도는 정상 고양이에 비해 5~10배 높았으며, 소변 TGF-β1 농도는 혈청 크레아티닌 농도와 양성 상관관계를 나타냈다.",
+          "evidence_quote": "Only the latter assay was able to detect feline TGF-β1, which was 5 to 10-fold higher in urine from CKD cats compared to control cats when normalized to urine creatinine. In addition, a significant positive correlation was found between urinary TGF-β1 and serum creatinine in CKD cats."
+        },
+        {
+          "result": "X-linked hereditary nephropathy (XLHN) 개 모델에서, 질병 초기 단계에 신장 조직에서 TGF-β, CTGF, PDGF mRNA 발현이 정상 대조군 보다 증가했으나 말기에는 유의한 차이가 없었다.",
+          "evidence_quote": "In one study of 10 affected and 5 unaffected dogs, increased renal expression of TGF-β (specific isoform not stated), CTGF, and platelet-derived growth factor mRNAs (assessed with qRT-PCR) was observed before development of azotemia and interstitial fibrosis, supporting that these genes are involved in the early/initiating events of tubulointerstitial lesions.69 While TGF-β mRNA expression initially increased in renal biopsy tissue early in the disease, it was not significantly overexpressed compared with unaffected male littermates (controls) at late-stage disease; therefore, mRNA expression did not correlate with degree of fibrosis."
+        },
+        {
+          "result": "XLHN 개들의 연속 신생검 분석에서 TGFB1이 주요 상향 조절인자로 확인되었으나, 실제 TGFB1 전사는 비교군과 유의한 차이를 보이지 않았고 TGFB2, TGFB3 발현은 영향받음.",
+          "evidence_quote": "Fibrosis scores were higher in dogs with rapid progression, and pathway analysis identified TGF-β1 as the primary upstream regulator when comparing expression patterns between the rapid vs slow groups. However, the TGFB1 transcript itself was not differentially expressed in any comparison (rapid vs slow; affected vs control).72 Despite this, TGFB2 expression was generally increased in affected dogs at mid- and late-stage disease compared to controls."
+        },
+        {
+          "result": "고양이 CKD에서는 조직학적 섬유화 정도와 TGFB1 유전자 발현 간의 연관성은 명확하지 않으나, MMP2, MMP7, TIMP1 등의 다른 섬유화 관련 유전자 발현은 섬유화 정도와 유의미한 양의 상관관계를 보였다.",
+          "evidence_quote": "No significant association was found between TGFB1 expression and severity of fibrosis; however, expression of HIF1A (which encodes hypoxia inducible factor-1α), MMP2, MMP7 and TIMP1 were all significantly and relatively strongly correlated with the fibrosis score."
+        }
+      ],
+      "authors_conclusion": "개와 고양이 만성 신장 질환에서 TGF-β 경로는 신간 섬유증 및 염증에 중요한 역할을 하며, 다양한 분자 및 조직학적 증거가 이를 뒷받침한다. 그러나 면역조직화학적 방법의 한계와 다양한 실험적 변이로 인한 불일치가 존재하며, 신장 섬유증 및 글로메룰로스클레로시스에 대한 TGF-β의 정확한 역할과 기전을 완전히 규명하기 위해서는 추가적인 연구가 필요하다. 이 경로는 향후 CKD 치료를 위한 유망한 표적이 될 수 있다.",
+      "clinical_takeaway": "본 리뷰는 개와 고양이에서 CKD 진행에 TGF-β 경로가 핵심적 역할을 하며, 이로 인해 신간 섬유증과 염증이 촉진된다는 임상 및 기초 연구 근거를 종합적으로 제시합니다. 고양이에서는 TGFB1 유전자 발현과 소변 내 활성 TGF-β1 농도가 CKD에서 증가하며, 개의 X-linked Alport 모델에서는 초기에 TGF-β 관련 유전자 발현 증가가 관찰되나 말기에는 감소하는 경향이 있습니다. 세포배양 연구도 이러한 TGF-β의 프로피브로틱 효과를 지지합니다. 하지만 면역조직화학의 제한점과 일부 상관성 부재 등으로 실제 임상 적용에는 주의가 필요하며, 향후 TGF-β 경로 표적 치료 개발 전에는 추가적인 전향적 연구와 더 정교한 활성 형태의 측정법 개발이 요구됩니다. 따라서 현재로서는 TGF-β가 CKD 진단이나 치료의 확립된 바이오마커는 아니나, 유망한 치료적 표지자로 평가됩니다.",
+      "limitations": [
+        "면역조직화학(IHC)에서 TGF-β의 활성 및 잠복형 isoform을 구분하기 어려워 정확한 단백질 발현 수준 해석에 한계가 있음",
+        "고양이 및 개에서 소규모 표본 크기 및 다양한 연구 디자인으로 인해 결과의 일반화에 제한점이 존재함",
+        "유전자 발현 결과와 조직 섬유화 정도 간 일관된 상관관계 부족",
+        "소변 및 혈청 TGF-β 측정법의 특이성과 민감도 검증이 부족함",
+        "대조군과 비교 시 연령 및 환경 요인의 차이로 인해 결과 해석에 혼란이 있음",
+        "주로 X-linked Alport 모델 등 특정 질환 모델에 집중되어 있어 다른 CKD 유형에 대한 역할은 미흡함",
+        "단일 세포 및 공간 전사체 연구가 제한적이며, 임상 환자 적용까지는 분석 데이터가 부족함"
+      ],
+      "recommended": true,
+      "recommendation_reason": "개와 고양이 임상 CKD에서 TGF-β 경로가 주요 병태 생리 및 섬유증 과정에서 중요한 역할을 한다는 다수의 직접적인 근거가 있으므로 임상 연구자와 수의내과 의사가 해당 경로를 이해하는 데 유용하며, 향후 치료법 개발 연구를 위해 참고가 될 수 있기 때문입니다.",
+      "id": "doi:10.1093/jvimsj/aalag206",
+      "discovered_at": "2026-09-21 23:24:34.252528+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13591479",
+      "summary_generated_at": "2026-11-24 07:04:26.494343+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -9917,19 +10115,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 489
+        "received": 800
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 569
+        "received": 582
       }
     },
-    "started_at": "2026-11-23T03:42:32.530968+00:00",
-    "since": "2026-10-09",
-    "processed": 4,
+    "started_at": "2026-11-24T06:56:51.986051+00:00",
+    "since": "2026-10-10",
+    "processed": 3,
     "refreshed": 0,
-    "failed": 9,
-    "deferred": 1113,
-    "finished_at": "2026-11-23T03:46:53.756500+00:00"
+    "failed": 12,
+    "deferred": 1368,
+    "finished_at": "2026-11-24T07:04:28.310048+00:00"
   }
 }
