@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T07:04:28.458685+00:00",
-  "last_successful_collection": "2026-11-24T06:56:51.985998Z",
+  "generated_at": "2026-11-25T05:38:51.002890+00:00",
+  "last_successful_collection": "2026-11-25T05:25:41.621339Z",
   "mode": "live",
   "papers": [
     {
@@ -9742,6 +9742,138 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Use of C-peptide and homeostasis model assessment of insulin resistance to assess insulin resistance in dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-05-04",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-May-04",
+      "doi": "10.1093/jvimsj/aalag123",
+      "pmid": "42361327",
+      "pmcid": "PMC13308964",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag123",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42361327/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 당뇨병을 가진 개들을 대상으로 C-peptide 및 HOMA-IR 지표를 활용해 인슐린 저항성을 진단하는 도구로서의 유용성을 평가하였으며, 특히 임상에서 인슐린 저항성 진단과 관련 위험요인을 확인하여 치료 및 관리에 직접적인 영향을 미칠 수 있음이 증명되었다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "endocrinology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "insulin resistance in diabetic dogs",
+      "study_design": "prospective",
+      "sample_size": 76,
+      "sample_size_quote": "Seventy-six dogs were enrolled from a referral center and classified into 4 groups: healthy dogs (Healthy group, n = 17), pre-diabetes mellitus (PreDM, n = 11), insulin-dependent diabetes mellitus (IDDM, n = 20), and insulin-resistant diabetes mellitus (DMIR, n = 28).",
+      "objective": "당뇨병을 가진 개에서 C-peptide, HOMA-IR by C-peptide, HOMA-IRCP2, 그리고 HOMA2-IR의 진단적 유용성 평가 및 이의 cutoff 값 도출과 인슐린 저항성과 관련된 요소들을 확인하고자 하였다.",
+      "study_methods": "76마리 개를 4개의 그룹(Healthy 17, PreDM 11, IDDM 20, DMIR 28)으로 분류 후 금식 상태에서 혈액을 채취하여 혈당, C-peptide 및 대사 지표를 측정하였다. 각각의 지표(HOMA-IR by C-peptide, HOMA-IRCP2, HOMA2-IR)를 산출하고 그룹 간 비교, ROC curve 분석을 실시하였다.",
+      "one_sentence_summary": "장기 연구에서 76마리의 개가 건강, PreDM, IDDM, DMIR 그룹으로 분류되어 C-peptide 및 여러 형태의 HOMA-IR을 측정하였다. DMIR 그룹에서 모든 지표가 가장 높게 나타났고, ROC 분석에서 각각 C-peptide (AUC 0.843), HOMA-IR by C-peptide (AUC 0.897), HOMA-IRCP2 (AUC 0.893), HOMA2-IR (AUC 0.789)가 인슐린 저항성을 잘 구분하였다. 각각의 cutoff 값(예: C-peptide ≥0.7 ng/mL, HOMA-IR by C-peptide ≥120)에서 높은 민감도와 특이도를 보였으며 DMIR과 IDDM을 명확히 구분하는 데 활용 가능하다.",
+      "key_results": [
+        {
+          "result": "DMIR 그룹에서 C-peptide 및 HOMA-IR 관련 지표들이 가장 높았으며 IDDM 그룹보다 뚜렷하게 차이나 인슐린 저항성 진단에 유용함을 확인했다.",
+          "evidence_quote": "The DMIR group exhibited the highest C-peptide and HOMA-IR by C-peptide, HOMA-IRCP2, and HOMA2-IR."
+        },
+        {
+          "result": "ROC curve 분석에서 C-peptide, HOMA-IR by C-peptide, HOMA-IRCP2, HOMA2-IR가 각각 AUC 0.843, 0.897, 0.893, 0.789로 인슐린 저항성을 잘 감별하였다.",
+          "evidence_quote": "Receiver Operating Characteristic curve analysis demonstrated that C-peptide, HOMA-IR by C-peptide, HOMA-IRCP2, and HOMA2-IR identified IR, with area under curve of 0.843 (95% CI, 0.756-0.930), 0.897 (95% CI, 0.819-0.975), 0.893 (95% CI, 0.812-0.973), and 0.789 (95% CI, 0.686-0.893), respectively (P < 0.001)."
+        },
+        {
+          "result": "C-peptide의 cutoff값 0.7 ng/mL과 HOMA-IR by C-peptide 120에서 민감도 92.9%로 높은 감별력을 나타냈고, HOMA-IRCP2 1.65에서는 특이도 97.9%로 특이적임이 확인되었다.",
+          "evidence_quote": "A cutoff level of ≥0.7 ng/mL for C-peptide and ≥120 for HOMA-IR by C-peptide demonstrated the highest sensitivity (92.9%), whereas ≥1.65 for HOMA-IRCP2 showed the highest specificity (97.9%)."
+        },
+        {
+          "result": "HOMA2-IR는 인간용 프로그램으로 계산한 제한으로 인해 개에서 정확한 측정에 한계가 있었고, HOMA-IR by C-peptide 및 HOMA-IRCP2가 인슐린 저항성 평가에 더 유용하였다.",
+          "evidence_quote": "This finding might be explained by the fact that the HOMA2-IR formula was originally designed for human use, and many values obtained from individual dogs fell outside the program’s calculation range, resulting in the use of upper or lower limit values rather than exact values."
+        },
+        {
+          "result": "Healthy 그룹은 가장 높은 insulin sensitivity(%S)를 보였으며 DMIR 그룹은 가장 낮은 값을 나타내 인슐린 감수성이 저하됨을 반영했다.",
+          "evidence_quote": "In terms of % S (median (percentile 25–percentile 75)), the Healthy group exhibited the highest value, while the DMIR group showed the lowest value."
+        },
+        {
+          "result": "CUVET DM-IR Grid II 임상 도구는 C-peptide와 HOMA-IR by C-peptide의 결합으로 인슐린 저항성 및 당뇨병 그룹 분류에 유용하였다.",
+          "evidence_quote": "In cases of hypercortisolism, indicated as IR, human studies report that glucocorticoids not only induce IR but also impair β-cell function by reducing insulin secretion, blunting the incretin effect, and exerting direct cytotoxic effects on β cells.29,30 CUVET DM-IR Grid II, a clinical approach for detecting IR developed from CUVET DM-IR Grid I, showed promise as a tool for identifying IR.12 A high level of both variables possibly indicated IR, corresponding to the DMIR group (D area) within the grid (Figure 2D)."
+        }
+      ],
+      "authors_conclusion": "C-peptide, HOMA-IR by C-peptide, HOMA-IRCP2, 및 HOMA2-IR가 비침습적으로 인슐린 저항성 감별에 유용하며, 조기 진단은 임상적 결과 개선에 도움을 줄 수 있다. 그러나 HOMA2-IR는 인간용 프로그램 기반으로 제한적이며, 본 연구의 DMIR 군에서 다양한 병발 질환이 존재해 결과 해석에 유의가 필요하다.",
+      "clinical_takeaway": "본 연구는 당뇨병을 가진 개에서 C-peptide 및 여러 HOMA-IR 지표를 이용하여 인슐린 저항성을 평가하는 것이 가능함을 보여주었다. 특히, DMIR 그룹에서 이들 지표가 유의하게 높아 인슐린 저항성 진단에 도움을 주며, 췌장염과 HAC 등 특정 동반 질환이 C-peptide 수치에 영향을 미친다는 점도 확인되었다. 이런 비침습적 지표들은 인슐린 저항성 진단 뿐 아니라, 조기 발견과 치료 조정에 기여할 수 있으나, HOMA-IR 공식은 인간에서 개발된 점, 개 개체 간 근육량과 품종 차이 등이 결과에 영향을 줄 수 있어 임상 적용 시 주의가 필요하다. 또한 다양한 동반 질환이 있는 당뇨병 환자 군에 결과가 한정되어 있으므로, 보편적인 검증이 추가로 요구된다.",
+      "limitations": [
+        "표본 크기가 76마리로 전체 개체군을 대표하기에는 제한적이다.",
+        "인슐린 저항성 평가의 금본위 검사는 hyperinsulinemic-euglycemic clamp로, 본 연구에서는 적용하지 않았다.",
+        "DMIR 그룹 내 동반질환이 다양하여 결과 해석 및 일반화에 제한이 있다.",
+        "체형지수(MCS)나 근육량 정보가 없어 체형 차이에 따른 인슐린 저항성 영향 분석이 어렵다.",
+        "HOMA-IR 공식들이 인간에서 개발되어 개에서의 완전한 타당성 검증이 필요하다.",
+        "연구는 단일 센터 및 금식 후 혈액만 사용한 횡단면 관찰로, 종적 변화와 임상적 결과와의 상관관계는 미확인이다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상적으로 직접적인 당뇨병 개 환자에 대한 인슐린 저항성 진단 도구 평가와 cutoff 제시가 있으며, C-peptide 및 HOMA-IR 활용법에 대한 구체적 수치적 근거가 존재해 임상 적용에 의미 있는 실용적 연구로 판단됨.",
+      "id": "doi:10.1093/jvimsj/aalag123",
+      "discovered_at": "2026-09-17 05:57:10.296105+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13308964",
+      "summary_generated_at": "2026-11-25 05:33:44.502323+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Multisite sampling improves consensus cytologic interpretation in bone marrow evaluation of dogs.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-05-04",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-May-04",
+      "doi": "10.1093/jvimsj/aalag121",
+      "pmid": "42364140",
+      "pmcid": "PMC13310088",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag121",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42364140/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 16마리의 임상 환자견에서 이루어진 전향적 무작위 임상 시험으로, 다중 부위에서의 bone marrow (BM) aspirate 채취가 단일 부위 채취에 비해 혈액학적 이상 진단의 신뢰도를 향상시킨다는 중요한 임상적 발견을 제공한다. 연구 방법, 결과 및 통계적 검증이 구체적이며, 직접적인 진단 및 임상적 판단에 적용 가능하여 임상 관련성이 높다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "bone marrow evaluation in hematologic disease",
+      "study_design": "prospective",
+      "sample_size": 16,
+      "sample_size_quote": "Sixteen client-owned dogs with hematologic disease requiring BM sampling were prospectively enrolled.",
+      "objective": "단일 부위 BM aspirate 시술이 혈액학적 질환을 가진 개에서 비대표적 세포학적 해석의 가능성을 증가시키는지를 평가하고, 다중 부위 샘플링이 이를 개선하는지를 조사한다.",
+      "study_methods": "중증 혈액학적 질환을 가진 16마리의 고객 소유 개를 무작위 배정하여 RH, LH, RI, LI 총 4부위에서 BM aspirate를 채취하였다. 2명의 수의 임상병리전문가가 각 부위 샘플을 블라인드 평가하여 최대 3개의 진단 코드로 분류하였다. 종합 판정(진실 세트)을 산출하여 개별 부위 해석의 진실 일치 확률을 평가하고, 1~4개 부위 샘플링에 따른 해석 일치 확률 변화를 통계적 부트스트랩법과 Wilcoxon 검정을 사용해 분석하였다.",
+      "one_sentence_summary": "혈액학적 질환으로 BM 평가가 필요한 16마리의 임상 환자견에서 4개 부위(오른쪽/왼쪽 proximal humerus 및 iliac crest)에서 BM aspirate를 채취하였다. 단일 부위 샘플링 시 진실 일치 확률은 50.0%-81.7%에 불과하며, 2개 부위 샘플 시 이 확률이 17.2%-23.3% 증가하였다. 3~4개 부위 추가 샘플링은 미미한 이득을 보였다. 부위별 해석의 유의한 차이는 없었으며, 평가자 간 해석 일치는 중간 수준이었다(kappa=0.574).",
+      "key_results": [
+        {
+          "result": "진실 일치 해석 확률은 단일 부위 샘플링에서 50.0%~81.7%였으나, 두 부위 샘플링에서 17.2%~23.3% 유의미하게 증가하였다(P < .002).",
+          "evidence_quote": "Single-site sampling yielded a truth-consistent interpretation in only 50.0%-81.7% of cases, depending on diagnostic stringency. Evaluating 2 sites significantly improved the probability of a truth-consistent interpretation by 17.2%-23.3% (P < .002)."
+        },
+        {
+          "result": "전체적으로 두 임상 병리학자 간 부위 해석 일치는 중간 정도이며 간단한 kappa 값은 0.574였다.",
+          "evidence_quote": "Inter-clinical pathologist agreement was moderate (kappa = 0.574)."
+        }
+      ],
+      "authors_conclusion": "본 연구는 단일 BM aspirate 샘플링이 견에서 혈액학적 해석의 비대표성 위험을 높이며, 두 부위 이상 샘플링 시 진실 일치 해석 확률이 유의하게 개선된다는 점을 입증하였다. 특정 부위가 우월하지 않으므로, 적어도 두 부위를 샘플링하는 전략이 진단 신뢰도 향상에 권고된다.",
+      "clinical_takeaway": "혈액학적 질환으로 bone marrow 평가가 필요한 개에서 단일 부위의 BM aspirate에 의존할 경우, 세포학적 해석이 비대표적일 가능성이 상당히 높다. 본 연구는 두 부위 이상의 샘플링이 해석의 정확도와 신뢰도를 가시적으로 높여 환자 개별 진단에 중요한 정보를 제공함을 보여주었다. 특히 hematopoietic 질환이 patchy(불균일)하게 존재할 수 있어 단일 부위 샘플링은 간과 위험을 내포한다. 다만, 추가 부위 채취 시 절차적 부담과 위험도 고려해야 하며, 본 연구는 16마리 소규모 코호트 단일 센터 결과이므로, 임상 적용 시 진단 목적과 환자의 상태를 종합 평가하여 적절한 부위 수를 결정하는 것이 바람직하다.",
+      "limitations": [
+        "표본 크기가 16마리로 제한적이어서 세부 질환군별 차이나 미묘한 효과 탐지에 통계력이 제한적이다.",
+        "단일 기관, 한 명의 전문의가 채취하여 외부 타기관 일반화에는 제한이 있다.",
+        "진실 세트가 자체 내재적 합의(composite consensus)에 의해 정의되어 외부 골드 스탠다드와의 직접 비교는 없었다.",
+        "BM trephine core biopsy 결과와의 직접 상관분석은 본 연구에 포함되지 않아 cytology와 histology 간 정확성 비교는 장래 연구과제이다.",
+        "sternum과 같은 axial 부위는 채취하지 않아, 다른 골격 부위와의 비교가 이뤄지지 않았다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상적으로 혈액학적 BM 평가가 필요한 개에서 단일 부위 샘플링은 진단 오류 위험이 높다는 구체적이고 실제적인 근거를 제공한다. 두 부위 샘플링 시 진단 신뢰도가 크게 증가하여, 임상 현장에서 의사의 진단 정확도를 향상시키고 적절한 치료 결정에 도움을 줄 실용적 지침을 제공한다. 절차적 부담이 크게 증가하지 않는 범위 내에서 다중 부위 샘플링 도입을 권장한다.",
+      "id": "doi:10.1093/jvimsj/aalag121",
+      "discovered_at": "2026-09-17 05:57:10.289249+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13310088",
+      "summary_generated_at": "2026-11-25 05:33:05.585572+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -10115,19 +10247,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 800
+        "received": 801
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 582
+        "received": 595
       }
     },
-    "started_at": "2026-11-24T06:56:51.986051+00:00",
-    "since": "2026-10-10",
-    "processed": 3,
+    "started_at": "2026-11-25T05:25:41.621385+00:00",
+    "since": "2026-10-11",
+    "processed": 2,
     "refreshed": 0,
-    "failed": 12,
-    "deferred": 1368,
-    "finished_at": "2026-11-24T07:04:28.310048+00:00"
+    "failed": 17,
+    "deferred": 1361,
+    "finished_at": "2026-11-25T05:38:50.603172+00:00"
   }
 }
