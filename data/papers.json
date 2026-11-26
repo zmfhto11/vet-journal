@@ -1,9 +1,73 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T05:38:51.002890+00:00",
-  "last_successful_collection": "2026-11-25T05:25:41.621339Z",
+  "generated_at": "2026-11-26T05:06:18.404036+00:00",
+  "last_successful_collection": "2026-11-26T05:00:15.410791Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Canine Hypercalcaemia: part 1, Pathophysiology and Causes.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-11-25",
+      "online_publication_date": "2026-11-25",
+      "publication_date_raw": "2026-Nov-25",
+      "doi": "10.1111/jsap.70222",
+      "pmid": "43082252",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70222",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43082252/",
+      "source": "pubmed",
+      "clinical_relevance": "indirect",
+      "relevance_reason": "이 연구는 canine hypercalcaemia의 병태생리와 원인에 대한 포괄적인 개요를 제공하였으나, 진단 접근법과 치료에 관한 자세한 임상적 증거는 후속 논문에 포함되어 있어 직접적인 임상 치료 가이드라인으로 활용하기에는 제한적입니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "endocrinology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "canine hypercalcaemia",
+      "study_design": "other",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "canine hypercalcaemia의 병태생리, 원인 및 임상적 결과에 대한 증거기반 요약을 제공하는 것이 목적입니다.",
+      "study_methods": "본 논문은 canine hypercalcaemia에 연관된 칼슘 조절과 증가 기전에 관한 문헌을 검토하고, 다양한 원인을 내러티브 형태로 정리한 종합 문헌 고찰입니다.",
+      "one_sentence_summary": "Canine hypercalcaemia와 관련된 병태생리 기전과 임상적 결과를 종합적으로 문헌 검토하였으며, 이차 보고서에서 진단과 치료법에 대해 상세히 다룰 예정입니다. 주된 원인으로는 lymphoma를 포함한 종양질환이 가장 빈번하며, 그 외 내분비, 신장, 염증성 및 독성 원인도 중요하게 다루어졌습니다.",
+      "key_results": [
+        {
+          "result": "Hypercalcaemia는 개에서 다양한 상태와 관련된 중요한 대사 이상입니다.",
+          "evidence_quote": "Hypercalcaemia is an important metabolic abnormality that has been associated with a wide range of conditions in the dog."
+        },
+        {
+          "result": "종양, 특히 lymphoma가 canine hypercalcaemia의 가장 흔한 원인으로 인식됩니다.",
+          "evidence_quote": "Although neoplasia, particularly lymphoma, is the most frequently recognised cause"
+        },
+        {
+          "result": "내분비 질환으로는 hyperparathyroidism과 hypoadrenocorticism이 중요한 하이퍼칼슘혈증 원인으로 보고됩니다.",
+          "evidence_quote": "there are also important endocrine (hyperparathyroidism and hypoadrenocorticism"
+        },
+        {
+          "result": "신장 질환, 염증성 및 독성 원인도 hypercalcaemia의 원인으로 포함됩니다.",
+          "evidence_quote": "renal, inflammatory and toxic causes"
+        }
+      ],
+      "authors_conclusion": "개에서 hypercalcaemia는 다양한 병태생리 기전과 원인에 의해 발생하며, lymphoma가 가장 흔한 원인이지만 다양한 내분비, 신장, 염증 및 독성 원인도 중요하다는 것을 확인하였다. 후속 논문에서는 진단과 치료에 중점을 둘 예정이다.",
+      "clinical_takeaway": "Canine hypercalcaemia는 매우 다양한 질환과 기전에 의해 발생하므로, 단일 원인에만 국한된 접근은 진단 실패로 이어질 수 있습니다. 본 논문에서 언급된 lymphoma와 같은 종양뿐만 아니라 내분비, 신장 및 독성 원인도 반드시 감별해야 하며, 이를 통해 보다 체계적이고 포괄적인 진단 계획을 세울 수 있습니다. 그러나 본 연구는 문헌 고찰 형식으로 직접적인 진단법이나 치료법 데이터는 제공하지 않아 임상 적용 시 후속 연구 및 개별 환자상태를 반드시 고려해야 합니다. 특히 hypercalcaemia가 의심되는 모든 canine 환자에서 다각적인 원인 평가가 필요함을 시사합니다.",
+      "limitations": [
+        "본 연구는 문헌 고찰로 실제 임상 환자 대상 연구가 아니므로 치료법과 진단 프로토콜에 대한 구체적 증거는 제시하지 못함",
+        "후속 연구에서 보다 세밀한 진단 접근과 치료법 검증이 요구됨",
+        "abstract에 한정된 정보로 전체 논문 내용에 대한 세부 사항 파악이 불가능함"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/jsap.70222",
+      "discovered_at": "2026-11-26 05:00:16.868848+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43082252/",
+      "summary_generated_at": "2026-11-26 05:03:28.677567+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Description of a transtemporal surgical approach to the mandibular coronoid process region in two dogs with oral pain.",
       "journal": "Journal of Small Animal Practice",
@@ -4478,6 +4542,83 @@
       "evidence_source": "full_text",
       "evidence_url": "https://europepmc.org/articles/PMC13533182",
       "summary_generated_at": "2026-11-18 04:22:07.082786+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Retrospective analysis of 68 domestic ferrets with urethral obstruction shows high rate of euthanasia at presentation despite good survival to discharge.",
+      "journal": "Journal of the American Veterinary Medical Association",
+      "journal_id": "javma",
+      "publication_date": "2026-12-01",
+      "online_publication_date": "2026-08-31",
+      "publication_date_raw": "2026-Dec-01",
+      "doi": "10.2460/javma.26.05.0343",
+      "pmid": "42674007",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.2460/javma.26.05.0343",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42674007/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 domestic ferrets에서 urethral obstruction에 대한 임상적 양상, 치료, 예후를 후향적으로 분석한 연구로, 임상 현장에서 직접적으로 참고할 수 있는 예후 인자를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "urethral obstruction in domestic ferrets",
+      "study_design": "retrospective",
+      "sample_size": 68,
+      "sample_size_quote": "68 domestic ferrets",
+      "objective": "본 연구는 domestic ferrets에서 urethral obstruction의 병원 비례 이환율(HPMR)을 확립하고, 임상 양상, 치료 및 예후를 기술하며, 병인과 생존과의 연관성을 평가하고자 하였다.",
+      "study_methods": "2013년부터 2023년 사이 미국 3개 학술 기관에 내원한 domestic ferrets의 전자의무기록을 후향적으로 검토하였다. 총 3,242건의 기록 중 urethral obstruction 환자 68마리를 선별하여 기술적 및 이변량 통계 분석을 시행하였다. 주요 결과는 평균±표준편차 또는 중앙값(IQR)으로 보고되었다. 생존 및 치료 결과, 재발률 등의 임상 결과가 평가되었다.",
+      "one_sentence_summary": "본 연구는 2013년부터 2023년까지 미국 3개 학술 기관에 내원한 68마리의 domestic ferrets에서 urethral obstruction에 대해 후향적으로 평가하였다. urethral obstruction의 병원 비례 이환율은 2.09%였고, 40.91%는 내원 시 안락사되었으며, 나머지 치료받은 36마리 중 92.31%가 퇴원까지 생존하였다. 평균 입원 기간은 2.82±2.21일이었고, 재발률은 31.6%였다. urolithiasis 환자는 median 2세로, adrenal disease-associated prostatic disease 환자 median 5세보다 훨씬 젊었으며, 입원 시 체온은 생존한 군에서 유의하게 높았다.",
+      "key_results": [
+        {
+          "result": "urethral obstruction의 병원 비례 이환율은 2.09% (68 of 3,242)였다.",
+          "evidence_quote": "The HPMR was 2.09% (68 of 3,242)."
+        },
+        {
+          "result": "40.91% (27 of 66)는 내원 시 안락사되었다.",
+          "evidence_quote": "Twenty-seven of 66 ferrets (40.91%) were euthanized on presentation."
+        },
+        {
+          "result": "치료 받은 ferret 중 92.31% (36 of 39)는 퇴원까지 생존하였다.",
+          "evidence_quote": "Of the remaining ferrets, 92.31% (36 of 39) survived to discharge."
+        },
+        {
+          "result": "평균 입원 시간은 2.82 ± 2.21일이었다.",
+          "evidence_quote": "Average hospitalization time was 2.82 ± 2.21 days."
+        },
+        {
+          "result": "퇴원 후 재발률은 31.6% (6 of 19)였으며, 중앙값 19일 (IQR, 1 to 1,164 days) 간격이었다.",
+          "evidence_quote": "recurrence rate after discharge was 31.6% (6 of 19) with a median of 19 days (IQR, 1 to 1,164 days)."
+        },
+        {
+          "result": "Urolithiasis가 원인인 ferret는 median 2세로 adrenal disease-associated prostatic disease 환자 median 5세보다 유의하게 젊었다.",
+          "evidence_quote": "Ferrets with urolithiasis were significantly younger (median, 2 years old) and had significantly higher blood glucose (median, 127 mg/dL) compared to ferrets with adrenal disease-associated prostatic disease (median age, 5 years old; median blood glucose, 91 mg/dL)."
+        },
+        {
+          "result": "입원 시 체온은 생존한 ferret가 median 37.4 °C였으며, 안락사된 ferret는 median 36.7 °C였다.",
+          "evidence_quote": "Ferrets that survived to discharge had significantly higher body temperature on admission (median, 37.4 °C [99.4 °F]) compared to ferrets that were euthanized (median, 36.7 °C [98 °F])."
+        }
+      ],
+      "authors_conclusion": "Ferrets with urethral obstruction의 병원 비례 이환율, 입원 기간, 생존율 및 재발률이 고양이와 유사하며, 이러한 데이터는 치료 권고와 보호자 의사결정에 도움이 된다.",
+      "clinical_takeaway": "Domestic ferrets에서 urethral obstruction은 상대적으로 드물지만 분명한 임상 문제이며, 안락사 비율이 높지만 치료 시 92.31%가 퇴원까지 생존하는 좋은 예후를 보입니다. 특히 urolithiasis 환자는 비교적 젊은 연령층에서 발생하며, 입원 시 체온이 저체온인 경우 예후가 나쁘므로 입원 초기 평가가 중요합니다. 본 연구 결과는 ferret 환자의 치료 계획 수립과 보호자 상담에 유의미한 근거를 제공하나, 후향적이고 일부 환자의 안락사가 초기 생존 분석에 영향을 줄 수 있어 해석에 주의를 요합니다.",
+      "limitations": [
+        "후향적 연구 설계로 인과관계 해석에 제한이 있다.",
+        "안락사 결정이 생존율에 영향을 미쳐 실제 예후 평가가 어렵다.",
+        "표본 크기가 제한적이며, 다기관 연구이나 지역적 특성이 존재할 수 있다.",
+        "전자의무기록 데이터에 의존하여 일부 정보 누락 가능성이 있다.",
+        "abstract만 제공되어 상세한 방법론과 장기 추적 결과 확인이 제한적이다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "ferret에서 임상적으로 중요하고 빈번히 접하는 urethral obstruction 환자의 실제 임상경과를 구체적으로 제시하여 치료 결정 및 보호자 상담에 직접적으로 활용 가능한 근거를 제공한다.",
+      "id": "doi:10.2460/javma.26.05.0343",
+      "discovered_at": "2026-09-16 01:13:36.181416+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42674007/",
+      "summary_generated_at": "2026-11-26 05:04:58.671230+00:00",
       "analysis_model": "gpt-4.1-mini"
     },
     {
@@ -10247,19 +10388,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 801
+        "received": 800
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 595
+        "received": 588
       }
     },
-    "started_at": "2026-11-25T05:25:41.621385+00:00",
-    "since": "2026-10-11",
+    "started_at": "2026-11-26T05:00:15.410838+00:00",
+    "since": "2026-10-12",
     "processed": 2,
     "refreshed": 0,
-    "failed": 17,
-    "deferred": 1361,
-    "finished_at": "2026-11-25T05:38:50.603172+00:00"
+    "failed": 12,
+    "deferred": 1368,
+    "finished_at": "2026-11-26T05:06:18.249668+00:00"
   }
 }
