@@ -1,9 +1,218 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T05:06:18.404036+00:00",
-  "last_successful_collection": "2026-11-26T05:00:15.410791Z",
+  "generated_at": "2026-11-27T05:13:36.595554+00:00",
+  "last_successful_collection": "2026-11-27T05:01:20.131980Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Postoperative complications and long-term incisional outcomes after a three-pointed star abdominal incision in dogs: A retrospective case series of 104 procedures in 102 dogs.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-11-25",
+      "online_publication_date": "2026-11-25",
+      "publication_date_raw": "2026-Nov-25",
+      "doi": "10.1111/vsu.70191",
+      "pmid": "43094213",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70191",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43094213/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "환자 소유 개에서 시행된 104건의 three-pointed star abdominal incision 후 단기 및 1년간 절개 부위 결과를 후향적으로 분석한 연구로, 외과 술기 선택과 예후를 직접적으로 평가한 임상 연구임.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "three-pointed star abdominal incision 후절개 합병증 및 장기경과",
+      "study_design": "retrospective",
+      "sample_size": 102,
+      "sample_size_quote": "102 client-owned dogs undergoing 104 three-pointed star incision procedures",
+      "objective": "개에서 three-pointed star abdominal incision 후 단기 절개 부위 관련 결과 및 1년 후 절개 상태를 기술하고 합병증 발생률을 평가하였다.",
+      "study_methods": "총 102개 소유 개에서 104회의 three-pointed star abdominal incision을 후향적으로 분석하였다. 수술부터 피부 봉합사 제거 혹은 최종 상처 검사 시점까지 절개 관련 소견을 의무기록으로 평가하였다. 지연 치유 또는 피부 열개와 임상 변수 간 연관성을 단변량 분석으로 조사하였으며, 1년 후 절개 상태는 의무기록 또는 전화 추적을 통해 확인하였다.",
+      "one_sentence_summary": "102마리 개에서 104건의 three-pointed star abdominal incision 수술 후 의무기록을 후향 분석하였다. 4마리가 수술 후 3일 내 사망하여 100건을 평가하였으며, erythema와 ecchymosis가 각각 57%, 54%로 가장 흔했다. 지연 치유 또는 피부 열개는 12건(12%)에서 발생했으며, 이 중 6건은 재봉합이 필요했다. 1년 후 평가된 84마리의 85건에서는 임상적으로 명백한 incisional hernia가 없었다.",
+      "key_results": [
+        {
+          "result": "수술 후 3일 내 4마리 사망으로 100건 평가가 가능했다.",
+          "evidence_quote": "Four dogs died within three postoperative days, leaving 100 evaluable procedures in 98 dogs."
+        },
+        {
+          "result": "erythema가 57%, ecchymosis가 54%로 가장 흔하게 관찰되었다.",
+          "evidence_quote": "Erythema (57%) and ecchymosis (54%) were most frequent."
+        },
+        {
+          "result": "지연 치유 및 피부 열개가 12건(12%) 발생하였고, 6건은 재봉합이 필요했다.",
+          "evidence_quote": "Delayed healing/skin dehiscence occurred after 12 procedures (12%). Six of the 12 wounds with delayed healing/skin dehiscence required re-suturing."
+        },
+        {
+          "result": "지연 치유/피부 열개와 관련된 변인 중 통계적 유의성은 없었다.",
+          "evidence_quote": "No evaluated variable was significantly associated with this outcome."
+        },
+        {
+          "result": "1년 후 평가된 85건의 절개 부위에서 임상적으로 눈에 띄는 incisional hernia가 확인되지 않았다.",
+          "evidence_quote": "No clinically apparent incisional hernia was identified after 85 procedures in 84 dogs with confirmed 1-year status."
+        },
+        {
+          "result": "1년 내 사망한 15건의 추적에서 절개 열개 또는 hernia 발생 소견이 없었다 (추적 중위 기간 143일, 범위 20-345일).",
+          "evidence_quote": "In 15 postoperative intervals ending in death before 1 year, no incisional dehiscence or hernia was documented during available follow-up (median, 143 days; range: 20-345 days)."
+        }
+      ],
+      "authors_conclusion": "three-pointed star abdominal incision 후 12%에서 지연 치유 또는 피부 열개가 확인되었고, 1년 관찰한 개에서는 임상적으로 의미 있는 incisional hernia가 없었다. 이 수술법의 사망률, 통증 및 최적 적응증을 규명하기 위해서는 전향적 비교 연구가 필요하다.",
+      "clinical_takeaway": "three-pointed star abdominal incision을 받은 개에서 단기적으로 erythema, ecchymosis 같은 국소 염증 소견이 흔하고 12% 정도에서 지연 치유나 피부 열개가 발생하는 점을 고려해야 한다. 그러나 1년 장기 추적에서 임상적으로 명백한 incisional hernia가 확인되지 않아 이 절개법이 절개 후 장기 합병증 위험은 상대적으로 낮을 것으로 기대할 수 있다. 다만, 이 연구는 후향적 설계이고 비교군이 없어 다른 절개법과의 상대적 위험도, 통증 정도 또는 다양한 임상 상황에서의 적응증 해석에는 한계가 있으므로 주의가 필요하다.",
+      "limitations": [
+        "후향적 연구 설계로 인과관계 확립이 어렵다.",
+        "비교군이 없어 다른 절개법과 직접 비교할 수 없다.",
+        "단일 기관 기록 기반으로 일반화에 제한이 있을 수 있다.",
+        "절개 부위의 통증이나 환자 중심 결과는 평가하지 않았다.",
+        "장기 추적군은 1년 후 일부 사망 및 추적 불가 개체가 포함되어 관찰 편향 가능성이 있다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "환자 소유 개에서 임상적으로 의미 있는 절개 부위 합병증 발생률과 1년 장기 결과를 평가한 비교적 큰 규모의 사례 시리즈 연구로, three-pointed star abdominal incision을 시행하는 수의사에게 임상적 판단에 직접 참고 가능한 근거를 제공하기 때문에 권장한다.",
+      "id": "doi:10.1111/vsu.70191",
+      "discovered_at": "2026-11-27 05:01:21.516835+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43094213/",
+      "summary_generated_at": "2026-11-27 05:09:50.029401+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Electromyographic evaluation and response to electrical stimulation of the cricoarytenoideus dorsalis muscle in dogs with idiopathic laryngeal paralysis.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-11-25",
+      "online_publication_date": "2026-11-25",
+      "publication_date_raw": "2026-Nov-25",
+      "doi": "10.1111/vsu.70189",
+      "pmid": "43094257",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70189",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43094257/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 idiopathic laryngeal paralysis (LP)를 가진 반려견의 cricoarytenoideus dorsalis (CAD) 근육에 대한 전기자극 반응과 electromyographic (EMG) 변화를 직접 평가하여 임상적 적용 가능성을 제시하기 때문에 임상적으로 직접적으로 관련이 깊습니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "neurology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "idiopathic laryngeal paralysis",
+      "study_design": "prospective",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "idiopathic LP를 가진 개에서 CAD 근육의 EMG 활동과 직접 전기자극에 대한 반응을 기술하기 위해 연구를 실시했습니다.",
+      "study_methods": "총 14마리 개(10 마리 idiopathic LP 환자와 4 마리 참조 Beagle)를 대상으로 표준화된 마취 프로토콜 하에 왼쪽 측면 접근으로 후두를 노출시켰고, 기관내관을 일시 제거한 후 CAD 근육에 대한 EMG 검사 및 2mA부터 20mA까지 2mA 간격으로 증량하는 직접 전기자극법을 시행했습니다. 자극에 따른 좌측 arytenoid 연골의 움직임을 비디오 복강경으로 기록하고 반응을 yes/no 및 더 세분화하여 weak, strong, excessive로 분류했습니다.",
+      "one_sentence_summary": "Idiopathic LP를 가진 10마리의 성인 반려견과 4마리의 건강한 Beagle에서 CAD 근육의 EMG 변화 및 직접 전기자극 반응을 전향적으로 평가했습니다. 모든 LP 개는 denervation을 시사하는 fibrillation potentials와 positive sharp waves가 나타난 반면, 참조견은 정상 EMG를 보였습니다. 모든 개에서 전기자극에 대한 반응이 관찰됐으며, LP 개에서는 6-14mA 범위에서 'strong' 반응이 가장 많이 나타났습니다. 이 연구는 후두 근육에 의한 전기적 자극에 대한 반응 가능성을 확인하여 후두 마비 치료를 위한 후두 심박기 개발 연구 기반을 제공합니다.",
+      "key_results": [
+        {
+          "result": "모든 idiopathic LP 개에서 CAD 근육 EMG상 fibrillation potentials 및 positive sharp waves를 포함한 denervation에 일치하는 변화가 관찰되었습니다.",
+          "evidence_quote": "All LP dogs had EMG changes consistent with denervation of the CAD muscle including fibrillation potentials and positive sharp waves."
+        },
+        {
+          "result": "모든 LP 개와 참조견은 전기자극에 대해 'yes' 반응을 나타냈습니다.",
+          "evidence_quote": "All LP and reference dogs had a \"yes\" response to stimulation."
+        },
+        {
+          "result": "LP 개에서 6-14 mA 자극 범위가 가장 많은 'strong' 반응을 유발했습니다.",
+          "evidence_quote": "Stimulation levels of 6-14 mA produced the most \"strong\" responses in the LP dogs based on our grading system."
+        }
+      ],
+      "authors_conclusion": "LP 환자 개의 CAD 근육은 EMG상 denervation 변화가 있음에도 불구하고 전기자극에 반응하는 능력을 유지하고 있음을 확인하였습니다.",
+      "clinical_takeaway": "idiopathic LP로 진단된 반려견의 경우, CAD 근육이 전기자극에 반응할 수 있음을 확인함으로써 후두 마비 치료에 전기자극 기반 후두 심박기 개발 가능성을 시사합니다. 이는 후두 기능 회복을 위한 새로운 치료 전략의 기초를 제공하며, EMG상 denervation이 있어도 근육 기능이 완전히 소실된 것은 아님을 보여줍니다. 다만 소규모 전향적 연구이며 자극 강도의 최적 범위가 6-14 mA로 제한되어 있으므로, 실제 임상 적용 시 추가 연구로 안전성과 효과성을 검증해야 합니다.",
+      "limitations": [
+        "소규모 표본 크기(10마리 LP 환자, 4마리 정상견)",
+        "후두근 육안 평가 및 전기자극 반응에 주관적 척도 사용",
+        "연구는 전향적이나 무작위 배정이나 대조군 비교가 제한적임",
+        "임상 치료 결과 및 장기 추적 관찰 결과 미포함",
+        "초록 단독으로 완전한 연구 세부 내용 파악 어려움"
+      ],
+      "recommended": true,
+      "recommendation_reason": "본 연구는 idiopathic LP 환자 개의 CAD 근육 전기생리적 특성과 전기자극 반응을 직접 평가하여 전기자극 치료법 개발에 실질적 근거를 제공하였고, 임상적 직접 관련성이 명확하기 때문에 추천합니다.",
+      "id": "doi:10.1111/vsu.70189",
+      "discovered_at": "2026-11-27 05:01:21.493903+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43094257/",
+      "summary_generated_at": "2026-11-27 05:08:55.705152+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Technical note on fenestrated clamp-guided hand-sewn ileocolic functional end-to-end anastomosis during subtotal colectomy in cats: Description and clinical application in 12 cases.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-11-25",
+      "online_publication_date": "2026-11-25",
+      "publication_date_raw": "2026-Nov-25",
+      "doi": "10.1111/vsu.70187",
+      "pmid": "43094270",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70187",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43094270/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 클라이언트가 소유한 12마리의 개에서 실시한 subtotal colectomy 후 fenestrated clamp-guided hand-sewn ileocolic functional end-to-end anastomosis 기법에 대한 임상적 성과를 보고하였으며, 이로써 해당 수술법의 실질적인 임상 적용 가능성을 평가하였다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "fenestrated clamp-guided ileocolic functional end-to-end anastomosis",
+      "study_design": "case_series",
+      "sample_size": 12,
+      "sample_size_quote": "12 client-owned cats",
+      "objective": "Fenestrated clamp-guided method (FCGM)를 이용한 ileocolic functional end-to-end anastomosis (FEEA) 수술법의 기술적 설명과 임상적 적용 평가.",
+      "study_methods": "12마리의 idiopathic megacolon을 진단받은 반려묘를 대상으로 subtotal colectomy를 시행하면서 fenestrated intestinal clamp를 사용해 parallel intestinal alignment를 유지하고 common-channel 형성을 유도하는 FCGM 기법을 적용하였다. 연속적인 seromuscular suture를 먼저 배치한 후 clamp fenestration을 따라 full-thickness enterotomy를 진행하였고, 그 후 두 겹으로 common opening을 봉합하였다. 수술 중 hydrostatic leak testing을 실시하였고, 최대 180일까지 추적 관찰하며 수술 후 결과를 평가하였다.",
+      "one_sentence_summary": "idiopathic megacolon이 진단된 12마리의 반려묘를 대상으로 subtotal colectomy 시 fenestrated clamp-guided hand-sewn ileocolic FEEA 수술법을 적용하고, 수술 중 누출 여부 및 180일까지의 추적 관찰을 통해 임상적 효과와 합병증을 평가하였다. 모든 고양이에서 계획대로 수술이 진행되었고 10마리에서는 초기 누출이 없었으며, 나머지 2마리는 추가 봉합으로 누출이 해결되었다. 30일 이내에 모든 고양이에서 정상형태의 배변이 관찰되었고, 3마리는 약물 치료로 재변비가 관리되었다.",
+      "key_results": [
+        {
+          "result": "12마리의 고양이 모두에서 FCGM 방법을 계획대로 수행하였으며, 수술 중 다른 봉합법으로 전환하지 않았다.",
+          "evidence_quote": "The FCGM was completed as planned in all 12 cats without conversion to another anastomotic technique"
+        },
+        {
+          "result": "수술 중 누출검사에서 12마리 중 10마리에서 누출이 발견되지 않았다.",
+          "evidence_quote": "Initial leak testing showed no leakage in 10/12 cats"
+        },
+        {
+          "result": "나머지 2마리 고양이에서는 common opening 폐쇄 중앙 부근에서 누출이 있었으나, 각각 한 개의 추가 interrupted Lembert 봉합으로 해결되었다.",
+          "evidence_quote": "In the remaining 2/12 cats, leakage near the center of the closure line of the common opening resolved after placement of one additional interrupted Lembert suture in each cat"
+        },
+        {
+          "result": "common channel의 절단 부위에서의 누출은 관찰되지 않았다.",
+          "evidence_quote": "No leakage from the cut edges of the common channel was detected"
+        },
+        {
+          "result": "수술 후 30일까지 모든 12마리에서 정상 또는 연한 형태의 배변이 관찰되었다.",
+          "evidence_quote": "Soft-formed or formed feces were observed in 12/12 cats by postoperative day 30"
+        },
+        {
+          "result": "수술 후 변비가 재발한 3마리는 재수술 없이 약물 치료로 관리되었다.",
+          "evidence_quote": "Constipation recurred in 3/12 cats and was managed medically without revision surgery"
+        }
+      ],
+      "authors_conclusion": "본 사례 시리즈에서 FCGM은 수술 중 장의 정렬을 유지하고 common-channel 형성을 유도하는 실용적인 방법으로 적용 가능하며, subtotal colectomy 중 hand-sewn ileocolic FEEA에서 유용할 수 있음을 시사한다.",
+      "clinical_takeaway": "idiopathic megacolon으로 subtotal colectomy를 받는 고양이에서 fenestrated clamp-guided hand-sewn ileocolic FEEA 수술법은 장 정렬 유지와 common-channel 생성에 실용적이며 안전한 방법임이 입증되었다. 초기 누출 발생률이 낮고, 일부 누출도 간단한 추가 봉합으로 해결되어 수술 중 누출 위험 관리가 비교적 용이했다. 수술 후 정상 배변 형태를 빠르게 회복하는 한편, 일부 고양이에서 재발성 변비가 약물로 관리 가능하여 수술 재시행 필요성은 낮았다. 다만, 소규모 증례집단이고 후향적 관찰 중심이므로 장기적인 합병증이나 대규모 환자군에서의 적용 가능성에 대해서는 추가 연구가 필요하다.",
+      "limitations": [
+        "사례 수가 12마리로 비교적 적음",
+        "후향적 증례보고 형식으로 통제군이 없음",
+        "후기 추적 관찰 기간이 최대 180일로 장기 예후 평가 제한",
+        "수술 전후 표준화된 평가 지표 및 기능성 결과에 대한 상세 보고 부족"
+      ],
+      "recommended": true,
+      "recommendation_reason": "고양이 subtotal colectomy에서 hand-sewn ileocolic anastomosis를 시행할 때 장 정렬 유지와 누출 위험 감소를 위한 효과적인 수술 기법으로서 임상 적용 가능성을 충분히 보여 주었기 때문이다.",
+      "id": "doi:10.1111/vsu.70187",
+      "discovered_at": "2026-11-27 05:01:21.473269+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43094270/",
+      "summary_generated_at": "2026-11-27 05:08:13.479897+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Canine Hypercalcaemia: part 1, Pathophysiology and Causes.",
       "journal": "Journal of Small Animal Practice",
@@ -9883,6 +10092,72 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Heart rate variability in dogs with brachycephalic obstructive airway syndrome evaluated during wakefulness and sleep.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-05-04",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-May-04",
+      "doi": "10.1093/jvimsj/aalag114",
+      "pmid": "42302766",
+      "pmcid": "PMC13271391",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag114",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42302766/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 brachycephalic obstructive airway syndrome (BOAS)을 가진 client-owned 개들을 대상으로 하여, awake와 sleep 상태에서 heart rate variability (HRV)를 평가함으로써 BOAS가 자율신경 조절에 미치는 영향을 직접적으로 조사하였음. 따라서 임상에서 BOAS 개들의 심혈관계 자율신경 기능 및 관련 합병증 관리에 직접적으로 활용 가능한 근거임.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "cardiology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "brachycephalic obstructive airway syndrome and heart rate variability",
+      "study_design": "prospective",
+      "sample_size": 46,
+      "sample_size_quote": "Forty-six client-owned dogs: 34 brachycephalic (with and without BOAS) and 12 non-brachycephalic controls.",
+      "objective": "BOAS가 있는 개들에서 각성 및 수면 중의 heart rate variability를 평가하여 자율신경계 조절의 변화를 파악하는 것.",
+      "study_methods": "본 연구는 prospective cross-sectional 디자인으로 진행되었고, 34마리의 brachycephalic 개(BOAS 증상군과 비증상군 포함)와 12마리의 non-brachycephalic 건강한 대조군 개를 포함하였다. 모든 개들은 수의학 교육기관 심장과에서 신체검사, 혈압 측정, 심초음파 및 표면 심전도를 통해 기초 건강 검사를 시행하였다. 각 개는 24시간 Holter 모니터링을 통해 심전도 기록을 취득하였으며, 개별 개체의 각성과 수면 상태를 Holter 일지와 보호자의 비디오 기록을 토대로 최소 60분 이상 확보하여 분석하였다. 분석 변수에는 심박수, RR 간격, 가장 긴 동성 동정지, heart rate corrected standard deviation of NN intervals (cSDNN), heart rate corrected root mean square of successive differences (cRMSSD), vasovagal tone index (VVTI), Poincaré 플롯 분석 등이 포함되었다. 통계분석은 선형 혼합효과모델로 각성 및 수면 상태 내 반복 측정을 고려하여 실시하였다.",
+      "one_sentence_summary": "본 연구에서는 34마리의 brachycephalic 개를 BOAS 유무에 따라 분류하고 12마리의 non-brachycephalic 개와 비교하여 awake와 sleep 상태에서 24시간 Holter 모니터링을 시행하였다. BOAS 양성 개는 cSDNN과 cRMSSD에서 대조군 대비 유의하게 높은 값(예: cSDNN 0.365 vs 0.246 ms, P = .0058)을 보였으며, 수면 시 모든 그룹에서 cSDNN, cRMSSD, VVTI가 상승하였다. BOAS 유무는 가장 긴 sinus pause와 HRV 지표들과 유의한 상관관계를 나타냈다. 전체적으로 BOAS는 심박변이도에 영향을 주며 특히 각성 시에 그 차이가 두드러졌다.",
+      "key_results": [
+        {
+          "result": "BOAS 개는 24시간 Holter 분석에서 cSDNN 0.365 (IQR 0.306-0.465) ms로 비BOAS 대조군 0.246 (IQR 0.208-0.359) ms보다 유의하게 높았다 (P = .0058).",
+          "evidence_quote": "In the 24-h Holter analysis, BOAS dogs showed significantly higher values than controls, particularly in cSDNN (0.365 [IQR: 0.306-0.465] vs 0.246 [IQR: 0.208-0.359] ms, P = .0058)"
+        },
+        {
+          "result": "cRMSSD 값도 BOAS 개에서 0.476 (IQR 0.409-0.599) ms로 비BOAS 대조군 0.312 (IQR 0.259-0.462) ms보다 높았다 (P = .0119).",
+          "evidence_quote": "cRMSSD (0.476 [IQR: 0.409-0.599] vs 0.312 [IQR: 0.259-0.462] ms, P = .0119)"
+        },
+        {
+          "result": "수면 상태에서는 모든 그룹에서 cSDNN, cRMSSD, VVTI가 통계적으로 유의하게 상승하였다 (StateSleep estimates 각각 0.105, 0.426, 1.758; 모두 P < .001).",
+          "evidence_quote": "Sleep was associated with higher cSDNN, cRMSSD, and VVTI in all groups (StateSleep estimates: 0.105 [95% CI, 0.062-0.149], 0.426 [95% CI, 0.264-0.588], and 1.758 [95% CI, 1.378-2.139], respectively; all P < .001)"
+        },
+        {
+          "result": "BOAS의 존재는 가장 긴 sinus pause (r = 0.4197, P = .0023), cSDNN (r = 0.4600, P = .0006), cRMSSD (r = 0.4214, P = .0018)와 중등도 상관관계를 보였다.",
+          "evidence_quote": "Presence of BOAS was moderately correlated with the longest sinus pause (r = 0.4197, P = .0023), cSDNN (r = 0.4600, P = .0006), and cRMSSD (r = 0.4214, P = .0018)"
+        }
+      ],
+      "authors_conclusion": "BOAS는 brachycephalic 개의 자율신경 조절에 영향을 미치며, 특히 각성 시 parasympathetic activity가 증가하여 심박변이도가 유의하게 높게 나타난다. 수면 시에는 전반적인 parasympathetic 우세로 인해 그룹 간 차이가 감소하는 경향이 있으나 BOAS의 영향은 여전히 관찰된다. 이러한 결과는 만성 호흡장애 및 간헐적 저산소증이 autonomic imbalance 및 vagal tone 증가에 기여할 가능성을 시사한다.",
+      "clinical_takeaway": "BOAS를 가진 brachycephalic 개에서는 각성 시에 vagal activity와 parasympathetic modulation이 증가하여 심박변이도 지표(cSDNN, cRMSSD, VVTI) 및 sinus pause 빈도와 기간이 상승하는 특징이 관찰된다. 이는 호흡장애로 인한 만성 저산소증과 심혈관계 자율신경계의 변화를 반영하므로, 이들 개의 심장 모니터링 시 HRV 분석이 유용하다. 특히 awake 상태에서의 HRV 변화가 더 명확하여 임상 추적 및 중재 효과 평가 시 각성 상태에서의 평가가 권장된다. 다만, 수면 시에는 본래 parasympathetic 우세 현상으로 인해 BOAS 관련 차이가 희석될 수 있어 해석에 주의해야 한다. 본 연구의 제한점으로는 수면 상태 분류의 주관성, 비교적 소 규모 대조군 등이 있으므로 결과 적용에 신중해야 한다.",
+      "limitations": [
+        "RR 간격의 artifact-free 데이터 수가 상대적으로 적어 장기 심박변이도 분석에 제한이 있을 수 있음.",
+        "대조군 수가 상대적으로 적고 선형 혼합효과모델 복잡성으로 인해 소규모 집단 간 차이나 상호작용 효과 발견에 제한이 있을 수 있음.",
+        "각성과 수면 상태 판별이 보호자 제출 비디오 및 주관적 시각평가에 의존하여 분류 정확도와 재현성에 한계가 있음.",
+        "수면의 다양한 단계(예: 비REM, REM 수면) 구분이 이루어지지 않아 수면 관련 자율신경 변화 평가에 제한이 있음.",
+        "산소분압, 이산화탄소 분압, 혈중 전해질 등 심박수 및 HRV에 영향을 줄 수 있는 생리학적 변수들이 평가되지 않음."
+      ],
+      "recommended": true,
+      "recommendation_reason": "BOAS의 심혈관 자율신경계 영향에 대해 client-owned brachycephalic 개를 대상으로 한 전향적 연구이며, awake와 sleep 상태 각각에서 HRV를 평가함으로써 임상 적용 가능한 심혈관계 자율신경 조절 정보를 제공함. 규모는 중간 수준이나 직접 임상 사례에 기반하고 명확한 수치 결과와 통계가 뒷받침되어 실질적 가치를 지님.",
+      "id": "doi:10.1093/jvimsj/aalag114",
+      "discovered_at": "2026-09-17 05:57:10.345174+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13271391",
+      "summary_generated_at": "2026-11-27 05:13:33.924446+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Use of C-peptide and homeostasis model assessment of insulin resistance to assess insulin resistance in dogs.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -10392,15 +10667,15 @@
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 588
+        "received": 595
       }
     },
-    "started_at": "2026-11-26T05:00:15.410838+00:00",
-    "since": "2026-10-12",
-    "processed": 2,
+    "started_at": "2026-11-27T05:01:20.132028+00:00",
+    "since": "2026-10-13",
+    "processed": 4,
     "refreshed": 0,
-    "failed": 12,
+    "failed": 14,
     "deferred": 1368,
-    "finished_at": "2026-11-26T05:06:18.249668+00:00"
+    "finished_at": "2026-11-27T05:13:36.417775+00:00"
   }
 }
