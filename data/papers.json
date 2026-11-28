@@ -1,9 +1,132 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T05:13:36.595554+00:00",
-  "last_successful_collection": "2026-11-27T05:01:20.131980Z",
+  "generated_at": "2026-11-28T04:56:27.194464+00:00",
+  "last_successful_collection": "2026-11-28T04:43:57.071603Z",
   "mode": "live",
   "papers": [
+    {
+      "title": "Risk factors for complications in dogs treated with transpalpebral or transconjunctival enucleation.",
+      "journal": "Journal of Small Animal Practice",
+      "journal_id": "jsap",
+      "publication_date": "2026-11-27",
+      "online_publication_date": "2026-11-27",
+      "publication_date_raw": "2026-Nov-27",
+      "doi": "10.1111/jsap.70224",
+      "pmid": "43102283",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/jsap.70224",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43102283/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 영국 내 333마리의 client-owned dogs에서 transpalpebral 또는 transconjunctival enucleation 후 발생하는 합병증의 유병률과 위험인자를 직접적으로 평가하였으므로 임상적으로 직접 관련이 있다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "soft_tissue_surgery"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "enucleation complications",
+      "study_design": "retrospective",
+      "sample_size": 333,
+      "sample_size_quote": "Medical records of 333 client-owned dogs that underwent 351 enucleations",
+      "objective": "UK 내 두 개의 전문 수의 진료 센터에서 transpalpebral 또는 transconjunctival enucleation을 받은 개들에서 합병증의 발생 빈도와 위험인자를 확인하고자 하였다.",
+      "study_methods": "두 수의 전문 수술 센터에서 시행된 351회의 enucleation 수술을 받은 333마리의 client-owned dogs 의 의무 기록을 후향적으로 검토하였다. 수술 전, 수술 중, 수술 후 변수(연령, 종, 성별, 수술 적응증, 동반질환, 수술 기법, 안와 내 보형물 유무, 수술 및 마취 기간 등)를 평가하여 외과 부위 감염 및 기타 합병증 발생과 연관되는 인자를 분석하였다. 모든 환견은 완치가 확인되거나 합병증이 발생할 때까지 추적 관찰되었다.",
+      "one_sentence_summary": "영국 두 전문 수의 진료 센터에서 transpalpebral 또는 transconjunctival enucleation을 받은 333마리의 client-owned dogs(351회 수술)를 대상으로 수술 후 합병증과 관련된 위험 인자를 후향적 설계로 조사하였다. 전체 합병증(중등도 이상)은 1.4%(5/351)로 낮았으며, 모두 외과 부위 감염이었고 재수술이 필요한 경우는 0.5%(2/351)에 불과하였다. 항생제는 73.5%의 수술에서 사용되었고, cefalexin이 가장 흔히 투여되었다. 수술 방법, 마취 시간, 수술자의 경험은 합병증 발생과 관련이 없었다.",
+      "key_results": [
+        {
+          "result": "전체 수술 351건에서 중등도 이상 합병증은 5건(1.4%)이었으며 모두 외과 부위 감염이었다.",
+          "evidence_quote": "The overall prevalence of combined moderate or severe complications was low (5/351, 1.4%); all five dogs developed surgical site infection"
+        },
+        {
+          "result": "재수술이 필요한 경우는 2건(0.5%)에 불과하였다.",
+          "evidence_quote": "Revision surgery was required following enucleation in two dogs (2/351, 0.5%)"
+        },
+        {
+          "result": "항생제는 73.5%의 수술에서 사용되었고, 이중 52.1%는 4에서 7일간 cefalexin을 투여받았다.",
+          "evidence_quote": "Postoperative antimicrobials were used in 73.5% of the enucleations, with cefalexin being the most frequently used. Systemic cefalexin for 4 to 7 days was used postoperatively in 52.1% of these enucleations"
+        },
+        {
+          "result": "안와 보형물을 사용한 환견에서는 합병증이 보고되지 않았다.",
+          "evidence_quote": "None of the dogs with orbital prostheses developed complications."
+        },
+        {
+          "result": "수술 방법, 마취 시간, 수술자의 경험 등 변수는 합병증 예측 인자로 확인되지 않았다.",
+          "evidence_quote": "No variables were clearly identified as predictive factors for postoperative complications in this study."
+        }
+      ],
+      "authors_conclusion": "연구 대상 개들의 enucleation 후 합병증 발생률은 기존 보고보다 현저히 낮았다. 수술 방법, 마취 시간, 수술자 경험 등은 결과나 합병증 발생에 유의한 영향을 미치지 않았다. 제한점이 있는 후향적 연구로, 추가적인 전향적 연구가 필요하다.",
+      "clinical_takeaway": "UK의 333마리 client-owned dogs에서 transpalpebral 또는 transconjunctival enucleation 후 합병증은 매우 낮은 편(1.4%)이며, 특히 외과 부위 감염이 주된 문제였다. 안와 내 보형물 사용은 합병증 증가와 관련이 없었고, 수술 기법이나 마취 시간, 수술수의 경험도 합병증에 영향을 미치지 않아 해당 수술 후 관리에서 큰 차별을 둘 필요는 없어 보인다. 그러나 후향적 연구 설계와 제한적 변수 평가 때문에, 추후 보다 엄격한 전향적 연구를 통해 위험인자를 재검증해야 한다는 점을 명심해야 한다.",
+      "limitations": [
+        "후향적 설계로 인한 자료 제한과 잠재적 혼란 변수 존재 가능성",
+        "수술 후 감염 및 합병증 정의에 한계가 있을 수 있음",
+        "전향적 무작위 대조 연구가 아니어서 인과관계 입증 불가",
+        "전체 변수들에 대한 상세한 통계 분석 결과 미보고",
+        "abstract 만 제공되어 세부 임상 정보 부족"
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접적으로 client-owned dogs에서 임상적으로 중요한 enucleation 합병증의 유병률과 위험인을 평가하였고, 합병증 발생이 낮고 수술 기술이나 마취 기간 등 일반 임상에서 중시하는 요인이 영향을 주지 않는다는 구체적 데이터를 제공했다. 이는 관련 임상 의사결정에 유용한 근거가 된다.",
+      "id": "doi:10.1111/jsap.70224",
+      "discovered_at": "2026-11-28 04:43:58.405937+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43102283/",
+      "summary_generated_at": "2026-11-28 04:48:09.025193+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Surgical repair of an ostium secundum atrial septal defect with absent dorsal rim in a dog.",
+      "journal": "Veterinary Surgery",
+      "journal_id": "vetsurg",
+      "publication_date": "2026-11-26",
+      "online_publication_date": "2026-11-26",
+      "publication_date_raw": "2026-Nov-26",
+      "doi": "10.1111/vsu.70195",
+      "pmid": "43099923",
+      "pmcid": null,
+      "publisher_url": "https://doi.org/10.1111/vsu.70195",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43099923/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 개에서 실제로 ostium secundum atrial septal defect(ASD) 치료에 적용된 수술적 중재와 그 결과를 보고하였으므로 임상에 직접적인 관련이 있습니다.",
+      "primary_category": "surgery",
+      "tags": [
+        "surgery",
+        "cardiology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "ostium secundum atrial septal defect",
+      "study_design": "case_report",
+      "sample_size": 1,
+      "sample_size_quote": "A 1-year-old, 4.7 kg spayed female Bichon Frise dog",
+      "objective": "dorsal rim이 결손된 ostium secundum ASD를 가진 개에서 해부학적 특성과 외과적 치료 가능성을 평가하는 것",
+      "study_methods": "1세 된 4.7kg 암컷 Bichon Frise 개가 운동불내성과 기침 증상으로 내원하였고, 진단 영상 및 수술 기록, 수술 후 추적 관찰을 검토하였다. 개심술과 심폐우회술하에 glutaraldehyde 처리된 자가심낭 패치를 이용해 ASD 결손부를 수술적으로 폐쇄하였으며, rim이 없는 dorsal 부위는 심방 자유벽에 고정하였다.",
+      "one_sentence_summary": "1세 암컷 Bichon Frise 개에서 dorsal rim이 결손된 ostium secundum ASD가 진단되어 개심술 하 glutaraldehyde 처리 자가심낭 패치를 이용해 폐쇄 수술을 시행하였다. 수술 후 406일간 추적 관찰하는 동안 결손부는 안정적으로 유지되었으며, 수술 전후 합병증 없음이 확인되었다. 본 연구는 rim 결손이 있어도 자가심낭 패치 수술로 ASD를 성공적으로 치료할 수 있음을 사례 보고로 제시한다.",
+      "key_results": [
+        {
+          "result": "수술 후 406일간의 추적 관찰 기간 동안 ASD 결손부는 안정적으로 유지되었고, 수술 관련 합병증은 없었다.",
+          "evidence_quote": "The dog recovered uneventfully from surgery, and the closed defect remained stable during a 406 days follow-up period. No peri- or postoperative complications were observed."
+        }
+      ],
+      "authors_conclusion": "자가심낭 패치를 이용한 수술적 폐쇄는 dorsal rim이 결손된 secundum ASD 환자에서 합병증 없이 안정적인 치료 결과를 보였다.",
+      "clinical_takeaway": "dorsal rim이 결손된 secundum ASD를 가진 개에서도 자가심낭 패치를 이용한 개심술이 안전하고 효과적일 수 있음을 시사한다. 수술 후 정상적인 회복과 약 1년 이상의 안정적 결손 폐쇄 결과가 관찰되어, 복잡한 해부학적 구조에서도 수술적 치료가 가능함을 보여준다. 그러나 사례 보고에 기반한 결과이므로 다양한 개체에서의 일반화에는 주의가 필요하며, 추가 연구가 필요하다.",
+      "limitations": [
+        "증례 보고(single case report)로 결과 일반화 제한",
+        "장기 추적 관찰은 있으나 추가 성공 사례 및 비교군 부재",
+        "증례 하나에 근거한 수술 기법의 안전성과 효용성 평가 한계",
+        "abstract만 제공되어 상세 수술법 및 세부 데이터 부족"
+      ],
+      "recommended": false,
+      "recommendation_reason": null,
+      "id": "doi:10.1111/vsu.70195",
+      "discovered_at": "2026-11-28 04:43:58.426235+00:00",
+      "evidence_source": "abstract",
+      "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/43099923/",
+      "summary_generated_at": "2026-11-28 04:48:29.509711+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
     {
       "title": "Postoperative complications and long-term incisional outcomes after a three-pointed star abdominal incision in dogs: A retrospective case series of 104 procedures in 102 dogs.",
       "journal": "Veterinary Surgery",
@@ -10092,6 +10215,224 @@
       "analysis_model": "gpt-4.1-mini"
     },
     {
+      "title": "Pyogranulomatous lymphadenitis with Splendore-Hoeppli phenomenon caused by Neisseria species in a domestic shorthair cat.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-05-04",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-May-04",
+      "doi": "10.1093/jvimsj/aalag076",
+      "pmid": "42234464",
+      "pmcid": "PMC13231861",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag076",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42234464/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "본 연구는 domestic shorthair 고양이에서 Neisseria species 감염으로 인한 pyogranulomatous lymphadenitis 및 Splendore-Hoeppli 현상을 분석하였으며, 구획 절제 및 항생제 치료 후 장기 임상 경과를 보고하여 실제 임상에 관련된 직접 증거를 제공합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine",
+        "infectious_disease"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "pyogranulomatous lymphadenitis associated with Neisseria species infection in cat",
+      "study_design": "case_report",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "Domestic shorthair 고양이에서 Neisseria species에 의해 유발된 pyogranulomatous lymphadenitis와 Splendore-Hoeppli 현상의 임상적, 병리학적 특징을 보고하고, 진단 및 치료 경과를 평가하였다.",
+      "study_methods": "11세 수컷 domestic shorthair 고양이에서 오른쪽 mandibular 및 prescapular lymph node 종대와 체중 감소에 대한 임상 검사가 시행되었다. 세포학, 조직검사, 미생물 배양 및 감수성 검사가 수행되었고, 조직검사는 excisional biopsy 후 진행되었다. 4주간 amoxicillin-clavulanate (20 mg/kg PO q12h) 투여 후 임상 경과가 관찰되었다.",
+      "one_sentence_summary": "11세 수컷 domestic shorthair 고양이가 오른쪽 mandibular 및 prescapular lymph node 종대와 체중 감소로 내원하였다. 세포학 및 조직검사에서 심한 pyogranulomatous inflammation과 Splendore-Hoeppli 현상이 확인되었으며, Neisseria species가 두 림프절 조직에서 분리되었다. 4주간 amoxicillin-clavulanate 투여 후 임상증상과 혈액학적 이상이 호전되었고, 2.5년 간 재발 없이 건강한 상태가 유지되었다.",
+      "key_results": [
+        {
+          "result": "Mandibular lymph node의 세포학에서 심한 pyogranulomatous inflammation이 관찰되었다.",
+          "evidence_quote": "Cytology of the right mandibular lymph node revealed marked pyogranulomatous inflammation."
+        },
+        {
+          "result": "Mandibular lymph node 조직검사에서 심한 pyogranulomatous inflammation과 Splendore-Hoeppli 현상이 관찰되었다.",
+          "evidence_quote": "Histopathology of the right mandibular lymph node showed severe pyogranulomatous inflammation, with prominent Splendore–Hoeppli phenomenon"
+        },
+        {
+          "result": "Mandibular 및 prescapular lymph node에서 Neisseria species가 배양되었으며, 항생제 감수성 검사에서 amoxicillin-clavulanate에 감수성을 보였다.",
+          "evidence_quote": "A Neisseria species was cultured from tissue samples obtained from both lymph nodes, with sensitivity testing confirming susceptibility to amoxicillin-clavulanate."
+        },
+        {
+          "result": "4주간 amoxicillin-clavulanate (20 mg/kg PO q12h) 투여 후 임상증상은 완전히 회복되었고, 2.5년 후에도 재발 증상은 관찰되지 않았다.",
+          "evidence_quote": "After a 4-week course of amoxicillin-clavulanate (20 mg kg-1 PO q12h), clinical signs resolved. The cat was clinically well with no evidence of recurrence of infection 2.5 years after presentation."
+        },
+        {
+          "result": "Prescapular lymph node는 reactive lymphoid hyperplasia 소견을 보였으며, 균은 원래 배양에서는 검출되지 않고 enrichment broth 배양에서만 분리되었다.",
+          "evidence_quote": "A light growth of a slow growing Neisseria species was isolated from the right mandibular lymph node after direct plating on blood agar (Colombia blood agar base, Oxoid UK, supplemented with 5% sheep blood), incubated at 98.6°F. No growth was isolated from the right prescapular lymph node on the original culture, however a moderate growth of Neisseria species was also noted on tryptone soya broth (Oxoid UK) enrichment culture, incubated at 98.6°F, from this lymph node."
+        }
+      ],
+      "authors_conclusion": "Neisseria species에 의한 feline cervicofacial neisseriosis (FCN)는 드물지만 심한 pyogranulomatous lymphadenitis와 Splendore-Hoeppli 현상을 유발할 수 있으며, 정확한 진단을 위해 조직학적 검사와 장기간의 세균 배양이 필요하다. 조기 수술과 4주 이상의 적절한 항생제 치료가 성공적인 임상 결과를 가져올 수 있다.",
+      "clinical_takeaway": "본 증례는 domestic shorthair 고양이에서 Neisseria species에 의해 유발된 pyogranulomatous lymphadenitis와 Splendore-Hoeppli 현상의 임상적 중요성을 보여준다. Lymphadenopathy가 동반된 만성 종창 및 체중 감소가 있는 경우, 특히 Splendore-Hoeppli 현상이 조직검사에서 관찰되면 Neisseria 감염을 감별 진단에 포함시켜야 한다. 배양 검사는 성장 조건이 까다로우므로 prolonged incubation 및 enrichment broth를 활용하며, 정확한 세균 동정이 임상 치료 선택에 중요하다. 장기간의 amoxicillin-clavulanate 투여와 외과적 절제가 좋은 치료 결과와 장기간 무재발을 기대할 수 있으나, 감염의 낮은 발생 빈도 및 배양 어려움으로 인한 과소 진단 가능성을 염두에 두어야 한다.",
+      "limitations": [
+        "단일 증례 보고로 일반화가 어렵다.",
+        "배양 및 동정이 까다로운 미생물 특성상 일부 관련 증례가 보고되지 않았을 가능성이 있다.",
+        "후속 흉부 영상 검사 부족으로 폐렴 관련 잠재적 병변의 추적이 제한적이다.",
+        "조사된 고양이는 하나의 품종과 특정 임상 상황에 국한되어 있어 다른 고양이군에 적용 시 주의가 필요하다."
+      ],
+      "recommended": true,
+      "recommendation_reason": "Neisseria species 감염에 의한 고양이 pyogranulomatous lymphadenitis에서 세포학, 조직학 및 배양 기반 진단과 amoxicillin-clavulanate를 이용한 장기 치료의 유용성을 구체적이고 직접적인 증례를 통해 제시하였으며, 드문 질환에 대한 중요한 가이드라인을 제공하기 때문에 임상적 가치는 높다.",
+      "id": "doi:10.1093/jvimsj/aalag076",
+      "discovered_at": "2026-09-17 05:57:10.399541+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13231861",
+      "summary_generated_at": "2026-11-28 04:55:18.939578+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Efficacy and safety evaluation of gilvetmab in dogs with melanoma and mast cell tumor.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-05-04",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-May-04",
+      "doi": "10.1093/jvimsj/aalag098",
+      "pmid": "42247661",
+      "pmcid": "PMC13240851",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag098",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42247661/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "gilvetmab의 항-PD-1 단일클론항체로서, 임상에서 자발적으로 발생한 개의 melanoma와 mast cell tumor 환자들을 대상으로 단독 요법의 효능과 안전성을 체계적으로 평가하여 직접적인 임상적 의미를 가집니다.",
+      "primary_category": "oncology",
+      "tags": [
+        "internal_medicine",
+        "oncology"
+      ],
+      "species": [
+        "dog"
+      ],
+      "disease_or_topic": "melanoma and mast cell tumor treatment with gilvetmab",
+      "study_design": "prospective",
+      "sample_size": 51,
+      "sample_size_quote": "Fifty-one client-owned dogs were evaluated, 25 with stages II-III melanoma and 26 with stages I-III mast cell tumor (MCT).",
+      "objective": "gilvetmab, 즉 개에서 사용할 수 있는 anti-PD-1 단클론항체의 효능과 안전성을 평가하고자 함.",
+      "study_methods": "다기관, 공개라벨, 단일군, 전향적 연구로, 자발성 melanoma(25마리)와 MCT(26마리)를 가진 임상 개들을 대상으로 gilvetmab을 6mg/kg q28d 또는 10mg/kg q14d로 정맥주사하였다. 안전성 평가는 임상검진, 혈액검사 및 임상 관찰을 통해 평가하였고, 효능 평가는 cRECIST v1.0 및 림프종 반응기준에 따라 객관적 반응률(ORR)과 질병 진행 시간(TTP)을 주요 결과 지표로 하였다.",
+      "one_sentence_summary": "51마리의 자발성 암 환자 개(25마리 melanoma, 26마리 mast cell tumor)를 대상으로 6mg/kg q28d 또는 10mg/kg q14d의 정맥주사형 gilvetmab을 투여하였다. Melanoma에서 ORR은 20%, 중간 TTP는 56일이었으며, MCT에서 ORR은 46%였고 중간 TTP는 도출되지 않았다. 3마리(5.9%)에서 아나필락시스, 저혈압, 종양 출혈 등의 중증 이상반응이 관찰되었다. 두 마리 melanoma 환자에서 초기 종양 크기 증가 후 회복하는 pseudoprogression 가능성도 보고되었다.",
+      "key_results": [
+        {
+          "result": "Melanoma 환자의 중앙 무진행 기간(time to progression)은 56일이었다.",
+          "evidence_quote": "median TTP was 56 days."
+        },
+        {
+          "result": "MCT 환자의 중앙 무진행 기간은 도출되지 않았다(median TTP not reached).",
+          "evidence_quote": "median TTP was not reached."
+        },
+        {
+          "result": "전체 51마리 개 중 3마리(5.9%)에서 아나필락시스, 저혈압, 또는 종양 출혈 같은 중증 이상반응이 발생하였다.",
+          "evidence_quote": "Serious adverse events of anaphylaxis, hypotension, or tumor hemorrhage occurred in 3 dogs (3/51, 5.9%)."
+        },
+        {
+          "result": "Gilvetmab 10mg/kg q14d 투여 받은 두 마리 melanoma 환자에서 초기 tumor progression 후 tumor 크기가 감소하는 pseudoprogression 양상 관찰됨.",
+          "evidence_quote": "Two dogs with melanoma receiving gilvetmab at 10 mg/kg q14d initially were deemed to have PD but subsequently were noted to have tumor regression"
+        },
+        {
+          "result": "MCT 환자 중 일부에서는 4%에서 46%의 객관적 반응률을 각각 나타냈다.",
+          "evidence_quote": "No ORs were observed for any lymphoma cases (ORR = 0%). Table 5 Responses of dogs with melanoma or MCT. | Response | | Melanoma (n = 25) | | MCT (n = 26) | | CR (n, %) | | 2 (8%) | | 2 (8%) | | PR (n, %) | | 3 (12%) | | 10 (38%) | | SD (n, %) | | 10 (40%) | | 7 (27%) | | PD (n, %) | | 8 (32%) | | 6 (23%) | | NE (n, %) | | 2 (8%) | | 1 (4%) | | Objective response (CR + PR) | | 5 | | 12 | | ORR (%, 95% CIa) | | 20% (7%-41%) | | 46% (27%-67%) | Abbreviations: CR = complete response; NE = not evaluable; ORR = objective response rate; PD = progressive disease; PR = partial response; SD = stable disease. a Calculated by Clopper–Pearson method, which ignores factors such as cancer stage, breed, site, etc."
+        },
+        {
+          "result": "멜라노마와 MCT 환자들 모두에서 gilvetmab 6 mg/kg q28d와 10 mg/kg q14d 용량군에서 객관적 반응이 관찰되었고, 반응까지 걸린 중간 일수는 비슷했다.",
+          "evidence_quote": "For this reason, it is likely that the width of the CI is underestimated. Table 6 ORs of dogs with melanoma or MCT by dose. | | | Melanoma (n = 25) | | MCT (n = 26) | | Dose | | # of subjects | | # with OR (%) | | Median days to OR (average, range) | | Duration of Response (days) | | # of subjects | | # with OR (%) | | Median days to OR (average, range) | | Duration of response (days) | | 6 mg/kg q28 days | | 15a | | 2a (13.3%) | | 55 (55, 26-84) | | 86, 126+b | | 15a | | 7a (46.7%) | | 56 (62.1, 28-155) | | 55+b, 56, 84, 84, 111, 112+b, 126 | | 10 mg/kg q14 days | | 10 | | 3 (30.0%) | | 58 (66, 56-58) | | 42, 55, 84+b | | 11 | | 5 (45.5%) | | 56 (52, 27-91) | | 27, 49+b, 83+b, 83+b, 113+b | Abbreviations: MCT = mast cell tumor; ORs = objective responses. a Dogs that experienced an OR (partial or complete response) are listed at the dose during which it was first observed. b Still had an OR at end of study Table 7 ORs of dogs with melanoma or MCT by stage. | | | Melanoma (n = 25) | | MCT (n = 26) | | Stage | | # of subjects | | # with OR | | (%) | | # of subjects | | # with OR | | (%) | | I | | 0 | | 0 | | 0.0 | | 14 | | 7 | | 50.0 | | II | | 7 | | 0 | | 0.0 | | 3 | | 1 | | 33.3 | | III | | 17 | | 5 | | 29.4 | | 9 | | 4 | | 44.4 | | IV | | 1a | | 0 | | 0.0 | | Not applicable | | Not applicable | | 0.0 | Abbreviations: MCT = mast cell tumor; ORs = objective responses. a Stage IV dogs were excluded from the study with the exception of 1 dog that was not originally noted to have pulmonary metastasis at screening but was later retrospectively determined to have been present at the time of screening based on review of serial thoracic radiographs."
+        }
+      ],
+      "authors_conclusion": "Gilvetmab은 개 melanoma stages II-III 및 mast cell tumor stages I-III 환자에서 효과를 기대할 수 있으며, 예비 안전성 평가 결과도 허용 가능한 수준임을 시사한다.",
+      "clinical_takeaway": "자발성 melanoma와 mast cell tumor를 가진 개에서 gilvetmab을 단독 투여한 본 연구는 객관적 반응률 20~46%와 비교적 양호한 안전성 프로필을 보고하여 임상적 활용 가능성을 확인하였다. 특히 melanoma에서는 TTP가 중간 56일로 측정되었으며, MCT 환자에서는 중앙값에 도달하지 않았다. 일부 환자에서는 pseudoprogression으로 보이는 초기 종양 크기 증가 후 회복 현상도 목격되어 면역관문억제제 사용 시 종양 반응 평가 시 이를 고려해야 한다. 아나필락시스 및 저혈압 같은 심각한 이상반응은 드물게 발생하였으나, 주의 깊은 모니터링이 필요하다. 다만 연구가 무작위 대조군 없이 제한적 샘플로 진행된 점과 긴 추적 관찰이 부족한 점을 감안하면, 향후 규모가 큰 등록 임상시험과 다른 치료법과의 병용 요법 연구가 이루어져야 할 것이다.",
+      "limitations": [
+        "대상 개체 수가 제한적이며 종양의 부위별 및 병기별 균질한 분포가 부족하여 효능 평가가 일부 병기, 부위에 대해 제한적임.",
+        "무작위 대조군이 없는 단일군 연구로 객관적 비교가 제한적임.",
+        "종양 크기 평가가 주로 캘리퍼 활용 측정에 의존, 영상기법을 통한 추가 검증 필요.",
+        "pseudoprogression 판단을 위한 체계적 기준 및 실시간 진단법 개발 필요.",
+        "림프종 환자에 대한 효과는 조사하지 않거나 제한적으로 보고되어 해당 종양에서의 활용 근거 부족."
+      ],
+      "recommended": true,
+      "recommendation_reason": "임상현장에서 자발성 melanoma 및 mast cell tumor 환자 개에서 gilvetmab의 단독 투여 효과 및 안전성이 최초로 대규모 임상시험을 통해 보고되어, 임상 진료에 참고할 만한 근거를 제시함. 특히 FDA의 승인을 통한 접근성 증대와 실제 치료 옵션 확대에 기여할 수 있어 유용하다.",
+      "id": "doi:10.1093/jvimsj/aalag098",
+      "discovered_at": "2026-09-17 05:57:10.388175+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13240851",
+      "summary_generated_at": "2026-11-28 04:53:12.418725+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
+      "title": "Acute kidney injury is associated with decreased platelet function in domestic cats.",
+      "journal": "Journal of Veterinary Internal Medicine",
+      "journal_id": "jvim",
+      "publication_date": "2026-05-04",
+      "online_publication_date": null,
+      "publication_date_raw": "2026-May-04",
+      "doi": "10.1093/jvimsj/aalag115",
+      "pmid": "42271636",
+      "pmcid": "PMC13252594",
+      "publisher_url": "https://doi.org/10.1093/jvimsj/aalag115",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42271636/",
+      "source": "pubmed",
+      "clinical_relevance": "direct",
+      "relevance_reason": "이 연구는 가정 고양이(AKI 진단받은 15마리)에서 혈소판 기능 이상을 평가하여 급성 신손상과 혈소판 기능 저하가 직접적으로 관련됨을 확인하였습니다. 따라서 임상적으로 AKI 고양이에서 침습적 처치 시 출혈 위험 고려가 필요함을 시사합니다.",
+      "primary_category": "internal_medicine",
+      "tags": [
+        "internal_medicine"
+      ],
+      "species": [
+        "cat"
+      ],
+      "disease_or_topic": "acute kidney injury and platelet function in cats",
+      "study_design": "prospective",
+      "sample_size": null,
+      "sample_size_quote": null,
+      "objective": "고양이 AKI 환자에서 PFA-200 Col/ADP와 Multiplate® ADP, Col, ASPI 분석법을 활용하여 혈소판 기능 변화 여부를 조사하는 것.",
+      "study_methods": "고양이 30마리(15 AKI, 15 건간), 입원 24시간 내 정맥에서 혈액 채취 후 CBC, 혈청 생화학 및 PFA-200 Col/ADP, Multiplate® ADP, Col, ASPI 검사 시행. AKI는 임상증상과 혈청 creatinine 상승, 소변 농축능 저하, 영상학적 소견으로 진단. 혈소판 기능과 AKI 상태 및 원인, 아조템ia 정도 관련성 평가. 혈액 채취 시 주요 약물 및 중증 빈혈, 혈소판 감소증 등 제외 조건 적용.",
+      "one_sentence_summary": "15마리 AKI 고양이와 15마리 정상 대조군 대상으로 혈소판 기능을 PFA-200 Col/ADP 및 Multiplate® ADP, Col, ASPI 검사로 평가했다. AKI 고양이는 대조군보다 PFA-200 폐쇄시간 중간값이 109초 대 56초로 유의하게 증가하였으며, Multiplate® ADP, Col, ASPI에서의 반응 면적(AUC)도 각각 62 vs 108, 60 vs 98, 22 vs 46으로 сниж. AKI 원인에 따른 차이는 PFA-200에서는 요관폐색군에서 유의하게 폐쇄시간이 더 길었으나 Multiplate® 결과 차이는 통계적 유의성 없었다.",
+      "key_results": [
+        {
+          "result": "AKI 고양이는 대조군 대비 PFA-200 Col/ADP 폐쇄시간 중앙값이 109초로 56초인 대조군보다 유의하게 길었다 (P = .001).",
+          "evidence_quote": "Cats with AKI had higher median PFA-200 Col/ADP closure time (CT) than control cats (109 s vs 56 s; P = .001)"
+        },
+        {
+          "result": "AKI 고양이는 Multiplate® 검사에서 ADP에 대해 62U, Col에 대해 60U, ASPI에 대해 22U로 대조군(각각 108U, 98U, 46U) 대비 유의하게 낮은 AUC를 보였다.",
+          "evidence_quote": "lower median MP area under curve (AUC) in response to ADP (62 vs 108; P = .002), Col (60 vs 98; P = .007), and ASPI (22 vs 46; P = .001)"
+        },
+        {
+          "result": "요관폐색을 원인으로 하는 AKI 고양이들은 PFA-200에서 폐쇄시간이 154초로 다른 원인 AKI 고양이 68초보다 유의하게 길었다 (P = .02), Multiplate® 결과에는 차이가 없었다.",
+          "evidence_quote": "No difference was found between cats with ureteral obstruction vs other causes of AKI in median MP ADP AUC (P = .78); MP ASPI AUC (P = .31), or MP Col AUC (P = .18), but obstructed cats had higher median PFA-200 CT (154 s vs 68 s; P = .02)."
+        },
+        {
+          "result": "AKI 고양이 내에서 혈청 creatinine, urea, phosphorus 농도와 소변 비중은 혈소판 기능 검사 결과와 상관관계가 없었다.",
+          "evidence_quote": "Among cats with AKI, no association was found between serum urea, creatinine, or phosphorus concentrations, or urine specific gravity, and any platelet parameter."
+        },
+        {
+          "result": "혈소판 수에 따른 혈소판 기능 검사 결과에서는 AKI군과 대조군 모두에서 유의한 연관성이 발견되지 않았다.",
+          "evidence_quote": "no association was found between MP ADP AUC (P = 0.40), MP ASPI AUC (P = 0.79), MP Col AUC (P = .05), or PFA-200 Col/ADP CT (P = .81) and platelet count"
+        },
+        {
+          "result": "AKI 고양이는 대조군 대비 중앙 혈구 용적과 혈소판 수 차이 없이 혈색소(Hct)가 유의하게 낮았다 (29% vs 36%, P = .01).",
+          "evidence_quote": "No difference was found in median platelet count (AKI, 249 × 109/L; range, 147 × 109/L-467 × 109/L; control, 323 × 109/L; range, 162 × 109/L-555 × 109/L; P = .06), mean platelet volume (AKI, 17.56 ± 2.9 fL; control, 15.53 ± 3.15 fL P = .08), or mean plateletcrit (AKI, 0.41+/−0.14%; control, 0.48+/−0.12%; P = .39) between groups. Median hematocrit was significantly lower in the AKI group (AKI median, 29%; range, 21%-44% vs control median, 36%; range, 30%-47%; P = .01)."
+        }
+      ],
+      "authors_conclusion": "급성 신손상 고양이에서 PFA-200 ADP/Col 및 Multiplate® ADP, Col, ASPI 검사에서 혈소판 기능 이상이 관찰되었으며, 특히 요관폐색으로 인한 AKI에서 PFA-200 검사상 더 심한 기능 저하가 있었다. 이 혈소판 기능 이상은 임상적 출혈 위험과 관련이 있을 수 있으나, 이에 대한 추가 연구가 필요하다.",
+      "clinical_takeaway": "AKI 진단을 받은 고양이들은 혈소판 기능 저하를 보인다는 사실이 이번 연구로 밝혀졌습니다. 특히 요관폐색이 원인일 경우에는 PFA-200 검사에서 더 심한 혈소판 기능 부전이 관찰되어 수술 전후 출혈 위험을 고려할 필요가 있습니다. 혈소판 수 자체는 영향 받지 않으나, 기능 저하 상태가 흔하며 이로 인해 침습적 시술이나 수술에서 출혈 합병증이 발생할 가능성이 있으니 주의해야 합니다. 따라서 AKI 고양이에서는 출혈 위험 평가를 강화하고, 사전 준비 및 모니터링을 철저히 하여 안전한 관리가 요구됩니다. 단, 혈소판 기능 저하가 실제 임상 출혈과 어떻게 연관되는지 구체적 위험도는 추가 연구가 필요해 모든 AKI 고양이에서 출혈 문제가 반드시 발생한다고 해석해서는 안 됩니다.",
+      "limitations": [
+        "소규모 표본(각 그룹 15마리)으로 아조템이 심도나 AKI 원인 별 혈소판 기능 차이를 확정하는 데 제한적임",
+        "혈색소 감소(빈혈)가 혈소판 기능 검사 결과에 영향을 미쳤을 가능성 있음",
+        "다양한 약물을 투여 받은 고양이가 포함되어 약물 효과를 완전히 배제하기 어려움",
+        "임상 출혈 발생 여부 및 중증도에 대한 데이터 미포함",
+        "단일 기관 연구로 결과 일반화에 제한있음",
+        "Multiplate®와 PFA-200 간 결과 차이가 있어 각 검사법의 민감도 및 특이성 차이에 대한 추가 연구 필요",
+        "혈소판 클럼핑으로 일부 샘플 제외되어 데이터 완전성 제한"
+      ],
+      "recommended": true,
+      "recommendation_reason": "직접 AKI 고양이 임상 사례를 대상으로 혈소판 기능 이상을 구체적 검사 결과와 함께 보고하여 임상적 출혈 위험 평가에 참고할 수 있는 유용한 증거를 제공함. 침습적 시술이나 수술 시 출혈 위험성을 고려하는 데 중요하며, 추가 연구가 필요하다는 점을 명확히 제시하여 임상 적용에 신중한 지침을 제공하기 때문임.",
+      "id": "doi:10.1093/jvimsj/aalag115",
+      "discovered_at": "2026-09-17 05:57:10.366524+00:00",
+      "evidence_source": "full_text",
+      "evidence_url": "https://europepmc.org/articles/PMC13252594",
+      "summary_generated_at": "2026-11-28 04:51:57.275526+00:00",
+      "analysis_model": "gpt-4.1-mini"
+    },
+    {
       "title": "Heart rate variability in dogs with brachycephalic obstructive airway syndrome evaluated during wakefulness and sleep.",
       "journal": "Journal of Veterinary Internal Medicine",
       "journal_id": "jvim",
@@ -10663,19 +11004,19 @@
     "sources": {
       "pubmed": {
         "status": "ok",
-        "received": 800
+        "received": 801
       },
       "europe_pmc": {
         "status": "ok",
-        "received": 595
+        "received": 601
       }
     },
-    "started_at": "2026-11-27T05:01:20.132028+00:00",
-    "since": "2026-10-13",
-    "processed": 4,
+    "started_at": "2026-11-28T04:43:57.071657+00:00",
+    "since": "2026-10-14",
+    "processed": 5,
     "refreshed": 0,
-    "failed": 14,
-    "deferred": 1368,
-    "finished_at": "2026-11-27T05:13:36.417775+00:00"
+    "failed": 15,
+    "deferred": 1367,
+    "finished_at": "2026-11-28T04:56:27.033072+00:00"
   }
 }
